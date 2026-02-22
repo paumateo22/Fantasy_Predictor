@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Imágenes y bases de datos generadas (opcional, pero recomendado)
+mercado/fuentes/capturas_raw/
+
+# Archivos del sistema
+.DS_Store

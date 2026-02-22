@@ -1,0 +1,4 @@
+Error en https://www.futbolfantasy.com/partidos/15700-rayo-celta: HTTPSConnectionPool(host='www.futbolfantasy.com', port=443): Max retries exceeded with url: /partidos/15700-rayo-celta (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017FEF997AD0>, 'Connection to www.futbolfantasy.com timed out. (connect timeout=None)'))
+Error en https://www.futbolfantasy.com/partidos/15883-atletico-celta: HTTPSConnectionPool(host='www.futbolfantasy.com', port=443): Max retries exceeded with url: /partidos/15883-atletico-celta (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017FEE7AB790>, 'Connection to www.futbolfantasy.com timed out. (connect timeout=None)'))
+ -> Scrapeando: rayo-real-oviedo
+     -> ❌ Partido no encontrado o no jugado (omitido)

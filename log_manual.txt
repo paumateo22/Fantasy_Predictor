@@ -1,0 +1,59 @@
+================================================================================================================================================
+[18/02/26]
+================================================================================================================================================
+1- Estoy con el scrapper de FutbolFantasy, he conseguido los datos de un partido ejemplo, 
+el de la jornada pasada Oviedo-Athletic y tengo un csv con todos los jugadores del partido y sus puntos.
+Mi inteción es obtener sus estadísticas por otra fuente y luego que en base a la rubrica de la liga y un modelo de predicción
+estimar los puntos DAZN y estimar los puntos en base a las estadísticas. Para luego poder entrenar un modelo que prediga estadísticas 
+y sus posibles puntos para seleccionar el mejor 11 posible.
+
+2- Mejor empezar poco a poco, he empzado descargando el codigo fuente del partido ejemplo, luego a descargar solo la clase jugadores, en este partido eran 45.
+Ahora estoy probando a guardarme datos solo de esta clase, por ahora, para simplificar, será su nombre y sus puntos en cada fantasy, aunque solo usaré el de la liga en principio.
+
+3- Pensandolo mejor, si necesito los demás será cambiar poca cosa, y al final son muchos más, voy a hacerlo solo con el fantasy la liga
+
+4- Por ahora he conseguido que para el partido ejemplo se me guarde un csv que tenga ID de partido(que nse si me será tan útil), la jornada y temporada, el jugador y sus puntos, también
+se sabe que equipo es el local y cual el visitante, pero no he podido relacionar a los jugadores con los equipos, lo haré cuando una el dataset con las estadísticas. Ahora voy a intentar
+hacerlo en función, le paso la url y me hace el scraping.
+
+5- Ya tengo función, le paso la jornada de inicio y la de final y me hace todo el flujo, primero pilla las url de cada partido de cada jornada y luego hace el scraping de los jugadores
+luego almacena todo en un csv, por ahora he probado con la actual temporada J1 hasta J24 y tengo ya 10680 jugadores, aunque la mitad tendrán puntuación 0. Es cierto que por ahora solo maneja
+en una misma temporada, pero lo dejo para otro dia el meterme en ver si consigo los datos de la temporada pasada y la anterior, que son todos los que lleva la liga fantasy oficial.
+
+================================================================================================================================================
+[19/02/26]
+================================================================================================================================================
+1- He adaptado cosas y mejorado la implementación, ahora tengo un main.py que llama al controlador. El controlador ahora recibe una lista con las temporadas y su jornada de inicio y fin y las excluidas.
+También he encontrado una forma de acceder a los html de temporadas pasadas, https://www.futbolfantasy.com/laliga/calendario es para la temporada actual, pero si se le añade /2026-27 tmb sirve para la presente temporada
+si pones 2025-26 te lleva a la temporada 2024-25 y así sigue. Por lo que ahora puedo acceder a todas las temporadas, además, en lugar de quedarme solo con los puntos he conseguido acceder a un body del html que tiene más
+información, puedo quedarme con datos como su equipo y sus puntos y el desglose de estos. Pero el desglose bueno con 2 regates -> 1 punto solo lo tiene la temporada actual, las pasadas lo dividen en puntos relevo y
+puntos estadísticos, por lo que almaceno los puntos y los puntos relevo, el resto de puntos se pueden sacar con las estadísticas.
+
+2- Tmb empiezo a manejar duplicados en el csv y partidos que no se hayan jugado.
+
+3- También puedo sacar la posición que se les da en el fantasy a cada jugador en ese partido en concreto
+
+================================================================================================================================================
+[20/02/26]
+================================================================================================================================================
+1- He hecho una variante del código, JaJ, que me sirva para los 11 fantásticos que hago yo en mi día a día cada
+joranda. En esta variante, el crawler siempre apunta a alineaciones-probables, que será la próxima jornada en jugarse
+de ahí pillo los 10 partidos (sus url) y con un scraper pillo información de sus entrenadores por un lado y de sus
+jugadores por otro, teninendo los mismos datos que antes pero ahora tmb algunos más, como racha de puntos, probabilidad
+de jugar, estado físico,... Lo almaceno en una carpeta datasets, tengo el script preparado para ejecutarlo cada jornada y
+que se guarden de forma ordenada, de esta forma tendré tmb un conjunto de datasets que tengan información del momento en el que
+se jugaron dichas jornadas, más contexto que igual me sirve para el entrenamiento de los modelos.
+
+2-He estado probando a obtener el mercado fantástico, he probado emuladores en el pc, video y lecutra de texto, lectura de texto por imagen. Lo mejor
+que he encontrado, que me detecte un 60% de jugadores, pero nse ni si los detecta bien.
+
+================================================================================================================================================
+[21/02/26]
+================================================================================================================================================
+1- Me he dado cuenta de que pilla mejor imagenes bien recortadas y acotadas, he hecho un script que haga eso por mi y estoy intentando conseguir
+un script que pille bien todo el mercado.
+
+================================================================================================================================================
+[20/02/26]
+================================================================================================================================================
+1-
