@@ -56,4 +56,8 @@ un script que pille bien todo el mercado.
 ================================================================================================================================================
 [20/02/26]
 ================================================================================================================================================
-1-
+1- He conseguido que funcione casi a la perfección el lector de imagenes, falla en algunos delanteros y con el Osasuna. Por ahora lo dejo así.
+2- He adaptado el JaJ para obtener los csv de jugador y entrenador para que ponga bien su equipo
+3- He empezado a trabajar en JaJ/cruzado_datos para unir lo que obtengo con el mercado en imagenes y lo que obtengo del scraping JaJ, 
+por ahora estoy añadiendo pasos a la relacion y creando un diccionario de relaciones, pero hace falta pulirlo, lo siguiente sería contrastarlo
+con el csv tocho.

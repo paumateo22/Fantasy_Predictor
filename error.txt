@@ -2,3 +2,18 @@ Error en https://www.futbolfantasy.com/partidos/15700-rayo-celta: HTTPSConnectio
 Error en https://www.futbolfantasy.com/partidos/15883-atletico-celta: HTTPSConnectionPool(host='www.futbolfantasy.com', port=443): Max retries exceeded with url: /partidos/15883-atletico-celta (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017FEE7AB790>, 'Connection to www.futbolfantasy.com timed out. (connect timeout=None)'))
  -> Scrapeando: rayo-real-oviedo
      -> ❌ Partido no encontrado o no jugado (omitido)
+
+
+
+Hay que arreglar el desconocido en el extractor de mercado, no detecta osasuna
+Hay que mejorar el detector de posiciones en el extractor de mercado varios delantero los marca como porteros
+
+
+
+R. Mendoza elche no, atm
+ter stegen barcelona no, gir
+akhomach villarreal no, ray
+carlos martin atletico no, ray
+sadiq real no, val
+ayoze girona no, vill
+alfon villarreal no, sev

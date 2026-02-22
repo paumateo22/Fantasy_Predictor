@@ -6,8 +6,5 @@ env/
 __pycache__/
 *.pyc
 
-# Imágenes y bases de datos generadas (opcional, pero recomendado)
-mercado/fuentes/capturas_raw/
-
 # Archivos del sistema
 .DS_Store
