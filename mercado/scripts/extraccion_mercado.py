@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 import easyocr
 import os
 import re
@@ -24,7 +25,6 @@ MAPEO_ALIAS_EQUIPOS = {
     "cd leganés": "Leganés"
 }
 
-# Diccionario ampliado con los errores típicos del OCR (O en vez de D, 0 en vez de O...)
 MAPEO_POSICIONES = {
     'POR': 'Portero', 'P0R': 'Portero', 'PQR': 'Portero',
     'DEF': 'Defensa', '0EF': 'Defensa', 'OEF': 'Defensa',
@@ -35,11 +35,58 @@ MAPEO_POSICIONES = {
 EQUIPOS_MINUSCULA = [e.lower() for e in EQUIPOS_ESTANDAR]
 
 # --- 2. FUNCIONES AUXILIARES ---
+
+def obtener_posicion_por_color(tira_bgr):
+    """
+    Detecta la posición usando rangos ultra-específicos para evitar la zona de degradado
+    entre portero y delantero.
+    """
+    # 🛡️ FILTRO ANTI-ESCUDOS: Ignoramos los primeros 150px
+    zona_limpia = tira_bgr[:, 150:]
+    hsv = cv2.cvtColor(zona_limpia, cv2.COLOR_BGR2HSV)
+
+    # --- RANGOS AJUSTADOS (Corazón del color) ---
+    
+    # Portero (Naranja intenso): Estrechamos para no tocar el amarillo
+    lower_por = np.array([5, 150, 150]);  upper_por = np.array([15, 255, 255])
+    
+    # Delantero (Amarillo/Dorado): Subimos el inicio del tono para alejarnos del naranja
+    lower_del = np.array([22, 130, 130]); upper_del = np.array([35, 255, 255])
+    
+    # Mediocampista (Azul): Se mantiene igual por ser muy distinto
+    lower_med = np.array([90, 100, 100]); upper_med = np.array([125, 255, 255])
+    
+    # Defensa (Morado/Rosa): Se mantiene igual
+    lower_def = np.array([135, 80, 80]);  upper_def = np.array([165, 255, 255])
+
+    # Conteo de píxeles
+    pix_por = cv2.countNonZero(cv2.inRange(hsv, lower_por, upper_por))
+    pix_del = cv2.countNonZero(cv2.inRange(hsv, lower_del, upper_del))
+    pix_med = cv2.countNonZero(cv2.inRange(hsv, lower_med, upper_med))
+    pix_def = cv2.countNonZero(cv2.inRange(hsv, lower_def, upper_def))
+
+    resultados = {
+        'Portero': pix_por,
+        'Delantero': pix_del,
+        'Mediocampista': pix_med,
+        'Defensa': pix_def
+    }
+
+    ganador = max(resultados, key=resultados.get)
+    
+    # 🚨 UMBRAL DE SEGURIDAD: 
+    # Si el ganador tiene muy pocos píxeles, es que estamos en el degradado
+    # o es un escudo. Devolvemos Desconocido para que mande el OCR (DEL, POR, etc.)
+    if resultados[ganador] < 40:
+        return 'Desconocido'
+        
+    return ganador
+
 def corregir_equipo(texto_ocr):
     texto_lower = texto_ocr.lower()
     for alias, nombre_real in MAPEO_ALIAS_EQUIPOS.items():
         if alias in texto_lower: return nombre_real
-    coincidencias = difflib.get_close_matches(texto_ocr, EQUIPOS_ESTANDAR, n=1, cutoff=0.5)
+    coincidencias = difflib.get_close_matches(texto_ocr, EQUIPOS_ESTANDAR, n=1, cutoff=0.75)
     return coincidencias[0] if coincidencias else None
 
 def limpiar_precio(texto):
@@ -47,184 +94,154 @@ def limpiar_precio(texto):
     match = re.search(r'(\d{5,})', limpio)
     if match:
         num = int(match.group(1))
-        if num >= 100000:
-            return num / 1000000
+        if num >= 100000: return num / 1000000
     return None
 
 def aplicar_filtro_cascada(tira, intento):
-    """3 filtros diferentes para asegurar que lee nombres blancos y puntos de colores"""
     grises = cv2.cvtColor(tira, cv2.COLOR_BGR2GRAY)
     ampliada = cv2.resize(grises, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
-    
     if intento == 1:
-        # Intento 1: Blanco puro (Perfecto para Nombres y Precios)
-        _, mascara = cv2.threshold(ampliada, 180, 255, cv2.THRESH_BINARY_INV)
-        return mascara
+        _, m = cv2.threshold(ampliada, 180, 255, cv2.THRESH_BINARY_INV)
+        return m
     elif intento == 2:
-        # Intento 2: Contraste suave (Rescata colores grises/verdes de los puntos)
-        return cv2.convertScaleAbs(ampliada, alpha=1.3, beta=0)
-    else:
-        # Intento 3: Binarización adaptativa (Por si hay sombras en el fondo)
-        return cv2.adaptiveThreshold(ampliada, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
+        _, m = cv2.threshold(ampliada, 240, 255, cv2.THRESH_BINARY_INV)
+        return m
+    return cv2.convertScaleAbs(ampliada, alpha=1.3, beta=0)
 
-def extraer_datos_jugador(textos_validos):
-    jugador = {'Nombre': None, 'Precio_Fantastica': None, 'Equipo': 'Desconocido', 'Posicion': 'Desconocido', 'Puntos_PFSY': None}
+def extraer_datos_divididos(textos_izq, textos_der):
+    # Inicializamos con None para la consolidación inteligente
+    jugador = {'Nombre': None, 'Precio_Fantastica': None, 'Equipo': 'Desconocido', 'Posicion': 'Delantero', 'Puntos_PFSY': None}
+    ignorar = ["laliga", "buscar", "favoritos", "equipo", "posición", "nombre", "fantásti", "fantasti", "revolut", "dazn", "viaje", "prsy", "ptsy", "pts", "pfsy"]
     
-    # Lista de palabras basura ampliada para evitar falsos positivos
-    ignorar = ["laliga", "buscar", "favoritos", "equipo", "posición", "nombre", 
-               "fantásti", "fantasti", "revolut", "dazn", "viaje", "prsy", "ptsy", "pts", "pfsy"]
-    
-    posibles_nombres = []
-
-    for texto in textos_validos:
-        texto_lower = texto.lower().strip()
-        if any(ign == texto_lower for ign in ignorar) or len(texto_lower) < 2: continue
-            
-        # Puntos
-        match_pfsy = re.search(r'p[ef][s\$]y\s*(-?\s*\d+)', texto_lower)
+    # --- DERECHA (Puntos y Precio) ---
+    for texto in textos_der:
+        texto_low = texto.lower().strip()
+        if any(ign == texto_low for ign in ignorar) or len(texto_low) < 1: continue
+        
+        match_pfsy = re.search(r'[pef][fs\$]y\s*(-?\d+)', texto_low)
         if match_pfsy:
-            jugador['Puntos_PFSY'] = int(match_pfsy.group(1).replace(' ', ''))
+            jugador['Puntos_PFSY'] = int(match_pfsy.group(1))
             continue
             
-        # Precio
         precio = limpiar_precio(texto)
-        if precio is not None: 
+        if precio is not None:
             jugador['Precio_Fantastica'] = precio
             continue
-            
-        # Posición
-        texto_upper = texto_lower.upper()
-        if texto_upper in MAPEO_POSICIONES:
-            jugador['Posicion'] = MAPEO_POSICIONES[texto_upper]
-            continue
-            
-        # Equipo: Solo lo guarda si no tenía equipo ya (evita pillar al equipo rival)
-        equipo_corregido = corregir_equipo(texto)
-        if equipo_corregido and jugador['Equipo'] == 'Desconocido':
-            jugador['Equipo'] = equipo_corregido
-            continue
-            
-        # Nombre: Blindaje estricto
-        if not texto.isdigit() and "pfsy" not in texto_lower and not any(eq in texto_lower for eq in EQUIPOS_MINUSCULA):
-            limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', texto).strip()
-            if len(limpio) >= 2: # Permitimos 2 letras para pillar iniciales como "A."
-                posibles_nombres.append(limpio)
 
-    # UNIMOS EL NOMBRE: En lugar de coger el más largo, concatenamos en orden para pillar "A. Abqar"
+        solo_num = texto_low.replace('.', '').replace(',', '').replace(' ', '')
+        if solo_num.lstrip('-').isdigit():
+            val = int(solo_num)
+            if -20 < val < 300: jugador['Puntos_PFSY'] = val
+
+    # --- IZQUIERDA (Nombre, Equipo, Posición) ---
+    posibles_nombres = []
+    for texto in textos_izq:
+        texto_low = texto.lower().strip()
+        if any(ign == texto_low for ign in ignorar) or len(texto_low) < 1: continue
+        
+        if texto_low.upper() in MAPEO_POSICIONES:
+            jugador['Posicion'] = MAPEO_POSICIONES[texto_low.upper()]
+            continue
+            
+        equipo = corregir_equipo(texto)
+        if equipo and jugador['Equipo'] == 'Desconocido':
+            jugador['Equipo'] = equipo
+            continue
+            
+        if not texto.isdigit() and not any(eq in texto_low for eq in EQUIPOS_MINUSCULA):
+            limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', texto).strip()
+            if len(limpio) >= 1: posibles_nombres.append(limpio)
+
     if posibles_nombres:
         nombres_unicos = []
         for n in posibles_nombres:
-            if n not in nombres_unicos:
-                nombres_unicos.append(n)
+            if n not in nombres_unicos: nombres_unicos.append(n)
         jugador['Nombre'] = " ".join(nombres_unicos)
 
-    # Filtro final de limpieza: Si el nombre resultante es muy corto y no es una inicial, lo descarta
     if jugador['Nombre'] and len(jugador['Nombre']) < 3 and "." not in jugador['Nombre']:
         jugador['Nombre'] = None
 
-    if jugador['Nombre']:
-        return jugador
-    return None
+    return jugador if jugador['Nombre'] else None
 
-# --- 3. FUNCIÓN PRINCIPAL EXPORTABLE ---
+# --- 3. FUNCIÓN PRINCIPAL ---
 def extraer_mercado_jornada(temporada, jornada):
     directorio_scripts = os.path.dirname(os.path.abspath(__file__))
     carpeta_raiz = os.path.dirname(directorio_scripts) 
-    carpeta_procesadas = os.path.join(carpeta_raiz, "fuentes", "capturas_pro", temporada, jornada)
+    carpeta_pro = os.path.join(carpeta_raiz, "fuentes", "capturas_pro", temporada, jornada)
     
-    if not os.path.exists(carpeta_procesadas):
-        print(f"❌ Error: No se encontró la carpeta {carpeta_procesadas}")
-        return None
-
-    rutas_imagenes = glob.glob(os.path.join(carpeta_procesadas, "*.[jp][pn]g"))
-    if not rutas_imagenes:
-        print(f"⚠️ La carpeta {carpeta_procesadas} existe pero está vacía.")
-        return []
-
-    print(f"\n🤖 Iniciando Motor OCR (T: {temporada} | J: {jornada})...")
+    if not os.path.exists(carpeta_pro): return None
+    rutas = glob.glob(os.path.join(carpeta_pro, "*.[jp][pn]g"))
+    
     lector = easyocr.Reader(['es'], gpu=True) 
     base_datos_mercado = {}
     
-    print(f"📸 Procesando {len(rutas_imagenes)} capturas...\n")
-    
-    for i, ruta in enumerate(rutas_imagenes, 1):
+    for i, ruta in enumerate(rutas, 1):
         nombre_archivo = os.path.basename(ruta)
-        frame_original = cv2.imread(ruta)
-        if frame_original is None: continue
+        frame = cv2.imread(ruta)
+        if frame is None: continue
         
-        alto_total = frame_original.shape[0]
-        alto_tira = alto_total // 7 
+        alto, ancho = frame.shape[:2]
+        corte_x = int(ancho * 0.66)
         
-        # MARGEN DE SOLAPAMIENTO para que no corte cabezas/nombres
-        margen = 25 
+        mask = cv2.inRange(frame, np.array([20, 8, 8]), np.array([39, 27, 27]))
+        filas = np.where(np.sum(mask == 255, axis=1) > ancho * 0.60)[0]
         
-        print(f"\n--- [{i}/{len(rutas_imagenes)}] Leyendo: {nombre_archivo} ---")
-        
-        nuevos_en_foto = 0
+        cortes_y = [0]
+        if len(filas) > 0:
+            curr = filas[0]
+            for y in filas[1:]:
+                if y - curr > 30: cortes_y.append(curr)
+                curr = y
+            cortes_y.append(curr)
+        cortes_y.append(alto)
+
+        usar_lineas = len(cortes_y) == 8
+        print(f"\n--- [{i}/{len(rutas)}] {nombre_archivo} ---")
         
         for j in range(7):
-            y1 = max(0, j * alto_tira - margen)
-            y2 = min(alto_total, (j + 1) * alto_tira + margen)
-            tira = frame_original[y1:y2, :]
+            y1 = max(0, cortes_y[j] - 5) if usar_lineas else max(0, j*(alto//7)-25)
+            y2 = min(alto, cortes_y[j+1] + 2) if usar_lineas else min(alto, (j+1)*(alto//7)+25)
             
-            jugador_consolidado = None
+            tira = frame[y1:y2, :]
+            t_izq, t_der = tira[:, :corte_x], tira[:, corte_x:]
+            pos_color = obtener_posicion_por_color(t_izq)
             
+            jugador_cons = None
             for intento in range(1, 4):
-                tira_filtrada = aplicar_filtro_cascada(tira, intento)
-                resultados = lector.readtext(tira_filtrada)
-                textos_validos = [texto for (_, texto, conf) in resultados if conf > 0.2] 
+                res_izq = lector.readtext(aplicar_filtro_cascada(t_izq, intento))
+                res_der = lector.readtext(aplicar_filtro_cascada(t_der, intento))
+                txt_izq = [t for (_, t, c) in res_izq if c > 0.2] 
+                txt_der = [t for (_, t, c) in res_der if c > 0.2] 
                 
-                jugador_intento = extraer_datos_jugador(textos_validos)
+                print(f"      [RAYOS X - F{j+1} Int{intento}] IZQ: {txt_izq} | DER: {txt_der}")
                 
-                if jugador_intento:
-                    if jugador_consolidado is None:
-                        jugador_consolidado = jugador_intento
+                intent = extraer_datos_divididos(txt_izq, txt_der)
+                if intent:
+                    if pos_color != 'Desconocido': intent['Posicion'] = pos_color
+                    
+                    if jugador_cons is None:
+                        jugador_cons = intent
                     else:
-                        # Rellenamos huecos si el nuevo filtro ha visto cosas nuevas
-                        if not jugador_consolidado['Precio_Fantastica'] and jugador_intento['Precio_Fantastica']:
-                            jugador_consolidado['Precio_Fantastica'] = jugador_intento['Precio_Fantastica']
-                        if jugador_consolidado['Puntos_PFSY'] is None and jugador_intento['Puntos_PFSY'] is not None:
-                            jugador_consolidado['Puntos_PFSY'] = jugador_intento['Puntos_PFSY']
-                    
-                    if jugador_consolidado['Precio_Fantastica'] and jugador_consolidado['Puntos_PFSY'] is not None:
-                        break 
-                    
-            if jugador_consolidado:
-                nombre = jugador_consolidado['Nombre']
-                pts = jugador_consolidado['Puntos_PFSY'] if jugador_consolidado['Puntos_PFSY'] is not None else 0
-                
-                clave_unica = f"{nombre}_{jugador_consolidado['Equipo']}_{jugador_consolidado['Posicion']}_{pts}"
-                
-                precio_str = f"{jugador_consolidado['Precio_Fantastica']}M" if jugador_consolidado['Precio_Fantastica'] else "N/A"
-                print(f"  🔍 {nombre:<15} | {jugador_consolidado['Equipo']:<12} | {jugador_consolidado['Posicion']:<13} | {precio_str:<6} | {pts} pts")
-                
-                jugador_consolidado['Puntos_PFSY'] = pts
-                
-                if clave_unica not in base_datos_mercado:
-                    nuevos_en_foto += 1
-                base_datos_mercado[clave_unica] = jugador_consolidado
-                
-        print(f"  => Resumen: {nuevos_en_foto} jugadores nuevos guardados.")
+                        # Consolidación por None (respeta el 0)
+                        if jugador_cons['Precio_Fantastica'] is None: 
+                            jugador_cons['Precio_Fantastica'] = intent['Precio_Fantastica']
+                        if jugador_cons['Puntos_PFSY'] is None: 
+                            jugador_cons['Puntos_PFSY'] = intent['Puntos_PFSY']
+                        if jugador_cons['Posicion'] == 'Delantero' and intent['Posicion'] != 'Delantero':
+                            jugador_cons['Posicion'] = intent['Posicion']
 
-    print("\n✅ Procesamiento de lote finalizado.")
-    
-    datos_finales = list(base_datos_mercado.values())
-    
-    if datos_finales:
-        df = pd.DataFrame(datos_finales)
-        df = df.sort_values(by='Nombre', ascending=True)
-        nombre_csv = f"mercado_{temporada.replace('-', '_')}_{jornada}.csv"
-        archivo_salida = os.path.join(carpeta_raiz, nombre_csv)
-        df.to_csv(archivo_salida, index=False, encoding='utf-8')
-        
-        print(f"\n🏆 --- DATASET FINAL: {len(datos_finales)} JUGADORES --- 🏆")
-        print(f"💾 Guardado en orden alfabético en: {archivo_salida}")
-    else:
-        print("\n⚠️ Finalizado, pero no se extrajo ningún dato válido.")
+                    if jugador_cons['Precio_Fantastica'] is not None and jugador_cons['Puntos_PFSY'] is not None: 
+                        break
 
-    return datos_finales
+            if jugador_cons:
+                clave = f"{jugador_cons['Nombre']}_{jugador_cons['Equipo']}_{jugador_cons['Posicion']}_{jugador_cons['Puntos_PFSY']}"
+                if clave not in base_datos_mercado:
+                    base_datos_mercado[clave] = jugador_cons
+                print(f"  🔍 {jugador_cons['Nombre']:<15} | {jugador_cons['Equipo']:<12} | {jugador_cons['Posicion']:<13} | {jugador_cons['Precio_Fantastica']}M | {jugador_cons['Puntos_PFSY']} pts")
+
+    df = pd.DataFrame(list(base_datos_mercado.values()))
+    df.sort_values(by='Nombre').to_csv(os.path.join(carpeta_raiz, f"mercado_{temporada}_{jornada}.csv"), index=False)
+    print(f"\n✅ Finalizado. Dataset: {len(df)} jugadores.")
 
 if __name__ == "__main__":
-    TEMP = "T25-26" 
-    JORN = "J25"
-    extraer_mercado_jornada(TEMP, JORN)
+    extraer_mercado_jornada("T25-26", "J25")
