@@ -49,6 +49,8 @@ MAPEO_POSICIONES = {
     'DEL': 'Delantero', '0EL': 'Delantero', 'OEL': 'Delantero'
 }
 
+BASURA_NOMBRES = ["club", "clup", "real", "deportivo", "sociedad", "unión", "deportiva", "cf", "ud", "rcd", "sd", "hcd", "espanyor", "ae", "puk"]
+
 EQUIPOS_MINUSCULA = [e.lower() for e in EQUIPOS_ESTANDAR]
 
 # --- 2. FUNCIONES AUXILIARES ---
@@ -62,12 +64,9 @@ def obtener_posicion_por_color(tira_bgr):
     hsv = cv2.cvtColor(zona_limpia, cv2.COLOR_BGR2HSV)
 
     # 1. Rangos ultra-ajustados
-    # Portero (Naranja puro): Hue 5-13
-    lower_por = np.array([5, 160, 160]);  upper_por = np.array([13, 255, 255])
-    # Delantero (Amarillo/Dorado): Hue 22-38
-    lower_del = np.array([22, 120, 120]); upper_del = np.array([38, 255, 255])
-    
-    lower_med = np.array([90, 100, 100]); upper_med = np.array([125, 255, 255])
+    lower_por = np.array([5, 160, 160]);  upper_por = np.array([14, 255, 255])
+    lower_del = np.array([21, 130, 130]); upper_del = np.array([39, 255, 255])
+    lower_med = np.array([95, 100, 100]); upper_med = np.array([125, 255, 255])
     lower_def = np.array([135, 80, 80]);  upper_def = np.array([165, 255, 255])
 
     # 2. Conteo de píxeles
@@ -144,7 +143,7 @@ def extraer_datos_divididos(textos_izq, textos_der):
     ignorar = ["laliga", "buscar", "favoritos", "equipo", "posición", "nombre", "fantásti", "fantasti", "revolut", "dazn", "viaje", "prsy", "ptsy", "pts", "pfsy"]
     fragmentos_posicion = ["D", "DE", "DF", "C", "CE", "CN", "M", "ME", "P", "PO", "PR", "L", "POR", "DEF", "CEN", "DEL"]
 
-    # --- 1. PROCESAR DERECHA (Igual) ---
+    # --- 1. PROCESAR DERECHA (Puntos y Precio) ---
     puntos_confirmados = False
     for texto in textos_der:
         texto_low = texto.lower().strip()
@@ -159,44 +158,42 @@ def extraer_datos_divididos(textos_izq, textos_der):
             val = int(solo_num)
             if -20 < val < 300: jugador['Puntos_PFSY'] = val
 
-    # --- 2. EL "TORNEO" DE EQUIPOS (Izquierda) ---
-    mejor_score = 0.0
-    ganador_equipo = "Desconocido"
-    indice_ganador = -1
+    # --- 2. TORNEO EQUIPOS ---
+    mejor_s = 0.0
+    ganador_e, idx_e = "Desconocido", -1
+    for i, t in enumerate(textos_izq):
+        eq, s = corregir_equipo_con_puntuacion(t)
+        if s > mejor_s and s > 0.65: mejor_s = s; ganador_e = eq; idx_e = i
+    jugador['Equipo'] = ganador_e
 
-    for i, texto in enumerate(textos_izq):
-        equipo, score = corregir_equipo_con_puntuacion(texto)
-        # Si esta palabra se parece más a un club que las anteriores...
-        if score > mejor_score and score > 0.65: # Umbral mínimo de confianza
-            mejor_score = score
-            ganador_equipo = equipo
-            indice_ganador = i
-
-    jugador['Equipo'] = ganador_equipo
-
-    # --- 3. CONSTRUIR EL NOMBRE (Usando lo que no es equipo ni posición) ---
-    posibles_nombres = []
-    for i, texto in enumerate(textos_izq):
-        # Si fue la palabra que ganó como equipo, la saltamos
-        if i == indice_ganador: continue
+    # --- 3. NOMBRE ---
+    nombres_finales = []
+    for i, t in enumerate(textos_izq):
+        if i == idx_e: continue
+        t_up, t_low = t.upper().strip(), t.lower().strip()
         
-        texto_up = texto.upper().strip()
-        texto_low = texto.lower().strip()
+        # Filtros previos
+        if any(ign in t_low for ign in ignorar) or len(t_low) < 1: continue
+        if t_up in MAPEO_POSICIONES: jugador['Posicion'] = MAPEO_POSICIONES[t_up]; continue
+        if any(basura in t_low for basura in BASURA_NOMBRES): continue
+
+        # 🚨 REGLA DE LAS INICIALES (I. y O.)
+        # Solo transformamos si encontramos "1." o "0." (el punto es obligatorio)
+        # Esto permite casos como "I. Benito" o "Pathe I. Ciss" y evita "1" aleatorios.
+        t_fix = re.sub(r'\b1\.', 'I.', t)
+        t_fix = re.sub(r'\b0\.', 'O.', t_fix)
         
-        if any(ign in texto_low for ign in ignorar) or len(texto_low) < 1: continue
-        if texto_up in MAPEO_POSICIONES:
-            jugador['Posicion'] = MAPEO_POSICIONES[texto_up]; continue
-        if texto_up in fragmentos_posicion: continue
+        # Limpieza: Eliminamos cualquier número que haya quedado suelto (como dorsales)
+        # y mantenemos solo letras, espacios, puntos y guiones.
+        limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', t_fix).strip()
+        
+        if len(limpio) >= 1: 
+            nombres_finales.append(limpio)
 
-        # Es parte del nombre
-        texto_para_nombre = texto.replace('0.', 'O.').replace('0 ', 'O ')
-        if not texto_para_nombre[0].isdigit():
-            limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', texto_para_nombre).strip()
-            if len(limpio) >= 1: posibles_nombres.append(limpio)
-
-    if posibles_nombres:
-        jugador['Nombre'] = " ".join(posibles_nombres).strip()
-        jugador['Nombre'] = re.sub(r'\s+[A-Z]$', '', jugador['Nombre'])
+    if nombres_finales:
+        nombre_str = " ".join(nombres_finales).strip()
+        # Limpiamos posibles puntos huérfanos al principio por errores de lectura
+        jugador['Nombre'] = re.sub(r'^\. ', '', nombre_str).strip()
 
     return jugador if jugador['Nombre'] else None
 
@@ -219,10 +216,9 @@ def aplicar_filtro_cascada(tira, intento):
 
 # --- 3. FUNCIÓN PRINCIPAL ---
 def extraer_mercado_jornada(temporada, jornada):
-    directorio_scripts = os.path.dirname(os.path.abspath(__file__))
-    carpeta_raiz = os.path.dirname(directorio_scripts) 
-    carpeta_pro = os.path.join(carpeta_raiz, "fuentes", "capturas_pro", temporada, jornada)
-    
+    directorio_raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    carpeta_pro = os.path.join(directorio_raiz, "fuentes", "capturas_pro", temporada, jornada)
+
     if not os.path.exists(carpeta_pro):
         print(f"❌ Carpeta no encontrada: {carpeta_pro}")
         return
@@ -266,7 +262,7 @@ def extraer_mercado_jornada(temporada, jornada):
                 res_der = lector.readtext(aplicar_filtro_cascada(t_der, intento))
                 txt_izq = [t for (_, t, c) in res_izq if c > 0.2]
                 txt_der = [t for (_, t, c) in res_der if c > 0.2] 
-                1
+                
                 # 🚀 AQUÍ TIENES TUS RAYOS X VOLVIENDO A LA VIDA
                 print(f"      [RAYOS X - F{j+1} Int{intento}] IZQ: {txt_izq} | DER: {txt_der}")
                 
@@ -290,10 +286,8 @@ def extraer_mercado_jornada(temporada, jornada):
                     print(f"  🔍 {jugador_cons['Nombre']:<15} | {jugador_cons['Equipo']:<12} | {jugador_cons['Posicion']:<13} | {jugador_cons['Precio_Fantastica']}M | {jugador_cons['Puntos_PFSY']} Puntos")
 
     df = pd.DataFrame(list(base_datos_mercado.values()))
-    ruta_guardado = os.path.join(carpeta_raiz, "datasets", "JaJ", temporada, jornada)
-    os.makedirs(ruta_guardado, exist_ok=True)
-    df.sort_values(by='Nombre').to_csv(os.path.join(ruta_guardado, "mercado.csv"), index=False)
-    print(f"\n✅ Finalizado. Dataset: {len(df)} jugadores.")
+    ruta_csv = os.path.join(directorio_raiz, "datasets", "JaJ", temporada, jornada, "mercado.csv")
+    os.makedirs(os.path.dirname(ruta_csv), exist_ok=True)
+    df.sort_values(by='Nombre').to_csv(ruta_csv, index=False)
+    print(f"\n✅ Archivo guardado en: {ruta_csv}")
 
-if __name__ == "__main__":
-    extraer_mercado_jornada("T25-26", "J25")
