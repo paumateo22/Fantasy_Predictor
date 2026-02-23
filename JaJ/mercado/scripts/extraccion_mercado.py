@@ -4,6 +4,7 @@ import easyocr
 import os
 import re
 import difflib
+import unicodedata
 import pandas as pd
 import glob
 
@@ -16,13 +17,29 @@ EQUIPOS_ESTANDAR = [
 ]
 
 MAPEO_ALIAS_EQUIPOS = {
-    "fc barcelona": "Barcelona", "atlético de madrid": "Atlético", 
-    "athletic club": "Athletic", "real betis": "Betis", "rayo vallecano": "Rayo", 
-    "celta de vigo": "Celta", "rcd espanyol": "Espanyol", "real valladolid": "Valladolid",
-    "deportivo alavés": "Alavés", "ca osasuna": "Osasuna", "rcd mallorca": "Mallorca", 
-    "valencia cf": "Valencia", "villarreal cf": "Villarreal", "getafe cf": "Getafe",
-    "girona fc": "Girona", "sevilla fc": "Sevilla", "ud las palmas": "Las Palmas", 
-    "cd leganés": "Leganés"
+    "fc barcelona": "Barcelona", "barca": "Barcelona",
+    "atletico de madrid": "Atlético", "atletico": "Atlético", "atleti": "Atlético", "at madrid": "Atlético",
+    "athletic club": "Athletic", "athletic": "Athletic",
+    "real betis": "Betis", "betis": "Betis",
+    "rayo vallecano": "Rayo", "rayo": "Rayo",
+    "celta de vigo": "Celta", "celta": "Celta",
+    "rcd espanyol": "Espanyol", "espanyol": "Espanyol",
+    "real valladolid": "Valladolid", "valladolid": "Valladolid",
+    "deportivo alaves": "Alavés", "alaves": "Alavés",
+    "ca osasuna": "Osasuna", "osasuna": "Osasuna",
+    "rcd mallorca": "Mallorca", "mallorca": "Mallorca",
+    "valencia cf": "Valencia", "valencia": "Valencia",
+    "villarreal cf": "Villarreal", "villarreal": "Villarreal",
+    "getafe cf": "Getafe", "getafe": "Getafe",
+    "girona fc": "Girona", "girona": "Girona",
+    "sevilla fc": "Sevilla", "sevilla": "Sevilla",
+    "ud las palmas": "Las Palmas", "las palmas": "Las Palmas",
+    "cd leganes": "Leganés", "leganes": "Leganés",
+    "levante ud": "Levante", "levante": "Levante",
+    "real oviedo": "Real Oviedo", "oviedo": "Real Oviedo",
+    "espanyol de b": "Espanyol", "espanyol": "Espanyol",
+    "atletico de madrid": "Atlético", "atletico": "Atlético",
+    "villarreal cf": "Villarreal", "villarreal": "Villarreal"
 }
 
 MAPEO_POSICIONES = {
@@ -38,56 +55,150 @@ EQUIPOS_MINUSCULA = [e.lower() for e in EQUIPOS_ESTANDAR]
 
 def obtener_posicion_por_color(tira_bgr):
     """
-    Detecta la posición usando rangos ultra-específicos para evitar la zona de degradado
-    entre portero y delantero.
+    Detecta la posición con ventaja para delanteros y penalización para porteros
+    para evitar errores por saturación de color.
     """
-    # 🛡️ FILTRO ANTI-ESCUDOS: Ignoramos los primeros 150px
     zona_limpia = tira_bgr[:, 150:]
     hsv = cv2.cvtColor(zona_limpia, cv2.COLOR_BGR2HSV)
 
-    # --- RANGOS AJUSTADOS (Corazón del color) ---
+    # 1. Rangos ultra-ajustados
+    # Portero (Naranja puro): Hue 5-13
+    lower_por = np.array([5, 160, 160]);  upper_por = np.array([13, 255, 255])
+    # Delantero (Amarillo/Dorado): Hue 22-38
+    lower_del = np.array([22, 120, 120]); upper_del = np.array([38, 255, 255])
     
-    # Portero (Naranja intenso): Estrechamos para no tocar el amarillo
-    lower_por = np.array([5, 150, 150]);  upper_por = np.array([15, 255, 255])
-    
-    # Delantero (Amarillo/Dorado): Subimos el inicio del tono para alejarnos del naranja
-    lower_del = np.array([22, 130, 130]); upper_del = np.array([35, 255, 255])
-    
-    # Mediocampista (Azul): Se mantiene igual por ser muy distinto
     lower_med = np.array([90, 100, 100]); upper_med = np.array([125, 255, 255])
-    
-    # Defensa (Morado/Rosa): Se mantiene igual
     lower_def = np.array([135, 80, 80]);  upper_def = np.array([165, 255, 255])
 
-    # Conteo de píxeles
+    # 2. Conteo de píxeles
     pix_por = cv2.countNonZero(cv2.inRange(hsv, lower_por, upper_por))
     pix_del = cv2.countNonZero(cv2.inRange(hsv, lower_del, upper_del))
     pix_med = cv2.countNonZero(cv2.inRange(hsv, lower_med, upper_med))
     pix_def = cv2.countNonZero(cv2.inRange(hsv, lower_def, upper_def))
 
-    resultados = {
+    # 3. APLICAR VENTAJAS (BIAS)
+    # Le damos un 50% de valor extra a los píxeles amarillos
+    pix_del_ponderado = pix_del * 1.5
+    
+    res = {
         'Portero': pix_por,
-        'Delantero': pix_del,
+        'Delantero': pix_del_ponderado,
         'Mediocampista': pix_med,
         'Defensa': pix_def
     }
 
-    ganador = max(resultados, key=resultados.get)
+    ganador = max(res, key=res.get)
     
-    # 🚨 UMBRAL DE SEGURIDAD: 
-    # Si el ganador tiene muy pocos píxeles, es que estamos en el degradado
-    # o es un escudo. Devolvemos Desconocido para que mande el OCR (DEL, POR, etc.)
-    if resultados[ganador] < 40:
+    # 4. REGLAS DE DESEMPATE INTELIGENTES
+    # Regla A: Si el ganador es Portero pero el Delantero tiene una cantidad similar de píxeles,
+    # elegimos Delantero por probabilidad estadística.
+    if ganador == 'Portero':
+        # Solo aceptamos Portero si tiene el doble de píxeles que el Delantero
+        if pix_por < (pix_del * 2):
+            ganador = 'Delantero'
+            
+    # Regla B: Umbral mínimo de confianza
+    if res[ganador] < 50: 
         return 'Desconocido'
         
     return ganador
 
-def corregir_equipo(texto_ocr):
-    texto_lower = texto_ocr.lower()
+def eliminar_tildes(texto):
+    """Limpia tildes y caracteres especiales para comparaciones seguras."""
+    return ''.join(c for c in unicodedata.normalize('NFD', texto) 
+                   if unicodedata.category(c) != 'Mn')
+
+def corregir_equipo_con_puntuacion(texto_ocr):
+    """
+    Devuelve el nombre del equipo y su puntuación de similitud (0 a 1).
+    """
+    texto_raw = texto_ocr.strip()
+    texto_ocr_limpio = eliminar_tildes(texto_raw.lower().replace('.', ''))
+    
+    # 1. Prioridad: Diccionario de Alias (Puntuación máxima 1.0)
     for alias, nombre_real in MAPEO_ALIAS_EQUIPOS.items():
-        if alias in texto_lower: return nombre_real
-    coincidencias = difflib.get_close_matches(texto_ocr, EQUIPOS_ESTANDAR, n=1, cutoff=0.75)
-    return coincidencias[0] if coincidencias else None
+        alias_limpio = eliminar_tildes(alias.lower().replace('.', ''))
+        if alias_limpio == texto_ocr_limpio: # Coincidencia exacta
+            return nombre_real, 1.0
+        if alias_limpio in texto_ocr_limpio: # Contenido
+            return nombre_real, 0.95
+
+    # 2. Protección de iniciales: Si parece nombre de jugador, bajamos su puntuación drásticamente
+    if re.search(r'^[A-Z]\.\s', texto_raw):
+        return None, 0.0
+            
+    # 3. Fuzzy Match contra lista ESTÁNDAR
+    equipos_low = [eliminar_tildes(e.lower()) for e in EQUIPOS_ESTANDAR]
+    coincidencias = difflib.get_close_matches(texto_ocr_limpio, equipos_low, n=1, cutoff=0.5)
+    
+    if coincidencias:
+        # Calculamos el ratio real de similitud
+        score = difflib.SequenceMatcher(None, texto_ocr_limpio, coincidencias[0]).ratio()
+        idx = equipos_low.index(coincidencias[0])
+        return EQUIPOS_ESTANDAR[idx], score
+        
+    return None, 0.0
+
+def extraer_datos_divididos(textos_izq, textos_der):
+    jugador = {'Nombre': None, 'Precio_Fantastica': None, 'Equipo': 'Desconocido', 'Posicion': 'Delantero', 'Puntos_PFSY': None}
+    ignorar = ["laliga", "buscar", "favoritos", "equipo", "posición", "nombre", "fantásti", "fantasti", "revolut", "dazn", "viaje", "prsy", "ptsy", "pts", "pfsy"]
+    fragmentos_posicion = ["D", "DE", "DF", "C", "CE", "CN", "M", "ME", "P", "PO", "PR", "L", "POR", "DEF", "CEN", "DEL"]
+
+    # --- 1. PROCESAR DERECHA (Igual) ---
+    puntos_confirmados = False
+    for texto in textos_der:
+        texto_low = texto.lower().strip()
+        if any(ign == texto_low for ign in ignorar) or len(texto_low) < 1: continue
+        match_pfsy = re.search(r'[pef][fs\$]y\s*(-?\d+)', texto_low)
+        if match_pfsy:
+            jugador['Puntos_PFSY'] = int(match_pfsy.group(1)); puntos_confirmados = True; continue
+        precio = limpiar_precio(texto)
+        if precio is not None: jugador['Precio_Fantastica'] = precio; continue
+        solo_num = texto_low.replace('.', '').replace(',', '').replace(' ', '')
+        if solo_num.lstrip('-').isdigit() and not puntos_confirmados:
+            val = int(solo_num)
+            if -20 < val < 300: jugador['Puntos_PFSY'] = val
+
+    # --- 2. EL "TORNEO" DE EQUIPOS (Izquierda) ---
+    mejor_score = 0.0
+    ganador_equipo = "Desconocido"
+    indice_ganador = -1
+
+    for i, texto in enumerate(textos_izq):
+        equipo, score = corregir_equipo_con_puntuacion(texto)
+        # Si esta palabra se parece más a un club que las anteriores...
+        if score > mejor_score and score > 0.65: # Umbral mínimo de confianza
+            mejor_score = score
+            ganador_equipo = equipo
+            indice_ganador = i
+
+    jugador['Equipo'] = ganador_equipo
+
+    # --- 3. CONSTRUIR EL NOMBRE (Usando lo que no es equipo ni posición) ---
+    posibles_nombres = []
+    for i, texto in enumerate(textos_izq):
+        # Si fue la palabra que ganó como equipo, la saltamos
+        if i == indice_ganador: continue
+        
+        texto_up = texto.upper().strip()
+        texto_low = texto.lower().strip()
+        
+        if any(ign in texto_low for ign in ignorar) or len(texto_low) < 1: continue
+        if texto_up in MAPEO_POSICIONES:
+            jugador['Posicion'] = MAPEO_POSICIONES[texto_up]; continue
+        if texto_up in fragmentos_posicion: continue
+
+        # Es parte del nombre
+        texto_para_nombre = texto.replace('0.', 'O.').replace('0 ', 'O ')
+        if not texto_para_nombre[0].isdigit():
+            limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', texto_para_nombre).strip()
+            if len(limpio) >= 1: posibles_nombres.append(limpio)
+
+    if posibles_nombres:
+        jugador['Nombre'] = " ".join(posibles_nombres).strip()
+        jugador['Nombre'] = re.sub(r'\s+[A-Z]$', '', jugador['Nombre'])
+
+    return jugador if jugador['Nombre'] else None
 
 def limpiar_precio(texto):
     limpio = texto.replace('.', '').replace('o', '0').replace('O', '0').replace(' ', '').replace(',', '')
@@ -101,67 +212,10 @@ def aplicar_filtro_cascada(tira, intento):
     grises = cv2.cvtColor(tira, cv2.COLOR_BGR2GRAY)
     ampliada = cv2.resize(grises, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
     if intento == 1:
-        _, m = cv2.threshold(ampliada, 180, 255, cv2.THRESH_BINARY_INV)
-        return m
+        _, m = cv2.threshold(ampliada, 180, 255, cv2.THRESH_BINARY_INV); return m
     elif intento == 2:
-        _, m = cv2.threshold(ampliada, 240, 255, cv2.THRESH_BINARY_INV)
-        return m
+        _, m = cv2.threshold(ampliada, 240, 255, cv2.THRESH_BINARY_INV); return m
     return cv2.convertScaleAbs(ampliada, alpha=1.3, beta=0)
-
-def extraer_datos_divididos(textos_izq, textos_der):
-    # Inicializamos con None para la consolidación inteligente
-    jugador = {'Nombre': None, 'Precio_Fantastica': None, 'Equipo': 'Desconocido', 'Posicion': 'Delantero', 'Puntos_PFSY': None}
-    ignorar = ["laliga", "buscar", "favoritos", "equipo", "posición", "nombre", "fantásti", "fantasti", "revolut", "dazn", "viaje", "prsy", "ptsy", "pts", "pfsy"]
-    
-    # --- DERECHA (Puntos y Precio) ---
-    for texto in textos_der:
-        texto_low = texto.lower().strip()
-        if any(ign == texto_low for ign in ignorar) or len(texto_low) < 1: continue
-        
-        match_pfsy = re.search(r'[pef][fs\$]y\s*(-?\d+)', texto_low)
-        if match_pfsy:
-            jugador['Puntos_PFSY'] = int(match_pfsy.group(1))
-            continue
-            
-        precio = limpiar_precio(texto)
-        if precio is not None:
-            jugador['Precio_Fantastica'] = precio
-            continue
-
-        solo_num = texto_low.replace('.', '').replace(',', '').replace(' ', '')
-        if solo_num.lstrip('-').isdigit():
-            val = int(solo_num)
-            if -20 < val < 300: jugador['Puntos_PFSY'] = val
-
-    # --- IZQUIERDA (Nombre, Equipo, Posición) ---
-    posibles_nombres = []
-    for texto in textos_izq:
-        texto_low = texto.lower().strip()
-        if any(ign == texto_low for ign in ignorar) or len(texto_low) < 1: continue
-        
-        if texto_low.upper() in MAPEO_POSICIONES:
-            jugador['Posicion'] = MAPEO_POSICIONES[texto_low.upper()]
-            continue
-            
-        equipo = corregir_equipo(texto)
-        if equipo and jugador['Equipo'] == 'Desconocido':
-            jugador['Equipo'] = equipo
-            continue
-            
-        if not texto.isdigit() and not any(eq in texto_low for eq in EQUIPOS_MINUSCULA):
-            limpio = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑçÇ\s\.\-]', '', texto).strip()
-            if len(limpio) >= 1: posibles_nombres.append(limpio)
-
-    if posibles_nombres:
-        nombres_unicos = []
-        for n in posibles_nombres:
-            if n not in nombres_unicos: nombres_unicos.append(n)
-        jugador['Nombre'] = " ".join(nombres_unicos)
-
-    if jugador['Nombre'] and len(jugador['Nombre']) < 3 and "." not in jugador['Nombre']:
-        jugador['Nombre'] = None
-
-    return jugador if jugador['Nombre'] else None
 
 # --- 3. FUNCIÓN PRINCIPAL ---
 def extraer_mercado_jornada(temporada, jornada):
@@ -169,9 +223,11 @@ def extraer_mercado_jornada(temporada, jornada):
     carpeta_raiz = os.path.dirname(directorio_scripts) 
     carpeta_pro = os.path.join(carpeta_raiz, "fuentes", "capturas_pro", temporada, jornada)
     
-    if not os.path.exists(carpeta_pro): return None
+    if not os.path.exists(carpeta_pro):
+        print(f"❌ Carpeta no encontrada: {carpeta_pro}")
+        return
+        
     rutas = glob.glob(os.path.join(carpeta_pro, "*.[jp][pn]g"))
-    
     lector = easyocr.Reader(['es'], gpu=True) 
     base_datos_mercado = {}
     
@@ -179,7 +235,6 @@ def extraer_mercado_jornada(temporada, jornada):
         nombre_archivo = os.path.basename(ruta)
         frame = cv2.imread(ruta)
         if frame is None: continue
-        
         alto, ancho = frame.shape[:2]
         corte_x = int(ancho * 0.66)
         
@@ -190,8 +245,7 @@ def extraer_mercado_jornada(temporada, jornada):
         if len(filas) > 0:
             curr = filas[0]
             for y in filas[1:]:
-                if y - curr > 30: cortes_y.append(curr)
-                curr = y
+                if y - curr > 30: cortes_y.append(curr); curr = y
             cortes_y.append(curr)
         cortes_y.append(alto)
 
@@ -210,35 +264,36 @@ def extraer_mercado_jornada(temporada, jornada):
             for intento in range(1, 4):
                 res_izq = lector.readtext(aplicar_filtro_cascada(t_izq, intento))
                 res_der = lector.readtext(aplicar_filtro_cascada(t_der, intento))
-                txt_izq = [t for (_, t, c) in res_izq if c > 0.2] 
+                txt_izq = [t for (_, t, c) in res_izq if c > 0.2]
                 txt_der = [t for (_, t, c) in res_der if c > 0.2] 
-                
+                1
+                # 🚀 AQUÍ TIENES TUS RAYOS X VOLVIENDO A LA VIDA
                 print(f"      [RAYOS X - F{j+1} Int{intento}] IZQ: {txt_izq} | DER: {txt_der}")
                 
                 intent = extraer_datos_divididos(txt_izq, txt_der)
                 if intent:
                     if pos_color != 'Desconocido': intent['Posicion'] = pos_color
-                    
-                    if jugador_cons is None:
-                        jugador_cons = intent
+                    if jugador_cons is None: jugador_cons = intent
                     else:
-                        # Consolidación por None (respeta el 0)
-                        if jugador_cons['Precio_Fantastica'] is None: 
-                            jugador_cons['Precio_Fantastica'] = intent['Precio_Fantastica']
-                        if jugador_cons['Puntos_PFSY'] is None: 
-                            jugador_cons['Puntos_PFSY'] = intent['Puntos_PFSY']
-                        if jugador_cons['Posicion'] == 'Delantero' and intent['Posicion'] != 'Delantero':
-                            jugador_cons['Posicion'] = intent['Posicion']
-
-                    if jugador_cons['Precio_Fantastica'] is not None and jugador_cons['Puntos_PFSY'] is not None: 
+                        if jugador_cons['Precio_Fantastica'] is None: jugador_cons['Precio_Fantastica'] = intent['Precio_Fantastica']
+                        if jugador_cons['Puntos_PFSY'] is None: jugador_cons['Puntos_PFSY'] = intent['Puntos_PFSY']
+                        if jugador_cons['Posicion'] == 'Delantero' and intent['Posicion'] != 'Delantero': jugador_cons['Posicion'] = intent['Posicion']
+                        if jugador_cons['Equipo'] == 'Desconocido': jugador_cons['Equipo'] = intent['Equipo']
+                    
+                    if jugador_cons['Precio_Fantastica'] and jugador_cons['Puntos_PFSY'] is not None and jugador_cons['Equipo'] != 'Desconocido':
                         break
 
             if jugador_cons:
-                clave = f"{jugador_cons['Nombre']}_{jugador_cons['Equipo']}_{jugador_cons['Posicion']}_{jugador_cons['Puntos_PFSY']}"
+                clave = f"{jugador_cons['Nombre']}_{jugador_cons['Equipo']}"
                 if clave not in base_datos_mercado:
                     base_datos_mercado[clave] = jugador_cons
-                print(f"  🔍 {jugador_cons['Nombre']:<15} | {jugador_cons['Equipo']:<12} | {jugador_cons['Posicion']:<13} | {jugador_cons['Precio_Fantastica']}M | {jugador_cons['Puntos_PFSY']} pts")
+                    print(f"  🔍 {jugador_cons['Nombre']:<15} | {jugador_cons['Equipo']:<12} | {jugador_cons['Posicion']:<13} | {jugador_cons['Precio_Fantastica']}M | {jugador_cons['Puntos_PFSY']} Puntos")
 
     df = pd.DataFrame(list(base_datos_mercado.values()))
-    df.sort_values(by='Nombre').to_csv(os.path.join("datasets/JaJ/{temporada}/jornada", f"mercado.csv"), index=False)
+    ruta_guardado = os.path.join(carpeta_raiz, "datasets", "JaJ", temporada, jornada)
+    os.makedirs(ruta_guardado, exist_ok=True)
+    df.sort_values(by='Nombre').to_csv(os.path.join(ruta_guardado, "mercado.csv"), index=False)
     print(f"\n✅ Finalizado. Dataset: {len(df)} jugadores.")
+
+if __name__ == "__main__":
+    extraer_mercado_jornada("T25-26", "J25")
