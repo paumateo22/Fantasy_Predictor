@@ -61,3 +61,14 @@ un script que pille bien todo el mercado.
 3- He empezado a trabajar en JaJ/cruzado_datos para unir lo que obtengo con el mercado en imagenes y lo que obtengo del scraping JaJ, 
 por ahora estoy añadiendo pasos a la relacion y creando un diccionario de relaciones, pero hace falta pulirlo, lo siguiente sería contrastarlo
 con el csv tocho.
+
+================================================================================================================================================
+[21-23/02/26]
+================================================================================================================================================
+Entre estos días he estado perfeccionando el lector de imagenes y la forma de estandarizar los nombres para luego poder cruzarlos,
+sigue faltando alguna cosa pero consigo en la J25 tener 580/607 estandarizados sin problema e incluso alcanzar 606/607 con una pequeña
+ayuda de forma manual.
+
+================================================================================================================================================
+[25/02/26]
+================================================================================================================================================

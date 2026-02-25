@@ -1,4 +1,4 @@
-from scraping.controlador import ejecutar_temporada_completa
+from pasado.scraping.controlador import ejecutar_temporada_completa
 
 # --- EJECUCIÓN ---
 '''jornadas_scrap = {

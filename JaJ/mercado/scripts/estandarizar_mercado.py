@@ -1,19 +1,26 @@
 import pandas as pd
 import os
 
-# --- RUTAS ---
-ruta_raw = r"JaJ\mercado\datasets\JaJ\T25-26\J25\mercado_base.csv"
-ruta_diccionario_csv = r"JaJ\mercado\datasets\mercado_base_relaciones.csv"
-ruta_salida = r"JaJ\mercado\datasets\JaJ\T25-26\J25\mercado_estandarizado.csv"
+def estandarizar_mercado_jornada(temporada, jornada):
+    directorio_base = os.path.join("JaJ", "mercado", "datasets", temporada, jornada)
+    
+    ruta_raw = os.path.join(directorio_base, "mercado_base.csv")
+    ruta_salida = os.path.join(directorio_base, "mercado_estandarizado.csv")
+    
+    # El diccionario lo dejamos a nivel global (datasets) para que acumule conocimiento toda la temporada
+    ruta_diccionario_csv = os.path.join("JaJ", "mercado", "datasets", "mercado_base_relaciones.csv")
 
-def estandarizar_mercado():
+    print("\n" + "="*50)
+    print(f" ⚙️ INICIANDO ESTANDARIZACIÓN - {jornada} ({temporada})")
+    print("="*50)
+
     # 1. Comprobar que existen los archivos necesarios
     if not os.path.exists(ruta_raw):
         print(f"❌ No se encuentra el CSV original en: {ruta_raw}")
         return
     if not os.path.exists(ruta_diccionario_csv):
         print(f"❌ No se encuentra el diccionario en: {ruta_diccionario_csv}")
-        print("👉 Recuerda ejecutar primero 'crear_diccionario.py' para generarlo.")
+        print("👉 Recuerda ejecutar primero el Paso 3 (crear_diccionario) para generarlo.")
         return
 
     # 2. Cargar el diccionario CSV y preparar el mapa de traducción
@@ -57,13 +64,8 @@ def estandarizar_mercado():
     df_mercado.to_csv(ruta_salida, index=False, encoding='utf-8-sig')
 
     # --- RESUMEN FINAL ---
-    print("\n" + "="*50)
-    print("✅ PROCESO DE ESTANDARIZACIÓN COMPLETADO")
-    print("="*50)
+    print("\n✅ PROCESO DE ESTANDARIZACIÓN COMPLETADO")
     print(f"📄 Archivo original: {os.path.basename(ruta_raw)}")
     print(f"💾 Archivo generado: {os.path.basename(ruta_salida)}")
     print(f"🔄 Nombres corregidos: {nombres_corregidos}")
     print("="*50 + "\n")
-
-if __name__ == '__main__':
-    estandarizar_mercado()

@@ -2,15 +2,21 @@ import pandas as pd
 import difflib
 import os
 
-# --- RUTAS ---
-rutas_csv = [
-    r"JaJ\mercado\datasets\JaJ\T25-26\J25\mercado_base.csv"
-]
-ruta_txt = r"JaJ\mercado\datasets\jugadores_ordenados.txt"
-ruta_diccionario_csv = r"JaJ\mercado\datasets\mercado_base_relaciones.csv"
+# --- FUNCIONES DE RUTAS DINÁMICAS ---
+def obtener_rutas(temporada, jornada):
+    """Genera las rutas dinámicas basadas en temporada y jornada."""
+    base_dir = os.path.join("JaJ", "mercado", "datasets", temporada, jornada)
+    global_dir = os.path.join("JaJ", "mercado", "datasets") # <-- Carpeta global
+    
+    rutas = {
+        'csv_entrada': [os.path.join(base_dir, "mercado_base.csv")],
+        'txt_oficiales': os.path.join(global_dir, "jugadores_ordenados.txt"), # Global
+        'diccionario_csv': os.path.join(global_dir, "mercado_base_relaciones.csv") # Global
+    }
+    return rutas
 
 # --- FUNCIONES DE MANEJO DEL DICCIONARIO CSV ---
-def cargar_diccionario_csv():
+def cargar_diccionario_csv(ruta_diccionario_csv):
     """Lee el CSV y lo convierte en un diccionario de listas en memoria."""
     diccionario = {}
     if os.path.exists(ruta_diccionario_csv):
@@ -27,8 +33,8 @@ def cargar_diccionario_csv():
             print(f"⚠️ Error leyendo el diccionario CSV: {e}")
     return diccionario
 
-def guardar_diccionario_csv(diccionario):
-    """Convierte el diccionario de listas en memoria a un CSV de 2 columnas."""
+def guardar_diccionario_csv(diccionario, ruta_diccionario_csv):
+    """Convierte el diccionario de listas en memoria a un CSV de 2 columnas ordenado."""
     filas = []
     for oficial, lista_ocr in diccionario.items():
         for ocr in lista_ocr:
@@ -36,11 +42,15 @@ def guardar_diccionario_csv(diccionario):
     
     df = pd.DataFrame(filas)
     if not df.empty:
+        # 🚨 AQUÍ ESTÁ LA MAGIA: Ordenamos alfabéticamente antes de guardar
+        df = df.sort_values(by=['Oficial', 'OCR'], ascending=[True, True])
+        
         # Guardamos sin índice y con utf-8-sig para que Excel lo abra perfecto
+        os.makedirs(os.path.dirname(ruta_diccionario_csv), exist_ok=True)
         df.to_csv(ruta_diccionario_csv, index=False, encoding='utf-8-sig')
-
+        
 # --- FUNCIONES PRINCIPALES ---
-def cargar_pool_ocr():
+def cargar_pool_ocr(rutas_csv):
     """Recopila todos los nombres detectados por el OCR en los CSVs."""
     nombres_ocr = set()
     for ruta in rutas_csv:
@@ -53,7 +63,12 @@ def cargar_pool_ocr():
                 print(f"⚠️ Error leyendo {ruta}: {e}")
     return list(nombres_ocr)
 
-def crear_o_actualizar_diccionario():
+def crear_diccionario(temporada, jornada):
+    rutas = obtener_rutas(temporada, jornada)
+    ruta_txt = rutas['txt_oficiales']
+    rutas_csv = rutas['csv_entrada']
+    ruta_diccionario_csv = rutas['diccionario_csv']
+
     if not os.path.exists(ruta_txt):
         print(f"❌ No se encuentra el TXT en: {ruta_txt}")
         return
@@ -62,59 +77,57 @@ def crear_o_actualizar_diccionario():
         oficiales = [n.strip() for n in f.read().split(',') if n.strip()]
 
     # 1. Cargar Diccionario desde el CSV
-    diccionario = cargar_diccionario_csv()
+    diccionario = cargar_diccionario_csv(ruta_diccionario_csv)
 
-    # 2. Cargar Piscina OCR
-    nombres_ocr_totales = cargar_pool_ocr()
+    # 2. Cargar Piscina OCR (Lo que ha leído en esta jornada)
+    nombres_ocr_totales = cargar_pool_ocr(rutas_csv)
     
+    # 3. Extraer los nombres OCR que ya sabemos a quién pertenecen
     ocr_ya_mapeados = set()
     for lista_ocr in diccionario.values():
         ocr_ya_mapeados.update(lista_ocr)
         
-    pool_disponible = [n for n in nombres_ocr_totales if n not in ocr_ya_mapeados]
+    # Nombres que el OCR ha sacado y no están en nuestro diccionario
+    ocr_pendientes = [n for n in nombres_ocr_totales if n not in ocr_ya_mapeados]
 
     # --- FASE 1: Emparejamiento Automático ---
+    # Si por casualidad el OCR ha leído el nombre exactamente igual al del TXT,
+    # lo guardamos directamente sin preguntar.
     automaticos = 0
-    for oficial in oficiales:
-        oficial_low = oficial.lower()
-        match_exacto = next((n for n in pool_disponible if n.lower() == oficial_low), None)
+    for ocr_name in list(ocr_pendientes):
+        ocr_low = ocr_name.lower()
+        match_exacto = next((of for of in oficiales if of.lower() == ocr_low), None)
         
         if match_exacto:
-            if oficial not in diccionario:
-                diccionario[oficial] = []
-            if match_exacto not in diccionario[oficial]:
-                diccionario[oficial].append(match_exacto)
+            if match_exacto not in diccionario:
+                diccionario[match_exacto] = []
+            if ocr_name not in diccionario[match_exacto]:
+                diccionario[match_exacto].append(ocr_name)
                 
-            pool_disponible.remove(match_exacto)
+            ocr_pendientes.remove(ocr_name)
             automaticos += 1
 
-    # Guardado intermedio
-    guardar_diccionario_csv(diccionario)
+    # Guardado intermedio de lo automático
+    guardar_diccionario_csv(diccionario, ruta_diccionario_csv)
 
+    print(f"📄 Nombres leídos por OCR (CSV): {len(nombres_ocr_totales)}")
     print(f"📚 Jugadores oficiales (TXT): {len(oficiales)}")
     print(f"⚡ Emparejados automáticamente ahora: {automaticos}")
     print(f"💾 Jugadores con al menos un mapeo en diccionario: {len(diccionario)}")
-    print(f"🏊‍♂️ Nombres OCR huérfanos en la piscina: {len(pool_disponible)}")
+    print(f"🏊‍♂️ Nombres OCR huérfanos a revisar: {len(ocr_pendientes)}")
 
     # --- FASE 2: Interactivo ---
-    for oficial in oficiales:
-        # Si el jugador ya tiene algún mapeo en el diccionario, pasamos al siguiente
-        if oficial in diccionario and len(diccionario[oficial]) > 0:
-            continue
-            
-        # Si ya hemos asignado todos los nombres leídos por el OCR, terminamos
-        if not pool_disponible:
-            print("\n✅ La piscina de OCR está vacía. Todos los nombres leídos han sido asignados.")
-            break
-
+    # Ahora iteramos SOLO por los nombres OCR que no conocemos
+    for ocr_name in ocr_pendientes:
         print(f"\n" + "="*50)
-        print(f"❓ ¿Quién es este jugador leído por el OCR?")
-        print(f"👉 OFICIAL (TXT): {oficial}")
+        print(f"❓ ¿A qué jugador OFICIAL pertenece esta lectura del OCR?")
+        print(f"👉 OCR HA LEÍDO: {ocr_name}")
         print("="*50)
 
-        parecidos = difflib.get_close_matches(oficial, pool_disponible, n=10, cutoff=0.1)
+        # Buscamos en el TXT los oficiales que más se parezcan a lo que ha leído el OCR
+        parecidos = difflib.get_close_matches(ocr_name, oficiales, n=10, cutoff=0.1)
 
-        print("0. ✍️  No está en la lista (Escribir manualmente) o saltar")
+        print("0. ✍️  No está en la lista (Escribir nombre oficial manualmente) o saltar")
         for i, candidato in enumerate(parecidos, 1):
             print(f"{i}. {candidato}")
 
@@ -126,28 +139,31 @@ def crear_o_actualizar_diccionario():
             print("❌ Opción no válida. Introduce un número del menú.")
 
         if opcion == 0:
-            manual = input("Escribe cómo lo lee el OCR (o pulsa Enter para saltarlo): ").strip()
+            manual = input("Escribe el nombre OFICIAL (o pulsa Enter para saltarlo): ").strip()
             if manual:
-                if oficial not in diccionario:
-                    diccionario[oficial] = []
-                if manual not in diccionario[oficial]:
-                    diccionario[oficial].append(manual)
-                if manual in pool_disponible:
-                    pool_disponible.remove(manual)
+                # Nos aseguramos de guardarlo con las mayúsculas exactas del TXT si existe
+                match_manual = next((of for of in oficiales if of.lower() == manual.lower()), manual)
+                if match_manual not in diccionario:
+                    diccionario[match_manual] = []
+                if ocr_name not in diccionario[match_manual]:
+                    diccionario[match_manual].append(ocr_name)
         else:
-            elegido = parecidos[opcion - 1]
-            if oficial not in diccionario:
-                diccionario[oficial] = []
-            if elegido not in diccionario[oficial]:
-                diccionario[oficial].append(elegido)
-            pool_disponible.remove(elegido)
+            elegido = parecidos[opcion - 1] # Este es el nombre oficial (clave)
+            if elegido not in diccionario:
+                diccionario[elegido] = []
+            if ocr_name not in diccionario[elegido]:
+                diccionario[elegido].append(ocr_name)
 
         # Autoguardado silencioso tras cada respuesta
-        guardar_diccionario_csv(diccionario)
+        guardar_diccionario_csv(diccionario, ruta_diccionario_csv)
 
     print("\n✅ ¡Revisión terminada! Diccionario completado y guardado en CSV con éxito.")
 
-def faltantes_diccionario():
+def faltantes_diccionario(temporada, jornada):
+    rutas = obtener_rutas(temporada, jornada)
+    ruta_txt = rutas['txt_oficiales']
+    ruta_diccionario_csv = rutas['diccionario_csv']
+
     print("\n" + "="*50)
     print("🔍 DIAGNÓSTICO: JUGADORES FALTANTES EN EL DICCIONARIO CSV")
     print("="*50)
@@ -159,7 +175,7 @@ def faltantes_diccionario():
     with open(ruta_txt, 'r', encoding='utf-8') as f:
         oficiales = [n.strip() for n in f.read().split(',') if n.strip()]
 
-    diccionario = cargar_diccionario_csv()
+    diccionario = cargar_diccionario_csv(ruta_diccionario_csv)
     claves_csv_low = {clave.lower() for clave in diccionario.keys()}
     
     faltantes = []
@@ -178,7 +194,3 @@ def faltantes_diccionario():
     else:
         print("\n✅ ¡Enhorabuena! Tienes a todos los jugadores oficiales mapeados en el diccionario.")
     print("="*50 + "\n")
-
-if __name__ == '__main__':
-    crear_o_actualizar_diccionario()
-    faltantes_diccionario()
