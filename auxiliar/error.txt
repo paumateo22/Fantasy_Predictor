@@ -21,3 +21,21 @@ alfon villarreal no, sev
 
 
 antes del estandarizado
+
+
+
+
+
+
+
+Crear identificadores únicos: Juntaremos el nombre y el equipo de cada jugador (ej. "I. Benito_Osasuna") para evitar que el sistema confunda nombres idénticos.
+
+Entrenar un nuevo diccionario: Haremos un script interactivo que empareje los nombres del mercado con los del scraping, preguntándote solo los casos dudosos.
+
+Filtrar a los no registrados: Añadiremos un botón rápido para descartar e ignorar a los canteranos del mercado que no existan en el archivo del scraping.
+
+Fusionar ambos documentos: Crearemos un programa que una el precio del mercado con todas las estadísticas avanzadas (goles, tarjetas) en un archivo final.
+
+Corregir los fallos del OCR: Programaremos el sistema para que la información del scraping (posición, equipo y puntos) machaque siempre a la del mercado.
+
+Generar un reporte de errores: Crearemos un documento de texto automático que registre cada vez que el sistema corrija una mala lectura de nuestras imágenes.

@@ -72,3 +72,11 @@ ayuda de forma manual.
 ================================================================================================================================================
 [25/02/26]
 ================================================================================================================================================
+He ordenado todo el repositorio, tmb he estructurado mejor los códigos y los he separado por modulos, tengo un pipeline funcional
+de extracción de mercado que resulta en mercado_limpio, que lo cruzaré con jugadores.csv, que es el resultado del scraping.
+
+================================================================================================================================================
+[26/02/26]
+================================================================================================================================================
+He creado el apartado cruzado en JaJ que consiste en el cruzado de datos entre mercado_limpio y jugadores. Falta probarlo pq he tenido
+que ajustar partes del pipeline de extraccion de mercado para blindar más el código ante fallos del OCR o falta de datos.
