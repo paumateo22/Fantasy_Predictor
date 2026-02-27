@@ -68,8 +68,16 @@ def relacionar_bases_datos(temporada, jornada):
         info_mercado[clave_m] = display_m
         claves_mercado.append(clave_m)
         
-    # 4. Preparar las claves del Scraping (Los directores de orquesta)
-    claves_scraping = (df_scraping['Nombre'] + "_" + df_scraping['Equipo']).unique().tolist()
+    # 4. Preparar las claves del Scraping y extraer sus puntos
+    info_scraping_puntos = {}
+    claves_scraping = []
+    
+    for _, fila in df_scraping.iterrows():
+        clave_s = f"{fila['Nombre']}_{fila['Equipo']}"
+        if clave_s not in claves_scraping:
+            claves_scraping.append(clave_s)
+        # Guardamos los puntos del scraping (asumiendo la columna Puntos_Totales)
+        info_scraping_puntos[clave_s] = fila.get('Puntos_Totales', 'N/A')
     
     # 5. Cargar diccionario y filtrar pendientes
     diccionario_cruce = cargar_diccionario_cruce(rutas['diccionario_cruce'])
@@ -100,15 +108,17 @@ def relacionar_bases_datos(temporada, jornada):
     # --- FASE 2: Interactivo ---
     for clave_s in pendientes:
         nombre_s, equipo_s = clave_s.split("_", 1)
+        puntos_s = info_scraping_puntos.get(clave_s, 'N/A')
         
         print(f"\n" + "="*50)
-        print(f"❓ SCRAPING HA REGISTRADO A: {nombre_s} ({equipo_s})")
+        # 🚨 AQUÍ ESTÁ EL CAMBIO: Imprimimos los puntos del scraping
+        print(f"❓ SCRAPING HA REGISTRADO A: {nombre_s} ({equipo_s}) | {puntos_s} pts")
         print("="*50)
         
         # 10 más parecidos en todo el mercado
         parecidos = difflib.get_close_matches(clave_s, claves_mercado, n=10, cutoff=0.1)
         
-        print("0. ✍️  Escribir clave manualmente o descartar jugador")
+        print("0. ✍️  Escribir nombre manualmente o descartar jugador")
         for i, clave_candidato in enumerate(parecidos, 1):
             print(f"{i}. {info_mercado[clave_candidato]}")
             
@@ -120,13 +130,45 @@ def relacionar_bases_datos(temporada, jornada):
             print("❌ Opción no válida.")
             
         if opcion == 0:
-            print("\n👉 Introduce la clave exacta del mercado (Ej: I. Benito_Osasuna)")
-            manual = input("👉 O pulsa '0' de nuevo si este jugador NO está en el mercado: ").strip()
-            
-            if manual == '0':
-                diccionario_cruce[clave_s] = "IGNORAR"
-            elif manual:
-                diccionario_cruce[clave_s] = manual
+            while True:
+                print("\n👉 Introduce SOLO el nombre del jugador en el mercado (Ej: Alvaro Garcia)")
+                manual = input("👉 O pulsa '0' de nuevo si este jugador NO está en el mercado: ").strip()
+                
+                if manual == '0':
+                    diccionario_cruce[clave_s] = "IGNORAR"
+                    print("🚫 Jugador ignorado (no se guardará relación).")
+                    break
+                elif manual:
+                    # Buscamos en el mercado a todos los que se llamen exactamente así (ignorando mayúsculas)
+                    matches = [k for k in claves_mercado if k.split("_", 1)[0].lower() == manual.lower()]
+                    
+                    if len(matches) == 0:
+                        print("❌ No se ha encontrado a ningún jugador con ese nombre en el mercado. Revisa si hay tildes o abreviaturas.")
+                    elif len(matches) == 1:
+                        # ¡Bingo! Solo hay uno, lo enlazamos automáticamente
+                        elegido = matches[0]
+                        diccionario_cruce[clave_s] = elegido
+                        nom_e, eq_e = elegido.split("_", 1)
+                        print(f"✅ Relación hecha automáticamente: {nom_e} - {eq_e}")
+                        break
+                    else:
+                        # Hay varios con ese nombre, toca desempatar
+                        print(f"\n🤔 Se han encontrado varios '{manual}'. Elige el correcto:")
+                        for idx, match_key in enumerate(matches, 1):
+                            print(f"{idx}. {info_mercado[match_key]}")
+                        
+                        while True:
+                            sub_opcion = input(f"\nElige una opción (1-{len(matches)}): ").strip()
+                            if sub_opcion.isdigit() and 1 <= int(sub_opcion) <= len(matches):
+                                sub_opcion = int(sub_opcion)
+                                break
+                            print("❌ Opción no válida.")
+                        
+                        elegido = matches[sub_opcion - 1]
+                        diccionario_cruce[clave_s] = elegido
+                        nom_e, eq_e = elegido.split("_", 1)
+                        print(f"✅ Relación hecha: {nom_e} - {eq_e}")
+                        break
         else:
             elegido = parecidos[opcion - 1]
             diccionario_cruce[clave_s] = elegido

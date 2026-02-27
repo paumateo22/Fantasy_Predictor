@@ -121,7 +121,6 @@ def crear_diccionario(temporada, jornada):
 
         print(f"\n" + "="*50)
         print(f"❓ ¿A qué jugador OFICIAL pertenece esta lectura del OCR?")
-        # 🚨 LA MAGIA: Imprime toda la línea detallada
         print(f"👉 OCR HA LEÍDO: {ocr_name} | {equipo} | {posicion} | {puntos} Pts | {precio}M")
         print("="*50)
 
@@ -141,11 +140,26 @@ def crear_diccionario(temporada, jornada):
         if opcion == 0:
             manual = input("Escribe el nombre OFICIAL (o pulsa Enter para saltarlo): ").strip()
             if manual:
-                match_manual = next((of for of in oficiales if of.lower() == manual.lower()), manual)
-                if match_manual not in diccionario:
-                    diccionario[match_manual] = []
-                if ocr_name not in diccionario[match_manual]:
-                    diccionario[match_manual].append(ocr_name)
+                # 🚨 LA MAGIA DEL TXT: Comprobamos si ya existe (ignorando mayúsculas)
+                match_manual = next((of for of in oficiales if of.lower() == manual.lower()), None)
+                
+                if match_manual:
+                    clave_final = match_manual # Usamos el nombre tal cual estaba en el TXT
+                else:
+                    clave_final = manual
+                    # Es un jugador nuevo, lo añadimos y guardamos el TXT
+                    oficiales.append(clave_final)
+                    oficiales.sort(key=str.lower) # Ordenamos alfabéticamente
+                    
+                    with open(ruta_txt, 'w', encoding='utf-8') as f:
+                        f.write(', '.join(oficiales))
+                    print(f"\n✨ ¡Magia! '{clave_final}' se ha añadido automáticamente a jugadores_ordenados.txt y se ha ordenado.")
+
+                # Lo guardamos en el diccionario de relaciones usando la clave final correcta
+                if clave_final not in diccionario:
+                    diccionario[clave_final] = []
+                if ocr_name not in diccionario[clave_final]:
+                    diccionario[clave_final].append(ocr_name)
         else:
             elegido = parecidos[opcion - 1] 
             if elegido not in diccionario:

@@ -7,18 +7,24 @@ directorio_actual = os.path.dirname(os.path.abspath(__file__))
 directorio_raiz = os.path.dirname(os.path.dirname(os.path.dirname(directorio_actual)))
 
 def obtener_rutas_fusion(temporada, jornada):
+    # Rutas de origen (donde leemos los datos)
     dir_mercado = os.path.join(directorio_raiz, "JaJ", "mercado", "datasets", temporada, jornada)
     dir_scraping = os.path.join(directorio_raiz, "JaJ", "scraping", "datasets", temporada, jornada)
     dir_cruzado = os.path.join(directorio_raiz, "JaJ", "cruzado", "datasets", temporada, jornada)
     dir_global = os.path.join(directorio_raiz, "JaJ", "cruzado", "datasets") # Carpeta global para el registro
     
+    # 🚨 NUEVA RUTA DE SALIDA (Raíz del proyecto)
+    dir_salida_final = os.path.join(directorio_raiz, "datasets", "JaJ", temporada, jornada)
+    
     return {
         'mercado': os.path.join(dir_mercado, "mercado_limpio.csv"),
         'scraping': os.path.join(dir_scraping, "jugadores.csv"),
         'diccionario': os.path.join(dir_cruzado, "relaciones_scraping_mercado.csv"),
-        'registro_pos': os.path.join(dir_global, "registro_posiciones.csv"), # NUEVO ARCHIVO
-        'salida_csv': os.path.join(dir_cruzado, "mercado_final_enriquecido.csv"),
-        'salida_log': os.path.join(dir_cruzado, "log_disparidades.txt")
+        'registro_pos': os.path.join(dir_global, "registro_posiciones.csv"),
+        
+        # Archivos finales en su nueva ubicación
+        'salida_csv': os.path.join(dir_salida_final, "jugadores+mercado.csv"),
+        'salida_log': os.path.join(dir_salida_final, "log_disparidades.txt")
     }
 
 # --- FUNCIONES DEL REGISTRO DE POSICIONES ---
@@ -138,6 +144,7 @@ def fusionar_datos_jornada(temporada, jornada):
         cols.insert(cols.index('Posicion') + 1, cols.pop(cols.index('Precio_Fantastica')))
         df_final = df_final[cols]
 
+    # Creamos las carpetas necesarias en la raíz y guardamos
     os.makedirs(os.path.dirname(rutas['salida_csv']), exist_ok=True)
     df_final.to_csv(rutas['salida_csv'], index=False, encoding='utf-8-sig')
 
@@ -146,7 +153,7 @@ def fusionar_datos_jornada(temporada, jornada):
         f.write("\n".join(registro_errores))
 
     print(f"✅ ¡Fusión completada con éxito!")
-    print(f"💾 Base de datos final guardada en: {os.path.basename(rutas['salida_csv'])}")
-    print(f"📝 Reporte de auditoría guardado en: {os.path.basename(rutas['salida_log'])}")
+    print(f"💾 Base de datos final guardada en: {rutas['salida_csv']}")
+    print(f"📝 Reporte de auditoría guardado en: {rutas['salida_log']}")
     print(f"📊 Jugadores procesados: {len(filas_finales)}")
     print("="*50 + "\n")

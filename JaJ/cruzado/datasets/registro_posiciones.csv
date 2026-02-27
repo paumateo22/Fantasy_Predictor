@@ -16,6 +16,7 @@ Aguado_Elche,Mediocampista
 Ahijado_Real Oviedo,Defensa
 Aidoo_Celta,Defensa
 Aihen_Real Sociedad,Defensa
+Aitor Mañas_Alavés,Delantero
 Aitor_Osasuna,Portero
 Akhomach_Rayo,Delantero
 Alaba_Real Madrid,Defensa
@@ -23,6 +24,8 @@ Alemão_Rayo,Delantero
 Alexander-Arnold_Real Madrid,Defensa
 Alexis_Sevilla,Delantero
 Aleñá_Alavés,Mediocampista
+Alfon_Villarreal,Delantero
+Alhassane_Real Oviedo,Defensa
 Almada_Atlético,Mediocampista
 Almeida_Valencia,Mediocampista
 Altimira_Betis,Mediocampista
@@ -55,19 +58,25 @@ Bartra_Betis,Defensa
 Batalla_Rayo,Portero
 Bellerín_Betis,Defensa
 Bellingham_Real Madrid,Mediocampista
+Beltrán_Girona,Mediocampista
 Beltrán_Valencia,Mediocampista
 Benito_Osasuna,Delantero
 Berenguer_Athletic,Delantero
 Bergstrom_Mallorca,Portero
 Bernal_Barcelona,Mediocampista
 Bigas_Elche,Defensa
+Birmancevic_Getafe,Delantero
 Blanco_Alavés,Mediocampista
 Blind_Girona,Defensa
+Boiro_Athletic,Defensa
+Borbas_Real Oviedo,Delantero
+Boselli_Getafe,Defensa
 Boyomo_Osasuna,Defensa
 Boyé_Alavés,Delantero
 Brahim_Real Madrid,Mediocampista
 Brais_Real Sociedad,Mediocampista
 Bretones_Osasuna,Defensa
+Brugui_Levante,Delantero
 Bryan Gil_Girona,Delantero
 Buchanan_Villarreal,Mediocampista
 Budimir_Osasuna,Delantero
@@ -80,8 +89,11 @@ Caleta-Car_Real Sociedad,Defensa
 Calvo_Real Oviedo,Defensa
 Camavinga_Real Madrid,Mediocampista
 Camello_Rayo,Delantero
+Cancelo_Barcelona,Defensa
+Cardoso_Atlético,Mediocampista
 Cardoso_Sevilla,Defensa
 Carlos Espí_Levante,Delantero
+Carlos Martín_Rayo,Mediocampista
 Carlos Soler_Real Sociedad,Mediocampista
 Carmo_Real Oviedo,Defensa
 Carmona_Sevilla,Defensa
@@ -92,7 +104,9 @@ Castrín_Sevilla,Defensa
 Catena_Osasuna,Defensa
 Cazorla_Real Oviedo,Mediocampista
 Ceballos_Real Madrid,Mediocampista
+Cepeda_Elche,Delantero
 Cervi_Celta,Delantero
+Chaira_Real Oviedo,Delantero
 Chimy_Betis,Delantero
 Chust_Elche,Defensa
 Colombatto_Real Oviedo,Mediocampista
@@ -121,6 +135,7 @@ De la Fuente_Levante,Defensa
 Dendoncker_Real Oviedo,Mediocampista
 Denis Suárez_Alavés,Mediocampista
 Deossa_Betis,Mediocampista
+Diabaté_Alavés,Delantero
 Diakhaby_Valencia,Defensa
 Diangana_Elche,Delantero
 Diego López_Valencia,Delantero
@@ -133,18 +148,25 @@ Dolan_Espanyol,Delantero
 Domínguez_Celta,Defensa
 Duro_Valencia,Delantero
 Durán_Celta,Delantero
+Echeverri_Girona,Mediocampista
 Edu Expósito_Espanyol,Mediocampista
+Egiluz_Athletic,Defensa
 Ejaria_Real Oviedo,Delantero
 Ejuke_Sevilla,Delantero
 El Hilali_Espanyol,Defensa
 El-Abdellaoui_Celta,Delantero
 Elgezabal_Levante,Defensa
 Eric García_Barcelona,Defensa
+Espino_Rayo,Defensa
 Etta Eyong_Levante,Delantero
 F. de Jong_Barcelona,Mediocampista
 Febas_Elche,Mediocampista
+Femenia_Getafe,Defensa
+Fer López_Celta,Mediocampista
 Fermín_Barcelona,Mediocampista
 Ferran_Barcelona,Delantero
+Fidalgo_Betis,Mediocampista
+Fonseca_Real Oviedo,Mediocampista
 Fornals_Betis,Mediocampista
 Fort_Elche,Defensa
 Fortuño_Espanyol,Portero
@@ -155,6 +177,8 @@ Fraga_Real Sociedad,Portero
 Fran García_Real Madrid,Defensa
 Fran Pérez_Rayo,Mediocampista
 Francés_Girona,Defensa
+Freeman_Villarreal,Defensa
+Galán_Osasuna,Defensa
 Garcés_Alavés,Defensa
 Gavi_Barcelona,Mediocampista
 Gayà_Valencia,Defensa
@@ -170,6 +194,7 @@ Griezmann_Atlético,Delantero
 Gudelj_Sevilla,Mediocampista
 Guedes_Real Sociedad,Mediocampista
 Guevara_Alavés,Mediocampista
+Guido_Valencia,Mediocampista
 Gumbau_Rayo,Mediocampista
 Guridi_Alavés,Mediocampista
 Guruzeta_Athletic,Delantero
@@ -177,7 +202,7 @@ Güler_Real Madrid,Mediocampista
 Hancko_Atlético,Defensa
 Hassan_Real Oviedo,Mediocampista
 Herrando_Osasuna,Defensa
-Herrera_Osasuna,Defensa
+Herrera_Osasuna,Portero
 Herrera_Real Sociedad,Mediocampista
 Hugo Álvarez_Celta,Mediocampista
 Huijsen_Real Madrid,Defensa
@@ -212,8 +237,11 @@ Juan Carlos_Girona,Portero
 Juan Cruz_Osasuna,Defensa
 Juanlu_Sevilla,Mediocampista
 Juanmi_Getafe,Delantero
+Juanpe_Rayo,Portero
+Julio Díaz_Atlético,Defensa
 Junior_Betis,Defensa
 Jutglà_Celta,Delantero
+Kalumba_Mallorca,Delantero
 Kamara_Getafe,Delantero
 Kambwala_Villarreal,Defensa
 Karrikaburu_Real Sociedad,Delantero
@@ -221,6 +249,7 @@ Kike Barja_Osasuna,Delantero
 Kike García_Espanyol,Delantero
 Kike Salas_Sevilla,Defensa
 Koke_Atlético,Mediocampista
+Koski_Alavés,Defensa
 Koundé_Barcelona,Defensa
 Krapyvtsov_Girona,Portero
 Kubo_Real Sociedad,Mediocampista
@@ -241,12 +270,15 @@ Lewandowski_Barcelona,Delantero
 Liso_Getafe,Delantero
 Llabrés_Mallorca,Delantero
 Lo Celso_Betis,Mediocampista
+Lookman_Atlético,Delantero
 Losada_Levante,Delantero
 Lozano_Espanyol,Mediocampista
 Luis Milla_Getafe,Mediocampista
+Luis Vázquez_Getafe,Delantero
 Luiz Felipe_Rayo,Defensa
 Luiz Junior_Villarreal,Portero
 Lunin_Real Madrid,Portero
+Luvumbo_Mallorca,Delantero
 M. Alonso_Celta,Defensa
 M. Llorente_Atlético,Defensa
 Maffeo_Mallorca,Defensa
@@ -265,8 +297,10 @@ Marín_Real Sociedad,Mediocampista
 Mascarell_Mallorca,Mediocampista
 Mastantuono_Real Madrid,Delantero
 Matturro_Levante,Defensa
+Maupay_Sevilla,Delantero
 Mayoral_Getafe,Delantero
 Mbappé_Real Madrid,Delantero
+Mendoza_Atlético,Mediocampista
 Mendy_Rayo,Defensa
 Mendy_Real Madrid,Defensa
 Mendy_Sevilla,Mediocampista
@@ -294,11 +328,12 @@ Nacho Pérez_Levante,Defensa
 Nacho Vidal_Real Oviedo,Defensa
 Natan_Betis,Defensa
 Navarro_Athletic,Mediocampista
+Ngongé_Espanyol,Delantero
 Nianzou_Sevilla,Defensa
 Nteka_Rayo,Delantero
 Nyland_Sevilla,Portero
 Nyom_Getafe,Defensa
-Núñez_Valencia,Mediocampista
+Núñez_Valencia,Defensa
 Oblak_Atlético,Portero
 Odriozola_Real Sociedad,Defensa
 Olasagasti_Levante,Mediocampista
@@ -346,10 +381,12 @@ Raba_Valencia,Delantero
 Radu_Celta,Portero
 Rafa Marín_Villarreal,Defensa
 Rafa Mir_Elche,Delantero
+Raghouber_Levante,Mediocampista
 Ramazani_Valencia,Delantero
 Raphinha_Barcelona,Delantero
 Rashford_Barcelona,Delantero
 Ratiu_Rayo,Defensa
+Raul Moro_Osasuna,Delantero
 Raíllo_Mallorca,Defensa
 Raúl F._Alavés,Portero
 Raúl García_Osasuna,Delantero
@@ -370,10 +407,13 @@ Roca_Girona,Delantero
 Rodrygo_Real Madrid,Delantero
 Rodríguez_Betis,Defensa
 Romero_Espanyol,Defensa
+Romero_Getafe,Defensa
+Romero_Sevilla,Delantero
 Román_Celta,Mediocampista
 Rosier_Osasuna,Defensa
 Rubén G._Osasuna,Mediocampista
 Rubén Sánchez_Espanyol,Mediocampista
+Rubén_Girona,Portero
 Rueda_Celta,Defensa
 Ruggeri_Atlético,Defensa
 Ruibal_Betis,Delantero
@@ -382,13 +422,16 @@ Rüdiger_Real Madrid,Defensa
 S. Amrabat_Betis,Mediocampista
 S. Cardona_Villarreal,Defensa
 Sadiq_Valencia,Delantero
+Salas_Mallorca,Mediocampista
 Salinas_Espanyol,Defensa
 Samú_Mallorca,Mediocampista
 Sancet_Athletic,Mediocampista
 Sancris_Getafe,Delantero
+Sangaré_Elche,Defensa
 Sannadi_Athletic,Delantero
 Santamaria_Valencia,Mediocampista
 Santiago_Elche,Mediocampista
+Satriano_Getafe,Delantero
 Selton_Athletic,Mediocampista
 Sergio Gómez_Real Sociedad,Defensa
 Serrano_Athletic,Delantero
@@ -401,6 +444,7 @@ Starfelt_Celta,Defensa
 Stuani_Girona,Delantero
 Suazo_Sevilla,Defensa
 Sucic_Real Sociedad,Mediocampista
+Swedberg_Celta,Mediocampista
 Szczesny_Barcelona,Portero
 Sörloth_Atlético,Delantero
 Tchouaméni_Real Madrid,Mediocampista
@@ -408,6 +452,9 @@ Tenaglia_Alavés,Defensa
 Tenas_Villarreal,Portero
 Ter Stegen_Girona,Portero
 Terrats_Espanyol,Mediocampista
+Tete Morente_Elche,Delantero
+Thiago_Real Madrid,Mediocampista
+Thiago_Real Oviedo,Mediocampista
 Thierry_Valencia,Defensa
 Thomas_Villarreal,Mediocampista
 Toljan_Levante,Defensa
@@ -415,6 +462,7 @@ Toni Martinez_Alavés,Delantero
 Torró_Osasuna,Mediocampista
 Trejo_Rayo,Mediocampista
 Tsygankov_Girona,Delantero
+Tunde_Levante,Mediocampista
 Turrientes_Real Sociedad,Mediocampista
 Tárrega_Valencia,Defensa
 Ugrinic_Valencia,Mediocampista
@@ -430,11 +478,14 @@ Valles_Betis,Portero
 Valverde_Real Madrid,Mediocampista
 Van de Beek_Girona,Mediocampista
 Vanat_Girona,Delantero
+Vargas_Atlético,Mediocampista
 Vargas_Sevilla,Delantero
+Vecino_Celta,Mediocampista
 Veiga_Villarreal,Defensa
 Vencedor_Levante,Mediocampista
 Vertrouwd_Rayo,Defensa
 Vesga_Athletic,Mediocampista
+Villar_Elche,Mediocampista
 Vinicius_Real Madrid,Delantero
 Virgili_Mallorca,Delantero
 Vitor Reis_Girona,Defensa
@@ -443,12 +494,15 @@ Viñas_Real Oviedo,Delantero
 Vlachodimos_Sevilla,Portero
 Víctor García_Levante,Defensa
 Víctor Muñoz_Osasuna,Delantero
+Wesley_Real Sociedad,Mediocampista
 Witsel_Girona,Mediocampista
 Yamal_Barcelona,Delantero
 Youssef_Alavés,Defensa
 Yuri_Athletic,Defensa
 Zakharyan_Real Sociedad,Mediocampista
 Zubeldia_Real Sociedad,Defensa
+Á. Núñez_Celta,Defensa
 Álex Moreno_Girona,Defensa
 Álvaro García_Rayo,Mediocampista
+Ángel Pérez_Alavés,Delantero
 Óskarsson_Real Sociedad,Delantero
