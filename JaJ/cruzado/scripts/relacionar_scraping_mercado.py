@@ -15,7 +15,7 @@ def obtener_rutas_cruce(temporada, jornada):
     dir_cruzado = os.path.join(directorio_raiz, "JaJ", "cruzado", "datasets", temporada, jornada)
     
     rutas = {
-        'mercado': os.path.join(dir_mercado, "mercado_limpio_y_ordenado.csv"),
+        'mercado': os.path.join(dir_mercado, "mercado_limpio.csv"),
         'scraping': os.path.join(dir_scraping, "jugadores.csv"),
         'diccionario_cruce': os.path.join(dir_cruzado, "relaciones_scraping_mercado.csv")
     }

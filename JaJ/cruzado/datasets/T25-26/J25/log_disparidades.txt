@@ -1,0 +1,88 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J25 ---
+
+⚠️ Adam Boayar (Elche):
+   - Puntos (OCR leyó: 19 -> Scraping oficial: 17)
+
+⚠️ Affengruber (Elche):
+   - Puntos (OCR leyó: 96 -> Scraping oficial: 94)
+
+⚠️ Aguado (Elche):
+   - Puntos (OCR leyó: 93 -> Scraping oficial: 89)
+
+⚠️ Alvaro R. (Elche):
+   - Puntos (OCR leyó: 113 -> Scraping oficial: 109)
+
+⚠️ André Silva (Elche):
+   - Puntos (OCR leyó: 88 -> Scraping oficial: 81)
+
+⚠️ Areso (Athletic):
+   - Puntos (OCR leyó: 72 -> Scraping oficial: 70)
+
+⚠️ Bigas (Elche):
+   - Puntos (OCR leyó: 86 -> Scraping oficial: 88)
+
+⚠️ Chust (Elche):
+   - Puntos (OCR leyó: 57 -> Scraping oficial: 54)
+
+⚠️ Dituro (Elche):
+   - Puntos (OCR leyó: 62 -> Scraping oficial: 57)
+
+⚠️ Febas (Elche):
+   - Puntos (OCR leyó: 126 -> Scraping oficial: 124)
+
+⚠️ Guruzeta (Athletic):
+   - Puntos (OCR leyó: 103 -> Scraping oficial: 88)
+
+⚠️ Herrera (Osasuna):
+   - Puntos (OCR leyó: 63 -> Scraping oficial: 166)
+
+⚠️ I. Williams (Athletic):
+   - Puntos (OCR leyó: 67 -> Scraping oficial: 65)
+
+⚠️ Izeta (Athletic):
+   - Puntos (OCR leyó: 14 -> Scraping oficial: 12)
+
+⚠️ Laporte (Athletic):
+   - Puntos (OCR leyó: 69 -> Scraping oficial: 60)
+
+⚠️ Lekue (Athletic):
+   - Puntos (OCR leyó: 13 -> Scraping oficial: 14)
+
+⚠️ Navarro (Athletic):
+   - Puntos (OCR leyó: 89 -> Scraping oficial: 87)
+
+⚠️ Núñez (Valencia):
+   - Puntos (OCR leyó: 0 -> Scraping oficial: 15)
+
+⚠️ Pedrosa (Elche):
+   - Puntos (OCR leyó: 44 -> Scraping oficial: 42)
+
+⚠️ Pétrot (Elche):
+   - Puntos (OCR leyó: 49 -> Scraping oficial: 47)
+
+⚠️ R. de Galarreta (Athletic):
+   - Puntos (OCR leyó: 99 -> Scraping oficial: 92)
+
+⚠️ Rafa Mir (Elche):
+   - Puntos (OCR leyó: 93 -> Scraping oficial: 92)
+
+⚠️ Rego (Athletic):
+   - Puntos (OCR leyó: 39 -> Scraping oficial: 35)
+
+⚠️ Sancet (Athletic):
+   - Puntos (OCR leyó: 61 -> Scraping oficial: 57)
+
+⚠️ Unai Simón (Athletic):
+   - Puntos (OCR leyó: 143 -> Scraping oficial: 138)
+
+⚠️ Valera (Elche):
+   - Puntos (OCR leyó: 146 -> Scraping oficial: 141)
+
+⚠️ Vesga (Athletic):
+   - Puntos (OCR leyó: 30 -> Scraping oficial: 28)
+
+⚠️ Vivian (Athletic):
+   - Puntos (OCR leyó: 81 -> Scraping oficial: 75)
+
+⚠️ Yuri (Athletic):
+   - Puntos (OCR leyó: 115 -> Scraping oficial: 103)

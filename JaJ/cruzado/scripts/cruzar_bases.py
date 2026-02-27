@@ -13,7 +13,7 @@ def obtener_rutas_fusion(temporada, jornada):
     dir_global = os.path.join(directorio_raiz, "JaJ", "cruzado", "datasets") # Carpeta global para el registro
     
     return {
-        'mercado': os.path.join(dir_mercado, "mercado_limpio_y_ordenado.csv"),
+        'mercado': os.path.join(dir_mercado, "mercado_limpio.csv"),
         'scraping': os.path.join(dir_scraping, "jugadores.csv"),
         'diccionario': os.path.join(dir_cruzado, "relaciones_scraping_mercado.csv"),
         'registro_pos': os.path.join(dir_global, "registro_posiciones.csv"), # NUEVO ARCHIVO

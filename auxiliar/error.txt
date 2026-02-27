@@ -39,3 +39,7 @@ Fusionar ambos documentos: Crearemos un programa que una el precio del mercado c
 Corregir los fallos del OCR: Programaremos el sistema para que la información del scraping (posición, equipo y puntos) machaque siempre a la del mercado.
 
 Generar un reporte de errores: Crearemos un documento de texto automático que registre cada vez que el sistema corrija una mala lectura de nuestras imágenes.
+
+
+
+Cambiar nombre a colombatto en el txt
