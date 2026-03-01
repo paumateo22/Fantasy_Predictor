@@ -80,3 +80,13 @@ de extracción de mercado que resulta en mercado_limpio, que lo cruzaré con jug
 ================================================================================================================================================
 He creado el apartado cruzado en JaJ que consiste en el cruzado de datos entre mercado_limpio y jugadores. Falta probarlo pq he tenido
 que ajustar partes del pipeline de extraccion de mercado para blindar más el código ante fallos del OCR o falta de datos.
+
+================================================================================================================================================
+[27/02/26]
+================================================================================================================================================
+He terminado de preparar todo y he probado con la J26, tengo un csv funcional, al que me gustaría añadir los puntos post jornada.
+
+================================================================================================================================================
+[01/03/26]
+================================================================================================================================================
+He añadido que en el cruce de scraping y mercado sea un match automático si el nombre se parece un 70% y los puntos son idénticos.
