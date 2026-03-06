@@ -1,0 +1,7 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J27 ---
+
+⚠️ Baena (Atlético):
+   - Posición (OCR falló: leyó 'Mediocentro' -> Nuestro registro dice 'Mediocampista')
+
+⚠️ Gudelj (Sevilla):
+   - Posición (OCR falló: leyó 'Mediocentro' -> Nuestro registro dice 'Mediocampista')
