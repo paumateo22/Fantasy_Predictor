@@ -6,7 +6,7 @@ A. Castrín,8.0,Sevilla,Defensa,40
 A. Fores,4.0,Real Oviedo,Delantero,27
 A. Fortuño,1.0,Espanyol,Portero,0
 A. Iturbe,1.0,Elche,Portero,0
-A. J Morales DI,5.0,Levante,Delantero,48
+A. J Morales D,5.0,Levante,Delantero,48
 A. Liso,9.0,Getafe,Delantero,67
 A. Martinez,0.3,Elche,Mediocampista,0
 A. Moleiro,24.0,Villarreal,Mediocampista,174
@@ -24,9 +24,9 @@ Abdón,3.0,Mallorca,Delantero,15
 Abel Bretones,9.0,Osasuna,Defensa,65
 Abel Ruiz,3.0,Girona,Delantero,8
 Adam B.,4.0,Elche,Mediocampista,19
-Adama Clp,5.0,Athletic,Defensa,18
+Adama,5.0,Athletic,Defensa,18
 Adrián,1.0,Betis,Portero,0
-Adrián,0.2,Athletic,Delantero,0
+Adrián Clp,0.2,Athletic,Delantero,0
 Adrián Molina,1.0,Rayo,Portero,0
 Affengruber,10.0,Elche,Defensa,104
 Agirrezabala,18.0,Valencia,Portero,104
@@ -35,20 +35,20 @@ Aguirre,1.0,Real Sociedad,Mediocampista,0
 Aidoo Jr,7.0,Celta,Defensa,26
 Aihen,6.0,Real Sociedad,Defensa,29
 Aimar,11.0,Osasuna,Mediocampista,89
-Aimar Blázquez D,1.0,Valencia,Delantero,0
+Aimar Blázquez,1.0,Valencia,Delantero,0
 Aitor Fdez,1.0,Osasuna,Portero,-2
 Aitor Ruibal,13.0,Betis,Delantero,105
-Akor D,12.0,Sevilla,Delantero,106
+Akor,12.0,Sevilla,Delantero,106
 Alaba,4.0,Real Madrid,Defensa,18
 Alan Matturro,7.0,Levante,Defensa,42
 Alassane,1.0,Villarreal,Mediocampista,0
 Albert,1.0,Elche,Defensa,0
 Alberto F.,1.0,Sevilla,Portero,0
 Alemo,6.0,Rayo,Delantero,36
-Alex Costa DE,1.0,Sevilla,Delantero,0
+Alex Costa,1.0,Sevilla,Delantero,0
 Alex Marchal,0.3,Real Sociedad,Mediocampista,0
 Alex Moreno,11.0,Girona,Defensa,88
-Alexis Sánchez DE,8.0,Sevilla,Delantero,71
+Alexis Sánchez D,8.0,Sevilla,Delantero,71
 Aleñá,10.0,Alavés,Mediocampista,110
 Alfon,5.0,Villarreal,Delantero,35
 Almada,9.0,Atlético,Mediocampista,94
@@ -56,12 +56,13 @@ Almeida,8.0,Valencia,Mediocampista,65
 Altimira,8.0,Betis,Mediocampista,65
 Amrabat,7.0,Betis,Mediocampista,32
 Andreev,1.0,Girona,Portero,0
-André Silva D,10.0,Elche,Delantero,98
+André Silva,10.0,Elche,Delantero,98
+Antañón,0.3,Celta,Mediocampista,0
 Antonio Sánchez,6.0,Mallorca,Mediocampista,44
-Antony,28.0,Betis,Delantero,159
+Antony DE,28.0,Betis,Delantero,159
 Arambarri,17.0,Getafe,Mediocampista,150
 Aramburu,9.0,Real Sociedad,Defensa,57
-Arango D,4.0,Girona,Delantero,3
+Arango,4.0,Girona,Delantero,3
 Arda Gler,29.0,Real Madrid,Mediocampista,200
 Areso,10.0,Athletic,Defensa,74
 Arguibide,4.0,Osasuna,Defensa,17
@@ -71,14 +72,14 @@ Arnau Tenas,4.0,Villarreal,Portero,7
 Arriaga,9.0,Levante,Mediocampista,65
 Asano,5.0,Mallorca,Delantero,30
 Asencio,12.0,Real Madrid,Defensa,93
-Asier Hierro,3.0,Athletic,Delantero,2
+Asier Hierro DI,3.0,Athletic,Delantero,2
 Astiazaran,0.25,Real Sociedad,Mediocampista,0
 Ayoze,8.0,Villarreal,Delantero,66
 Azpilicueta,8.0,Sevilla,Defensa,48
-B. Iglesias,18.0,Celta,Delantero,137
+B. Iglesias DE,18.0,Celta,Delantero,137
 B. Mayoral,10.0,Getafe,Delantero,67
 B. Sangare,2.0,Elche,Defensa,-1
-Bakambu D,6.0,Betis,Delantero,44
+Bakambu DE,6.0,Betis,Delantero,44
 Ballestero,1.0,Alavés,Defensa,0
 Balliu,3.0,Rayo,Defensa,12
 Bardghji,5.0,Barcelona,Delantero,47
@@ -91,7 +92,7 @@ Beitia,1.0,Real Sociedad,Defensa,0
 Bellerín,9.0,Betis,Defensa,68
 Bellingham,29.0,Real Madrid,Mediocampista,137
 Bema Sina,0.3,Elche,Defensa,0
-Berenguer lup,16.0,Athletic,Delantero,121
+Berenguer,16.0,Athletic,Delantero,121
 Bergstrom,9.0,Mallorca,Portero,36
 Birma,3.0,Getafe,Delantero,2
 Bladi,0.35,Betis,Defensa,0
@@ -102,11 +103,11 @@ Brahim,7.0,Real Madrid,Mediocampista,77
 Brais Méndez,12.0,Real Sociedad,Mediocampista,110
 Bryan Gil,10.0,Girona,Delantero,94
 Buchanan,13.0,Villarreal,Mediocampista,124
-Bujan D,0.25,Athletic,Delantero,0
+Bujan DE,0.25,Athletic,Delantero,0
 Burcio,1.0,Celta,Mediocampista,0
 C. Alvarez,10.0,Levante,Mediocampista,104
 C. Dominguez,6.0,Celta,Defensa,25
-C. Espí DE,6.0,Levante,Delantero,47
+C. Espí DI,6.0,Levante,Delantero,47
 C. Rivero,1.0,Valencia,Portero,-3
 C. Romero,16.0,Espanyol,Defensa,134
 C. Soler,18.0,Real Sociedad,Mediocampista,127
@@ -115,7 +116,7 @@ Cabrera,10.0,Espanyol,Defensa,119
 Calebe,7.0,Alavés,Mediocampista,48
 Caleta-Car,10.0,Real Sociedad,Defensa,72
 Camavinga,10.0,Real Madrid,Mediocampista,90
-Camello,5.0,Rayo,Delantero,23
+Camello DE,5.0,Rayo,Delantero,23
 Cancelo,10.0,Barcelona,Defensa,38
 Cardona,10.0,Villarreal,Defensa,87
 Cardoso,7.0,Sevilla,Defensa,20
@@ -126,7 +127,7 @@ Carreira,11.0,Celta,Defensa,100
 Carvajal,6.0,Real Madrid,Defensa,35
 Catena,18.0,Osasuna,Defensa,143
 Cayetano,1.0,Levante,Portero,0
-Cepeda,7.0,Elche,Delantero,15
+Cepeda DI,7.0,Elche,Delantero,15
 Cestero,2.0,Real Madrid,Mediocampista,2
 Chavarría,11.0,Rayo,Defensa,107
 Cheli,1.0,Real Oviedo,Mediocampista,0
@@ -137,7 +138,7 @@ Comesaña,12.0,Villarreal,Mediocampista,122
 Copete,10.0,Valencia,Defensa,76
 Costa,4.9,Villarreal,Defensa,0
 Courtois,23.0,Real Madrid,Portero,177
-Cucho,21.0,Betis,Delantero,137
+cucho,21.0,Betis,Delantero,137
 Cuéllar,1.0,Mallorca,Portero,0
 Cmert,9.0,Valencia,Defensa,51
 D. Ceballos,6.0,Real Madrid,Mediocampista,45
@@ -173,7 +174,7 @@ Dimitrievski,9.0,Valencia,Portero,50
 Djene,10.0,Getafe,Defensa,103
 Dmitrovic,17.0,Espanyol,Portero,149
 Dolan,10.0,Espanyol,Delantero,106
-Domingos Duar,11.0,Getafe,Defensa,111
+Domingos Duar.,11.0,Getafe,Defensa,111
 E. Bailly,8.0,Real Oviedo,Defensa,33
 E. Milito,13.0,Real Madrid,Defensa,86
 Echeverri,5.0,Girona,Mediocampista,18
@@ -182,11 +183,11 @@ Eder García,2.0,Athletic,Mediocampista,2
 Edu Altozano,1.0,Sevilla,Mediocampista,0
 Edu Expósito,20.0,Espanyol,Mediocampista,151
 Egiluz,0.4,Athletic,Defensa,0
-Egoitz M.I.,1.0,Alavés,Defensa,0
-Ejaria DI,4.0,Real Oviedo,Delantero,15
-Ejuke,7.0,Sevilla,Delantero,80
+Egoitz MI.,1.0,Alavés,Defensa,0
+Ejaria D,4.0,Real Oviedo,Delantero,15
+Ejuke DI,7.0,Sevilla,Delantero,80
 El Hilali,9.0,Espanyol,Defensa,72
-El-Abdellaoui D,6.0,Celta,Delantero,48
+EI-Abdellaoui D,6.0,Celta,Delantero,48
 Elgezabal,8.0,Levante,Defensa,33
 Eric,18.0,Barcelona,Defensa,155
 Esquivel,1.0,Atlético,Portero,0
@@ -202,7 +203,7 @@ Febas,14.0,Elche,Mediocampista,133
 Fer López,8.0,Celta,Mediocampista,22
 Fermín,23.0,Barcelona,Mediocampista,151
 Ferran,20.0,Barcelona,Delantero,152
-Ferran Jutgl DE,9.0,Celta,Delantero,76
+Ferran Jutgl D,9.0,Celta,Delantero,76
 Ferrer,1.0,Getafe,Portero,0
 Ferri,1.0,Espanyol,Mediocampista,0
 Fidalgo,10.0,Betis,Mediocampista,26
@@ -224,10 +225,11 @@ Freeman,3.0,Villarreal,Defensa,4
 Félix,0.35,Betis,Defensa,0
 G. Rodríguez,7.0,Valencia,Mediocampista,16
 G. Villar,2.0,Elche,Mediocampista,2
+Gattoni,0.4,Sevilla,Defensa,0
 Gavi,5.0,Barcelona,Mediocampista,8
 Gayá,10.0,Valencia,Defensa,86
 Gazzaniga,14.0,Girona,Portero,124
-Gerard,11.0,Villarreal,Delantero,95
+Gerard D,11.0,Villarreal,Delantero,95
 Gerard Martín,10.0,Barcelona,Defensa,96
 German V.,19.0,Elche,Mediocampista,153
 Germán,1.0,Betis,Portero,0
@@ -235,9 +237,9 @@ Gibi,1.0,Girona,Defensa,0
 Giuliano,18.0,Atlético,Delantero,139
 Gonzalo,6.0,Real Madrid,Delantero,66
 Gorka Carrera,0.45,Real Sociedad,Delantero,0
-Gorosabel Ctc,7.0,Athletic,Defensa,38
+Gorosabel,7.0,Athletic,Defensa,38
 Gorrotxa,11.0,Real Sociedad,Mediocampista,108
-Grady Diangana D,6.0,Elche,Delantero,34
+Grady Diangana DI,6.0,Elche,Delantero,34
 Griezmann,9.0,Atlético,Delantero,116
 Guedes,17.0,Real Sociedad,Mediocampista,149
 Guevara,6.0,Alavés,Mediocampista,47
@@ -245,25 +247,25 @@ Gueye,19.0,Villarreal,Mediocampista,123
 Guille Fernández,1.0,Barcelona,Mediocampista,0
 Gumbau,6.0,Rayo,Mediocampista,45
 Guridi,5.0,Alavés,Mediocampista,34
-Guruzeta DE,11.0,Athletic,Delantero,106
-H.González,1.0,Celta,Mediocampista,0
+Guruzeta,11.0,Athletic,Delantero,106
+H. González,1.0,Celta,Mediocampista,0
 H. Rincón,9.0,Girona,Defensa,58
 Hancko,12.0,Atlético,Defensa,122
 Hassan,10.0,Real Oviedo,Mediocampista,104
 Herrando,10.0,Osasuna,Defensa,73
 Herrera,4.0,Real Sociedad,Mediocampista,8
 Hugo Alvarez,8.0,Celta,Mediocampista,63
-Hugo Duro,10.0,Valencia,Delantero,103
+Hugo Duro D,10.0,Valencia,Delantero,103
 Hugo Lopez,3.0,Villarreal,Mediocampista,3
 Hugo Sotelo,9.0,Celta,Mediocampista,65
 Huijsen,20.0,Real Madrid,Defensa,114
-Huseini UlsuI,1.0,Levante,Defensa,0
+Huseini,1.0,Levante,Defensa,0
 Héctor Fort,8.0,Elche,Defensa,36
-I. Akhomach,6.0,Rayo,Delantero,46
-Benito,5.0,Osasuna,Delantero,19
+Akhomach,6.0,Rayo,Delantero,46
+I. Benito,5.0,Osasuna,Delantero,19
 I. Lekue,4.0,Athletic,Defensa,13
 Romero D,11.0,Levante,Delantero,102
-lago Aspas D,9.0,Celta,Delantero,110
+lago Aspas,9.0,Celta,Delantero,110
 Ibañez,10.0,Alavés,Mediocampista,103
 Ibon Sánchez,0.2,Athletic,Delantero,0
 Iker Losada DE,6.0,Levante,Delantero,43
@@ -293,7 +295,7 @@ J. Musso,9.0,Atlético,Portero,8
 J. Vertrouwd,3.0,Rayo,Defensa,6
 J. Vázquez,6.0,Valencia,Defensa,37
 Jan Salas,3.0,Mallorca,Mediocampista,4
-Jan Virgili D,12.0,Mallorca,Delantero,103
+Jan Virgili,12.0,Mallorca,Delantero,103
 Jandro,0.25,Mallorca,Mediocampista,0
 Jano,3.0,Atlético,Mediocampista,2
 Januzaj,4.0,Sevilla,Mediocampista,24
@@ -313,7 +315,7 @@ Joan Martínez,0.4,Real Madrid,Defensa,0
 Joan Ruiz,1.0,Levante,Mediocampista,0
 Joel Roca,7.0,Girona,Delantero,63
 Jofre,2.0,Barcelona,Defensa,3
-Jofre,7.0,Espanyol,Delantero,52
+Jofre D,7.0,Espanyol,Delantero,52
 John C.,5.0,Elche,Defensa,31
 Johnny,7.0,Atlético,Mediocampista,42
 Jon De Luis,1.0,Athletic,Defensa,0
@@ -338,7 +340,7 @@ K. Tunde,7.0,Levante,Mediocampista,27
 Kalumba Jr,1.0,Mallorca,Delantero,0
 Kamara,3.0,Getafe,Delantero,16
 Kambwala,5.3,Villarreal,Defensa,0
-Karrikaburu DE,3.0,Real Sociedad,Delantero,9
+Karrikaburu D,3.0,Real Sociedad,Delantero,9
 Kike Barja,4.0,Osasuna,Delantero,33
 Kike García,10.0,Espanyol,Delantero,103
 Kike Salas,13.0,Sevilla,Defensa,84
@@ -353,8 +355,8 @@ Krapyvtsov,3.0,Girona,Portero,3
 Kubo,13.0,Real Sociedad,Mediocampista,104
 Kumbulla,4.0,Mallorca,Defensa,9
 L. Milla,28.0,Getafe,Mediocampista,187
-L.Pinillos,2.0,Alavés,Mediocampista,1
-Lamine Gueye,1.0,Real Oviedo,Delantero,0
+L. Pinillos,2.0,Alavés,Mediocampista,1
+Lamine Gueye DI,1.0,Real Oviedo,Delantero,0
 Lamine Yamal,60.0,Barcelona,Delantero,280
 Lamini,0.4,Real Madrid,Defensa,0
 Laporte,11.0,Athletic,Defensa,78
@@ -366,7 +368,7 @@ Lemar,9.0,Girona,Mediocampista,83
 Lenglet,9.0,Atlético,Defensa,48
 Leo Román,12.0,Mallorca,Portero,105
 Letacek,1.0,Getafe,Portero,0
-Lewandowski,10.0,Barcelona,Delantero,121
+Lewandowski DE,10.0,Barcelona,Delantero,121
 Llorente,7.0,Betis,Defensa,43
 Lo Celso,11.0,Betis,Mediocampista,93
 Lookman,7.0,Atlético,Delantero,16
@@ -402,7 +404,7 @@ Marco Esteban,3.0,Real Oviedo,Defensa,2
 Marcos Alonso,23.0,Celta,Defensa,148
 Marcos Llorente,20.0,Atlético,Defensa,140
 Mariano,4.0,Alavés,Delantero,18
-Mariezkurrena DE,0.4,Real Sociedad,Delantero,0
+Mariezkurrena,0.4,Real Sociedad,Delantero,0
 Mario Martín,9.0,Getafe,Mediocampista,64
 Maroan,4.0,Athletic,Delantero,17
 Marrero,1.0,Real Sociedad,Portero,0
@@ -412,7 +414,7 @@ Marín,7.0,Real Sociedad,Mediocampista,49
 Mascarell,10.0,Mallorca,Mediocampista,76
 Mateo Joseph D,10.0,Mallorca,Delantero,96
 Matías Moreno,11.0,Levante,Defensa,85
-Maupay,8.0,Sevilla,Delantero,18
+Maupay DE,8.0,Sevilla,Delantero,18
 Mauro,1.0,Osasuna,Mediocampista,0
 Mañas,3.0,Alavés,Delantero,9
 Mbappé,60.0,Real Madrid,Delantero,279
@@ -428,26 +430,27 @@ Moi Gómez,8.0,Osasuna,Mediocampista,72
 Moldovan,1.0,Real Oviedo,Portero,0
 Molina,8.0,Atlético,Defensa,62
 Moncayola,11.0,Osasuna,Mediocampista,118
+o,1.0,Athletic,Defensa,0
 Montero,1.0,Alavés,Portero,0
 Montes,6.0,Getafe,Defensa,5
 Morcillo,2.0,Alavés,Delantero,1
 Morey,5.0,Mallorca,Defensa,30
 Morlanes,8.0,Mallorca,Mediocampista,67
 Mouriño,14.0,Villarreal,Defensa,102
-Muriqi DE,24.0,Mallorca,Delantero,172
+Muriqi,24.0,Mallorca,Delantero,172
 Mykyta,1.0,Getafe,Delantero,0
 N. Mendy,17.0,Rayo,Defensa,94
 Nacho Perez,3.0,Levante,Defensa,3
 Nacho Vidal,10.0,Real Oviedo,Defensa,65
 Natan,16.0,Betis,Defensa,130
 Navarro,1.0,Valencia,Defensa,0
-Navarro Ctc,8.0,Athletic,Mediocampista,93
+Navarro,8.0,Athletic,Mediocampista,93
 Nelson Deossa,6.0,Betis,Mediocampista,46
-Ngonge DI,8.0,Espanyol,Delantero,23
+Ngonge,8.0,Espanyol,Delantero,23
 Nianzou,6.0,Sevilla,Defensa,28
 Nico Gonzalez,11.0,Atlético,Mediocampista,99
-Nico Serrano,5.0,Athletic,Delantero,35
-Nico Williams,21.0,Athletic,Delantero,121
+Nico Serrano D,5.0,Athletic,Delantero,35
+Nico Williams DI,21.0,Athletic,Delantero,121
 Nil,1.0,Mallorca,Portero,0
 Nordin Al-Lal,0.2,Elche,Delantero,0
 Nteka,3.0,Rayo,Delantero,14
@@ -459,6 +462,7 @@ Rey,8.0,Levante,Mediocampista,46
 O. Sancet,10.0,Athletic,Mediocampista,67
 Obed Vargas,3.0,Atlético,Mediocampista,4
 Oblak,25.0,Atlético,Portero,178
+Ochieng,0.35,Real Sociedad,Mediocampista,0
 Odriozola,6.0,Real Sociedad,Defensa,22
 Olaizola,1.0,Mallorca,Defensa,0
 Olasagasti,7.0,Levante,Mediocampista,62
@@ -469,18 +473,18 @@ Oskarsson,6.0,Real Sociedad,Delantero,39
 Oso,8.0,Sevilla,Defensa,40
 Osorio,1.4,Elche,Delantero,0
 Otorbi,1.0,Valencia,Delantero,0
-Ounahi,15.0,Girona,Mediocampista,97
+ounahi,15.0,Girona,Mediocampista,97
 Oyarzabal,27.0,Real Sociedad,Delantero,169
-P.Campos,8.0,Levante,Portero,14
+P. Campos,8.0,Levante,Portero,14
 P. Martínez,10.0,Levante,Mediocampista,84
 P. Meixus,0.2,Celta,Defensa,0
-Pablo Durán DI,8.0,Celta,Delantero,73
+Pablo Durán,8.0,Celta,Delantero,73
 Pablo García,5.0,Betis,Delantero,31
 Pablo Torre,7.0,Mallorca,Mediocampista,62
 Pacha,8.0,Rayo,Defensa,66
 Pacheco,10.0,Alavés,Defensa,71
-Paco Cortes D,5.0,Levante,Delantero,27
-Padilla Ctc,1.0,Athletic,Portero,3
+Paco Cortes DI,5.0,Levante,Delantero,27
+Padilla,1.0,Athletic,Portero,3
 Palacios,3.0,Real Madrid,Mediocampista,2
 Pampin,5.0,Levante,Mediocampista,19
 Panach,1.0,Valencia,Defensa,0
@@ -510,14 +514,14 @@ Puado,8.0,Espanyol,Mediocampista,42
 Purié,0.4,Atlético,Defensa,0
 R. Araujo,7.0,Barcelona,Defensa,54
 R. Arroyo D,0.3,Osasuna,Delantero,0
-R. Brugué DE,7.0,Levante,Delantero,42
+R. Brugué DE UlsuI,7.0,Levante,Delantero,42
 R. Chasco,1.0,Osasuna,Defensa,0
 R. Mendoza,8.0,Atlético,Mediocampista,58
-B. Terrats,6.0,Espanyol,Mediocampista,64
-RP. Bigas,11.0,Elche,Defensa,88
+R. Terrats,6.0,Espanyol,Mediocampista,64
+R.P. Bigas,11.0,Elche,Defensa,88
 Raba,4.0,Valencia,Delantero,31
 Rafa Marín,17.0,Villarreal,Defensa,96
-Rafa Mir D,12.0,Elche,Delantero,105
+Rafa Mir,12.0,Elche,Delantero,105
 Rafa Romero,1.0,Sevilla,Portero,0
 Raghouber,7.0,Levante,Mediocampista,18
 Ramazani,7.0,Valencia,Delantero,62
@@ -526,7 +530,7 @@ Rashford,17.0,Barcelona,Delantero,130
 Ratiu,20.0,Rayo,Defensa,145
 Rayane,1.0,Atlético,Delantero,0
 Raíllo,10.0,Mallorca,Defensa,79
-Raúl,7.0,Osasuna,Delantero,82
+Raúl D,7.0,Osasuna,Delantero,82
 Raúl Fernández,1.0,Alavés,Portero,0
 Raúl Moro,9.0,Osasuna,Delantero,33
 Redondo,3.0,Elche,Mediocampista,13
@@ -539,7 +543,7 @@ Rioja,13.0,Valencia,Mediocampista,130
 Riquelme,6.0,Betis,Mediocampista,48
 Risco,1.0,Getafe,Mediocampista,0
 Ristic,5.0,Celta,Defensa,13
-Roberto DI,10.0,Espanyol,Delantero,112
+Roberto,10.0,Espanyol,Delantero,112
 Rodrygo,8.0,Real Madrid,Delantero,92
 Rodríguez,9.0,Betis,Defensa,68
 Roson,0.2,Levante,Mediocampista,0
@@ -547,7 +551,7 @@ Ruben,1.0,Villarreal,Portero,0
 Rubo,3.0,Valencia,Defensa,2
 Rubén Blanco,1.0,Girona,Portero,0
 Rubén García,15.0,Osasuna,Mediocampista,133
-Rubén .,6.0,Espanyol,Mediocampista,38
+Rubén S.,6.0,Espanyol,Mediocampista,38
 Ruggeri,12.0,Atlético,Defensa,103
 Ryan,23.0,Levante,Portero,163
 Rdiger,10.0,Real Madrid,Defensa,55
@@ -561,8 +565,8 @@ Santamaría,7.0,Valencia,Mediocampista,58
 Santos,0.25,Osasuna,Defensa,0
 Sarasa,0.3,Girona,Delantero,0
 Saravia,1.0,Valencia,Defensa,0
-Satriano D,18.0,Getafe,Delantero,47
-Selton lup,4.0,Athletic,Mediocampista,15
+Satriano,18.0,Getafe,Delantero,47
+Selton,4.0,Athletic,Mediocampista,15
 Sergio Gómez,12.0,Real Sociedad,Defensa,119
 Sergio Herrera,23.0,Osasuna,Portero,176
 Sibo,8.0,Real Oviedo,Mediocampista,50
@@ -577,20 +581,20 @@ Stuani,4.0,Girona,Delantero,36
 Suazo,10.0,Sevilla,Defensa,72
 Sucic,6.0,Real Sociedad,Mediocampista,41
 Swiderski,1.0,Alavés,Portero,0
-Szczesny,8.0,Barcelona,Portero,32
+szczesny,8.0,Barcelona,Portero,32
 T. Borbas,2.0,Real Oviedo,Delantero,6
-T.Martinez,11.0,Alavés,Delantero,122
+T. Martinez,11.0,Alavés,Delantero,122
 T. Morente DI,6.0,Elche,Delantero,9
 Taufik Seidu,0.3,Atlético,Mediocampista,0
 Tchouaméni,17.0,Real Madrid,Mediocampista,134
 Tenaglia,10.0,Alavés,Defensa,114
 Ter Stegen,7.0,Girona,Portero,12
-Thiago Fernánd..,5.0,Real Oviedo,Mediocampista,17
+Thiago Fernánd.,5.0,Real Oviedo,Mediocampista,17
 Thiago Pitarch,4.0,Real Madrid,Mediocampista,5
 Thierry Correia,8.0,Valencia,Defensa,42
 Thomas Partey,7.0,Villarreal,Mediocampista,48
 Tommy Marqués,2.0,Barcelona,Defensa,1
-Toni Fernández,3.0,Barcelona,Delantero,2
+Toni Fernández DE,3.0,Barcelona,Delantero,2
 Toni Lato,4.0,Mallorca,Defensa,16
 Torró,10.0,Osasuna,Mediocampista,84
 Trejo,3.0,Rayo,Mediocampista,9
@@ -600,7 +604,7 @@ Tsygankov,18.0,Girona,Delantero,120
 Turrientes,7.0,Real Sociedad,Mediocampista,56
 Tárrega,10.0,Valencia,Defensa,87
 Ugrinic,9.0,Valencia,Mediocampista,71
-Unai G. Clp,5.0,Athletic,Mediocampista,36
+Unai G.,5.0,Athletic,Mediocampista,36
 Unai Lopez,10.0,Rayo,Mediocampista,99
 Unai Simón,19.0,Athletic,Portero,160
 Urko,9.0,Espanyol,Mediocampista,77
@@ -613,7 +617,7 @@ Valjent,10.0,Mallorca,Defensa,94
 Valverde,28.0,Real Madrid,Mediocampista,189
 Van De Beek,3.0,Girona,Mediocampista,4
 Vanat,13.0,Girona,Delantero,121
-Vargas DE,10.0,Sevilla,Delantero,82
+Vargas,10.0,Sevilla,Delantero,82
 Vecino,4.0,Celta,Mediocampista,7
 Vencedor,7.0,Levante,Mediocampista,38
 Vesga,4.0,Athletic,Mediocampista,34
@@ -644,16 +648,15 @@ Zubeldia,10.0,Real Sociedad,Defensa,82
 Álex Sancris,6.0,Getafe,Delantero,36
 Álex Sánchez,7.0,Elche,Mediocampista,6
 Álvaro,12.0,Elche,Delantero,117
-Álvaro DI,12.0,Elche,Delantero,117
 Álvaro García,0.2,Alavés,Defensa,0
 Álvaro García,12.0,Rayo,Mediocampista,131
 Álvaro Núñez,18.0,Celta,Defensa,108
 Ángel Pérez,7.0,Alavés,Delantero,16
+Álvaro DI,12.0,Elche,Delantero,117
 Óscar Marcos D,0.35,Celta,Delantero,0
 Óscar Valentín,100.0,Rayo,Mediocampista,95
 Agudín,1.0,Real Oviedo,Delantero,0
 Budimir,20.0,Osasuna,Delantero,157
 Gudelj,11.0,Sevilla,Mediocampista,98
 Ismael,5.0,Getafe,Defensa,13
-Monreal,1.0,Athletic,Defensa,0
 Álex Baena,10.0,Atlético,Mediocampista,100
