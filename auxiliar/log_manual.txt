@@ -90,3 +90,9 @@ He terminado de preparar todo y he probado con la J26, tengo un csv funcional, a
 [01/03/26]
 ================================================================================================================================================
 He añadido que en el cruce de scraping y mercado sea un match automático si el nombre se parece un 70% y los puntos son idénticos.
+
+================================================================================================================================================
+[13/03/26]
+================================================================================================================================================
+He creado un scraping de besoccer para la tabla de clasificación. Porque por ahora estoy usando una gem de
+gemini cargada con mis datasets de cada jornada para tantear la predicción de 11s.

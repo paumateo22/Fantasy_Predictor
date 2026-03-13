@@ -1,15 +1,15 @@
-ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilidad_Jugar,Estado_Medico,Partidos_Jugados,Goles,Asistencias,Penaltis_Parados,Tarjetas_Amarillas,Tarjetas_Rojas,Estado_Forma,Puntos_Totales,Media_Puntos,Puntos_Ultima_Jornada,Puntos_Jornada_Ant_2,Puntos_Jornada_Ant_3
-20345,2025/26,28,Alavés,Parada,Desconocido,23,ES,70%,Sano,19,0,2,0,8,1,1.1,45,2.4,0,4,10
-20345,2025/26,28,Alavés,Ángel Pérez,Desconocido,23,ES,70%,Sano,5,0,0,0,0,0,1.7,16,3.2,6,4,1
-20345,2025/26,28,Alavés,Youssef,Desconocido,20,MA,70%,Sano,20,0,1,0,4,0,1.4,58,2.9,0,0,9
-20345,2025/26,28,Alavés,Sivera,Portero,29,ES,95%,Sano,27,0,0,0,1,0,1.9,126,4.7,5,3,2
+﻿ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilidad_Jugar,Estado_Medico,Partidos_Jugados,Goles,Asistencias,Penaltis_Parados,Tarjetas_Amarillas,Tarjetas_Rojas,Estado_Forma,Puntos_Totales,Media_Puntos,Puntos_Ultima_Jornada,Puntos_Jornada_Ant_2,Puntos_Jornada_Ant_3
 20345,2025/26,28,Alavés,Jonny,Desconocido,32,ES,90%,Sano,26,0,0,0,5,0,1,83,3.2,0,3,1
-20345,2025/26,28,Alavés,Blanco,Desconocido,25,ES,90%,Sano,25,1,1,0,5,0,1.8,112,4.5,5,4,5
-20345,2025/26,28,Alavés,Tenaglia,Desconocido,30,AR,90%,Sano,25,1,0,0,2,0,1.7,114,4.6,3,2,4
-20345,2025/26,28,Alavés,Toni Martinez,Desconocido,28,ES,70%,Sano,26,5,2,0,1,0,0.9,122,4.7,5,6,1
-20345,2025/26,28,Alavés,Aleñá,Desconocido,28,ES,70%,Sano,27,0,4,0,4,0,1.1,110,4.1,2,5,3
-20345,2025/26,28,Alavés,Boyé,Desconocido,30,AR,90%,Sano,21,9,1,0,3,1,2.3,128,6.1,15,0,15
 20345,2025/26,28,Alavés,Ibáñez,Desconocido,27,ES,50%,Sano,26,1,1,0,5,0,1.7,103,4,0,2,4
+20345,2025/26,28,Alavés,Boyé,Desconocido,30,AR,90%,Sano,21,9,1,0,3,1,2.3,128,6.1,15,0,15
+20345,2025/26,28,Alavés,Aleñá,Desconocido,28,ES,70%,Sano,27,0,4,0,4,0,1.1,110,4.1,2,5,3
+20345,2025/26,28,Alavés,Toni Martinez,Desconocido,28,ES,70%,Sano,26,5,2,0,1,0,0.9,122,4.7,5,6,1
+20345,2025/26,28,Alavés,Tenaglia,Desconocido,30,AR,90%,Sano,25,1,0,0,2,0,1.7,114,4.6,3,2,4
+20345,2025/26,28,Alavés,Blanco,Desconocido,25,ES,90%,Sano,25,1,1,0,5,0,1.8,112,4.5,5,4,5
+20345,2025/26,28,Alavés,Parada,Desconocido,23,ES,70%,Sano,19,0,2,0,8,1,1.1,45,2.4,0,4,10
+20345,2025/26,28,Alavés,Sivera,Portero,29,ES,95%,Sano,27,0,0,0,1,0,1.9,126,4.7,5,3,2
+20345,2025/26,28,Alavés,Youssef,Desconocido,20,MA,70%,Sano,20,0,1,0,4,0,1.4,58,2.9,0,0,9
+20345,2025/26,28,Alavés,Ángel Pérez,Desconocido,23,ES,70%,Sano,5,0,0,0,0,0,1.7,16,3.2,6,4,1
 20345,2025/26,28,Alavés,Guridi,Desconocido,31,ES,50%,Sano,17,0,0,0,1,0,1,34,2,3,0,0
 20345,2025/26,28,Alavés,Koski,Desconocido,24,FI,40%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20345,2025/26,28,Alavés,Denis Suárez,Desconocido,32,ES,30%,Sano,21,1,1,0,4,0,1,72,3.4,11,0,2
@@ -19,22 +19,22 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20345,2025/26,28,Alavés,Aitor Mañas,Desconocido,2026,,10%,Sano,6,0,0,0,0,0,1,9,1.5,0,0,2
 20345,2025/26,28,Alavés,Mariano,Desconocido,32,DO,10%,Sano,10,0,0,0,1,0,0,18,1.8,1,0,0
 20345,2025/26,28,Alavés,Diabaté,Desconocido,26,CI,10%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20345,2025/26,28,Alavés,Raúl F.,Desconocido,37,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+20345,2025/26,28,Alavés,Raúl F.,Desconocido,38,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20345,2025/26,28,Alavés,Pacheco,Desconocido,25,ES,0%,Sano,20,0,0,0,5,1,0.9,71,3.6,-3,1,0
 20345,2025/26,28,Alavés,Garcés,Desconocido,26,MY,0%,Lesionado/Duda,10,0,0,0,3,0,1,43,4.3,0,0,0
 20345,2025/26,28,Alavés,Guevara,Desconocido,28,ES,0%,Sano,19,1,0,0,4,1,1,47,2.5,-1,1,2
-20345,2025/26,28,Villarreal,Luiz Junior,Portero,25,BR,90%,Sano,24,0,0,1,3,0,1.3,173,7.2,10,0,3
-20345,2025/26,28,Villarreal,Pépé,Desconocido,30,CI,80%,Sano,26,3,4,0,3,0,1.4,155,6,6,5,5
-20345,2025/26,28,Villarreal,Mikautadze,Desconocido,25,GE,60%,Sano,22,8,4,0,1,0,1.6,136,6.2,4,1,1
-20345,2025/26,28,Villarreal,Moleiro,Desconocido,22,ES,90%,Sano,26,9,4,0,3,0,1.2,174,6.7,4,1,5
-20345,2025/26,28,Villarreal,Comesaña,Desconocido,29,ES,70%,Sano,25,3,3,0,4,1,1.6,122,4.9,11,1,12
-20345,2025/26,28,Villarreal,P. Gueye,Desconocido,27,SN,80%,Sano,21,4,2,0,7,0,1.6,123,5.9,13,9,13
-20345,2025/26,28,Villarreal,Buchanan,Desconocido,27,CA,70%,Sano,25,6,1,0,7,0,1.6,124,5,15,0,1
-20345,2025/26,28,Villarreal,S. Cardona,Desconocido,26,ES,70%,Sano,22,0,3,0,3,0,1,87,4,2,0,4
-20345,2025/26,28,Villarreal,Rafa Marín,Desconocido,23,ES,70%,Sano,17,1,0,0,1,0,1,96,5.6,5,0,0
-20345,2025/26,28,Villarreal,Pau Navarro,Desconocido,20,ES,60%,Sano,15,0,0,0,3,0,1.5,56,3.7,10,-1,5
 20345,2025/26,28,Villarreal,Mouriño,Desconocido,24,UY,90%,Sano,20,1,2,0,9,1,1.6,102,5.1,11,5,4
-20345,2025/26,28,Villarreal,Veiga,Desconocido,22,PT,50%,Sano,24,0,0,0,3,1,1.3,81,3.4,2,-1,4
+20345,2025/26,28,Villarreal,Pau Navarro,Desconocido,20,ES,60%,Sano,15,0,0,0,3,0,1.5,56,3.7,10,-1,5
+20345,2025/26,28,Villarreal,Rafa Marín,Desconocido,23,ES,60%,Sano,17,1,0,0,1,0,1,96,5.6,5,0,0
+20345,2025/26,28,Villarreal,S. Cardona,Desconocido,26,ES,70%,Sano,22,0,3,0,3,0,1,87,4,2,0,4
+20345,2025/26,28,Villarreal,Buchanan,Desconocido,27,CA,70%,Sano,25,6,1,0,7,0,1.6,124,5,15,0,1
+20345,2025/26,28,Villarreal,P. Gueye,Desconocido,27,SN,80%,Sano,21,4,2,0,7,0,1.6,123,5.9,13,9,13
+20345,2025/26,28,Villarreal,Comesaña,Desconocido,29,ES,70%,Sano,25,3,3,0,4,1,1.6,122,4.9,11,1,12
+20345,2025/26,28,Villarreal,Moleiro,Desconocido,22,ES,90%,Sano,26,9,4,0,3,0,1.2,174,6.7,4,1,5
+20345,2025/26,28,Villarreal,Mikautadze,Desconocido,25,GE,60%,Sano,22,8,4,0,1,0,1.6,136,6.2,4,1,1
+20345,2025/26,28,Villarreal,Pépé,Desconocido,30,CI,80%,Sano,26,3,4,0,3,0,1.4,155,6,6,5,5
+20345,2025/26,28,Villarreal,Luiz Junior,Portero,25,BR,90%,Sano,24,0,0,1,3,0,1.3,173,7.2,10,0,3
+20345,2025/26,28,Villarreal,Veiga,Desconocido,22,PT,60%,Sano,24,0,0,0,3,1,1.3,81,3.4,2,-1,4
 20345,2025/26,28,Villarreal,Oluwaseyi,Desconocido,25,CA,40%,Sano,21,2,1,0,1,0,0,59,2.8,0,2,0
 20345,2025/26,28,Villarreal,Pedraza,Desconocido,29,ES,30%,Sano,20,1,2,0,6,0,1,78,3.9,0,-2,4
 20345,2025/26,28,Villarreal,Gerard,Desconocido,33,ES,30%,Sano,13,7,0,0,0,0,1,95,7.3,1,0,0
@@ -116,7 +116,7 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20343,2025/26,28,Atlético,Baena,Desconocido,24,ES,50%,Sano,18,2,2,0,3,0,1.1,100,5.6,0,7,10
 20343,2025/26,28,Atlético,Molina,Desconocido,27,AR,70%,Sano,19,0,1,0,2,0,0.8,62,3.3,2,5,1
 20343,2025/26,28,Atlético,González,Desconocido,27,AR,70%,Sano,19,3,0,0,3,0,3,99,5.2,17,0,0
-20343,2025/26,28,Atlético,M. Llorente,Desconocido,31,ES,50%,Lesionado/Duda,23,0,4,0,4,0,1.7,140,6.1,3,3,10
+20343,2025/26,28,Atlético,M. Llorente,Desconocido,31,ES,50%,Sano,23,0,4,0,4,0,1.7,140,6.1,3,3,10
 20343,2025/26,28,Atlético,Giuliano,Desconocido,23,AR,40%,Sano,24,3,5,0,1,0,1,139,5.8,3,2,9
 20343,2025/26,28,Atlético,Hancko,Desconocido,28,SK,40%,Sano,25,0,2,0,1,0,1.5,122,4.9,2,0,4
 20343,2025/26,28,Atlético,Pubill,Desconocido,22,ES,40%,Sano,11,0,1,0,1,0,2.5,73,6.6,0,0,5
@@ -175,8 +175,8 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20351,2025/26,28,Real Oviedo,Ahijado,Desconocido,31,ES,20%,Lesionado/Duda,15,0,1,0,2,0,1,42,2.8,0,0,1
 20351,2025/26,28,Real Oviedo,Borbas,Desconocido,23,UY,10%,Lesionado/Duda,5,0,0,0,1,0,1,6,1.2,0,2,0
 20351,2025/26,28,Real Oviedo,Moldovan,Desconocido,28,RO,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20351,2025/26,28,Real Oviedo,Ejaria,Desconocido,28,EN,0%,Lesionado/Duda,7,0,0,0,1,0,-1,15,2.1,0,0,0
 20351,2025/26,28,Real Oviedo,Dendoncker,Desconocido,30,BE,0%,Lesionado/Duda,19,1,0,0,2,0,-1,61,3.2,0,0,0
+20351,2025/26,28,Real Oviedo,Ejaria,Desconocido,28,EN,0%,Lesionado/Duda,7,0,0,0,1,0,-1,15,2.1,0,0,0
 20351,2025/26,28,Valencia,Núñez,Desconocido,29,ES,90%,Sano,5,0,0,0,1,0,1.5,26,5.2,3,10,-2
 20351,2025/26,28,Valencia,Dimitrievski,Portero,32,MK,95%,Sano,9,0,0,0,0,0,1.7,50,5.6,4,9,4
 20351,2025/26,28,Valencia,Cömert,Desconocido,28,CH,90%,Sano,10,2,0,0,2,0,1.7,51,5.1,9,7,1
@@ -204,51 +204,51 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20351,2025/26,28,Valencia,Agirrezabala,Desconocido,25,ES,0%,Lesionado/Duda,18,0,0,1,1,0,-1,104,5.8,0,0,0
 20351,2025/26,28,Valencia,Copete,Desconocido,26,ES,0%,Lesionado/Duda,21,0,0,0,5,0,1,76,3.6,0,0,2
 20351,2025/26,28,Valencia,Diakhaby,Desconocido,29,GN,0%,Lesionado/Duda,8,1,0,0,3,0,-1,38,4.8,0,0,0
-20350,2025/26,28,Real Madrid,Camavinga,Desconocido,23,FR,70%,Sano,19,1,0,0,0,0,0.5,90,4.7,0,0,7
-20350,2025/26,28,Real Madrid,Vinicius,Desconocido,25,BR,80%,Sano,26,9,5,0,7,0,1.3,197,7.6,7,4,8
 20350,2025/26,28,Real Madrid,Huijsen,Desconocido,20,ES,50%,Sano,19,1,2,0,5,1,0,114,6,0,1,0
-20350,2025/26,28,Real Madrid,Carvajal,Desconocido,34,ES,50%,Sano,10,0,0,0,0,0,0.8,35,3.5,0,3,4
+20350,2025/26,28,Real Madrid,Vinicius,Desconocido,25,BR,80%,Sano,26,9,5,0,7,0,1.3,197,7.6,7,4,8
+20350,2025/26,28,Real Madrid,Camavinga,Desconocido,23,FR,70%,Sano,19,1,0,0,0,0,0.5,90,4.7,0,0,7
+20350,2025/26,28,Real Madrid,Carvajal,Desconocido,34,ES,70%,Sano,10,0,0,0,0,0,0.8,35,3.5,0,3,4
 20350,2025/26,28,Real Madrid,Güler,Desconocido,21,TR,60%,Sano,27,3,8,0,1,0,0.8,200,7.4,8,8,5
-20350,2025/26,28,Real Madrid,Tchouaméni,Desconocido,26,FR,50%,Sano,24,1,0,0,7,0,2.1,134,5.6,13,3,5
+20350,2025/26,28,Real Madrid,Thiago,Desconocido,18,ES,50%,Sano,2,0,0,0,0,0,1.6,5,2.5,2,3,0
 20350,2025/26,28,Real Madrid,Asencio,Desconocido,23,ES,70%,Sano,19,2,0,0,3,0,1.2,93,4.9,2,0,2
-20350,2025/26,28,Real Madrid,Valverde,Desconocido,27,UY,60%,Sano,26,2,7,0,2,0,1.5,189,7.3,12,4,10
-20350,2025/26,28,Real Madrid,Courtois,Portero,33,BE,95%,Sano,27,0,0,0,1,0,1.4,177,6.6,5,6,-3
+20350,2025/26,28,Real Madrid,Manuel Ángel,Desconocido,21,ES,50%,Sano,1,0,0,0,0,0,-1,2,2,2,0,0
+20350,2025/26,28,Real Madrid,Courtois,Portero,33,BE,60%,Sano,27,0,0,0,1,0,1.4,177,6.6,5,6,-3
 20350,2025/26,28,Real Madrid,Fran García,Desconocido,26,ES,70%,Sano,7,1,0,0,2,1,-1,26,3.7,0,0,0
 20350,2025/26,28,Real Madrid,Gonzalo,Desconocido,21,ES,70%,Sano,22,4,0,0,1,0,0.4,66,3,2,3,3
-20350,2025/26,28,Real Madrid,Manuel Ángel,Desconocido,2026,,50%,Sano,1,0,0,0,0,0,-1,2,2,2,0,0
+20350,2025/26,28,Real Madrid,Valverde,Desconocido,27,UY,50%,Sano,26,2,7,0,2,0,1.5,189,7.3,12,4,10
 20350,2025/26,28,Real Madrid,Brahim,Desconocido,26,MA,50%,Sano,19,0,4,0,1,0,0.8,77,4.1,4,2,2
-20350,2025/26,28,Real Madrid,Alexander-Arnold,Desconocido,27,EN,50%,Sano,13,0,2,0,1,0,0.3,50,3.8,3,2,0
 20350,2025/26,28,Real Madrid,Rüdiger,Desconocido,33,DE,50%,Sano,10,0,0,0,0,0,0.6,55,5.5,6,5,0
-20350,2025/26,28,Real Madrid,Thiago,Desconocido,18,ES,50%,Sano,2,0,0,0,0,0,1.6,5,2.5,2,3,0
+20350,2025/26,28,Real Madrid,Tchouaméni,Desconocido,26,FR,50%,Sano,24,1,0,0,7,0,2.1,134,5.6,13,3,5
 20350,2025/26,28,Real Madrid,Alaba,Desconocido,33,AT,40%,Lesionado/Duda,8,0,0,0,1,0,0.4,18,2.3,0,3,1
-20350,2025/26,28,Real Madrid,Mbappé,Desconocido,27,FR,40%,Lesionado/Duda,23,23,4,0,3,0,0,279,12.1,0,0,3
+20350,2025/26,28,Real Madrid,Lunin,Desconocido,27,UA,40%,Sano,0,0,0,0,0,1,-1,-1,0,0,0,0
 20350,2025/26,28,Real Madrid,A. F. Carreras,Desconocido,22,ES,30%,Lesionado/Duda,23,2,2,0,5,1,1.2,154,6.7,0,2,3
-20350,2025/26,28,Real Madrid,Lunin,Desconocido,27,UA,5%,Sano,0,0,0,0,0,1,-1,-1,0,0,0,0
+20350,2025/26,28,Real Madrid,Alexander-Arnold,Desconocido,27,EN,30%,Sano,13,0,2,0,1,0,0.3,50,3.8,3,2,0
 20350,2025/26,28,Real Madrid,Ceballos,Desconocido,29,ES,0%,Lesionado/Duda,15,0,0,0,1,0,0,45,3,0,0,1
 20350,2025/26,28,Real Madrid,Bellingham,Desconocido,22,EN,0%,Lesionado/Duda,18,4,3,0,1,0,-1,137,7.6,0,0,0
 20350,2025/26,28,Real Madrid,Rodrygo,Desconocido,25,BR,0%,Lesionado/Duda,19,1,3,0,3,0,1,92,4.8,0,2,0
+20350,2025/26,28,Real Madrid,Mbappé,Desconocido,27,FR,0%,Lesionado/Duda,23,23,4,0,3,0,0,279,12.1,0,0,3
 20350,2025/26,28,Real Madrid,Mendy,Desconocido,30,FR,0%,Lesionado/Duda,2,0,0,0,0,0,2,6,3,5,0,0
 20350,2025/26,28,Real Madrid,Militão,Desconocido,28,BR,0%,Lesionado/Duda,13,1,1,0,2,0,-1,86,6.6,0,0,0
 20350,2025/26,28,Real Madrid,Mastantuono,Desconocido,18,AR,0%,Sano,16,1,0,0,4,1,0,58,3.6,0,3,0
+20350,2025/26,28,Elche,Dituro,Portero,38,AR,60%,Sano,11,0,0,0,1,0,2.1,72,6.5,5,5,5
 20350,2025/26,28,Elche,André Silva,Desconocido,30,PT,70%,Sano,21,7,0,0,2,0,1.6,98,4.7,7,3,7
-20350,2025/26,28,Elche,Pétrot,Desconocido,28,FR,50%,Sano,24,0,0,0,1,0,1.1,51,2.1,1,1,2
-20350,2025/26,28,Elche,Aguado,Desconocido,26,ES,50%,Sano,26,1,1,0,2,0,1.3,104,4,3,8,4
-20350,2025/26,28,Elche,Chust,Desconocido,26,ES,70%,Sano,21,0,0,0,7,1,1.2,63,3,3,3,3
-20350,2025/26,28,Elche,Valera,Desconocido,23,ES,90%,Sano,26,4,3,0,2,0,1.4,153,5.9,5,2,5
-20350,2025/26,28,Elche,Josan,Desconocido,36,ES,50%,Sano,14,0,2,0,2,0,1,53,3.8,1,4,0
-20350,2025/26,28,Elche,Martim Neto,Desconocido,23,PT,50%,Sano,21,2,5,0,2,0,1,113,5.4,9,0,0
-20350,2025/26,28,Elche,Affengruber,Desconocido,24,AT,80%,Sano,25,0,0,0,5,1,1.3,104,4.2,4,4,2
 20350,2025/26,28,Elche,Alvaro R.,Desconocido,21,UY,50%,Sano,24,5,4,0,0,0,0.9,117,4.9,2,2,4
 20350,2025/26,28,Elche,Febas,Desconocido,30,ES,80%,Sano,26,2,1,0,7,0,1.5,133,5.1,2,5,2
-20350,2025/26,28,Elche,Dituro,Portero,38,AR,60%,Sano,11,0,0,0,1,0,2.1,72,6.5,5,5,5
+20350,2025/26,28,Elche,Affengruber,Desconocido,24,AT,80%,Sano,25,0,0,0,5,1,1.3,104,4.2,4,4,2
+20350,2025/26,28,Elche,Valera,Desconocido,23,ES,90%,Sano,26,4,3,0,2,0,1.4,153,5.9,5,2,5
+20350,2025/26,28,Elche,Pétrot,Desconocido,28,FR,50%,Sano,24,0,0,0,1,0,1.1,51,2.1,1,1,2
+20350,2025/26,28,Elche,Villar,Desconocido,27,ES,50%,Sano,2,0,0,0,1,0,1,2,1,2,0,0
+20350,2025/26,28,Elche,Chust,Desconocido,26,ES,70%,Sano,21,0,0,0,7,1,1.2,63,3,3,3,3
+20350,2025/26,28,Elche,Josan,Desconocido,36,ES,50%,Sano,14,0,2,0,2,0,1,53,3.8,1,4,0
+20350,2025/26,28,Elche,Martim Neto,Desconocido,23,PT,50%,Sano,21,2,5,0,2,0,1,113,5.4,9,0,0
 20350,2025/26,28,Elche,Rafa Mir,Desconocido,28,ES,50%,Sano,22,7,0,0,2,0,1.3,105,4.8,6,6,1
 20350,2025/26,28,Elche,Bigas,Desconocido,35,ES,50%,Lesionado/Duda,19,0,2,0,3,0,1.1,88,4.6,0,2,-2
+20350,2025/26,28,Elche,Aguado,Desconocido,26,ES,50%,Sano,26,1,1,0,2,0,1.3,104,4,3,8,4
 20350,2025/26,28,Elche,Peña,Desconocido,27,ES,40%,Sano,16,0,0,0,0,0,-1,102,6.4,0,0,0
 20350,2025/26,28,Elche,Sangaré,Desconocido,18,ES,40%,Sano,2,0,0,0,0,0,1,-1,-0.5,-1,0,
 20350,2025/26,28,Elche,Diangana,Desconocido,27,CD,40%,Sano,15,1,0,0,2,0,0.7,34,2.3,1,2,0
 20350,2025/26,28,Elche,Cepeda,Desconocido,23,CL,30%,Sano,5,0,0,0,1,0,1,15,3,0,4,1
 20350,2025/26,28,Elche,Tete Morente,Desconocido,29,ES,30%,Sano,3,0,0,0,1,0,1,9,3,0,4,4
-20350,2025/26,28,Elche,Villar,Desconocido,27,ES,30%,Sano,2,0,0,0,1,0,1,2,1,2,0,0
 20350,2025/26,28,Elche,Pedrosa,Desconocido,27,ES,30%,Sano,17,1,1,0,4,0,1,46,2.6,0,2,2
 20350,2025/26,28,Elche,Redondo,Desconocido,23,AR,30%,Sano,8,0,0,0,0,1,1,13,1.6,2,0,0
 20350,2025/26,28,Elche,John C.,Desconocido,25,ES,20%,Lesionado/Duda,14,1,0,0,2,0,-1,31,2.2,0,0,0
@@ -256,44 +256,44 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20350,2025/26,28,Elche,Iturbe,Desconocido,22,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20350,2025/26,28,Elche,Santiago,Desconocido,22,ES,0%,Sano,8,0,0,0,1,1,-1,19,2.4,0,0,0
 20350,2025/26,28,Elche,Fort,Desconocido,19,ES,0%,Lesionado/Duda,9,1,2,0,0,0,-1,36,4,0,0,0
-20347,2025/26,28,Mallorca,Maffeo,Desconocido,28,AR,70%,Sano,22,1,0,0,7,0,1,83,3.8,10,3,1
-20347,2025/26,28,Mallorca,Mojica,Desconocido,33,CO,80%,Sano,27,0,3,0,4,0,1.2,94,3.5,3,7,-2
-20347,2025/26,28,Mallorca,Leo Román,Portero,25,ES,95%,Sano,22,0,0,1,3,0,1.1,105,4.8,2,3,4
-20347,2025/26,28,Mallorca,David López,Desconocido,23,ES,50%,Sano,6,0,0,0,1,0,1,18,3,-1,0,0
-20347,2025/26,28,Mallorca,Pablo Torre,Desconocido,22,ES,60%,Sano,24,1,2,0,3,0,1.3,62,2.6,1,0,0
-20347,2025/26,28,Mallorca,Samú,Desconocido,25,PT,90%,Sano,24,4,0,0,9,0,1.5,95,4,2,3,2
-20347,2025/26,28,Mallorca,Mascarell,Desconocido,33,GQ,70%,Sano,20,1,1,0,4,0,1.2,76,3.8,6,3,4
-20347,2025/26,28,Mallorca,Muriqi,Desconocido,31,XK,95%,Sano,26,18,1,0,3,1,1.5,172,6.6,13,2,2
-20347,2025/26,28,Mallorca,Morlanes,Desconocido,27,ES,70%,Sano,21,1,0,0,4,1,1,67,3.2,5,2,0
-20347,2025/26,28,Mallorca,Joseph,Desconocido,22,ES,70%,Sano,26,2,2,0,2,0,1.4,96,3.7,5,4,0
 20347,2025/26,28,Mallorca,Valjent,Desconocido,30,SK,90%,Sano,27,0,0,0,3,0,1,94,3.5,1,3,2
-20347,2025/26,28,Mallorca,Raíllo,Desconocido,34,ES,50%,Lesionado/Duda,21,0,1,0,3,0,1.2,79,3.8,3,6,-2
+20347,2025/26,28,Mallorca,Joseph,Desconocido,22,ES,70%,Sano,26,2,2,0,2,0,1.4,96,3.7,5,4,0
+20347,2025/26,28,Mallorca,Morlanes,Desconocido,27,ES,70%,Sano,21,1,0,0,4,1,1,67,3.2,5,2,0
+20347,2025/26,28,Mallorca,Muriqi,Desconocido,31,XK,95%,Sano,26,18,1,0,3,1,1.5,172,6.6,13,2,2
+20347,2025/26,28,Mallorca,Mascarell,Desconocido,33,GQ,70%,Sano,20,1,1,0,4,0,1.2,76,3.8,6,3,4
+20347,2025/26,28,Mallorca,Samú,Desconocido,25,PT,90%,Sano,24,4,0,0,9,0,1.5,95,4,2,3,2
+20347,2025/26,28,Mallorca,Pablo Torre,Desconocido,22,ES,60%,Sano,24,1,2,0,3,0,1.3,62,2.6,1,0,0
+20347,2025/26,28,Mallorca,Raíllo,Desconocido,34,ES,70%,Lesionado/Duda,21,0,1,0,3,0,1.2,79,3.8,3,6,-2
+20347,2025/26,28,Mallorca,Leo Román,Portero,25,ES,95%,Sano,22,0,0,1,3,0,1.1,105,4.8,2,3,4
+20347,2025/26,28,Mallorca,Mojica,Desconocido,33,CO,80%,Sano,27,0,3,0,4,0,1.2,94,3.5,3,7,-2
+20347,2025/26,28,Mallorca,Maffeo,Desconocido,28,AR,70%,Sano,22,1,0,0,7,0,1,83,3.8,10,3,1
 20347,2025/26,28,Mallorca,Darder,Desconocido,32,ES,40%,Sano,27,1,4,0,3,0,0.7,141,5.2,6,5,3
 20347,2025/26,28,Mallorca,Luvumbo,Desconocido,24,AO,30%,Sano,2,0,0,0,0,0,1,4,2,0,2,0
+20347,2025/26,28,Mallorca,David López,Desconocido,23,ES,30%,Sano,6,0,0,0,1,0,1,18,3,-1,0,0
 20347,2025/26,28,Mallorca,Antonio,Desconocido,28,ES,30%,Sano,22,0,0,0,4,1,1,44,2,0,0,3
 20347,2025/26,28,Mallorca,Lato,Desconocido,28,ES,30%,Sano,8,0,1,0,2,0,1,16,2,0,0,5
 20347,2025/26,28,Mallorca,Morey,Desconocido,26,ES,30%,Sano,16,1,0,0,2,0,1,30,1.9,-1,2,0
-20347,2025/26,28,Mallorca,Abdon,Desconocido,33,ES,15%,Sano,10,0,0,0,0,0,-1,15,1.5,0,2,0
+20347,2025/26,28,Mallorca,Abdon,Desconocido,33,ES,15%,Lesionado/Duda,10,0,0,0,0,0,-1,15,1.5,0,2,0
 20347,2025/26,28,Mallorca,Kumbulla,Desconocido,26,AL,10%,Lesionado/Duda,7,0,0,0,1,0,-1,9,1.3,0,0,0
 20347,2025/26,28,Mallorca,Kalumba,Desconocido,21,FR,10%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20347,2025/26,28,Mallorca,Llabrés,Desconocido,23,ES,10%,Lesionado/Duda,14,0,0,0,0,0,-1,23,1.6,0,1,1
-20347,2025/26,28,Mallorca,Bergstrom,Desconocido,23,FI,5%,Sano,5,0,0,0,1,0,-1,36,7.2,0,0,0
+20347,2025/26,28,Mallorca,Bergstrom,Desconocido,23,FI,5%,Lesionado/Duda,5,0,0,0,1,0,-1,36,7.2,0,0,0
 20347,2025/26,28,Mallorca,Cuéllar,Desconocido,41,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20347,2025/26,28,Mallorca,Salas,Desconocido,20,ES,0%,Lesionado/Duda,2,0,0,0,0,0,-1,4,2,0,0,0
 20347,2025/26,28,Mallorca,Virgili,Desconocido,19,ES,0%,Sano,22,0,4,0,0,1,0.5,103,4.7,-1,4,4
 20347,2025/26,28,Mallorca,Asano,Desconocido,31,JP,0%,Lesionado/Duda,15,1,0,0,2,0,-1,30,2,0,0,0
-20347,2025/26,28,Espanyol,Edu Expósito,Desconocido,29,ES,50%,Sano,25,1,6,0,5,0,1.7,151,6,0,7,9
-20347,2025/26,28,Espanyol,Kike García,Desconocido,36,ES,70%,Sano,26,6,1,0,3,0,1.6,103,4,11,8,1
-20347,2025/26,28,Espanyol,El Hilali,Desconocido,22,MA,80%,Sano,25,0,2,0,5,0,1.2,72,2.9,6,0,-4
-20347,2025/26,28,Espanyol,Romero,Desconocido,24,ES,95%,Sano,25,5,2,0,2,0,1.5,134,5.4,6,7,-1
 20347,2025/26,28,Espanyol,Urko,Desconocido,24,ES,80%,Sano,25,0,1,0,4,0,1.5,77,3,6,2,1
-20347,2025/26,28,Espanyol,Riedel,Desconocido,22,DE,60%,Sano,14,0,1,0,3,0,1.2,48,3.4,4,1,2
-20347,2025/26,28,Espanyol,Ngongé,Desconocido,25,BE,50%,Sano,4,0,2,0,2,0,1.3,23,5.8,9,0,0
-20347,2025/26,28,Espanyol,Lozano,Desconocido,26,ES,80%,Sano,25,1,1,0,7,0,1.2,75,3,2,7,2
-20347,2025/26,28,Espanyol,Dolan,Desconocido,24,EN,70%,Sano,26,1,3,0,5,1,1.2,106,4.1,5,0,2
-20347,2025/26,28,Espanyol,Dmitrovic,Portero,34,RS,95%,Sano,27,0,0,0,0,0,1.4,149,5.5,5,7,1
 20347,2025/26,28,Espanyol,Cabrera,Desconocido,34,UY,95%,Sano,26,3,0,0,2,0,1.7,119,4.6,5,6,-2
+20347,2025/26,28,Espanyol,Dmitrovic,Portero,34,RS,95%,Sano,27,0,0,0,0,0,1.4,149,5.5,5,7,1
+20347,2025/26,28,Espanyol,Dolan,Desconocido,24,EN,70%,Sano,26,1,3,0,5,1,1.2,106,4.1,5,0,2
+20347,2025/26,28,Espanyol,Lozano,Desconocido,26,ES,80%,Sano,25,1,1,0,7,0,1.2,75,3,2,7,2
+20347,2025/26,28,Espanyol,Edu Expósito,Desconocido,29,ES,50%,Sano,25,1,6,0,5,0,1.7,151,6,0,7,9
+20347,2025/26,28,Espanyol,Riedel,Desconocido,22,DE,60%,Sano,14,0,1,0,3,0,1.2,48,3.4,4,1,2
 20347,2025/26,28,Espanyol,Terrats,Desconocido,25,ES,50%,Sano,19,1,1,0,0,0,1.4,64,3.4,4,1,1
+20347,2025/26,28,Espanyol,Romero,Desconocido,24,ES,95%,Sano,25,5,2,0,2,0,1.5,134,5.4,6,7,-1
+20347,2025/26,28,Espanyol,El Hilali,Desconocido,22,MA,80%,Sano,25,0,2,0,5,0,1.2,72,2.9,6,0,-4
+20347,2025/26,28,Espanyol,Kike García,Desconocido,36,ES,70%,Sano,26,6,1,0,3,0,1.6,103,4,11,8,1
+20347,2025/26,28,Espanyol,Ngongé,Desconocido,25,BE,50%,Sano,4,0,2,0,2,0,1.3,23,5.8,9,0,0
 20347,2025/26,28,Espanyol,Calero,Desconocido,30,ES,40%,Sano,21,0,0,0,3,0,0.8,96,4.6,2,0,1
 20347,2025/26,28,Espanyol,Pere Milla,Desconocido,33,ES,40%,Sano,25,6,0,0,4,1,1,113,4.5,4,1,1
 20347,2025/26,28,Espanyol,Roberto,Desconocido,23,ES,40%,Sano,27,5,2,0,3,0,1.2,112,4.1,0,0,1
@@ -305,19 +305,19 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20347,2025/26,28,Espanyol,Salinas,Desconocido,25,ES,5%,Sano,9,0,0,0,2,0,-1,6,0.7,0,0,0
 20347,2025/26,28,Espanyol,Fortuño,Desconocido,24,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20347,2025/26,28,Espanyol,Puado,Desconocido,27,ES,0%,Lesionado/Duda,10,2,0,0,2,0,-1,42,4.2,0,0,0
+20344,2025/26,28,Barcelona,Olmo,Desconocido,27,ES,70%,Sano,22,6,6,0,0,0,1,163,7.4,7,2,5
+20344,2025/26,28,Barcelona,Yamal,Desconocido,18,ES,60%,Sano,23,14,9,0,0,0,2.2,280,12.2,11,22,10
+20344,2025/26,28,Barcelona,Ferran,Desconocido,26,ES,70%,Sano,25,12,1,0,2,0,0.7,152,6.1,4,2,2
+20344,2025/26,28,Barcelona,Casadó,Desconocido,22,ES,70%,Sano,17,0,1,0,0,0,1,56,3.3,6,0,0
+20344,2025/26,28,Barcelona,Cubarsí,Desconocido,19,ES,60%,Sano,22,1,0,0,2,0,2,117,5.3,8,4,0
+20344,2025/26,28,Barcelona,Rashford,Desconocido,28,EN,50%,Sano,23,4,6,0,2,0,0.9,130,5.7,5,4,0
+20344,2025/26,28,Barcelona,Espart,Desconocido,18,ES,50%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20344,2025/26,28,Barcelona,Pedri,Desconocido,23,ES,50%,Sano,19,2,7,0,2,1,2.2,145,7.6,9,9,3
 20344,2025/26,28,Barcelona,Martín,Desconocido,24,ES,70%,Sano,22,0,0,0,5,0,1.7,96,4.4,8,0,6
 20344,2025/26,28,Barcelona,Cancelo,Desconocido,31,PT,70%,Sano,5,0,1,0,0,0,2.1,38,7.6,9,0,16
 20344,2025/26,28,Barcelona,Joan Garcia,Portero,24,ES,95%,Sano,21,0,0,0,1,0,2,188,9,12,3,11
-20344,2025/26,28,Barcelona,Espart,Desconocido,18,ES,50%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20344,2025/26,28,Barcelona,Rashford,Desconocido,28,EN,50%,Sano,23,4,6,0,2,0,0.9,130,5.7,5,4,0
-20344,2025/26,28,Barcelona,Cubarsí,Desconocido,19,ES,60%,Sano,22,1,0,0,2,0,2,117,5.3,8,4,0
-20344,2025/26,28,Barcelona,Casadó,Desconocido,22,ES,70%,Sano,17,0,1,0,0,0,1,56,3.3,6,0,0
-20344,2025/26,28,Barcelona,Ferran,Desconocido,26,ES,70%,Sano,25,12,1,0,2,0,0.7,152,6.1,4,2,2
-20344,2025/26,28,Barcelona,Yamal,Desconocido,18,ES,50%,Lesionado/Duda,23,14,9,0,0,0,2.2,280,12.2,11,22,10
-20344,2025/26,28,Barcelona,Olmo,Desconocido,27,ES,70%,Sano,22,6,6,0,0,0,1,163,7.4,7,2,5
 20344,2025/26,28,Barcelona,Raphinha,Desconocido,29,BR,50%,Sano,18,8,3,0,3,0,1.1,137,7.6,1,4,5
-20344,2025/26,28,Barcelona,Bernal,Desconocido,18,ES,50%,Lesionado/Duda,14,2,1,0,4,0,1.9,50,3.6,4,4,11
+20344,2025/26,28,Barcelona,Bernal,Desconocido,18,ES,50%,Sano,14,2,1,0,4,0,1.9,50,3.6,4,4,11
 20344,2025/26,28,Barcelona,Eric García,Desconocido,25,ES,50%,Lesionado/Duda,27,1,2,0,3,0,2,155,5.7,9,5,15
 20344,2025/26,28,Barcelona,Bardghji,Desconocido,20,SE,50%,Sano,15,1,1,0,0,0,1.5,47,3.1,0,2,2
 20344,2025/26,28,Barcelona,Araújo,Desconocido,27,UY,50%,Sano,16,2,0,0,2,0,1.2,54,3.4,2,2,2
@@ -358,51 +358,51 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20344,2025/26,28,Sevilla,Peque,Desconocido,23,ES,0%,Lesionado/Duda,21,2,1,0,7,0,-1,63,3,0,0,1
 20349,2025/26,28,Betis,Riquelme,Desconocido,25,ES,50%,Sano,19,0,1,0,1,0,1,48,2.5,1,0,2
 20349,2025/26,28,Betis,Valles,Portero,28,ES,60%,Sano,19,0,0,1,1,0,1.2,125,6.6,4,3,5
-20349,2025/26,28,Betis,Natan,Desconocido,25,BR,50%,Sano,24,0,0,0,6,0,1,130,5.4,0,-1,5
+20349,2025/26,28,Betis,Junior,Desconocido,29,DO,70%,Sano,9,0,1,0,2,0,0.5,29,3.2,0,0,0
 20349,2025/26,28,Betis,Ortiz,Desconocido,21,ES,50%,Sano,12,0,0,0,1,0,1,29,2.4,1,0,3
 20349,2025/26,28,Betis,Bakambu,Desconocido,34,CD,50%,Sano,13,3,0,0,0,0,0.8,44,3.4,1,1,10
-20349,2025/26,28,Betis,Marc Roca,Desconocido,29,ES,60%,Sano,21,0,1,0,1,0,1.3,92,4.4,0,3,3
+20349,2025/26,28,Betis,Marc Roca,Desconocido,29,ES,50%,Sano,21,0,1,0,1,0,1.3,92,4.4,0,3,3
 20349,2025/26,28,Betis,Deossa,Desconocido,26,CO,70%,Sano,16,0,0,0,3,0,1,46,2.9,3,0,1
-20349,2025/26,28,Betis,Bartra,Desconocido,35,ES,70%,Sano,21,1,0,0,3,0,0.5,119,5.7,5,0,0
+20349,2025/26,28,Betis,D. Llorente,Desconocido,32,ES,70%,Sano,10,1,0,0,3,0,1.2,43,4.3,2,2,3
 20349,2025/26,28,Betis,Antony,Desconocido,26,BR,60%,Sano,22,7,5,0,3,1,1.5,159,7.2,2,8,2
 20349,2025/26,28,Betis,Fidalgo,Desconocido,28,ES,80%,Sano,5,1,0,0,0,0,1.6,26,5.2,3,11,3
 20349,2025/26,28,Betis,Valentín Gómez,Desconocido,22,AR,70%,Sano,19,1,0,0,5,0,1,71,3.7,4,0,0
 20349,2025/26,28,Betis,Cucho,Desconocido,26,CO,50%,Sano,22,8,3,0,2,0,1.4,137,6.2,4,2,4
 20349,2025/26,28,Betis,Chimy,Desconocido,32,AR,50%,Sano,11,1,0,0,4,0,1,27,2.5,5,0,0
 20349,2025/26,28,Betis,Abde,Desconocido,24,MA,50%,Sano,18,5,5,0,3,0,1.6,134,7.4,-1,10,6
-20349,2025/26,28,Betis,Junior,Desconocido,29,DO,50%,Sano,9,0,1,0,2,0,0.5,29,3.2,0,0,0
 20349,2025/26,28,Betis,Altimira,Desconocido,24,ES,50%,Sano,18,1,1,0,2,0,0.7,65,3.6,3,2,0
 20349,2025/26,28,Betis,Pau López,Desconocido,31,ES,40%,Sano,8,0,0,1,1,0,-1,56,7,0,0,0
 20349,2025/26,28,Betis,Fornals,Desconocido,30,ES,40%,Sano,27,6,4,0,2,0,1,192,7.1,4,4,1
-20349,2025/26,28,Betis,D. Llorente,Desconocido,32,ES,30%,Sano,10,1,0,0,3,0,1.2,43,4.3,2,2,3
+20349,2025/26,28,Betis,Bartra,Desconocido,35,ES,30%,Sano,21,1,0,0,3,0,0.5,119,5.7,5,0,0
 20349,2025/26,28,Betis,Ruibal,Desconocido,29,ES,30%,Sano,21,4,1,0,3,0,1.4,105,5,0,6,4
 20349,2025/26,28,Betis,Rodríguez,Desconocido,33,CH,30%,Sano,18,0,1,0,0,0,1,68,3.8,0,0,1
+20349,2025/26,28,Betis,Natan,Desconocido,25,BR,30%,Sano,24,0,0,0,6,0,1,130,5.4,0,-1,5
 20349,2025/26,28,Betis,Bellerín,Desconocido,30,ES,30%,Sano,16,0,2,0,1,0,-1,68,4.3,0,0,0
 20349,2025/26,28,Betis,Pablo García,Desconocido,19,ES,0%,Sano,14,0,0,0,1,0,-1,31,2.2,0,0,0
 20349,2025/26,28,Betis,Adrián,Desconocido,39,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
 20349,2025/26,28,Betis,Isco,Desconocido,33,ES,0%,Lesionado/Duda,1,0,1,0,0,0,-1,10,10,0,0,0
 20349,2025/26,28,Betis,Lo Celso,Desconocido,29,AR,0%,Lesionado/Duda,17,2,2,0,3,0,-1,93,5.5,0,0,0
 20349,2025/26,28,Betis,S. Amrabat,Desconocido,29,MA,0%,Lesionado/Duda,8,0,0,0,3,0,-1,32,4,0,0,0
-20349,2025/26,28,Celta,Hugo Álvarez,Desconocido,22,ES,70%,Sano,18,2,1,0,2,0,1.3,63,3.5,1,3,5
-20349,2025/26,28,Celta,Sotelo,Desconocido,22,ES,70%,Sano,14,0,1,0,2,0,-1,65,4.6,0,0,0
-20349,2025/26,28,Celta,Javi Rodríguez,Desconocido,22,ES,60%,Sano,23,0,0,0,3,0,1.8,94,4.1,3,2,11
-20349,2025/26,28,Celta,Jutglà,Desconocido,27,ES,70%,Sano,19,4,1,0,4,0,1.2,76,4,4,8,3
-20349,2025/26,28,Celta,Fer López,Desconocido,21,ES,70%,Sano,6,0,0,0,0,0,1.2,22,3.7,2,1,6
-20349,2025/26,28,Celta,M. Alonso,Desconocido,35,ES,60%,Sano,23,1,0,0,2,0,1.4,148,6.4,3,0,10
+20349,2025/26,28,Celta,Domínguez,Desconocido,25,ES,50%,Sano,7,0,0,0,1,0,1.5,25,3.6,0,4,0
 20349,2025/26,28,Celta,Aidoo,Desconocido,30,GH,50%,Sano,5,0,0,0,0,0,1.5,26,5.2,0,6,11
+20349,2025/26,28,Celta,Carreira,Desconocido,25,ES,50%,Sano,23,2,1,0,2,0,2,100,4.3,1,4,0
+20349,2025/26,28,Celta,Iglesias,Desconocido,33,ES,70%,Sano,24,11,2,0,6,0,1.7,137,5.7,8,0,3
+20349,2025/26,28,Celta,Mingueza,Desconocido,26,ES,70%,Sano,23,1,3,0,3,0,1.2,96,4.2,3,8,0
+20349,2025/26,28,Celta,Durán,Desconocido,24,ES,50%,Sano,20,2,2,0,0,0,1,73,3.7,0,0,2
+20349,2025/26,28,Celta,Fer López,Desconocido,21,ES,70%,Sano,6,0,0,0,0,0,1.2,22,3.7,2,1,6
+20349,2025/26,28,Celta,Javi Rodríguez,Desconocido,22,ES,60%,Sano,23,0,0,0,3,0,1.8,94,4.1,3,2,11
+20349,2025/26,28,Celta,Sotelo,Desconocido,22,ES,70%,Sano,14,0,1,0,2,0,-1,65,4.6,0,0,0
 20349,2025/26,28,Celta,Radu,Portero,28,RO,95%,Sano,27,0,0,2,0,0,1.7,185,6.9,2,8,9
-20349,2025/26,28,Celta,Carreira,Desconocido,25,ES,70%,Sano,23,2,1,0,2,0,2,100,4.3,1,4,0
-20349,2025/26,28,Celta,Durán,Desconocido,24,ES,70%,Sano,20,2,2,0,0,0,1,73,3.7,0,0,2
-20349,2025/26,28,Celta,Mingueza,Desconocido,26,ES,50%,Sano,23,1,3,0,3,0,1.2,96,4.2,3,8,0
-20349,2025/26,28,Celta,Rueda,Desconocido,23,ES,50%,Sano,19,2,4,0,4,0,0.9,105,5.5,0,1,7
+20349,2025/26,28,Celta,Hugo Álvarez,Desconocido,22,ES,70%,Sano,18,2,1,0,2,0,1.3,63,3.5,1,3,5
+20349,2025/26,28,Celta,M. Alonso,Desconocido,35,ES,50%,Sano,23,1,0,0,2,0,1.4,148,6.4,3,0,10
+20349,2025/26,28,Celta,Jutglà,Desconocido,27,ES,50%,Sano,19,4,1,0,4,0,1.2,76,4,4,8,3
 20349,2025/26,28,Celta,Starfelt,Desconocido,30,SE,50%,Sano,18,0,0,0,3,1,2,98,5.4,3,0,0
 20349,2025/26,28,Celta,Manu Fernández,Desconocido,24,ES,40%,Sano,13,0,0,0,2,0,1,43,3.3,0,2,0
-20349,2025/26,28,Celta,Domínguez,Desconocido,25,ES,30%,Sano,7,0,0,0,1,0,1.5,25,3.6,0,4,0
-20349,2025/26,28,Celta,Iglesias,Desconocido,33,ES,30%,Sano,24,11,2,0,6,0,1.7,137,5.7,8,0,3
 20349,2025/26,28,Celta,Aspas,Desconocido,38,ES,30%,Sano,23,4,3,0,3,0,2.4,110,4.8,2,0,16
 20349,2025/26,28,Celta,Swedberg,Desconocido,22,SE,30%,Sano,20,3,2,0,2,0,1.5,79,4,9,0,7
 20349,2025/26,28,Celta,Vecino,Desconocido,34,UY,30%,Sano,3,0,0,0,0,0,1,7,2.3,1,0,4
 20349,2025/26,28,Celta,Á. Núñez,Desconocido,25,ES,30%,Sano,0,0,0,0,0,0,-1,108,5.7,0,0,0
+20349,2025/26,28,Celta,Rueda,Desconocido,23,ES,30%,Sano,19,2,4,0,4,0,0.9,105,5.5,0,1,7
 20349,2025/26,28,Celta,Moriba,Desconocido,23,GN,30%,Sano,27,0,1,0,4,0,1.5,86,3.2,3,5,2
 20349,2025/26,28,Celta,El-Abdellaoui,Desconocido,20,MA,20%,Sano,17,2,0,0,0,0,1.3,48,2.8,2,1,2
 20349,2025/26,28,Celta,Iván Villar,Desconocido,28,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
@@ -459,18 +459,18 @@ ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Edad,Nacionalidad,Probabilid
 20352,2025/26,28,Osasuna,Raúl García,Desconocido,25,ES,0%,Sano,26,5,0,0,1,1,1.1,82,3.2,-2,2,8
 20352,2025/26,28,Osasuna,Rubén G.,Desconocido,32,ES,0%,Sano,25,2,5,0,5,0,1.5,133,5.3,1,5,6
 20352,2025/26,28,Osasuna,Benito,Desconocido,23,ES,0%,Lesionado/Duda,5,1,0,0,1,0,-1,19,3.8,0,0,0
-20348,2025/26,28,Rayo,Gumbau,Desconocido,31,ES,70%,Sano,19,0,1,0,4,0,0.9,45,2.4,2,0,6
-20348,2025/26,28,Rayo,Batalla,Portero,29,AR,95%,Sano,27,0,0,0,4,0,1.2,158,5.9,3,9,1
-20348,2025/26,28,Rayo,Pedro Díaz,Desconocido,27,ES,50%,Sano,24,0,0,0,2,0,1,60,2.5,2,4,3
-20348,2025/26,28,Rayo,Valentín,Desconocido,31,ES,70%,Sano,23,1,0,0,2,1,1,95,4.1,4,0,2
-20348,2025/26,28,Rayo,Mendy,Desconocido,21,SN,70%,Sano,17,2,0,0,4,1,1,94,5.5,6,0,7
-20348,2025/26,28,Rayo,De Frutos,Desconocido,29,ES,95%,Sano,25,10,1,0,2,0,1.9,155,6.2,2,16,11
-20348,2025/26,28,Rayo,Ratiu,Desconocido,27,RO,50%,Sano,24,0,3,0,7,0,1.7,145,6,1,10,4
-20348,2025/26,28,Rayo,Lejeune,Desconocido,34,FR,80%,Sano,27,0,0,0,4,0,1.5,162,6,4,11,7
-20348,2025/26,28,Rayo,Fran Pérez,Desconocido,23,ES,70%,Sano,23,2,1,0,3,0,1.2,87,3.8,5,4,2
-20348,2025/26,28,Rayo,Espino,Desconocido,34,UY,70%,Sano,20,2,0,0,2,0,1.8,66,3.3,11,0,7
 20348,2025/26,28,Rayo,Carlos Martín,Desconocido,23,ES,50%,Sano,5,0,0,0,1,0,1,10,2,2,0,0
+20348,2025/26,28,Rayo,Espino,Desconocido,34,UY,70%,Sano,20,2,0,0,2,0,1.8,66,3.3,11,0,7
+20348,2025/26,28,Rayo,Gumbau,Desconocido,31,ES,70%,Sano,19,0,1,0,4,0,0.9,45,2.4,2,0,6
+20348,2025/26,28,Rayo,Fran Pérez,Desconocido,23,ES,70%,Sano,23,2,1,0,3,0,1.2,87,3.8,5,4,2
+20348,2025/26,28,Rayo,Lejeune,Desconocido,34,FR,80%,Sano,27,0,0,0,4,0,1.5,162,6,4,11,7
 20348,2025/26,28,Rayo,Balliu,Desconocido,34,AL,50%,Sano,10,0,0,0,2,0,1,12,1.2,0,2,0
+20348,2025/26,28,Rayo,De Frutos,Desconocido,29,ES,95%,Sano,25,10,1,0,2,0,1.9,155,6.2,2,16,11
+20348,2025/26,28,Rayo,Mendy,Desconocido,21,SN,70%,Sano,17,2,0,0,4,1,1,94,5.5,6,0,7
+20348,2025/26,28,Rayo,Valentín,Desconocido,31,ES,70%,Sano,23,1,0,0,2,1,1,95,4.1,4,0,2
+20348,2025/26,28,Rayo,Pedro Díaz,Desconocido,27,ES,50%,Sano,24,0,0,0,2,0,1,60,2.5,2,4,3
+20348,2025/26,28,Rayo,Batalla,Portero,29,AR,95%,Sano,27,0,0,0,4,0,1.2,158,5.9,3,9,1
+20348,2025/26,28,Rayo,Ratiu,Desconocido,27,RO,50%,Sano,24,0,3,0,7,0,1.7,145,6,1,10,4
 20348,2025/26,28,Rayo,Isi,Desconocido,31,ES,50%,Sano,26,3,3,0,8,0,1.4,123,4.7,5,4,4
 20348,2025/26,28,Rayo,Akhomach,Desconocido,21,MA,50%,Sano,7,0,0,0,2,0,1.3,46,2.9,1,5,2
 20348,2025/26,28,Rayo,Luiz Felipe,Desconocido,28,IT,40%,Sano,9,0,0,0,1,0,1.5,26,2.9,0,7,0
