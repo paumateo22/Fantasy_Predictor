@@ -1,8 +1,8 @@
 import time
 import pandas as pd
 import os
-from scraping.crawler_url import obtener_partidos_jornada
-from scraping.scraper_motor import scrap_puntos_fantasy 
+from scripts.crawler_url import obtener_partidos_jornada
+from scripts.scraper_motor import scrap_puntos_fantasy 
 
 ARCHIVO_CSV = "prueba_jornada_actual.csv"
 
