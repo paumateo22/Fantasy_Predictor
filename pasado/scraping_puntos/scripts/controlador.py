@@ -1,10 +1,8 @@
 import time
 import pandas as pd
 import os
-from scripts.crawler_url import obtener_partidos_jornada
-from scripts.scraper_motor import scrap_puntos_fantasy 
-
-ARCHIVO_CSV = "prueba_jornada_actual.csv"
+from crawler_url import obtener_partidos_jornada
+from scraper_motor import scrap_puntos_fantasy 
 
 # Diccionario traductor para arreglar el desfase de URLs de FutbolFantasy
 MAPA_URLS_TEMPORADA = {
@@ -12,13 +10,13 @@ MAPA_URLS_TEMPORADA = {
     "2024/25": "2025-26",
     "2025/26": "2026-27"
 }
-
 def ejecutar_temporada_completa(tareas):
-    # Cargar CSV existente para evitar duplicados
-    if os.path.exists(ARCHIVO_CSV):
-        df_existente = pd.read_csv(ARCHIVO_CSV)
-    else:
-        df_existente = pd.DataFrame(columns=["ID_Partido", "Temporada", "Jornada", "Local", "Visitante", "Jugador", "Puntos"])
+    # Base para movernos por las carpetas (apunta a la carpeta pasado)
+    directorio_actual = os.path.dirname(os.path.abspath(__file__))
+    dir_raiz = os.path.dirname(os.path.dirname(directorio_actual)) 
+
+    # 🚨 NUEVO: Lista para guardar los registros de los partidos que fallen
+    partidos_fallidos = []
 
     # Iteramos sobre el diccionario que mandas desde main.py
     for temporada, config in tareas.items():
@@ -26,26 +24,41 @@ def ejecutar_temporada_completa(tareas):
         fin = config[1]
         jornadas_saltar = config[2]
         
-        # Obtenemos el "slug" para la URL (ej: "2025-26")
+        # Obtenemos el "slug" para la URL de la web (ej: "2025-26")
         slug_temporada = MAPA_URLS_TEMPORADA.get(temporada, "2026-27")
+        
+        # Formateamos el nombre de tu carpeta local (ej: "T25-26")
+        temporada_str = f"T{temporada.replace('/', '-')}"
 
         print(f"\n=======================================================")
         print(f"  INICIANDO TEMPORADA {temporada} (Ruta URL: {slug_temporada})")
         print(f"=======================================================")
 
         for j in range(inicio, fin + 1):
-            # Comprobamos si la jornada está en la lista de ignoradas
             if j in jornadas_saltar:
                 print(f"\n--- ⏭️ Saltando Jornada {j} por configuración ---")
                 continue
 
             print(f"\n--- ⚽ Trabajando en la Jornada {j} ---")
             
+            jornada_str = f"J{j}"
+            dir_salida = os.path.join(dir_raiz, "scraping_puntos", "datasets", temporada_str)
+            os.makedirs(dir_salida, exist_ok=True)
+            
+            ruta_csv = os.path.join(dir_salida, f"{jornada_str}_puntos.csv")
+            
+            if os.path.exists(ruta_csv):
+                df_existente = pd.read_csv(ruta_csv)
+            else:
+                df_existente = pd.DataFrame()
+
             # Pasamos la jornada Y el slug de la temporada al crawler
             urls = obtener_partidos_jornada(j, slug_temporada)
             
             if not urls:
                 print(f"No se encontraron URLs para la Jornada {j}. Saltando...")
+                # 🚨 NUEVO: Registramos que la jornada entera falló
+                partidos_fallidos.append(f"Temporada {temporada} | Jornada {j} | FALLO CRÍTICO: No se encontraron URLs")
                 continue
                 
             datos_nuevos_jornada = []
@@ -64,14 +77,15 @@ def ejecutar_temporada_completa(tareas):
                         # Control de partidos no jugados
                         if loc == "Local" or vis == "Visitante" or not loc or not vis:
                             print("     -> ❌ Partido no encontrado o no jugado (omitido)")
+                            partidos_fallidos.append(f"Temporada {temporada} | Jornada {j} | {nombre_partido} | OMITIDO: No jugado o vacío")
                             continue
 
-                        # Comprobación de duplicados (Misma Temporada, Jornada, Local y Visitante)
+                        # Comprobación de duplicados en este archivo
                         duplicado = False
                         if not df_existente.empty:
                             filtro_duplicado = df_existente[
                                 (df_existente["Temporada"].astype(str) == str(temporada)) & 
-                                (df_existente["Jornada"].astype(int) == int(j)) & 
+                                (df_existente["Jornada"].astype(str) == str(j)) & 
                                 (df_existente["Local"] == loc) & 
                                 (df_existente["Visitante"] == vis)
                             ]
@@ -82,25 +96,45 @@ def ejecutar_temporada_completa(tareas):
                             print(f"     ⚠️ Omitido: Partido ya existe en el CSV ({loc} vs {vis})")
                         else:
                             datos_nuevos_jornada.extend(partido_data)
-                            # Añadimos a la memoria temporal para evitar repetidos en la misma tanda
                             df_nuevo = pd.DataFrame(partido_data)
-                            df_existente = pd.concat([df_existente, df_nuevo], ignore_index=True)
+                            df_existente = pd.concat([df_existente, df_nuevo], ignore_index=True) if not df_existente.empty else df_nuevo
                             print(f"     ✅ Extraído: {loc} vs {vis}")
 
                 except Exception as e:
                     print(f"     !!! Error en este partido: {e}")
+                    # 🚨 NUEVO: Registramos el error de este partido concreto
+                    partidos_fallidos.append(f"Temporada {temporada} | Jornada {j} | {nombre_partido} | ERROR: {e}")
                 
                 time.sleep(1.5) # Anti-Ban de servidor
             
             # Guardado final de la jornada procesada
             if datos_nuevos_jornada:
-                df_guardar = pd.DataFrame(datos_nuevos_jornada)
-                
-                if not os.path.exists(ARCHIVO_CSV):
-                    df_guardar.to_csv(ARCHIVO_CSV, mode='w', index=False, header=True)
-                else:
-                    df_guardar.to_csv(ARCHIVO_CSV, mode='a', index=False, header=False)
-                    
-                print(f"💾 Jornada {j} finalizada. {len(df_guardar)} nuevas filas guardadas.")
+                df_existente.to_csv(ruta_csv, index=False, encoding='utf-8-sig')
+                print(f"💾 Jornada {j} finalizada. {len(datos_nuevos_jornada)} nuevas filas guardadas en {ruta_csv}")
             else:
                 print(f"ℹ️ Ningún dato nuevo para guardar en la Jornada {j}.")
+
+    # 🚨 NUEVO: REPORTE FINAL Y CREACIÓN DEL TXT
+    print("\n=======================================================")
+    if not partidos_fallidos:
+        print(" 🏆 EXTRACCIÓN LIMPIA: 0 errores registrados.")
+    else:
+        ruta_txt = os.path.join(dir_raiz, "scraping_puntos", "errores_scraping_puntos.txt")
+        with open(ruta_txt, "w", encoding="utf-8") as f:
+            f.write("=== REGISTRO DE PARTIDOS FALLIDOS ===\n\n")
+            for error in partidos_fallidos:
+                f.write(f"- {error}\n")
+                
+        print(f" ⚠️ PROCESO TERMINADO CON AVISOS: Hubo problemas en {len(partidos_fallidos)} partidos/jornadas.")
+        print(f" 📝 Se ha generado el reporte de fallos en: {ruta_txt}")
+    print("=======================================================")
+    
+if __name__ == "__main__":
+    
+    tareas_a_ejecutar = {
+        "25/26": [1, 27, []]
+    }
+    
+    print("\n🚀 INICIANDO EL MOTOR DE SCRAPING DE PUNTOS FANTASY 🚀")
+    ejecutar_temporada_completa(tareas_a_ejecutar)
+    print("\n✅ ¡PROCESO GLOBAL DE EXTRACCIÓN DE PUNTOS COMPLETADO! ✅")

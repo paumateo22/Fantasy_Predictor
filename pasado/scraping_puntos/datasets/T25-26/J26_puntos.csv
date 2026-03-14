@@ -1,0 +1,450 @@
+﻿ID_Partido,Temporada,Jornada,Local,Visitante,Equipo_Jugador,Es_Local,Jugador,Posicion,Puntos,Relevo
+20326,25/26,26,Levante,Alavés,Levante,1,Ryan,Portero,13,4
+20326,25/26,26,Levante,Alavés,Levante,1,Toljan,Defensa,9,3
+20326,25/26,26,Levante,Alavés,Levante,1,De la Fuente,Defensa,13,4
+20326,25/26,26,Levante,Alavés,Levante,1,Manu Sánchez,Defensa,7,2
+20326,25/26,26,Levante,Alavés,Levante,1,Moreno,Defensa,9,3
+20326,25/26,26,Levante,Alavés,Levante,1,C. Álvarez,Mediocampista,4,2
+20326,25/26,26,Levante,Alavés,Levante,1,Olasagasti,Mediocampista,7,3
+20326,25/26,26,Levante,Alavés,Levante,1,Cortés,Delantero,5,2
+20326,25/26,26,Levante,Alavés,Levante,1,Tunde,Mediocampista,8,2
+20326,25/26,26,Levante,Alavés,Levante,1,Raghouber,Mediocampista,3,2
+20326,25/26,26,Levante,Alavés,Levante,1,Iván Romero,Delantero,4,1
+20326,25/26,26,Levante,Alavés,Levante,1,Cuñat Campos,Portero,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Pampín,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Víctor García,Defensa,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Matturro,Defensa,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Nacho Pérez,Defensa,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Losada,Delantero,2,1
+20326,25/26,26,Levante,Alavés,Levante,1,Vencedor,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Oriol Rey,Mediocampista,2,1
+20326,25/26,26,Levante,Alavés,Levante,1,Abed,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Levante,1,Morales,Delantero,2,1
+20326,25/26,26,Levante,Alavés,Levante,1,Etta Eyong,Delantero,7,2
+20326,25/26,26,Levante,Alavés,Levante,1,Carlos Espí,Delantero,14,4
+20326,25/26,26,Levante,Alavés,Alavés,0,Sivera,Portero,3,3
+20326,25/26,26,Levante,Alavés,Alavés,0,Jonny,Defensa,3,2
+20326,25/26,26,Levante,Alavés,Alavés,0,Pacheco,Defensa,1,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Tenaglia,Defensa,2,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Parada,Defensa,4,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Ángel Pérez,Delantero,4,2
+20326,25/26,26,Levante,Alavés,Alavés,0,Aleñá,Mediocampista,5,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Blanco,Mediocampista,4,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Ibáñez,Mediocampista,2,2
+20326,25/26,26,Levante,Alavés,Alavés,0,Toni Martinez,Delantero,6,2
+20326,25/26,26,Levante,Alavés,Alavés,0,Boyé,Delantero,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Raúl F.,Portero,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Garcés,Defensa,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Youssef,Defensa,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Denis Suárez,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Guridi,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Guevara,Mediocampista,1,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Protesoni,Mediocampista,2,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Rebbach,Delantero,2,1
+20326,25/26,26,Levante,Alavés,Alavés,0,Calebe,Mediocampista,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Diabaté,Delantero,0,0
+20326,25/26,26,Levante,Alavés,Alavés,0,Aitor Mañas,Delantero,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Batalla,Portero,1,1
+20328,25/26,26,Rayo,Athletic,Rayo,1,Lejeune,Defensa,7,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Ratiu,Defensa,4,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Espino,Defensa,7,3
+20328,25/26,26,Rayo,Athletic,Rayo,1,Mendy,Defensa,7,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Álvaro García,Mediocampista,3,1
+20328,25/26,26,Rayo,Athletic,Rayo,1,Gumbau,Mediocampista,6,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,De Frutos,Delantero,11,4
+20328,25/26,26,Rayo,Athletic,Rayo,1,Isi,Delantero,4,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Pathé Ciss,Mediocampista,7,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Akhomach,Delantero,2,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Cárdenas,Portero,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Luiz Felipe,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Balliu,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Pep Chavarría,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Unai López,Mediocampista,2,1
+20328,25/26,26,Rayo,Athletic,Rayo,1,Pedro Díaz,Mediocampista,3,2
+20328,25/26,26,Rayo,Athletic,Rayo,1,Trejo,Mediocampista,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Valentín,Mediocampista,2,1
+20328,25/26,26,Rayo,Athletic,Rayo,1,Fran Pérez,Mediocampista,2,1
+20328,25/26,26,Rayo,Athletic,Rayo,1,Nteka,Delantero,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Carlos Martín,Mediocampista,0,0
+20328,25/26,26,Rayo,Athletic,Rayo,1,Alemão,Delantero,2,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Unai Simón,Portero,11,4
+20328,25/26,26,Rayo,Athletic,Athletic,0,Laporte,Defensa,5,2
+20328,25/26,26,Rayo,Athletic,Athletic,0,Yuri,Defensa,4,2
+20328,25/26,26,Rayo,Athletic,Athletic,0,Vivian,Defensa,4,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Areso,Defensa,2,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,R. de Galarreta,Mediocampista,3,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Sancet,Mediocampista,2,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Unai Gómez,Mediocampista,1,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Jauregizar,Mediocampista,1,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,I. Williams,Delantero,10,3
+20328,25/26,26,Rayo,Athletic,Athletic,0,Guruzeta,Delantero,1,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Padilla,Portero,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Lekue,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Gorosabel,Defensa,2,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Paredes,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Boiro,Defensa,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Berenguer,Delantero,8,4
+20328,25/26,26,Rayo,Athletic,Athletic,0,Vesga,Mediocampista,2,1
+20328,25/26,26,Rayo,Athletic,Athletic,0,Navarro,Mediocampista,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Serrano,Delantero,0,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Rego,Defensa,3,2
+20328,25/26,26,Rayo,Athletic,Athletic,0,Selton,Mediocampista,1,0
+20328,25/26,26,Rayo,Athletic,Athletic,0,Izeta,Delantero,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Joan Garcia,Portero,3,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Koundé,Defensa,13,4
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Eric García,Defensa,5,2
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Balde,Defensa,5,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Cubarsí,Defensa,4,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Fermín,Mediocampista,15,4
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Bernal,Mediocampista,4,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Olmo,Mediocampista,2,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Raphinha,Delantero,4,2
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Ferran,Delantero,2,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Yamal,Delantero,22,4
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Szczesny,Portero,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Aller,Portero,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Cancelo,Defensa,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Araújo,Defensa,2,1
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Pedri,Mediocampista,9,4
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Casadó,Mediocampista,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Marqués,Defensa,0,0
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Lewandowski,Delantero,7,2
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Rashford,Delantero,4,2
+20323,25/26,26,Barcelona,Villarreal,Barcelona,1,Bardghji,Delantero,2,1
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Luiz Junior,Portero,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,S. Cardona,Defensa,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Veiga,Defensa,-1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Mouriño,Defensa,5,1
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Pau Navarro,Defensa,-1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Comesaña,Mediocampista,1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,P. Gueye,Mediocampista,9,3
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Moleiro,Mediocampista,1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Ayoze,Delantero,1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Pépé,Delantero,5,2
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Mikautadze,Delantero,1,1
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Tenas,Portero,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Pedraza,Defensa,-2,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Rafa Marín,Defensa,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Freeman,Defensa,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Parejo,Mediocampista,1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Thomas,Mediocampista,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Alfon,Delantero,1,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Buchanan,Mediocampista,0,0
+20323,25/26,26,Barcelona,Villarreal,Villarreal,0,Oluwaseyi,Delantero,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Leo Román,Portero,3,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Mojica,Defensa,7,3
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Raíllo,Defensa,6,2
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Maffeo,Defensa,3,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Valjent,Defensa,3,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Mascarell,Mediocampista,3,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Darder,Mediocampista,5,2
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Samú,Mediocampista,3,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Virgili,Delantero,4,2
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Muriqi,Delantero,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Joseph,Delantero,4,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Cuéllar,Portero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Bergstrom,Portero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Lato,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Morey,Defensa,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,David López,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Morlanes,Mediocampista,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Antonio,Mediocampista,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Llabrés,Delantero,1,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Pablo Torre,Mediocampista,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Kalumba,Delantero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Abdon,Delantero,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Mallorca,1,Luvumbo,Delantero,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Remiro,Portero,9,3
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Zubeldia,Defensa,6,2
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Caleta-Car,Defensa,9,2
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Aramburu,Defensa,6,3
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Carlos Soler,Mediocampista,14,4
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Sergio Gómez,Defensa,9,3
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Turrientes,Mediocampista,8,3
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Zakharyan,Mediocampista,5,1
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Gorrotxategi,Mediocampista,5,2
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Guedes,Mediocampista,5,2
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Oyarzabal,Delantero,4,1
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Marrero,Portero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Folgado,Portero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Aritz,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Aihen,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Jon Martín,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Beitia,Defensa,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Barrenetxea,Mediocampista,2,1
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Herrera,Mediocampista,1,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Sucic,Mediocampista,1,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Marín,Mediocampista,1,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Karrikaburu,Delantero,0,0
+20327,25/26,26,Mallorca,Real Sociedad,Real Sociedad,0,Wesley,Mediocampista,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Aarón,Portero,2,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Calvo,Defensa,4,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Nacho Vidal,Defensa,7,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Javi López,Defensa,4,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Carmo,Defensa,4,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Sibo,Mediocampista,4,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Hassan,Mediocampista,6,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Chaira,Delantero,7,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Reina,Mediocampista,7,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Fonseca,Mediocampista,7,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Viñas,Delantero,4,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Moldovan,Portero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Ahijado,Defensa,1,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Alhassane,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Espi,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Cazorla,Mediocampista,4,2
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Dendoncker,Mediocampista,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Colombatto,Mediocampista,2,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,L. Ilic,Mediocampista,2,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Agudín,Delantero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Thiago,Mediocampista,2,1
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Forés,Delantero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Real Oviedo,1,Borbas,Delantero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Oblak,Portero,14,4
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Giménez,Defensa,11,3
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Le Normand,Defensa,6,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Molina,Defensa,5,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Julio Díaz,Defensa,7,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Baena,Mediocampista,7,3
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Mendoza,Mediocampista,5,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Almada,Mediocampista,8,3
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Cardoso,Mediocampista,7,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Lookman,Delantero,1,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Sörloth,Delantero,2,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Musso,Portero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Mario de Luis,Portero,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Lenglet,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Hancko,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Ruggeri,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Pubill,Defensa,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Koke,Mediocampista,3,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,M. Llorente,Defensa,3,2
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Giuliano,Delantero,2,1
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Vargas,Mediocampista,0,0
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Griezmann,Delantero,2,1
+20331,25/26,26,Real Oviedo,Atlético,Atlético,0,Alvarez,Delantero,10,4
+20324,25/26,26,Elche,Espanyol,Elche,1,Dituro,Portero,5,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Bigas,Defensa,2,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Affengruber,Defensa,4,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Pétrot,Defensa,1,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Tete Morente,Delantero,4,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Febas,Mediocampista,5,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Valera,Mediocampista,2,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Aguado,Mediocampista,8,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Cepeda,Delantero,4,1
+20324,25/26,26,Elche,Espanyol,Elche,1,André Silva,Delantero,3,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Rafa Mir,Delantero,6,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Peña,Portero,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Pedrosa,Defensa,2,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Chust,Defensa,3,1
+20324,25/26,26,Elche,Espanyol,Elche,1,John C.,Defensa,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Sangaré,Defensa,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Josan,Mediocampista,4,2
+20324,25/26,26,Elche,Espanyol,Elche,1,Diangana,Delantero,2,1
+20324,25/26,26,Elche,Espanyol,Elche,1,Villar,Mediocampista,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Adam Boayar,Mediocampista,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Martim Neto,Mediocampista,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Redondo,Mediocampista,0,0
+20324,25/26,26,Elche,Espanyol,Elche,1,Alvaro R.,Delantero,2,1
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Dmitrovic,Portero,7,3
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Cabrera,Defensa,6,1
+20324,25/26,26,Elche,Espanyol,Espanyol,0,El Hilali,Defensa,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Romero,Defensa,7,2
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Riedel,Defensa,1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Pere Milla,Delantero,1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Edu Expósito,Mediocampista,7,3
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Lozano,Mediocampista,7,2
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Urko,Mediocampista,2,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Kike García,Delantero,8,2
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Dolan,Delantero,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Fortuño,Portero,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Pol Tristan,Portero,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Miguel Rubio,Defensa,1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Calero,Defensa,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Salinas,Defensa,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Rubén Sánchez,Mediocampista,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Terrats,Mediocampista,1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Jofre,Delantero,1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Pickel 57',Mediocampista,-1,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Ngongé,Delantero,0,0
+20324,25/26,26,Elche,Espanyol,Espanyol,0,Roberto,Delantero,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Dimitrievski,Portero,9,3
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Gayà,Defensa,5,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Núñez,Defensa,10,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Thierry,Defensa,5,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Cömert,Defensa,7,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Rioja,Mediocampista,2,1
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Guido,Mediocampista,8,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Javi Guerra,Mediocampista,10,3
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Ugrinic,Mediocampista,6,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Ramazani,Delantero,10,4
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Sadiq,Delantero,8,2
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Rivero,Portero,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Abril,Portero,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Jesús Vázquez,Defensa,1,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Tárrega,Defensa,2,1
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Pepelu,Mediocampista,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Almeida,Mediocampista,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Santamaria,Mediocampista,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Otorbi,Delantero,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Raba,Delantero,0,0
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Duro,Delantero,2,1
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Danjuma,Delantero,2,1
+20332,25/26,26,Valencia,Osasuna,Valencia,1,Diego López,Delantero,1,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Herrera,Portero,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Galán,Defensa,6,3
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Catena,Defensa,5,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Herrando,Defensa,4,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Rosier,Defensa,3,2
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Rubén G.,Mediocampista,5,2
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Torró,Mediocampista,3,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Moncayola,Mediocampista,4,2
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Raul Moro,Delantero,5,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Budimir,Delantero,4,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Víctor Muñoz,Delantero,3,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Aitor,Portero,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Juan Cruz,Defensa,2,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Boyomo,Defensa,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Bretones,Defensa,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Arguibide,Defensa,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Moi Gómez,Mediocampista,1,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Kike Barja,Delantero,5,2
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Iker Muñoz,Mediocampista,0,0
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Osambela,Mediocampista,2,1
+20332,25/26,26,Valencia,Osasuna,Osasuna,0,Raúl García,Delantero,2,1
+20329,25/26,26,Betis,Sevilla,Betis,1,Valles,Portero,3,1
+20329,25/26,26,Betis,Sevilla,Betis,1,D. Llorente,Defensa,2,1
+20329,25/26,26,Betis,Sevilla,Betis,1,Rodríguez,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Natan,Defensa,-1,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Fornals,Mediocampista,4,2
+20329,25/26,26,Betis,Sevilla,Betis,1,Marc Roca,Mediocampista,3,1
+20329,25/26,26,Betis,Sevilla,Betis,1,Ruibal,Delantero,6,2
+20329,25/26,26,Betis,Sevilla,Betis,1,Fidalgo,Mediocampista,11,3
+20329,25/26,26,Betis,Sevilla,Betis,1,Cucho,Delantero,2,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Antony,Delantero,8,3
+20329,25/26,26,Betis,Sevilla,Betis,1,Abde,Delantero,10,4
+20329,25/26,26,Betis,Sevilla,Betis,1,Adrián,Portero,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Pau López,Portero,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Bartra,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Bellerín,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Junior,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Ortiz,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Riquelme,Mediocampista,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Altimira,Mediocampista,2,1
+20329,25/26,26,Betis,Sevilla,Betis,1,Deossa,Mediocampista,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Bakambu,Delantero,1,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Chimy,Delantero,0,0
+20329,25/26,26,Betis,Sevilla,Betis,1,Pablo García,Delantero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Vlachodimos,Portero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Azpilicueta,Defensa,1,1
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Gudelj,Mediocampista,5,2
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Juanlu,Mediocampista,2,1
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Carmona,Defensa,-1,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Kike Salas,Defensa,4,2
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Suazo,Defensa,-3,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Sow,Mediocampista,8,3
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Agoume,Mediocampista,4,2
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Alexis,Delantero,8,3
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Adams,Delantero,2,1
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Nyland,Portero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Alberto,Portero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Cardoso,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Gattoni,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Oso,Defensa,8,4
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Castrín,Defensa,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Januzaj,Mediocampista,2,1
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Manu Bueno,Mediocampista,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Ejuke,Delantero,3,2
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Sierra,Delantero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Mendy,Mediocampista,2,1
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Peque,Delantero,0,0
+20329,25/26,26,Betis,Sevilla,Sevilla,0,Romero,Delantero,6,2
+20325,25/26,26,Girona,Celta,Girona,1,Gazzaniga,Portero,5,2
+20325,25/26,26,Girona,Celta,Girona,1,Blind,Defensa,2,2
+20325,25/26,26,Girona,Celta,Girona,1,Witsel,Mediocampista,9,3
+20325,25/26,26,Girona,Celta,Girona,1,Arnau,Defensa,-1,1
+20325,25/26,26,Girona,Celta,Girona,1,Rincón,Defensa,0,1
+20325,25/26,26,Girona,Celta,Girona,1,Vitor Reis,Defensa,3,2
+20325,25/26,26,Girona,Celta,Girona,1,Lemar,Mediocampista,4,1
+20325,25/26,26,Girona,Celta,Girona,1,Tsygankov,Delantero,3,2
+20325,25/26,26,Girona,Celta,Girona,1,Beltrán,Mediocampista,3,2
+20325,25/26,26,Girona,Celta,Girona,1,Bryan Gil,Delantero,2,1
+20325,25/26,26,Girona,Celta,Girona,1,Vanat,Delantero,7,2
+20325,25/26,26,Girona,Celta,Girona,1,Rubén,Portero,0,0
+20325,25/26,26,Girona,Celta,Girona,1,Krapyvtsov,Portero,0,0
+20325,25/26,26,Girona,Celta,Girona,1,David López,Defensa,0,0
+20325,25/26,26,Girona,Celta,Girona,1,Francés,Defensa,0,0
+20325,25/26,26,Girona,Celta,Girona,1,Iván Martín,Mediocampista,2,1
+20325,25/26,26,Girona,Celta,Girona,1,Roca,Delantero,2,1
+20325,25/26,26,Girona,Celta,Girona,1,Ounahi,Mediocampista,6,3
+20325,25/26,26,Girona,Celta,Girona,1,Echeverri,Mediocampista,1,0
+20325,25/26,26,Girona,Celta,Girona,1,Lass,Mediocampista,0,0
+20325,25/26,26,Girona,Celta,Girona,1,Abel Ruiz,Delantero,2,1
+20325,25/26,26,Girona,Celta,Celta,0,Radu,Portero,8,3
+20325,25/26,26,Girona,Celta,Celta,0,Aidoo,Defensa,6,2
+20325,25/26,26,Girona,Celta,Celta,0,Carreira,Defensa,4,1
+20325,25/26,26,Girona,Celta,Celta,0,Mingueza,Defensa,8,3
+20325,25/26,26,Girona,Celta,Celta,0,Domínguez,Defensa,4,1
+20325,25/26,26,Girona,Celta,Celta,0,Javi Rodríguez,Defensa,2,1
+20325,25/26,26,Girona,Celta,Celta,0,Moriba,Mediocampista,5,2
+20325,25/26,26,Girona,Celta,Celta,0,Hugo Álvarez,Mediocampista,3,1
+20325,25/26,26,Girona,Celta,Celta,0,Román,Mediocampista,6,2
+20325,25/26,26,Girona,Celta,Celta,0,Fer López,Mediocampista,1,0
+20325,25/26,26,Girona,Celta,Celta,0,Jutglà,Delantero,8,2
+20325,25/26,26,Girona,Celta,Celta,0,Iván Villar,Portero,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Marc Vidal,Portero,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Ristic,Defensa,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Á. Núñez,Defensa,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Rueda,Defensa,1,0
+20325,25/26,26,Girona,Celta,Celta,0,Lago,Defensa,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Manu Fernández,Defensa,2,1
+20325,25/26,26,Girona,Celta,Celta,0,Vecino,Mediocampista,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Sotelo,Mediocampista,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Swedberg,Mediocampista,0,0
+20325,25/26,26,Girona,Celta,Celta,0,El-Abdellaoui,Delantero,1,0
+20325,25/26,26,Girona,Celta,Celta,0,Antañón,Mediocampista,0,0
+20325,25/26,26,Girona,Celta,Celta,0,Aspas,Delantero,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Courtois,Portero,6,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Alaba,Defensa,3,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Rüdiger,Defensa,5,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Alexander-Arnold,Defensa,2,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,A. F. Carreras,Defensa,2,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Valverde,Mediocampista,4,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Tchouaméni,Mediocampista,3,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Güler,Mediocampista,8,3
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Thiago,Mediocampista,3,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Vinicius,Delantero,4,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Gonzalo,Delantero,3,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Lunin,Portero,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Mestre,Portero,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Carvajal,Defensa,3,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Mendy,Defensa,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Fran García,Defensa,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Huijsen,Defensa,1,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Brahim,Mediocampista,2,1
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Manuel Ángel,Mediocampista,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Palacios,Mediocampista,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Mastantuono 68',Delantero,3,2
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Cestero,Mediocampista,0,0
+20330,25/26,26,Real Madrid,Getafe,Real Madrid,1,Rodrygo,Delantero,2,1
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Soria,Portero,15,4
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Femenia,Defensa,2,1
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Diego Rico,Defensa,4,1
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,D. Duarte,Defensa,8,2
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Iglesias,Defensa,9,2
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Romero,Defensa,9,2
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Boselli,Defensa,8,2
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Arambarri,Mediocampista,11,3
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Luis Milla,Mediocampista,10,2
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Satriano,Delantero,10,3
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Luis Vázquez,Delantero,5,1
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Letácek,Portero,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Nyom,Defensa,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Abqar,Defensa,1,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Montes,Defensa,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Javi Muñoz,Mediocampista,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Mario Martín,Mediocampista,2,1
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Sancris,Delantero,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,A. Riquelme,Mediocampista,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Birmancevic,Delantero,0,0
+20330,25/26,26,Real Madrid,Getafe,Getafe,0,Liso 57',Delantero,-1,0

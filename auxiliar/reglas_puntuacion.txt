@@ -1,0 +1,290 @@
+abla de fórmulas de puntuación
+PARÁMETRO
+
+CONDICIÓN
+
+PUNTOS
+
+Minutos Jugados
+
+< 60 min
+
+1
+
+Minutos Jugados
+
+> 60 min
+
+2
+
+Gol Portero / Defensa
+
+PT / DF
+
+6
+
+Gol Mediocentro
+
+MC
+
+5
+
+Gol Delantero
+
+DC
+
+4
+
+Asistencia de Gol
+
+Último pase que provoca un gol
+
+3
+
+Asistencias sin Gol
+
+Último pase que provoca una ocasión de gol manifiesta
+
+1
+
+Portería a cero (Portero)
+
+Habiendo jugado > 60 min
+
+4
+
+Portería a cero (Defensa)
+
+Habiendo jugado > 60 min
+
+3
+
+Portería a cero (Mediocentro)
+
+Habiendo jugado > 60 min
+
+2
+
+Portería a cero Delantero
+
+Habiendo jugado > 60 min
+
+1
+
+Penalti fallado
+
+Indistintamente de la demarcación del jugador
+
+-2
+
+Penalti parado
+
+El portero intercede en la detención
+
+5
+
+Penalti provocado
+
+Indistintamente de la demarcación del jugador
+
+2
+
+Penalti cometido
+
+Indistintamente de la demarcación del jugador
+
+-2 
+
+Goles recibidos Portero/Defensa
+
+CADA 2
+
+-2
+
+Goles recibidos Medio/Delantero
+
+CADA 2
+
+-1
+
+Tarjeta amarilla
+
+Indistintamente de la demarcación del jugador
+
+-1
+
+Doble Amarilla
+
+Indistintamente de la demarcación del jugador
+
+-1
+
+Tarjeta Roja
+
+Indistintamente de la demarcación del jugador
+
+-3
+
+Paradas Portero
+
+CADA 2
+
+1
+
+BONUS ATAQUE
+
+Tiros a puerta
+
+CADA 2
+
+1
+
+Regates logrados
+
+CADA 2
+
+1
+
+Balones al área	CADA 2	1
+BONUS DEFENSIVOS
+
+Balones recuperados
+
+CADA 5
+
+1
+
+Despejes
+
+CADA 3
+
+1
+
+PÉRDIDAS DE BALÓN
+
+Balones perdidos portero
+
+CADA 8
+
+-1
+
+Balones perdidos defensa
+
+CADA 8
+
+-1
+
+Balones perdidos centrocampista
+
+CADA 10
+
+-1 
+
+Balones perdidos delantero
+
+CADA 12
+
+-1
+
+Nota DAZN
+Puntos DAZN = Estadísticas positivas – Estadísticas negativas
+
+Los puntos DAZN están puramente basados en estadísticas avanzadas. A cada jugador le sumarán unos datos relacionados con las distintas facetas del juego en las que pueda influir (Portería/Defensiva/Distribución/Ofensiva) y le restarán otras para obtener una nota final de entre 0 y 4 puntos.
+
+Desglosamos la ecuación común a todos los jugadores:
+
+Puntos DAZN = Estadísticas Portería + Defensivas + Distribución + Ofensivas – Estadísticas que restan.
+
+Para calcular estos datos se tendrán en cuenta los minutos que el jugador ha disputado como un elemento de contexto, con el objetivo de garantizar que la contribución de un jugador se evalúe proporcionalmente a su tiempo en el campo. 
+
+Las estadísticas que pertenezcan a la posición concreta del jugador tendrán un peso mayor en la ecuación.
+
+Desglose de estadísticas por posición o zona del campo:
+
+ 
+
+Estadísticas Portería
+
+1- Blocaje: El portero se lanza y atrapa el disparo.
+
+2- Despeje a zona segura: El guardameta se tira y desvía el balón a una zona sin peligro de segunda jugada.
+
+3- Balón embolsado: El portero se apodera del balón lanzándose al suelo para recoger un balón suelto que persigue un delantero.
+
+4- Salida por alto: El portero atrapa un centro.
+
+5- Salida exitosa: El portero sale de su línea, se hace con el balón y gana - posesión para su equipo.
+
+6- Paradas: Todas las paradas del portero.
+
+Con respecto al anterior algoritmo se eliminan los saques de meta y los lanzamientos exitosos, para no puntuar de más a los guardametas.
+
+ 
+
+ Estadísticas Defensivas
+
+1- Diferencia de duelos: Duelos ganados menos duelos perdidos. Un duelo es la disputa entre dos futbolistas para conseguir la posesión del balón. 
+
+2- Intercepciones: Balones robados entre jugadores contrarios con los que se recupera la posesión. 
+
+3- Despejes exitosos: Cuando un jugador bajo presión golpea el balón fuera de la zona defensiva y/o fuera del juego.
+
+4- Entrada exitosa: Acción defensiva en el suelo con la que se recupera la posesión del balón.
+
+5- Recuperación de balón: El jugador consigue la posesión de un balón perdido.
+
+6- Cara a Cara exitoso: Cuando dos jugadores intentan llegar al mismo balón, al jugador que llega primero se le asigna un cara a cara exitoso, al otro jugador se le asigna uno perdido.
+
+ 
+
+Estadísticas Distribución
+
+1- Diferencia entre los toques y las pérdidas:
+
+Suma total de los eventos con balón de un equipo menos las pérdidas de posesión totales.
+
+2- Pases exitosos: Todos los pases correctos (menos los saques de banda, los lanzamientos del portero y los centros)
+
+3- Centros exitosos: Centros que nacen en saques de esquina, juego abierto y jugadas a balón parado que llegan a un compañero.
+
+4- Pases exitosos en último tercio: Número total de pases acertados en los que el balón termina en el último tercio del campo (excluye saques de banda, lanzamientos del portero y centros).
+
+5- Balones largos exitosos: Pases precisos a más de 35 metros (excluyendo saques de banda, centros, lanzamientos de portero).
+
+6- Pase clave: Pases precisos que dejan a un jugador solo contra el portero.
+
+ 
+
+Estadísticas Ofensivas
+
+1- Gran oportunidad creada: Un pase que derivó en una clara oportunidad de gol. Como un uno contra uno o un tiro desde pocos metros.
+
+2- Toques en área rival: Total de veces que se entra en contacto con el balón dentro del área contraria.
+
+3- Regates exitosos: Total de regates en los que un jugador de un equipo supera a un oponente.
+
+4- Goles anotados
+
+5- Gol ganador: Es el gol que marca la diferencia. Así, si un equipo gana 7-0, sería el gol que puso el 1-0, o si fue 4-2, sería el tercer gol marcado por el equipo ganador. Por tanto, se trata de llevar la cuenta del marcador y del último gol que puso a un equipo en posición ganadora.
+
+6- Asistencia de gol: El jugador asiste pasando el balón al jugador que marca el gol
+
+7- Disparo a puerta: Aquellos disparos que no han sido bloqueados ni han golpeado en la madera, pero que pueden haber sido salvados en la línea por un jugador del equipo defensor.
+
+8- Ocasiones de gol: Incluye las asistencias que terminan en gol y las que no.
+
+ 
+
+Estadísticas Negativas
+
+1- Faltas: Faltas cometidas.
+
+2- Tarjetas amarillas: Tarjetas amarillas recibidas.
+
+3- Tarjeta Roja: Tarjeta roja recibida
+
+4- Jugador regateado: El jugador es regateado, por lo que no hay contacto.
+
+5- Goles concedidos: Goles encajados
+
+6- Gran ocasión fallada: Ocasión manifiesta de gol que no se anota.

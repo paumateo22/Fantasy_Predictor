@@ -1,0 +1,460 @@
+﻿ID_Partido,Temporada,Jornada,Local,Visitante,Equipo_Jugador,Es_Local,Jugador,Posicion,Puntos,Relevo
+20125,25/26,6,Celta,Betis,Celta,1,Radu,Portero,4,1
+20125,25/26,6,Celta,Betis,Celta,1,Mingueza,Defensa,3,2
+20125,25/26,6,Celta,Betis,Celta,1,Ristic,Defensa,4,1
+20125,25/26,6,Celta,Betis,Celta,1,Javi Rodríguez,Defensa,3,1
+20125,25/26,6,Celta,Betis,Celta,1,Lago,Defensa,4,1
+20125,25/26,6,Celta,Betis,Celta,1,Moriba,Mediocampista,3,1
+20125,25/26,6,Celta,Betis,Celta,1,Sotelo,Mediocampista,6,3
+20125,25/26,6,Celta,Betis,Celta,1,Hugo Álvarez,Mediocampista,10,3
+20125,25/26,6,Celta,Betis,Celta,1,Swedberg,Mediocampista,1,0
+20125,25/26,6,Celta,Betis,Celta,1,Iglesias,Delantero,3,1
+20125,25/26,6,Celta,Betis,Celta,1,Durán,Delantero,4,1
+20125,25/26,6,Celta,Betis,Celta,1,Iván Villar,Portero,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Marc Vidal,Portero,0,0
+20125,25/26,6,Celta,Betis,Celta,1,M. Alonso,Defensa,4,2
+20125,25/26,6,Celta,Betis,Celta,1,Carreira,Defensa,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Domínguez,Defensa,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Rueda,Defensa,3,2
+20125,25/26,6,Celta,Betis,Celta,1,Manu Fernández,Defensa,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Beltrán,Mediocampista,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Bryan,Delantero,3,2
+20125,25/26,6,Celta,Betis,Celta,1,Damián,Mediocampista,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Román,Mediocampista,0,0
+20125,25/26,6,Celta,Betis,Celta,1,El-Abdellaoui,Delantero,0,0
+20125,25/26,6,Celta,Betis,Celta,1,Aspas,Delantero,3,2
+20125,25/26,6,Celta,Betis,Celta,1,Jutglà,Delantero,3,1
+20125,25/26,6,Celta,Betis,Betis,0,Valles,Portero,7,3
+20125,25/26,6,Celta,Betis,Betis,0,Bartra,Defensa,14,4
+20125,25/26,6,Celta,Betis,Betis,0,Rodríguez,Defensa,4,2
+20125,25/26,6,Celta,Betis,Betis,0,Bellerín,Defensa,4,1
+20125,25/26,6,Celta,Betis,Betis,0,Natan,Defensa,6,1
+20125,25/26,6,Celta,Betis,Betis,0,Fornals,Mediocampista,4,2
+20125,25/26,6,Celta,Betis,Betis,0,Lo Celso,Mediocampista,10,4
+20125,25/26,6,Celta,Betis,Betis,0,Ruibal,Delantero,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Riquelme,Mediocampista,4,2
+20125,25/26,6,Celta,Betis,Betis,0,Altimira,Mediocampista,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Cucho,Delantero,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Adrián,Portero,0,0
+20125,25/26,6,Celta,Betis,Betis,0,Manu González,Portero,0,0
+20125,25/26,6,Celta,Betis,Betis,0,Junior,Defensa,0,0
+20125,25/26,6,Celta,Betis,Betis,0,Ortiz,Defensa,0,0
+20125,25/26,6,Celta,Betis,Betis,0,Valentín Gómez,Defensa,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Dani Pérez,Mediocampista,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Mawuli,Mediocampista,0,0
+20125,25/26,6,Celta,Betis,Betis,0,Bakambu,Delantero,2,1
+20125,25/26,6,Celta,Betis,Betis,0,Chimy,Delantero,1,0
+20125,25/26,6,Celta,Betis,Betis,0,Pablo García,Delantero,2,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Unai Simón,Portero,8,2
+20123,25/26,6,Athletic,Girona,Athletic,1,Laporte,Defensa,6,3
+20123,25/26,6,Athletic,Girona,Athletic,1,Gorosabel,Defensa,1,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Paredes,Defensa,5,2
+20123,25/26,6,Athletic,Girona,Athletic,1,Boiro,Defensa,2,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Vesga,Mediocampista,3,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Sancet,Mediocampista,3,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Serrano,Delantero,3,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Jauregizar,Mediocampista,13,4
+20123,25/26,6,Athletic,Girona,Athletic,1,I. Williams,Delantero,2,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Guruzeta,Delantero,3,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Santos,Portero,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Yuri,Defensa,3,2
+20123,25/26,6,Athletic,Girona,Athletic,1,Lekue,Defensa,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Areso,Defensa,1,2
+20123,25/26,6,Athletic,Girona,Athletic,1,Monreal,Defensa,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,R. de Galarreta,Mediocampista,5,2
+20123,25/26,6,Athletic,Girona,Athletic,1,Berenguer,Delantero,7,3
+20123,25/26,6,Athletic,Girona,Athletic,1,Navarro,Mediocampista,2,1
+20123,25/26,6,Athletic,Girona,Athletic,1,Unai Gómez,Mediocampista,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Rego,Defensa,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Sannadi,Delantero,0,0
+20123,25/26,6,Athletic,Girona,Athletic,1,Izeta,Delantero,0,0
+20123,25/26,6,Athletic,Girona,Girona,0,Gazzaniga,Portero,7,3
+20123,25/26,6,Athletic,Girona,Girona,0,Blind,Defensa,5,1
+20123,25/26,6,Athletic,Girona,Girona,0,Álex Moreno,Defensa,4,1
+20123,25/26,6,Athletic,Girona,Girona,0,Francés,Defensa,6,2
+20123,25/26,6,Athletic,Girona,Girona,0,Rincón,Defensa,4,1
+20123,25/26,6,Athletic,Girona,Girona,0,Van de Beek,Mediocampista,2,1
+20123,25/26,6,Athletic,Girona,Girona,0,Bryan Gil,Delantero,7,2
+20123,25/26,6,Athletic,Girona,Girona,0,Iván Martín,Mediocampista,2,0
+20123,25/26,6,Athletic,Girona,Girona,0,Ounahi,Mediocampista,15,4
+20123,25/26,6,Athletic,Girona,Girona,0,Solís,Mediocampista,5,1
+20123,25/26,6,Athletic,Girona,Girona,0,Vanat,Delantero,2,0
+20123,25/26,6,Athletic,Girona,Girona,0,Livakovic,Portero,0,0
+20123,25/26,6,Athletic,Girona,Girona,0,Andreev,Portero,0,0
+20123,25/26,6,Athletic,Girona,Girona,0,Arnau,Defensa,1,0
+20123,25/26,6,Athletic,Girona,Girona,0,Gibert,Defensa,0,0
+20123,25/26,6,Athletic,Girona,Girona,0,Portu,Delantero,2,1
+20123,25/26,6,Athletic,Girona,Girona,0,Asprilla,Delantero,2,1
+20123,25/26,6,Athletic,Girona,Girona,0,Lass,Mediocampista,0,0
+20123,25/26,6,Athletic,Girona,Girona,0,Stuani,Delantero,1,0
+20123,25/26,6,Athletic,Girona,Girona,0,Papa Ba,Mediocampista,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Dmitrovic,Portero,2,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Cabrera,Defensa,9,3
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,El Hilali,Defensa,1,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Romero,Defensa,1,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Riedel,Defensa,6,2
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Edu Expósito,Mediocampista,14,4
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Lozano,Mediocampista,2,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Pickel,Mediocampista,1,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Kike García,Delantero,2,2
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Puado,Mediocampista,12,3
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Dolan,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Fortuño,Portero,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Pol Tristan,Portero,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Miguel Rubio,Defensa,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Calero,Defensa,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Salinas,Defensa,1,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Rubén Sánchez,Mediocampista,2,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Urko,Mediocampista,2,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Terrats,Mediocampista,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Jofre,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Roca,Mediocampista,2,1
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Javier Hernández,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Roberto,Delantero,10,3
+20126,25/26,6,Espanyol,Valencia,Espanyol,1,Koleosho,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Agirrezabala,Portero,5,2
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Gayà,Defensa,5,1
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Foulquier,Defensa,2,1
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Diakhaby,Defensa,5,1
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Tárrega,Defensa,3,1
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Pepelu,Mediocampista,4,1
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Rioja,Mediocampista,9,3
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Santamaria,Mediocampista,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Duro,Delantero,6,2
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Danjuma,Delantero,10,3
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Diego López,Delantero,1,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Dimitrievski,Portero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Rivero,Portero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Thierry,Defensa,1,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Jesús Vázquez,Defensa,2,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Cömert,Defensa,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Copete,Defensa,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Javi Guerra,Mediocampista,1,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Almeida,Mediocampista,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Ugrinic,Mediocampista,9,3
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Otorbi,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Raba,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Ramazani,Delantero,0,0
+20126,25/26,6,Espanyol,Valencia,Valencia,0,Beltrán,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Ryan,Portero,3,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Elgezabal,Defensa,-5,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Pampín,Mediocampista,3,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Toljan,Defensa,-2,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,De la Fuente,Defensa,1,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Vencedor,Mediocampista,3,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Oriol Rey,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,C. Álvarez,Mediocampista,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Olasagasti,Mediocampista,1,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Iván Romero,Delantero,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Etta Eyong,Delantero,5,2
+20128,25/26,6,Levante,Real Madrid,Levante,1,Cuñat Campos,Portero,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Manu Sánchez,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Víctor García,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Matturro,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Moreno,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Losada,Delantero,1,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Pablo Martínez,Mediocampista,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Arriaga,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Morales,Delantero,2,1
+20128,25/26,6,Levante,Real Madrid,Levante,1,Brugui,Delantero,1,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Carlos Espí,Delantero,0,0
+20128,25/26,6,Levante,Real Madrid,Levante,1,Koyalipou,Delantero,1,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Courtois,Portero,3,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Fran García,Defensa,3,2
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,A. F. Carreras,Defensa,8,2
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Huijsen,Defensa,3,2
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Asencio,Defensa,3,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Ceballos,Mediocampista,7,3
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Valverde,Mediocampista,8,3
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Güler,Mediocampista,12,4
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Mastantuono,Delantero,9,2
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Mbappé,Delantero,18,4
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Vinicius,Delantero,16,4
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Lunin,Portero,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Mestre,Portero,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Carvajal,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Alaba,Defensa,2,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Militão,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Jiménez,Defensa,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Brahim,Mediocampista,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Bellingham,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Camavinga,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Tchouaméni,Mediocampista,2,1
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Rodrygo,Delantero,4,2
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Gonzalo,Delantero,0,0
+20128,25/26,6,Levante,Real Madrid,Real Madrid,0,Endrick,Delantero,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Vlachodimos,Portero,3,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Azpilicueta,Defensa,3,2
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Gudelj,Mediocampista,3,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Juanlu,Mediocampista,5,2
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Kike Salas,Defensa,2,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Suazo,Defensa,5,3
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Castrín,Defensa,2,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Januzaj,Mediocampista,4,2
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Sow,Mediocampista,10,4
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Ejuke,Delantero,5,2
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Adams,Delantero,1,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Nyland,Portero,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Alberto,Portero,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Marcão,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Nianzou,Defensa,2,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Carmona,Defensa,1,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Cardoso,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Oso,Defensa,-1,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Ramón,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Agoume,Mediocampista,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Mendy,Mediocampista,2,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Alexis,Delantero,2,1
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Vargas,Delantero,5,2
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Peque,Delantero,0,0
+20132,25/26,6,Sevilla,Villarreal,Sevilla,1,Romero,Delantero,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Tenas,Portero,3,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Rafa Marín,Defensa,2,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,S. Cardona,Defensa,8,2
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Veiga,Defensa,7,2
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Mouriño,Defensa,5,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Parejo,Mediocampista,7,3
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Comesaña,Mediocampista,2,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,P. Gueye,Mediocampista,4,2
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Moleiro,Mediocampista,5,2
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Buchanan,Mediocampista,4,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Oluwaseyi,Delantero,10,3
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Conde,Portero,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Luiz Junior,Portero,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Pedraza,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Altimira,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Sierra,Defensa,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Thomas,Mediocampista,2,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Barry,Mediocampista,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Hugo López,Mediocampista,0,0
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Pépé,Delantero,2,1
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Solomon,Delantero,8,3
+20132,25/26,6,Sevilla,Villarreal,Villarreal,0,Mikautadze,Delantero,9,3
+20127,25/26,6,Getafe,Alavés,Getafe,1,Soria,Portero,8,3
+20127,25/26,6,Getafe,Alavés,Getafe,1,Femenia,Defensa,3,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Diego Rico,Defensa,1,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Djené,Defensa,6,2
+20127,25/26,6,Getafe,Alavés,Getafe,1,Abqar,Defensa,5,2
+20127,25/26,6,Getafe,Alavés,Getafe,1,Iglesias,Defensa,2,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Arambarri,Mediocampista,13,4
+20127,25/26,6,Getafe,Alavés,Getafe,1,Luis Milla,Mediocampista,6,3
+20127,25/26,6,Getafe,Alavés,Getafe,1,Mario Martín,Mediocampista,6,2
+20127,25/26,6,Getafe,Alavés,Getafe,1,Mayoral,Delantero,9,3
+20127,25/26,6,Getafe,Alavés,Getafe,1,Kamara,Delantero,2,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Letácek,Portero,0,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,Nyom,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,D. Duarte,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,Bekhoucha,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,Davinchi,Defensa,1,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Javi Muñoz,Mediocampista,2,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Neyou,Mediocampista,0,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,Sancris,Delantero,1,0
+20127,25/26,6,Getafe,Alavés,Getafe,1,Coba,Mediocampista,2,1
+20127,25/26,6,Getafe,Alavés,Getafe,1,Aleksandrov,Delantero,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Sivera,Portero,3,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Jonny,Defensa,3,2
+20127,25/26,6,Getafe,Alavés,Alavés,0,Pacheco,Defensa,4,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Garcés,Defensa,2,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Youssef,Defensa,4,2
+20127,25/26,6,Getafe,Alavés,Alavés,0,Guevara,Mediocampista,12,4
+20127,25/26,6,Getafe,Alavés,Alavés,0,Ibáñez,Mediocampista,7,2
+20127,25/26,6,Getafe,Alavés,Alavés,0,Rebbach,Delantero,2,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Calebe,Mediocampista,1,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Mariano,Delantero,5,2
+20127,25/26,6,Getafe,Alavés,Alavés,0,Toni Martinez,Delantero,9,4
+20127,25/26,6,Getafe,Alavés,Alavés,0,Raúl F.,Portero,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Swiderski,Portero,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Tenaglia,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Egoitz,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Diarra,Defensa,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Parada,Defensa,1,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Denis Suárez,Mediocampista,2,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Aleñá,Mediocampista,2,1
+20127,25/26,6,Getafe,Alavés,Alavés,0,Guridi,Mediocampista,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Blanco,Mediocampista,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Protesoni,Mediocampista,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Carlos Vicente,Delantero,4,2
+20127,25/26,6,Getafe,Alavés,Alavés,0,Pinillos,Mediocampista,0,0
+20127,25/26,6,Getafe,Alavés,Alavés,0,Boyé,Delantero,2,1
+20124,25/26,6,Atlético,Rayo,Atlético,1,Oblak,Portero,1,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Hancko,Defensa,3,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Le Normand,Defensa,-1,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Galán,Defensa,4,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Molina,Defensa,4,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Koke,Mediocampista,2,1
+20124,25/26,6,Atlético,Rayo,Atlético,1,M. Llorente,Defensa,12,4
+20124,25/26,6,Atlético,Rayo,Atlético,1,Gallagher,Mediocampista,5,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Barrios,Mediocampista,3,1
+20124,25/26,6,Atlético,Rayo,Atlético,1,Griezmann,Delantero,4,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Alvarez,Delantero,19,4
+20124,25/26,6,Atlético,Rayo,Atlético,1,Musso,Portero,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Esquivel,Portero,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Lenglet,Defensa,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Ruggeri,Defensa,4,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Pubill,Defensa,3,1
+20124,25/26,6,Atlético,Rayo,Atlético,1,Baena,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Giuliano,Delantero,7,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Monserrate,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Taufik,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Atlético,1,Raspadori,Delantero,3,1
+20124,25/26,6,Atlético,Rayo,Atlético,1,González,Mediocampista,4,2
+20124,25/26,6,Atlético,Rayo,Atlético,1,Carlos Martín,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Batalla,Portero,3,1
+20124,25/26,6,Atlético,Rayo,Rayo,0,Lejeune,Defensa,3,1
+20124,25/26,6,Atlético,Rayo,Rayo,0,Ratiu,Defensa,-2,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Balliu,Defensa,-2,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Pep Chavarría,Defensa,7,2
+20124,25/26,6,Atlético,Rayo,Rayo,0,Vertrouwd,Defensa,1,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Unai López,Mediocampista,9,3
+20124,25/26,6,Atlético,Rayo,Rayo,0,Valentín,Mediocampista,3,1
+20124,25/26,6,Atlético,Rayo,Rayo,0,Isi,Delantero,7,3
+20124,25/26,6,Atlético,Rayo,Rayo,0,Fran Pérez,Mediocampista,6,2
+20124,25/26,6,Atlético,Rayo,Rayo,0,Alemão,Delantero,2,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Cárdenas,Portero,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Espino,Defensa,-1,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Mendy,Defensa,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,De la Sías,Defensa,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Álvaro García,Mediocampista,7,2
+20124,25/26,6,Atlético,Rayo,Rayo,0,Gumbau,Mediocampista,1,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Pedro Díaz,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Trejo,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,De Frutos,Delantero,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Pathé Ciss,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Becerra,Mediocampista,0,0
+20124,25/26,6,Atlético,Rayo,Rayo,0,Camello,Delantero,-1,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Remiro,Portero,10,3
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Zubeldia,Defensa,8,2
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Caleta-Car,Defensa,8,3
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Aramburu,Defensa,9,3
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Carlos Soler,Mediocampista,6,2
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Brais,Mediocampista,3,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Sergio Gómez,Defensa,8,3
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Barrenetxea,Mediocampista,14,4
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Kubo,Mediocampista,6,2
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Gorrotxategi,Mediocampista,6,2
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Oyarzabal,Delantero,12,4
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Marrero,Portero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Fraga,Portero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Odriozola,Defensa,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Aihen,Defensa,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Sucic,Mediocampista,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Turrientes,Mediocampista,1,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Zakharyan,Mediocampista,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Marín,Mediocampista,3,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Goti,Mediocampista,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Lebarbier,Mediocampista,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Guedes,Mediocampista,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Sadiq,Delantero,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Real Sociedad,1,Karrikaburu,Delantero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Leo Román,Portero,4,2
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Raíllo,Defensa,7,2
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Maffeo,Defensa,3,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Lato,Defensa,5,2
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Valjent,Defensa,4,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,David López,Defensa,6,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Mascarell,Mediocampista,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Antonio,Mediocampista,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Pablo Torre,Mediocampista,3,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Muriqi,Delantero,3,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Joseph,Delantero,2,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Cuéllar,Portero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Bergstrom,Portero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Mojica,Defensa,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Morey,Defensa,4,2
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Olaizola,Defensa,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Darder,Mediocampista,2,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Morlanes,Mediocampista,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Samú,Mediocampista,4,1
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Llabrés,Delantero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Abdon,Delantero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Asano,Delantero,0,0
+20131,25/26,6,Real Sociedad,Mallorca,Mallorca,0,Doménech,Delantero,2,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Herrera,Portero,6,3
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Catena,Defensa,8,3
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Herrando,Defensa,3,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Boyomo,Defensa,4,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Bretones,Defensa,3,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Moi Gómez,Mediocampista,6,2
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Torró,Mediocampista,5,2
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Moncayola,Mediocampista,6,2
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Benito,Delantero,7,2
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Budimir,Delantero,4,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Víctor Muñoz,Delantero,11,3
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Aitor,Portero,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Stamatakis,Portero,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Juan Cruz,Defensa,1,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Chasco,Defensa,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Kike Barja,Delantero,1,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Iker Muñoz,Mediocampista,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Osambela,Mediocampista,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Echegoyen,Mediocampista,0,0
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Raúl García,Delantero,2,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Becker,Mediocampista,2,1
+20129,25/26,6,Osasuna,Elche,Osasuna,1,Pedroarena,Delantero,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Peña,Portero,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Bambo,Defensa,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Chust,Defensa,6,2
+20129,25/26,6,Osasuna,Elche,Elche,0,Fort,Defensa,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Á. Núñez,Defensa,4,2
+20129,25/26,6,Osasuna,Elche,Elche,0,Pétrot,Defensa,5,2
+20129,25/26,6,Osasuna,Elche,Elche,0,Diangana,Delantero,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Febas,Mediocampista,4,2
+20129,25/26,6,Osasuna,Elche,Elche,0,Aguado,Mediocampista,4,2
+20129,25/26,6,Osasuna,Elche,Elche,0,André Silva,Delantero,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Alvaro R.,Delantero,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Dituro,Portero,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Iturbe,Portero,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Bigas,Defensa,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Pedrosa,Defensa,8,2
+20129,25/26,6,Osasuna,Elche,Elche,0,John C.,Defensa,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Affengruber,Defensa,5,2
+20129,25/26,6,Osasuna,Elche,Elche,0,Josan,Mediocampista,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Valera,Mediocampista,2,1
+20129,25/26,6,Osasuna,Elche,Elche,0,Adam Boayar,Mediocampista,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Redondo,Mediocampista,0,0
+20129,25/26,6,Osasuna,Elche,Elche,0,Rafa Mir,Delantero,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Aarón,Portero,5,2
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Bailly,Defensa,2,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Ahijado,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Carmo,Defensa,2,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Alhassane,Defensa,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Cazorla,Mediocampista,3,1
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Dendoncker,Mediocampista,2,1
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Hassan,Mediocampista,3,1
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Chaira,Delantero,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Reina,Mediocampista,9,2
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Rondón,Delantero,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Moldovan,Portero,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Calvo,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Javi López,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Luengo,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Marco Esteban,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Sibo,Mediocampista,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Colombatto,Mediocampista,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,L. Ilic,Mediocampista,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Gueye,Delantero,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Brandon,Mediocampista,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Brekalo,Mediocampista,5,2
+20130,25/26,6,Real Oviedo,Barcelona,Real Oviedo,1,Forés,Delantero,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Joan Garcia,Portero,7,2
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Araújo,Defensa,12,3
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Eric García,Defensa,11,3
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Cubarsí,Defensa,4,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Martín,Defensa,4,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Pedri,Mediocampista,6,3
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Casadó,Mediocampista,2,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Olmo,Mediocampista,4,2
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Rashford,Delantero,11,4
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Raphinha,Delantero,4,2
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Ferran,Delantero,4,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Szczesny,Portero,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Aller,Portero,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,A. Christensen,Defensa,2,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Koundé,Defensa,2,1
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Torrents,Defensa,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,F. de Jong,Mediocampista,8,4
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Bernal,Mediocampista,1,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Dro Fernández,Mediocampista,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Lewandowski,Delantero,9,3
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Bardghji,Delantero,0,0
+20130,25/26,6,Real Oviedo,Barcelona,Barcelona,0,Toni Fernández,Delantero,0,0
