@@ -6,9 +6,9 @@ from scraper_motor import scrap_puntos_fantasy
 
 # Diccionario traductor para arreglar el desfase de URLs de FutbolFantasy
 MAPA_URLS_TEMPORADA = {
-    "2023/24": "2024-25",
-    "2024/25": "2025-26",
-    "2025/26": "2026-27"
+    "23-24": "2024-25",
+    "24-25": "2025-26",
+    "25-26": "2026-27"
 }
 def ejecutar_temporada_completa(tareas):
     # Base para movernos por las carpetas (apunta a la carpeta pasado)
@@ -132,7 +132,7 @@ def ejecutar_temporada_completa(tareas):
 if __name__ == "__main__":
     
     tareas_a_ejecutar = {
-        "25/26": [1, 27, []]
+        "25-26": [15, 15, []]
     }
     
     print("\n🚀 INICIANDO EL MOTOR DE SCRAPING DE PUNTOS FANTASY 🚀")

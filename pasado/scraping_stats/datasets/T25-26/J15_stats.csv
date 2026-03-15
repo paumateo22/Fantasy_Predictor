@@ -38,7 +38,7 @@
 14083159,T25-26,J15,Local,Villarreal,Santi Comesaña,M,90,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,0,11,7.6
 14083159,T25-26,J15,Local,Villarreal,Dani Parejo,M,51,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,9,7.2
 14083159,T25-26,J15,Local,Villarreal,Alberto Moleiro,M,70,0,0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,15,6.2
-14083159,T25-26,J15,Local,Villarreal,Ayoze Pérez,F,70,0,0,2,0,0,0,1,3,0,0,0,0,0,0,0,0,0,14,6.4
+14083159,T25-26,J15,Local,Villarreal,Ayoze Pérez,F,70,0,1,2,0,0,0,1,3,0,0,0,0,0,0,0,0,0,14,6.4
 14083159,T25-26,J15,Local,Villarreal,Georges Mikautadze,F,80,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,12,7.5
 14083159,T25-26,J15,Local,Villarreal,Carlos Maciá,M,39,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5,6.5
 14083159,T25-26,J15,Local,Villarreal,Manor Solomon,F,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.4
@@ -101,7 +101,7 @@
 14083155,T25-26,J15,Local,Real Betis,Marc Roca,M,90,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,0,0,7,6.5
 14083155,T25-26,J15,Local,Real Betis,Antony,M,75,1,0,1,0,3,0,4,0,0,0,0,0,0,0,0,0,0,9,7.6
 14083155,T25-26,J15,Local,Real Betis,Pablo Fornals,M,90,0,0,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,14,6.2
-14083155,T25-26,J15,Local,Real Betis,Abdessamad Ezzalzouli,M,90,0,0,3,0,0,0,3,0,0,0,1,0,0,0,0,0,0,21,7.0
+14083155,T25-26,J15,Local,Real Betis,Abdessamad Ezzalzouli,M,90,0,1,3,0,0,0,3,0,0,0,1,0,0,0,0,0,0,21,7.0
 14083155,T25-26,J15,Local,Real Betis,Cucho Hernández,F,90,1,0,1,0,1,0,3,2,0,0,0,0,0,0,0,0,0,16,6.8
 14083155,T25-26,J15,Local,Real Betis,Nelson Deossa,M,45,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6,6.3
 14083155,T25-26,J15,Local,Real Betis,Junior Firpo,D,29,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.7
@@ -109,13 +109,13 @@
 14083155,T25-26,J15,Local,Real Betis,Pablo García,F,15,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,6.3
 14083155,T25-26,J15,Local,Real Betis,Ricardo Rodríguez,D,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.8
 14083155,T25-26,J15,Visitante,Barcelona,Joan García,G,90,0,0,0,0,0,0,15,3,2,0,0,0,0,0,0,0,0,11,6.5
-14083155,T25-26,J15,Visitante,Barcelona,Jules Koundé,D,90,0,0,2,1,0,0,3,6,0,0,0,1,0,0,0,0,0,11,6.2
+14083155,T25-26,J15,Visitante,Barcelona,Jules Koundé,D,90,0,1,2,1,0,0,3,6,0,0,0,1,0,0,0,0,0,11,6.2
 14083155,T25-26,J15,Visitante,Barcelona,Pau Cubarsí,D,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,2,6.8
 14083155,T25-26,J15,Visitante,Barcelona,Gerard Martín,D,63,0,0,1,0,0,0,3,5,0,0,0,0,0,0,0,0,0,6,6.5
 14083155,T25-26,J15,Visitante,Barcelona,Alejandro Balde,D,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,6.7
 14083155,T25-26,J15,Visitante,Barcelona,Eric García,M,81,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,4,7.2
-14083155,T25-26,J15,Visitante,Barcelona,Pedri,M,63,0,0,2,0,0,0,4,1,0,0,0,0,0,0,0,0,0,5,7.6
-14083155,T25-26,J15,Visitante,Barcelona,Roony Bardghji,M,68,1,0,2,1,1,0,3,2,0,0,0,0,0,0,0,0,0,16,7.6
+14083155,T25-26,J15,Visitante,Barcelona,Pedri,M,63,0,2,2,0,0,0,4,1,0,0,0,0,0,0,0,0,0,5,7.6
+14083155,T25-26,J15,Visitante,Barcelona,Roony Bardghji,M,68,1,1,2,1,1,0,3,2,0,0,0,0,0,0,0,0,0,16,7.6
 14083155,T25-26,J15,Visitante,Barcelona,Lamine Yamal,M,90,1,0,3,0,1,0,7,0,0,0,0,0,0,0,0,0,0,18,7.7
 14083155,T25-26,J15,Visitante,Barcelona,Marcus Rashford,M,90,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,15,6.7
 14083155,T25-26,J15,Visitante,Barcelona,Ferran Torres,F,90,3,0,1,0,5,0,2,1,0,0,0,0,0,0,0,0,0,5,9.6
@@ -133,7 +133,7 @@
 14083151,T25-26,J15,Local,Athletic Club,Mikel Jauregizar,M,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,10,6.7
 14083151,T25-26,J15,Local,Athletic Club,Álex Berenguer,M,90,1,0,4,3,1,0,7,1,0,0,0,0,0,0,0,0,0,24,7.6
 14083151,T25-26,J15,Local,Athletic Club,Oihan Sancet,M,82,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,5,6.1
-14083151,T25-26,J15,Local,Athletic Club,Nico Williams,M,90,0,0,2,0,1,0,7,1,0,0,0,0,0,0,0,0,0,23,8.0
+14083151,T25-26,J15,Local,Athletic Club,Nico Williams,M,90,0,1,2,0,1,0,7,1,0,0,0,0,0,0,0,0,0,23,8.0
 14083151,T25-26,J15,Local,Athletic Club,Gorka Guruzeta,F,66,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,9,5.4
 14083151,T25-26,J15,Local,Athletic Club,Daniel Vivian,D,57,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,11,6.6
 14083151,T25-26,J15,Local,Athletic Club,Alejandro Rego,M,24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,6.7
@@ -160,7 +160,7 @@
 14083153,T25-26,J15,Local,Elche,David Affengruber,D,90,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,12,7.1
 14083153,T25-26,J15,Local,Elche,Víctor Chust,D,90,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,8,7.0
 14083153,T25-26,J15,Local,Elche,Pedro Bigas,D,59,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,8,6.5
-14083153,T25-26,J15,Local,Elche,Hector Fort,M,59,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,7.4
+14083153,T25-26,J15,Local,Elche,Hector Fort,M,59,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,7.4
 14083153,T25-26,J15,Local,Elche,Alvaro Núñez,M,90,0,0,2,2,0,0,7,1,0,0,0,0,0,0,0,0,0,1,8.1
 14083153,T25-26,J15,Local,Elche,Marc Aguado,M,82,0,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,5,6.8
 14083153,T25-26,J15,Local,Elche,Aleix Febas,M,90,0,0,0,0,2,0,6,2,0,0,0,0,0,0,0,0,0,11,7.5
@@ -199,7 +199,7 @@
 14083163,T25-26,J15,Local,Valencia,André Almeida,M,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,12,6.3
 14083163,T25-26,J15,Local,Valencia,Arnaut Danjuma,M,63,0,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,6,6.7
 14083163,T25-26,J15,Local,Valencia,Hugo Duro,F,90,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,6,7.2
-14083163,T25-26,J15,Local,Valencia,Filip Ugrinić,M,27,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,8,7.0
+14083163,T25-26,J15,Local,Valencia,Filip Ugrinić,M,27,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,8,7.0
 14083163,T25-26,J15,Local,Valencia,Diego López,F,27,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,6.7
 14083163,T25-26,J15,Local,Valencia,Lucas Beltrán,M,27,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,10,6.6
 14083163,T25-26,J15,Local,Valencia,Largie Ramazani,F,22,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,7,7.4
@@ -271,21 +271,21 @@
 14083158,T25-26,J15,Visitante,Celta Vigo,Ilaix Moriba,M,90,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,3,6.6
 14083158,T25-26,J15,Visitante,Celta Vigo,Óscar Mingueza,M,71,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,6.7
 14083158,T25-26,J15,Visitante,Celta Vigo,Pablo Durán,F,45,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,2,6.7
-14083158,T25-26,J15,Visitante,Celta Vigo,Bryan Zaragoza,F,71,0,0,2,1,0,0,3,1,0,0,0,0,0,0,0,0,0,6,6.9
+14083158,T25-26,J15,Visitante,Celta Vigo,Bryan Zaragoza,F,71,0,1,2,1,0,0,3,1,0,0,0,0,0,0,0,0,0,6,6.9
 14083158,T25-26,J15,Visitante,Celta Vigo,Borja Iglesias,F,88,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,11,6.6
 14083158,T25-26,J15,Visitante,Celta Vigo,Williot Swedberg,M,45,2,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,4,8.3
 14083158,T25-26,J15,Visitante,Celta Vigo,Javier Rueda,D,19,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,5,7.0
 14083158,T25-26,J15,Visitante,Celta Vigo,Ferran Jutglà,F,19,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.3
 14083158,T25-26,J15,Visitante,Celta Vigo,Fran Beltrán,M,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.7
-14083158,T25-26,J15,Visitante,Celta Vigo,Iago Aspas,F,2,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,2,0.0
+14083158,T25-26,J15,Visitante,Celta Vigo,Iago Aspas,F,2,0,1,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,2,0.0
 14083160,T25-26,J15,Local,Osasuna,Sergio Herrera,G,90,0,0,0,0,0,0,8,2,4,0,0,0,0,0,0,0,0,14,7.3
 14083160,T25-26,J15,Local,Osasuna,Iñigo Arguibide,D,69,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,12,6.8
 14083160,T25-26,J15,Local,Osasuna,Alejandro Catena,D,90,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,0,9,7.2
 14083160,T25-26,J15,Local,Osasuna,Flavien Boyomo,D,90,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,7,8.3
 14083160,T25-26,J15,Local,Osasuna,Abel Bretones,D,90,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,14,6.8
 14083160,T25-26,J15,Local,Osasuna,Lucas Torró,M,51,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7,6.5
-14083160,T25-26,J15,Local,Osasuna,Rubén García,M,69,1,0,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,13,8.4
-14083160,T25-26,J15,Local,Osasuna,Jon Moncayola,M,90,0,0,3,0,0,0,6,1,0,0,0,0,0,0,0,0,0,15,6.9
+14083160,T25-26,J15,Local,Osasuna,Rubén García,M,69,1,1,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,13,8.4
+14083160,T25-26,J15,Local,Osasuna,Jon Moncayola,M,90,0,1,3,0,0,0,6,1,0,0,0,0,0,0,0,0,0,15,6.9
 14083160,T25-26,J15,Local,Osasuna,Victor Muñoz,M,74,1,0,1,1,4,0,5,0,0,0,0,0,0,0,0,0,0,11,8.0
 14083160,T25-26,J15,Local,Osasuna,Ante Budimir,F,90,0,0,2,0,1,0,5,0,0,0,0,0,0,0,0,0,0,12,7.7
 14083160,T25-26,J15,Local,Osasuna,Aimar Oroz,F,74,0,0,2,0,0,0,8,1,0,0,0,0,0,0,0,0,0,19,7.7

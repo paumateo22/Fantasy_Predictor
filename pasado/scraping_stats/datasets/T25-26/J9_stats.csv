@@ -28,11 +28,11 @@
 14083694,T25-26,J9,Visitante,Espanyol,Kike García,F,74,1,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,9,8.0
 14083694,T25-26,J9,Visitante,Espanyol,Charles Pickel,M,16,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,6.6
 14083694,T25-26,J9,Visitante,Espanyol,Antoniu Roca,F,16,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,6.5
-14083694,T25-26,J9,Visitante,Espanyol,Omar El Hilali,D,10,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,6.9
+14083694,T25-26,J9,Visitante,Espanyol,Omar El Hilali,D,10,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,6.9
 14083694,T25-26,J9,Visitante,Espanyol,Urko González,M,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
 14083694,T25-26,J9,Visitante,Espanyol,Jose Salinas,D,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.8
 14083699,T25-26,J9,Local,Sevilla,Odysseas Vlachodimos,G,90,0,0,0,0,0,0,7,4,3,0,0,0,0,0,0,0,0,8,6.8
-14083699,T25-26,J9,Local,Sevilla,José Ángel Carmona,D,90,0,0,1,3,0,0,3,3,0,0,0,0,0,0,0,0,0,11,6.7
+14083699,T25-26,J9,Local,Sevilla,José Ángel Carmona,D,90,0,1,1,3,0,0,3,3,0,0,0,0,0,0,0,0,0,11,6.7
 14083699,T25-26,J9,Local,Sevilla,César Azpilicueta,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
 14083699,T25-26,J9,Local,Sevilla,Marcão,D,90,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,9,5.8
 14083699,T25-26,J9,Local,Sevilla,Gabriel Suazo,D,90,0,0,3,4,0,0,7,4,0,0,0,0,0,0,0,0,0,12,6.2
@@ -56,9 +56,9 @@
 14083699,T25-26,J9,Visitante,Mallorca,Manu Morlanes,M,80,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2,7.0
 14083699,T25-26,J9,Visitante,Mallorca,Javi Llabrés,M,62,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,6.1
 14083699,T25-26,J9,Visitante,Mallorca,Sergi Darder,M,80,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13,6.3
-14083699,T25-26,J9,Visitante,Mallorca,Jan Virgili,M,90,0,0,1,0,3,0,4,2,0,0,0,0,0,0,0,0,0,9,6.9
+14083699,T25-26,J9,Visitante,Mallorca,Jan Virgili,M,90,0,1,1,0,3,0,4,2,0,0,0,0,0,0,0,0,0,9,6.9
 14083699,T25-26,J9,Visitante,Mallorca,Vedat Muriqi,F,89,1,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,8,7.6
-14083699,T25-26,J9,Visitante,Mallorca,Johan Mojica,D,28,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,4,7.5
+14083699,T25-26,J9,Visitante,Mallorca,Johan Mojica,D,28,0,1,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,4,7.5
 14083699,T25-26,J9,Visitante,Mallorca,Mateo Joseph,F,28,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,8.5
 14083699,T25-26,J9,Visitante,Mallorca,Omar Mascarell,M,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6.9
 14083699,T25-26,J9,Visitante,Mallorca,Pablo Torre,M,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.5
@@ -70,8 +70,8 @@
 14083664,T25-26,J9,Local,Barcelona,Alejandro Balde,D,76,0,0,3,1,0,0,2,2,0,0,0,0,0,0,0,0,0,1,6.8
 14083664,T25-26,J9,Local,Barcelona,Marc Casadó,M,81,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,6.9
 14083664,T25-26,J9,Local,Barcelona,Pedri,M,63,1,0,1,0,1,0,7,2,0,0,0,0,0,0,0,0,0,13,8.3
-14083664,T25-26,J9,Local,Barcelona,Lamine Yamal,M,64,0,0,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,21,7.3
-14083664,T25-26,J9,Local,Barcelona,Frenkie de Jong,M,90,0,0,3,0,1,0,6,0,0,0,0,0,0,0,0,0,0,8,7.1
+14083664,T25-26,J9,Local,Barcelona,Lamine Yamal,M,64,0,1,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,21,7.3
+14083664,T25-26,J9,Local,Barcelona,Frenkie de Jong,M,90,0,1,3,0,1,0,6,0,0,0,0,0,0,0,0,0,0,8,7.1
 14083664,T25-26,J9,Local,Barcelona,Marcus Rashford,M,90,0,0,1,1,3,0,2,1,0,0,0,0,0,0,0,0,0,13,6.2
 14083664,T25-26,J9,Local,Barcelona,Toni Fernández,F,45,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6.4
 14083664,T25-26,J9,Local,Barcelona,Fermín López,M,45,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,8,6.5
@@ -85,7 +85,7 @@
 14083664,T25-26,J9,Visitante,Girona FC,Daley Blind,D,90,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,4,6.3
 14083664,T25-26,J9,Visitante,Girona FC,Álex Moreno,D,90,0,0,2,1,0,0,2,6,0,0,0,0,0,0,0,0,0,14,6.5
 14083664,T25-26,J9,Visitante,Girona FC,Bryan Gil,M,63,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,10,6.2
-14083664,T25-26,J9,Visitante,Girona FC,Arnau Martínez,M,79,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6,7.0
+14083664,T25-26,J9,Visitante,Girona FC,Arnau Martínez,M,79,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6,7.0
 14083664,T25-26,J9,Visitante,Girona FC,Axel Witsel,M,90,1,0,2,0,1,0,2,4,0,0,0,0,0,0,0,0,0,8,7.8
 14083664,T25-26,J9,Visitante,Girona FC,Joel Roca,M,68,0,0,2,1,1,0,3,1,0,0,0,0,0,0,0,0,0,10,6.9
 14083664,T25-26,J9,Visitante,Girona FC,Portu,F,63,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,9,7.2
@@ -102,8 +102,8 @@
 14083690,T25-26,J9,Local,Villarreal,Alfonso Pedraza,D,81,0,0,1,3,0,0,2,1,0,0,0,0,0,0,0,0,0,13,7.0
 14083690,T25-26,J9,Local,Villarreal,Tajon Buchanan,M,90,1,0,1,0,1,0,5,1,0,0,0,0,0,0,0,0,0,15,7.6
 14083690,T25-26,J9,Local,Villarreal,Dani Parejo,M,73,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,5,7.2
-14083690,T25-26,J9,Local,Villarreal,Santi Comesaña,M,90,0,0,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,12,6.9
-14083690,T25-26,J9,Local,Villarreal,Alberto Moleiro,M,73,1,0,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,17,8.1
+14083690,T25-26,J9,Local,Villarreal,Santi Comesaña,M,90,0,1,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,12,6.9
+14083690,T25-26,J9,Local,Villarreal,Alberto Moleiro,M,73,1,1,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,17,8.1
 14083690,T25-26,J9,Local,Villarreal,Gerard Moreno,F,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6,6.1
 14083690,T25-26,J9,Local,Villarreal,Tani Oluwaseyi,F,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,6.5
 14083690,T25-26,J9,Local,Villarreal,Ayoze Pérez,F,27,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,4,6.8
@@ -119,7 +119,7 @@
 14083690,T25-26,J9,Visitante,Real Betis,Sofyan Amrabat,M,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,11,6.6
 14083690,T25-26,J9,Visitante,Real Betis,Marc Roca,M,57,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,6.7
 14083690,T25-26,J9,Visitante,Real Betis,Antony,M,90,2,0,3,3,2,0,8,0,0,0,0,0,0,0,0,0,0,20,9.4
-14083690,T25-26,J9,Visitante,Real Betis,Pablo Fornals,M,90,0,0,4,1,0,0,3,1,0,0,0,0,0,0,0,0,0,17,7.3
+14083690,T25-26,J9,Visitante,Real Betis,Pablo Fornals,M,90,0,2,4,1,0,0,3,1,0,0,0,0,0,0,0,0,0,17,7.3
 14083690,T25-26,J9,Visitante,Real Betis,Abdessamad Ezzalzouli,M,69,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13,6.9
 14083690,T25-26,J9,Visitante,Real Betis,Cucho Hernández,F,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5.9
 14083690,T25-26,J9,Visitante,Real Betis,Giovani Lo Celso,M,33,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,6.4
@@ -136,7 +136,7 @@
 14083659,T25-26,J9,Local,Atlético Madrid,Alejandro Baena,M,63,0,0,1,1,1,0,6,0,0,0,0,0,0,0,0,0,0,15,6.6
 14083659,T25-26,J9,Local,Atlético Madrid,Antoine Griezmann,F,55,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,6,7.3
 14083659,T25-26,J9,Local,Atlético Madrid,Julián Alvarez,F,82,0,0,2,1,3,0,1,0,0,0,0,0,0,0,0,0,0,8,7.4
-14083659,T25-26,J9,Local,Atlético Madrid,Giuliano Simeone,F,47,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13,7.8
+14083659,T25-26,J9,Local,Atlético Madrid,Giuliano Simeone,F,47,0,1,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13,7.8
 14083659,T25-26,J9,Local,Atlético Madrid,Conor Gallagher,M,36,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.5
 14083659,T25-26,J9,Local,Atlético Madrid,Alexander Sørloth,F,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6.4
 14083659,T25-26,J9,Local,Atlético Madrid,Thiago Almada,M,27,1,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,6,7.7
@@ -193,7 +193,7 @@
 14083670,T25-26,J9,Local,Celta Vigo,Javi Rodríguez,D,90,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,3,7.1
 14083670,T25-26,J9,Local,Celta Vigo,Carl Starfelt,D,46,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,6.0
 14083670,T25-26,J9,Local,Celta Vigo,Marcos Alonso,D,90,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,7,7.6
-14083670,T25-26,J9,Local,Celta Vigo,Óscar Mingueza,M,54,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,14,6.8
+14083670,T25-26,J9,Local,Celta Vigo,Óscar Mingueza,M,54,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,14,6.8
 14083670,T25-26,J9,Local,Celta Vigo,Hugo Sotelo,M,45,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6,6.8
 14083670,T25-26,J9,Local,Celta Vigo,Ilaix Moriba,M,90,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,10,7.5
 14083670,T25-26,J9,Local,Celta Vigo,Sergio Carreira,M,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,12,6.6
@@ -218,7 +218,7 @@
 14083670,T25-26,J9,Visitante,Real Sociedad,Mikel Oyarzabal,F,90,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,11,6.2
 14083670,T25-26,J9,Visitante,Real Sociedad,Pablo Marín,M,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6.2
 14083670,T25-26,J9,Visitante,Real Sociedad,Carlos Soler,M,23,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,5,7.6
-14083670,T25-26,J9,Visitante,Real Sociedad,Gonçalo Guedes,F,23,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6.9
+14083670,T25-26,J9,Visitante,Real Sociedad,Gonçalo Guedes,F,23,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6.9
 14083670,T25-26,J9,Visitante,Real Sociedad,Arsen Zakharyan,M,14,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,6.7
 14083670,T25-26,J9,Visitante,Real Sociedad,Jon Karrikaburu,F,14,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,6.4
 14083680,T25-26,J9,Local,Levante UD,Mathew Ryan,G,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3,6.1
@@ -241,8 +241,8 @@
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Andrei Rațiu,D,90,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,10,7.2
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Florian Lejeune,D,90,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,3,7.6
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Nobel Mendy,D,82,0,0,0,0,0,0,2,13,0,0,0,0,0,0,0,0,0,8,7.5
-14083680,T25-26,J9,Visitante,Rayo Vallecano,Josep Chavarría,D,90,0,0,2,0,0,0,1,3,0,0,0,0,0,0,0,0,0,15,7.6
-14083680,T25-26,J9,Visitante,Rayo Vallecano,Unai López,M,63,0,0,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,8,6.7
+14083680,T25-26,J9,Visitante,Rayo Vallecano,Josep Chavarría,D,90,0,1,2,0,0,0,1,3,0,0,0,0,0,0,0,0,0,15,7.6
+14083680,T25-26,J9,Visitante,Rayo Vallecano,Unai López,M,63,0,1,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,8,6.7
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Óscar Valentín,M,90,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,4,7.4
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Jorge de Frutos,M,75,2,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,7,8.7
 14083680,T25-26,J9,Visitante,Rayo Vallecano,Pedro Díaz,M,90,0,0,2,1,0,0,5,0,0,0,0,0,0,0,0,0,0,11,6.7
@@ -280,7 +280,7 @@
 14083675,T25-26,J9,Visitante,Real Madrid,Kylian Mbappé,F,90,1,0,2,0,4,0,3,0,0,0,0,0,0,0,0,0,0,10,7.8
 14083675,T25-26,J9,Visitante,Real Madrid,Raúl Asencio,D,45,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,3,7.3
 14083675,T25-26,J9,Visitante,Real Madrid,Vinicius Júnior,F,35,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,6.7
-14083675,T25-26,J9,Visitante,Real Madrid,Arda Güler,M,25,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,7.3
+14083675,T25-26,J9,Visitante,Real Madrid,Arda Güler,M,25,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,7.3
 14083675,T25-26,J9,Visitante,Real Madrid,Brahim Díaz,M,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.6
 14083675,T25-26,J9,Visitante,Real Madrid,Gonzalo García,F,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.3
 14083655,T25-26,J9,Local,Deportivo Alavés,Antonio Sivera,G,90,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,9,7.2

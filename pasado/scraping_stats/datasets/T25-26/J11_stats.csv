@@ -5,14 +5,14 @@
 14083098,T25-26,J11,Local,Getafe,Djené,D,45,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,3,6.8
 14083098,T25-26,J11,Local,Getafe,Diego Rico,D,90,0,0,1,1,0,0,4,1,0,0,0,0,0,0,0,0,0,17,6.6
 14083098,T25-26,J11,Local,Getafe,Juan Iglesias,M,90,0,0,1,1,0,0,3,1,0,0,0,0,0,0,0,0,0,22,7.3
-14083098,T25-26,J11,Local,Getafe,Luis Milla,M,89,0,0,1,2,1,0,5,0,0,0,0,0,0,0,0,0,0,31,6.7
+14083098,T25-26,J11,Local,Getafe,Luis Milla,M,89,0,1,1,2,1,0,5,0,0,0,0,0,0,0,0,0,0,31,6.7
 14083098,T25-26,J11,Local,Getafe,Mauro Arambarri,M,90,0,0,2,0,1,0,5,1,0,0,0,0,0,0,0,0,0,7,7.0
 14083098,T25-26,J11,Local,Getafe,Coba da Costa,M,45,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10,6.6
 14083098,T25-26,J11,Local,Getafe,Borja Mayoral,F,90,1,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,13,6.7
 14083098,T25-26,J11,Local,Getafe,Adrian Liso,F,89,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,15,6.0
 14083098,T25-26,J11,Local,Getafe,Abdelkabir Abqar,D,45,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,6,6.5
 14083098,T25-26,J11,Local,Getafe,Mario Martín,M,45,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,5,7.7
-14083098,T25-26,J11,Local,Getafe,Álex Sancris,F,45,0,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,6,7.1
+14083098,T25-26,J11,Local,Getafe,Álex Sancris,F,45,0,1,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,6,7.1
 14083098,T25-26,J11,Local,Getafe,Abu Kamara,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
 14083098,T25-26,J11,Local,Getafe,Yvan Neyou,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
 14083098,T25-26,J11,Visitante,Girona FC,Paulo Gazzaniga,G,90,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,11,7.0
@@ -34,13 +34,13 @@
 14083105,T25-26,J11,Local,Villarreal,Santiago Mouriño,D,90,0,0,1,0,0,0,5,9,0,0,0,0,0,0,0,0,0,1,8.3
 14083105,T25-26,J11,Local,Villarreal,Juan Foyth,D,90,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,3,7.1
 14083105,T25-26,J11,Local,Villarreal,Renato Veiga,D,90,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,7,7.5
-14083105,T25-26,J11,Local,Villarreal,Alfonso Pedraza,D,90,0,0,2,0,0,0,5,1,0,0,0,0,0,0,0,0,0,8,6.9
+14083105,T25-26,J11,Local,Villarreal,Alfonso Pedraza,D,90,0,1,2,0,0,0,5,1,0,0,0,0,0,0,0,0,0,8,6.9
 14083105,T25-26,J11,Local,Villarreal,Nicolas Pépé,M,77,0,0,3,1,1,0,4,0,0,0,0,0,0,0,0,0,0,11,7.7
 14083105,T25-26,J11,Local,Villarreal,Santi Comesaña,M,74,1,0,1,0,1,0,2,2,0,0,0,0,0,0,0,0,0,7,8.2
 14083105,T25-26,J11,Local,Villarreal,Thomas Partey,M,90,0,0,1,0,0,0,4,2,0,0,0,0,0,0,0,0,0,7,6.7
-14083105,T25-26,J11,Local,Villarreal,Alberto Moleiro,M,63,1,0,1,0,2,0,4,0,0,0,0,0,0,0,0,0,0,9,8.3
+14083105,T25-26,J11,Local,Villarreal,Alberto Moleiro,M,63,1,1,1,0,2,0,4,0,0,0,0,0,0,0,0,0,0,9,8.3
 14083105,T25-26,J11,Local,Villarreal,Gerard Moreno,F,64,1,0,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,10,8.8
-14083105,T25-26,J11,Local,Villarreal,Georges Mikautadze,F,45,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,6.1
+14083105,T25-26,J11,Local,Villarreal,Georges Mikautadze,F,45,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,6.1
 14083105,T25-26,J11,Local,Villarreal,Tani Oluwaseyi,F,45,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.7
 14083105,T25-26,J11,Local,Villarreal,Tajon Buchanan,F,27,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,5,6.6
 14083105,T25-26,J11,Local,Villarreal,Ayoze Pérez,F,26,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,4,7.5
@@ -67,13 +67,13 @@
 14083094,T25-26,J11,Local,Atlético Madrid,José María Giménez,D,90,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,8,7.4
 14083094,T25-26,J11,Local,Atlético Madrid,Dávid Hancko,D,90,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,10,6.9
 14083094,T25-26,J11,Local,Atlético Madrid,Matteo Ruggeri,D,90,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,15,6.8
-14083094,T25-26,J11,Local,Atlético Madrid,Giuliano Simeone,M,86,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,16,6.8
+14083094,T25-26,J11,Local,Atlético Madrid,Giuliano Simeone,M,86,0,1,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,16,6.8
 14083094,T25-26,J11,Local,Atlético Madrid,Alejandro Baena,M,74,0,0,5,3,0,0,3,0,0,0,0,0,0,0,0,0,0,19,7.4
 14083094,T25-26,J11,Local,Atlético Madrid,Koke,M,90,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,7,7.4
 14083094,T25-26,J11,Local,Atlético Madrid,Nicolás González,M,69,0,0,0,0,2,0,4,3,0,0,0,0,0,0,0,0,0,10,7.0
 14083094,T25-26,J11,Local,Atlético Madrid,Alexander Sørloth,F,68,0,0,3,1,1,0,2,0,0,0,0,0,0,0,0,0,0,14,7.1
 14083094,T25-26,J11,Local,Atlético Madrid,Julián Alvarez,F,86,1,0,3,0,1,0,3,0,0,0,0,0,0,0,0,0,0,6,7.4
-14083094,T25-26,J11,Local,Atlético Madrid,Thiago Almada,M,22,1,0,2,0,1,0,4,0,0,0,0,0,0,0,0,0,0,1,8.2
+14083094,T25-26,J11,Local,Atlético Madrid,Thiago Almada,M,22,1,1,2,0,1,0,4,0,0,0,0,0,0,0,0,0,0,1,8.2
 14083094,T25-26,J11,Local,Atlético Madrid,Conor Gallagher,M,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.6
 14083094,T25-26,J11,Local,Atlético Madrid,Antoine Griezmann,F,16,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,3,7.8
 14083094,T25-26,J11,Local,Atlético Madrid,Nahuel Molina,D,9,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,6.8
@@ -101,17 +101,17 @@
 14083101,T25-26,J11,Local,Real Sociedad,Sergio Gómez,D,90,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,22,7.1
 14083101,T25-26,J11,Local,Real Sociedad,Jon Gorrotxategi,M,90,1,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,11,7.2
 14083101,T25-26,J11,Local,Real Sociedad,Gonçalo Guedes,M,63,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,4,7.8
-14083101,T25-26,J11,Local,Real Sociedad,Brais Méndez,M,63,1,0,2,2,2,0,2,0,0,0,0,0,0,0,0,0,0,12,7.2
+14083101,T25-26,J11,Local,Real Sociedad,Brais Méndez,M,63,1,1,2,2,2,0,2,0,0,0,0,0,0,0,0,0,0,12,7.2
 14083101,T25-26,J11,Local,Real Sociedad,Carlos Soler,M,82,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,6.8
 14083101,T25-26,J11,Local,Real Sociedad,Ander Barrenetxea,M,41,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,11,6.5
-14083101,T25-26,J11,Local,Real Sociedad,Mikel Oyarzabal,F,90,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,16,6.9
+14083101,T25-26,J11,Local,Real Sociedad,Mikel Oyarzabal,F,90,0,1,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,16,6.9
 14083101,T25-26,J11,Local,Real Sociedad,Arsen Zakharyan,M,41,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,12,6.3
 14083101,T25-26,J11,Local,Real Sociedad,Pablo Marín,M,27,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.4
 14083101,T25-26,J11,Local,Real Sociedad,Takefusa Kubo,F,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.7
 14083101,T25-26,J11,Local,Real Sociedad,Aihen Muñoz,D,8,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5,6.6
 14083101,T25-26,J11,Local,Real Sociedad,Mikel Goti,M,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,6.3
 14083101,T25-26,J11,Visitante,Athletic Club,Unai Simón,G,90,0,0,0,0,0,0,5,1,2,0,0,0,0,0,0,0,0,12,7.2
-14083101,T25-26,J11,Visitante,Athletic Club,Andoni Gorosabel,D,83,0,0,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,21,6.6
+14083101,T25-26,J11,Visitante,Athletic Club,Andoni Gorosabel,D,83,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,21,6.6
 14083101,T25-26,J11,Visitante,Athletic Club,Daniel Vivian,D,90,0,0,0,0,1,0,2,8,0,0,0,0,0,0,0,0,0,11,6.5
 14083101,T25-26,J11,Visitante,Athletic Club,Aymeric Laporte,D,90,0,0,0,0,0,0,4,12,0,0,0,0,0,0,0,0,0,5,6.9
 14083101,T25-26,J11,Visitante,Athletic Club,Yuri Berchiche,D,90,0,0,2,0,1,0,7,2,0,0,0,0,0,0,0,0,0,7,6.4
@@ -125,11 +125,11 @@
 14083101,T25-26,J11,Visitante,Athletic Club,Alejandro Rego,M,22,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.8
 14083101,T25-26,J11,Visitante,Athletic Club,Jesús Areso,D,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,6.3
 14083099,T25-26,J11,Local,Real Madrid,Thibaut Courtois,G,90,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,6.9
-14083099,T25-26,J11,Local,Real Madrid,Federico Valverde,D,90,0,0,1,0,1,0,7,2,0,0,0,0,0,0,0,0,0,5,8.1
+14083099,T25-26,J11,Local,Real Madrid,Federico Valverde,D,90,0,1,1,0,1,0,7,2,0,0,0,0,0,0,0,0,0,5,8.1
 14083099,T25-26,J11,Local,Real Madrid,Éder Militão,D,90,0,0,1,0,0,0,7,1,0,0,0,0,0,0,0,0,0,8,7.5
 14083099,T25-26,J11,Local,Real Madrid,Dean Huijsen,D,68,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,8,7.5
 14083099,T25-26,J11,Local,Real Madrid,Álvaro Carreras,D,90,1,0,2,0,1,0,12,0,0,0,1,0,0,0,0,0,0,10,9.4
-14083099,T25-26,J11,Local,Real Madrid,Arda Güler,M,45,0,0,2,1,2,0,2,0,0,0,0,0,0,0,0,0,0,7,7.5
+14083099,T25-26,J11,Local,Real Madrid,Arda Güler,M,45,0,1,2,1,2,0,2,0,0,0,0,0,0,0,0,0,0,7,7.5
 14083099,T25-26,J11,Local,Real Madrid,Aurélien Tchouaméni,M,45,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,3,6.8
 14083099,T25-26,J11,Local,Real Madrid,Jude Bellingham,M,90,1,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,20,7.7
 14083099,T25-26,J11,Local,Real Madrid,Franco Mastantuono,F,90,0,0,1,2,0,0,4,0,0,0,0,0,0,0,0,0,0,14,7.0
@@ -176,10 +176,10 @@
 14083103,T25-26,J11,Visitante,Celta Vigo,Javi Rodríguez,D,79,0,0,1,0,0,0,4,1,0,0,0,1,0,0,0,0,0,5,7.0
 14083103,T25-26,J11,Visitante,Celta Vigo,Carl Starfelt,D,90,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,4,6.9
 14083103,T25-26,J11,Visitante,Celta Vigo,Marcos Alonso,D,60,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,7,7.3
-14083103,T25-26,J11,Visitante,Celta Vigo,Óscar Mingueza,M,90,1,0,3,0,1,0,4,2,0,0,0,0,0,0,0,0,0,11,8.6
+14083103,T25-26,J11,Visitante,Celta Vigo,Óscar Mingueza,M,90,1,1,3,0,1,0,4,2,0,0,0,0,0,0,0,0,0,11,8.6
 14083103,T25-26,J11,Visitante,Celta Vigo,Fran Beltrán,M,68,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,7,6.7
 14083103,T25-26,J11,Visitante,Celta Vigo,Ilaix Moriba,M,79,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,6.5
-14083103,T25-26,J11,Visitante,Celta Vigo,Sergio Carreira,M,90,0,0,1,0,0,0,9,1,0,0,0,0,0,0,0,0,0,9,6.9
+14083103,T25-26,J11,Visitante,Celta Vigo,Sergio Carreira,M,90,0,1,1,0,0,0,9,1,0,0,0,0,0,0,0,0,0,9,6.9
 14083103,T25-26,J11,Visitante,Celta Vigo,Ferran Jutglà,F,68,0,0,3,0,1,0,3,0,0,0,0,0,0,0,0,0,0,8,6.1
 14083103,T25-26,J11,Visitante,Celta Vigo,Borja Iglesias,F,90,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,7,6.3
 14083103,T25-26,J11,Visitante,Celta Vigo,Bryan Zaragoza,F,90,0,0,5,3,0,0,2,0,0,0,0,0,0,0,0,0,0,18,7.1
@@ -208,7 +208,7 @@
 14083093,T25-26,J11,Visitante,Espanyol,Rubén Sánchez,D,70,0,0,1,1,0,0,7,1,0,0,0,0,0,0,0,0,0,16,6.5
 14083093,T25-26,J11,Visitante,Espanyol,Clemens Riedel,D,90,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,2,6.5
 14083093,T25-26,J11,Visitante,Espanyol,Leandro Cabrera,D,90,0,0,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,10,6.6
-14083093,T25-26,J11,Visitante,Espanyol,Carlos Romero,D,90,0,0,3,1,0,0,5,2,0,0,0,0,0,0,0,0,0,15,6.4
+14083093,T25-26,J11,Visitante,Espanyol,Carlos Romero,D,90,0,1,3,1,0,0,5,2,0,0,0,0,0,0,0,0,0,15,6.4
 14083093,T25-26,J11,Visitante,Espanyol,Jofre Carreras,M,45,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9,6.4
 14083093,T25-26,J11,Visitante,Espanyol,Pol Lozano,M,81,0,0,1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,5,7.0
 14083093,T25-26,J11,Visitante,Espanyol,Edu Expósito,M,90,0,0,3,4,0,0,4,2,0,0,0,0,0,0,0,0,0,22,7.5
@@ -224,11 +224,11 @@
 14083095,T25-26,J11,Local,Barcelona,Jules Koundé,D,90,0,0,1,2,0,0,3,2,0,0,0,0,0,0,0,0,0,14,6.8
 14083095,T25-26,J11,Local,Barcelona,Ronald Araújo,D,90,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,7.2
 14083095,T25-26,J11,Local,Barcelona,Eric García,D,90,0,0,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,13,6.7
-14083095,T25-26,J11,Local,Barcelona,Alejandro Balde,D,74,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,7,6.9
+14083095,T25-26,J11,Local,Barcelona,Alejandro Balde,D,74,0,1,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,7,6.9
 14083095,T25-26,J11,Local,Barcelona,Marc Casadó,M,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,6.0
 14083095,T25-26,J11,Local,Barcelona,Frenkie de Jong,M,90,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,8,7.7
 14083095,T25-26,J11,Local,Barcelona,Lamine Yamal,M,88,1,0,2,0,1,0,2,0,0,0,0,0,0,0,0,0,0,15,7.5
-14083095,T25-26,J11,Local,Barcelona,Fermín López,M,66,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,8.4
+14083095,T25-26,J11,Local,Barcelona,Fermín López,M,66,0,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,8.4
 14083095,T25-26,J11,Local,Barcelona,Marcus Rashford,M,74,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,17,7.9
 14083095,T25-26,J11,Local,Barcelona,Ferran Torres,F,88,1,0,2,0,3,0,5,0,0,0,0,0,0,0,0,0,0,10,7.0
 14083095,T25-26,J11,Local,Barcelona,Dani Olmo,M,24,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,6.7
@@ -240,7 +240,7 @@
 14083095,T25-26,J11,Visitante,Elche,Adrià Pedrosa,D,82,0,0,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,11,5.6
 14083095,T25-26,J11,Visitante,Elche,David Affengruber,D,90,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,17,6.3
 14083095,T25-26,J11,Visitante,Elche,Pedro Bigas,D,70,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,5,7.0
-14083095,T25-26,J11,Visitante,Elche,Alvaro Núñez,D,90,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,10,6.5
+14083095,T25-26,J11,Visitante,Elche,Alvaro Núñez,D,90,0,1,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,10,6.5
 14083095,T25-26,J11,Visitante,Elche,Marc Aguado,M,90,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,5,6.4
 14083095,T25-26,J11,Visitante,Elche,Germán Valera,M,70,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,9,6.1
 14083095,T25-26,J11,Visitante,Elche,Martim Neto,M,45,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,4,6.2
@@ -253,16 +253,16 @@
 14083095,T25-26,J11,Visitante,Elche,Álvaro Rodriguez,F,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.5
 14083095,T25-26,J11,Visitante,Elche,John Donald,D,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0
 14083097,T25-26,J11,Local,Real Betis,Álvaro Valles,G,90,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,7,7.1
-14083097,T25-26,J11,Local,Real Betis,Héctor Bellerín,D,90,0,0,4,1,0,0,2,5,0,0,0,0,0,0,0,0,0,9,7.6
+14083097,T25-26,J11,Local,Real Betis,Héctor Bellerín,D,90,0,1,4,1,0,0,2,5,0,0,0,0,0,0,0,0,0,9,7.6
 14083097,T25-26,J11,Local,Real Betis,Marc Bartra,D,90,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,6,7.5
 14083097,T25-26,J11,Local,Real Betis,Natan,D,90,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,5,7.0
 14083097,T25-26,J11,Local,Real Betis,Ricardo Rodríguez,D,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,9,6.8
 14083097,T25-26,J11,Local,Real Betis,Sofyan Amrabat,M,90,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,6,7.2
 14083097,T25-26,J11,Local,Real Betis,Pablo Fornals,M,69,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,12,6.7
-14083097,T25-26,J11,Local,Real Betis,Antony,M,83,2,0,1,0,3,0,6,0,0,0,0,0,0,0,0,0,0,12,10.0
+14083097,T25-26,J11,Local,Real Betis,Antony,M,83,2,1,1,0,3,0,6,0,0,0,0,0,0,0,0,0,0,12,10.0
 14083097,T25-26,J11,Local,Real Betis,Giovani Lo Celso,M,77,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,8,7.7
 14083097,T25-26,J11,Local,Real Betis,Abdessamad Ezzalzouli,M,69,1,0,1,0,1,0,2,2,0,0,0,0,0,0,0,0,0,8,7.8
-14083097,T25-26,J11,Local,Real Betis,Cucho Hernández,F,90,0,0,3,0,2,0,2,1,0,0,0,0,0,0,0,0,0,18,7.2
+14083097,T25-26,J11,Local,Real Betis,Cucho Hernández,F,90,0,1,3,0,2,0,2,1,0,0,0,0,0,0,0,0,0,18,7.2
 14083097,T25-26,J11,Local,Real Betis,Valentín Gómez,D,45,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,8,6.9
 14083097,T25-26,J11,Local,Real Betis,Aitor Ruibal,F,21,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.4
 14083097,T25-26,J11,Local,Real Betis,Marc Roca,M,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6.5

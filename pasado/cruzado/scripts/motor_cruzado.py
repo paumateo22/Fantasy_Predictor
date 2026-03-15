@@ -3,10 +3,33 @@ import os
 import difflib
 import unicodedata
 
+# 🚨 DICCIONARIO DE EMERGENCIA (Piedra Rosetta)
+# Úsalo solo para casos extremos donde ni el nombre ni los puntos coincidan en absoluto.
+ALIAS_JUGADORES = {
+    "samu aghehowa": "samu omorodion",
+    "nico williams": "williams jr",
+    "inaki williams": "williams"
+}
+
 def limpiar_texto(texto):
     if pd.isna(texto): return ""
     texto = str(texto).lower().strip()
-    return ''.join(c for c in unicodedata.normalize('NFD', texto) if unicodedata.category(c) != 'Mn')
+    texto_limpio = ''.join(c for c in unicodedata.normalize('NFD', texto) if unicodedata.category(c) != 'Mn')
+    
+    for alias, nombre_real in ALIAS_JUGADORES.items():
+        if alias in texto_limpio:
+            return nombre_real
+            
+    return texto_limpio
+
+def estimar_puntos_dazn(nota_sofascore):
+    """Convierte la nota de SofaScore (0-10) en una estimación de puntos DAZN (0-4)."""
+    if pd.isna(nota_sofascore): return 0
+    if nota_sofascore >= 8.0: return 4
+    elif nota_sofascore >= 7.5: return 3
+    elif nota_sofascore >= 7.0: return 2
+    elif nota_sofascore >= 6.5: return 1
+    else: return 0
 
 def calcular_puntos_objetivos(row):
     """Calcula los puntos estadísticos teóricos basados en las reglas oficiales."""
@@ -90,7 +113,7 @@ def cruzar_jornada(temporada_str, jornada_num):
         print(f"⚠️ Faltan archivos para {temporada_str} - {jornada_str}")
         return
 
-    print(f"\n🔄 Cruzando datos de {temporada_str} - {jornada_str} (Algoritmo de Fusión Avanzado)...")
+    print(f"\n🔄 Cruzando datos de {temporada_str} - {jornada_str} (Algoritmo de Fusión 4D)...")
     df_puntos = pd.read_csv(ruta_puntos)
     df_stats = pd.read_csv(ruta_stats)
     
@@ -110,42 +133,47 @@ def cruzar_jornada(temporada_str, jornada_num):
     df_puntos['Equipo_Comun'] = df_puntos['Equipo_Jugador'].map(mapa_equipos)
     df_puntos['Jugador_SofaScore'] = None
     
-    # 🚨 LA MAGIA: Emparejamiento por equipo usando Matriz de Compatibilidad
+    # 🚨 LA MAGIA 3.0: Cruce por 4 Parámetros (Equipo, Nombre, Puntos Base, Puntos DAZN)
     for equipo in mapa_equipos.values():
         df_p_equipo = df_puntos[df_puntos['Equipo_Comun'] == equipo]
         df_s_equipo = df_stats[df_stats['Equipo_Nombre'] == equipo]
         
         posibles_matches = []
         
-        # Comparamos todos contra todos dentro del mismo equipo
         for i_p, row_p in df_p_equipo.iterrows():
             nom_p = limpiar_texto(row_p['Jugador'])
             pts_reales = row_p['Stats_Reales']
+            pts_dazn = row_p['Relevo']
             
             for i_s, row_s in df_s_equipo.iterrows():
                 nom_s = limpiar_texto(row_s['Jugador'])
                 pts_teoricos = row_s['Puntos_Teoricos']
+                nota_sofascore = row_s['Nota_SofaScore']
                 
                 similitud = similitud_strings(nom_p, nom_s)
-                # Bonificación si un nombre está contenido en el otro (ej. "n. williams" en "nico williams")
                 if nom_p in nom_s or nom_s in nom_p:
                     similitud += 0.3 
                 
                 delta_puntos = abs(pts_reales - pts_teoricos)
+                dazn_estimado = estimar_puntos_dazn(nota_sofascore)
+                delta_bonus = abs(pts_dazn - dazn_estimado)
                 
-                # Solo consideramos candidatos viables (similitud razonable)
-                if similitud > 0.3:
+                # Ecuación de Coste (A menor coste, mejor coincidencia)
+                coste_match = (delta_puntos * 2) + (delta_bonus * 1) - (similitud * 15)
+                
+                # Filtro de seguridad
+                if similitud > 0.35 or delta_puntos <= 1:
                     posibles_matches.append({
                         'idx_puntos': i_p,
                         'idx_stats': i_s,
                         'nombre_sofa': row_s['Jugador'],
                         'similitud': similitud,
-                        'delta_puntos': delta_puntos
+                        'delta_puntos': delta_puntos,
+                        'coste_match': coste_match
                     })
         
-        # Ordenamos las parejas: Primero las que tienen el nombre más parecido, 
-        # y en caso de nombres parecidos, las que tienen menor diferencia de puntos.
-        posibles_matches.sort(key=lambda x: (-x['similitud'], x['delta_puntos']))
+        # Ordenamos de menor coste a mayor coste
+        posibles_matches.sort(key=lambda x: x['coste_match'])
         
         asignados_puntos = set()
         asignados_stats = set()
@@ -183,17 +211,37 @@ def cruzar_jornada(temporada_str, jornada_num):
     ruta_salida = os.path.join(dir_salida, f"{jornada_str}_cruzado.csv")
     df_final.to_csv(ruta_salida, index=False, encoding='utf-8-sig')
     print(f"✅ ¡Cruce inteligente con éxito! {len(df_final)} jugadores fusionados.")
-
+    
 def orquestar_cruce(temporadas_dict):
     print("\n=======================================================")
     print(" 🧬 INICIANDO MOTOR DE FUSIÓN INTELIGENTE 🧬")
     print("=======================================================")
-    for temporada_cruda, jornadas_lista in temporadas_dict.items():
+    
+    for temporada_cruda, config in temporadas_dict.items():
         temporada_str = f"T{temporada_cruda.replace('/', '-')}"
-        for j in jornadas_lista:
+        
+        inicio = config[0]
+        fin = config[1]
+        
+        jornadas_saltar = config[2] if len(config) > 2 else [] 
+        
+        print(f"\n--- 📅 Temporada: {temporada_str} ---")
+        
+        for j in range(inicio, fin + 1):
+            if j in jornadas_saltar:
+                print(f"⏭️ Saltando cruce de Jornada {j} por configuración...")
+                continue
+                
             cruzar_jornada(temporada_str, j)
+            
     print("\n🏁 ¡FUSIÓN GLOBAL COMPLETADA! 🏁\n")
 
 if __name__ == "__main__":
-    temporadas_a_cruzar = { "25/26": [1] }
+    # Formato: "Temporada": [Jornada_Inicio, Jornada_Fin, [Jornadas_a_saltar]]
+    temporadas_a_cruzar = {
+        "23-24": [1, 38, []],
+        "24-25": [1, 38, []],
+        "25-26": [1, 27, []]
+    }
+    
     orquestar_cruce(temporadas_a_cruzar)

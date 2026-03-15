@@ -1,6 +1,6 @@
 ﻿ID_Partido,Temporada,Jornada,Equipo_Bando,Equipo_Nombre,Jugador,Posicion,Minutos_jugados,Goles,Asistencias_de_gol,Asistencias_sin_gol,Balones_al_area,Tiros_a_puerta,Regates,Balones_recuperados,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_parados,Penaltis_fallados,Goles_en_propia_puerta,Amarillas,Rojas,Posesiones_perdidas,Nota_SofaScore
 14083110,T25-26,J12,Local,Elche,Matías Dituro,G,90,0,0,0,0,0,0,11,1,4,0,0,0,0,0,0,0,0,12,9.1
-14083110,T25-26,J12,Local,Elche,Alvaro Núñez,D,90,0,0,1,1,0,0,3,5,0,0,0,0,0,0,0,0,0,12,7.2
+14083110,T25-26,J12,Local,Elche,Alvaro Núñez,D,90,0,1,1,1,0,0,3,5,0,0,0,0,0,0,0,0,0,12,7.2
 14083110,T25-26,J12,Local,Elche,David Affengruber,D,90,0,0,2,0,0,0,5,7,0,0,0,1,0,0,0,0,0,9,6.2
 14083110,T25-26,J12,Local,Elche,Víctor Chust,D,84,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,7.1
 14083110,T25-26,J12,Local,Elche,Adrià Pedrosa,D,90,0,0,3,1,0,0,8,4,0,0,0,0,0,0,0,0,0,15,7.0
@@ -41,7 +41,7 @@
 14083114,T25-26,J12,Local,Girona FC,Viktor Tsygankov,M,85,1,0,3,1,1,0,1,1,0,0,0,0,0,0,0,0,0,13,8.2
 14083114,T25-26,J12,Local,Girona FC,Iván Martín,M,90,0,0,1,0,0,0,9,2,0,0,0,0,0,0,0,0,0,14,8.1
 14083114,T25-26,J12,Local,Girona FC,Axel Witsel,M,85,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,7,6.9
-14083114,T25-26,J12,Local,Girona FC,Bryan Gil,M,63,0,0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,11,7.3
+14083114,T25-26,J12,Local,Girona FC,Bryan Gil,M,63,0,1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,11,7.3
 14083114,T25-26,J12,Local,Girona FC,Azzedine Ounahi,F,71,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,16,7.1
 14083114,T25-26,J12,Local,Girona FC,Vladyslav Vanat,F,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6.1
 14083114,T25-26,J12,Local,Girona FC,Joel Roca,M,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.9
@@ -95,7 +95,7 @@
 14083120,T25-26,J12,Visitante,Osasuna,Sheraldo Becker,F,20,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,7,7.1
 14083120,T25-26,J12,Visitante,Osasuna,Jorge Herrando,D,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,7.0
 14083108,T25-26,J12,Local,Atlético Madrid,Jan Oblak,G,90,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,6,7.2
-14083108,T25-26,J12,Local,Atlético Madrid,Marcos Llorente,D,90,0,0,2,0,0,0,6,3,0,0,0,0,0,0,0,0,0,14,8.0
+14083108,T25-26,J12,Local,Atlético Madrid,Marcos Llorente,D,90,0,1,2,0,0,0,6,3,0,0,0,0,0,0,0,0,0,14,8.0
 14083108,T25-26,J12,Local,Atlético Madrid,José María Giménez,D,90,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,9,6.9
 14083108,T25-26,J12,Local,Atlético Madrid,Dávid Hancko,D,90,0,0,2,0,0,0,3,5,0,0,0,0,0,0,0,0,0,10,7.0
 14083108,T25-26,J12,Local,Atlético Madrid,Matteo Ruggeri,D,79,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,10,6.8
@@ -118,7 +118,7 @@
 14083108,T25-26,J12,Visitante,Levante UD,Carlos Álvarez,M,90,0,0,4,1,0,0,5,0,0,0,0,0,0,0,0,0,0,12,7.2
 14083108,T25-26,J12,Visitante,Levante UD,Unai Elgezabal,M,85,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,6,6.6
 14083108,T25-26,J12,Visitante,Levante UD,Kervin Arriaga,M,90,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,8,6.2
-14083108,T25-26,J12,Visitante,Levante UD,Jon Ander Olasagasti,M,74,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,14,6.1
+14083108,T25-26,J12,Visitante,Levante UD,Jon Ander Olasagasti,M,74,0,1,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,14,6.1
 14083108,T25-26,J12,Visitante,Levante UD,Roger Brugué,F,74,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,6,6.6
 14083108,T25-26,J12,Visitante,Levante UD,Etta Eyong,F,90,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,14,6.7
 14083108,T25-26,J12,Visitante,Levante UD,Goduine Koyalipou,F,16,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,5,6.4
@@ -148,7 +148,7 @@
 14083111,T25-26,J12,Visitante,Villarreal,Renato Veiga,D,90,0,0,0,0,0,0,4,11,0,0,0,0,0,0,0,0,0,4,7.4
 14083111,T25-26,J12,Visitante,Villarreal,Alfonso Pedraza,D,90,0,0,2,0,0,0,3,2,0,0,0,0,0,0,0,0,0,13,7.9
 14083111,T25-26,J12,Visitante,Villarreal,Tajon Buchanan,M,83,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.8
-14083111,T25-26,J12,Visitante,Villarreal,Santi Comesaña,M,74,0,0,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,13,7.0
+14083111,T25-26,J12,Visitante,Villarreal,Santi Comesaña,M,74,0,1,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,13,7.0
 14083111,T25-26,J12,Visitante,Villarreal,Thomas Partey,M,90,0,0,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,7,7.5
 14083111,T25-26,J12,Visitante,Villarreal,Alberto Moleiro,M,83,1,0,1,1,2,0,5,1,0,0,0,0,0,0,0,0,0,13,6.8
 14083111,T25-26,J12,Visitante,Villarreal,Gerard Moreno,F,71,1,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,7,8.3
@@ -161,7 +161,7 @@
 14083106,T25-26,J12,Local,Athletic Club,Unai Simón,G,90,0,0,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0,9,7.6
 14083106,T25-26,J12,Local,Athletic Club,Andoni Gorosabel,D,90,0,0,2,2,0,0,3,7,0,0,0,0,0,0,0,0,0,10,7.5
 14083106,T25-26,J12,Local,Athletic Club,Daniel Vivian,D,90,0,0,1,0,0,0,4,2,0,0,0,0,0,0,0,0,0,6,7.7
-14083106,T25-26,J12,Local,Athletic Club,Aymeric Laporte,D,90,0,0,1,0,0,0,5,8,0,0,0,0,0,0,0,0,0,2,7.5
+14083106,T25-26,J12,Local,Athletic Club,Aymeric Laporte,D,90,0,1,1,0,0,0,5,8,0,0,0,0,0,0,0,0,0,2,7.5
 14083106,T25-26,J12,Local,Athletic Club,Yuri Berchiche,D,90,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,14,7.4
 14083106,T25-26,J12,Local,Athletic Club,Iñigo Ruiz de Galarreta,M,72,0,0,0,1,0,0,7,0,0,0,0,0,0,0,0,0,0,6,7.1
 14083106,T25-26,J12,Local,Athletic Club,Mikel Jauregizar,M,90,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,6.5
@@ -225,7 +225,7 @@
 14083118,T25-26,J12,Local,Mallorca,Pablo Maffeo,D,90,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0,16,8.5
 14083118,T25-26,J12,Local,Mallorca,Martin Valjent,D,90,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,9,7.0
 14083118,T25-26,J12,Local,Mallorca,Antonio Raíllo,D,90,0,0,0,0,1,0,0,7,0,0,0,0,0,0,0,0,0,12,6.9
-14083118,T25-26,J12,Local,Mallorca,Johan Mojica,D,90,0,0,2,3,0,0,6,4,0,0,0,0,0,0,0,0,0,16,7.4
+14083118,T25-26,J12,Local,Mallorca,Johan Mojica,D,90,0,1,2,3,0,0,6,4,0,0,0,0,0,0,0,0,0,16,7.4
 14083118,T25-26,J12,Local,Mallorca,Omar Mascarell,M,90,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,11,7.1
 14083118,T25-26,J12,Local,Mallorca,Samú Costa,M,90,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,25,7.1
 14083118,T25-26,J12,Local,Mallorca,Sergi Darder,M,82,0,0,1,1,1,0,4,0,0,0,0,0,0,0,0,0,0,15,6.8
@@ -277,7 +277,7 @@
 14083116,T25-26,J12,Visitante,Real Betis,Pablo Fornals,M,90,0,0,3,1,0,0,7,1,0,0,0,0,0,0,0,0,0,5,6.8
 14083116,T25-26,J12,Visitante,Real Betis,Antony,M,90,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,11,6.5
 14083116,T25-26,J12,Visitante,Real Betis,Giovani Lo Celso,M,77,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,15,7.1
-14083116,T25-26,J12,Visitante,Real Betis,Abdessamad Ezzalzouli,M,76,0,0,1,0,0,0,6,1,0,0,0,0,0,0,0,0,0,12,6.6
+14083116,T25-26,J12,Visitante,Real Betis,Abdessamad Ezzalzouli,M,76,0,1,1,0,0,0,6,1,0,0,0,0,0,0,0,0,0,12,6.6
 14083116,T25-26,J12,Visitante,Real Betis,Cucho Hernández,F,89,1,0,3,0,2,0,1,2,0,0,0,0,0,0,0,0,0,12,7.8
 14083116,T25-26,J12,Visitante,Real Betis,Rodrigo Riquelme,M,14,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,6.4
 14083116,T25-26,J12,Visitante,Real Betis,Marc Roca,M,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.4
@@ -290,8 +290,8 @@
 14083115,T25-26,J12,Local,Celta Vigo,Hugo Sotelo,M,78,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.4
 14083115,T25-26,J12,Local,Celta Vigo,Ilaix Moriba,M,90,0,0,1,0,0,0,7,1,0,0,0,0,0,0,0,0,0,10,6.8
 14083115,T25-26,J12,Local,Celta Vigo,Sergio Carreira,M,90,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,17,7.8
-14083115,T25-26,J12,Local,Celta Vigo,Ferran Jutglà,F,58,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,2,6.7
-14083115,T25-26,J12,Local,Celta Vigo,Borja Iglesias,F,70,1,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,10,7.8
+14083115,T25-26,J12,Local,Celta Vigo,Ferran Jutglà,F,58,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,2,6.7
+14083115,T25-26,J12,Local,Celta Vigo,Borja Iglesias,F,70,1,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,10,7.8
 14083115,T25-26,J12,Local,Celta Vigo,Pablo Durán,F,90,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,11,6.8
 14083115,T25-26,J12,Local,Celta Vigo,Javi Rodríguez,D,45,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,6,6.2
 14083115,T25-26,J12,Local,Celta Vigo,Bryan Zaragoza,F,32,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,6.4
@@ -308,7 +308,7 @@
 14083115,T25-26,J12,Visitante,Barcelona,Dani Olmo,M,86,0,0,3,0,1,0,6,0,0,0,0,0,0,0,0,0,0,16,6.1
 14083115,T25-26,J12,Visitante,Barcelona,Lamine Yamal,F,89,1,0,0,1,2,0,5,0,0,0,0,0,0,0,0,0,0,19,7.6
 14083115,T25-26,J12,Visitante,Barcelona,Robert Lewandowski,F,90,3,0,1,0,5,0,1,1,0,0,0,0,0,0,0,0,0,9,9.0
-14083115,T25-26,J12,Visitante,Barcelona,Marcus Rashford,F,88,0,0,2,3,1,0,3,2,0,0,0,0,0,0,0,0,0,12,7.9
+14083115,T25-26,J12,Visitante,Barcelona,Marcus Rashford,F,88,0,2,2,3,1,0,3,2,0,0,0,0,0,0,0,0,0,12,7.9
 14083115,T25-26,J12,Visitante,Barcelona,Andreas Christensen,D,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.7
 14083115,T25-26,J12,Visitante,Barcelona,Gerard Martín,D,12,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,7.1
 14083115,T25-26,J12,Visitante,Barcelona,Ferran Torres,F,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5

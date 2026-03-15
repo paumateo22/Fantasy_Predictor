@@ -1,0 +1,316 @@
+﻿ID_Partido,Temporada,Jornada,Equipo_Bando,Equipo_Nombre,Jugador,Posicion,Minutos_jugados,Goles,Asistencias_de_gol,Asistencias_sin_gol,Balones_al_area,Tiros_a_puerta,Regates,Balones_recuperados,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_parados,Penaltis_fallados,Goles_en_propia_puerta,Amarillas,Rojas,Posesiones_perdidas,Nota_SofaScore
+12437849,T24-25,J10,Local,Deportivo Alavés,Antonio Sivera,G,90,0,0,0,0,0,0,8,1,1,0,0,1,0,0,0,0,0,14,6.2
+12437849,T24-25,J10,Local,Deportivo Alavés,Nahuel Tenaglia,D,90,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,11,6.5
+12437849,T24-25,J10,Local,Deportivo Alavés,Abdelkabir Abqar,D,90,0,1,2,0,0,0,1,5,0,0,0,0,0,0,0,0,0,10,6.9
+12437849,T24-25,J10,Local,Deportivo Alavés,Moussa Diarra,D,90,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,6.5
+12437849,T24-25,J10,Local,Deportivo Alavés,Manuel Sánchez,D,90,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,11,6.4
+12437849,T24-25,J10,Local,Deportivo Alavés,Antonio Blanco,M,61,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,11,6.3
+12437849,T24-25,J10,Local,Deportivo Alavés,Ander Guevara,M,78,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,12,6.4
+12437849,T24-25,J10,Local,Deportivo Alavés,Carlos Vicente,M,90,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,9,6.6
+12437849,T24-25,J10,Local,Deportivo Alavés,Jon Guridi,M,74,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,5,6.5
+12437849,T24-25,J10,Local,Deportivo Alavés,Tomás Conechny,M,61,0,0,2,3,1,0,2,1,0,0,0,0,0,0,0,0,0,20,6.8
+12437849,T24-25,J10,Local,Deportivo Alavés,Toni Martínez,F,74,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,6,7.6
+12437849,T24-25,J10,Local,Deportivo Alavés,Joan Jordán,M,29,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,13,6.4
+12437849,T24-25,J10,Local,Deportivo Alavés,Luka Romero,F,29,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.3
+12437849,T24-25,J10,Local,Deportivo Alavés,Abderrahman Rebbach,F,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.3
+12437849,T24-25,J10,Local,Deportivo Alavés,Asier Villalibre,F,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.7
+12437849,T24-25,J10,Local,Deportivo Alavés,Kike García,F,21,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,4,7.0
+12437849,T24-25,J10,Visitante,Real Valladolid,Karl Hein,G,90,0,0,0,0,0,0,7,2,2,0,0,0,0,0,0,0,0,16,6.3
+12437849,T24-25,J10,Visitante,Real Valladolid,Luis Pérez,D,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,10,6.6
+12437849,T24-25,J10,Visitante,Real Valladolid,Javi Sánchez,D,74,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,6.8
+12437849,T24-25,J10,Visitante,Real Valladolid,David Torres,D,90,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,4,6.1
+12437849,T24-25,J10,Visitante,Real Valladolid,Raúl Chasco,D,90,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,17,6.3
+12437849,T24-25,J10,Visitante,Real Valladolid,Raúl Moro,M,90,0,0,3,4,0,0,5,0,0,0,0,0,0,0,0,0,0,9,6.8
+12437849,T24-25,J10,Visitante,Real Valladolid,Eray Cömert,M,90,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,13,6.6
+12437849,T24-25,J10,Visitante,Real Valladolid,Mario Martín,M,74,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,12,6.4
+12437849,T24-25,J10,Visitante,Real Valladolid,Anuar,M,89,1,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,0,10,8.0
+12437849,T24-25,J10,Visitante,Real Valladolid,Selim Amallah,F,74,1,0,2,2,1,0,4,0,0,0,0,0,0,0,0,0,0,10,7.8
+12437849,T24-25,J10,Visitante,Real Valladolid,Mamadou Sylla,F,84,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9,8.1
+12437849,T24-25,J10,Visitante,Real Valladolid,Abdulay Juma Bah,D,16,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2,6.5
+12437849,T24-25,J10,Visitante,Real Valladolid,Kike Pérez,M,16,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,3,6.5
+12437849,T24-25,J10,Visitante,Real Valladolid,Víctor Meseguer,M,16,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,6.5
+12437849,T24-25,J10,Visitante,Real Valladolid,Juanmi Latasa,F,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437849,T24-25,J10,Visitante,Real Valladolid,Stanko Jurić,M,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,6.3
+12437855,T24-25,J10,Local,Athletic Club,Julen Agirrezabala,G,90,0,0,0,0,0,0,11,0,1,0,0,0,0,0,0,0,0,8,6.7
+12437855,T24-25,J10,Local,Athletic Club,Óscar de Marcos,D,90,0,1,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,18,6.9
+12437855,T24-25,J10,Local,Athletic Club,Daniel Vivian,D,90,1,0,0,0,1,0,6,1,0,0,0,0,0,0,0,0,0,10,7.6
+12437855,T24-25,J10,Local,Athletic Club,Unai Núñez,D,90,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,8,6.7
+12437855,T24-25,J10,Local,Athletic Club,Yuri Berchiche,D,63,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,9,6.7
+12437855,T24-25,J10,Local,Athletic Club,Iñigo Ruiz de Galarreta,M,63,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,6,6.8
+12437855,T24-25,J10,Local,Athletic Club,Mikel Jauregizar,M,90,0,0,1,0,0,0,5,4,0,0,0,0,0,0,0,0,0,14,7.1
+12437855,T24-25,J10,Local,Athletic Club,Iñaki Williams,M,73,2,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,16,8.7
+12437855,T24-25,J10,Local,Athletic Club,Álex Berenguer,M,78,1,2,2,0,1,0,2,0,0,0,0,0,0,0,0,0,0,15,9.0
+12437855,T24-25,J10,Local,Athletic Club,Nico Williams,M,73,0,1,1,2,2,0,2,0,0,0,0,0,0,0,0,0,0,12,7.4
+12437855,T24-25,J10,Local,Athletic Club,Gorka Guruzeta,F,90,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,6.7
+12437855,T24-25,J10,Local,Athletic Club,Adama Boiro,D,27,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,6.5
+12437855,T24-25,J10,Local,Athletic Club,Beñat Prados,D,27,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,6.6
+12437855,T24-25,J10,Local,Athletic Club,Nico Serrano,F,17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.7
+12437855,T24-25,J10,Local,Athletic Club,Álvaro Djaló,F,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437855,T24-25,J10,Local,Athletic Club,Unai Gómez,M,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.4
+12437855,T24-25,J10,Visitante,Espanyol,Joan García,G,90,0,0,0,0,0,0,14,1,2,0,0,0,0,0,0,0,0,5,6.4
+12437855,T24-25,J10,Visitante,Espanyol,Omar El Hilali,D,90,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,10,6.1
+12437855,T24-25,J10,Visitante,Espanyol,Sergi Gómez,D,90,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,5,6.1
+12437855,T24-25,J10,Visitante,Espanyol,Marash Kumbulla,D,73,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,8,6.3
+12437855,T24-25,J10,Visitante,Espanyol,Brian Oliván,D,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,16,6.1
+12437855,T24-25,J10,Visitante,Espanyol,José Gragera,M,45,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2,6.4
+12437855,T24-25,J10,Visitante,Espanyol,Pol Lozano,M,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,8,6.6
+12437855,T24-25,J10,Visitante,Espanyol,Jofre Carreras,M,63,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,12,6.4
+12437855,T24-25,J10,Visitante,Espanyol,Alex Král,M,90,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,16,6.7
+12437855,T24-25,J10,Visitante,Espanyol,Carlos Romero,M,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7,6.1
+12437855,T24-25,J10,Visitante,Espanyol,Alejo Véliz,F,45,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,6.4
+12437855,T24-25,J10,Visitante,Espanyol,Leandro Cabrera,D,45,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,5,6.5
+12437855,T24-25,J10,Visitante,Espanyol,Pere Milla,M,45,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,12,6.5
+12437855,T24-25,J10,Visitante,Espanyol,Walid Cheddira,F,45,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6.6
+12437855,T24-25,J10,Visitante,Espanyol,Irvin Cardona,F,27,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,6,6.6
+12437855,T24-25,J10,Visitante,Espanyol,Álvaro Tejero,D,17,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8,7.3
+12437851,T24-25,J10,Local,Osasuna,Sergio Herrera,G,90,0,0,0,0,0,0,9,1,4,0,0,0,0,0,0,0,0,9,7.2
+12437851,T24-25,J10,Local,Osasuna,Jesús Areso,D,90,0,0,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,22,6.7
+12437851,T24-25,J10,Local,Osasuna,Alejandro Catena,D,90,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,14,7.4
+12437851,T24-25,J10,Local,Osasuna,Flavien Boyomo,D,90,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,6,6.7
+12437851,T24-25,J10,Local,Osasuna,Abel Bretones,D,90,0,0,1,0,0,0,4,2,0,0,0,0,0,0,0,0,0,17,6.8
+12437851,T24-25,J10,Local,Osasuna,Pablo Ibáñez,M,77,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,6.7
+12437851,T24-25,J10,Local,Osasuna,Lucas Torró,M,88,1,0,0,0,1,0,10,1,0,0,0,0,0,0,0,0,0,10,7.4
+12437851,T24-25,J10,Local,Osasuna,Aimar Oroz,M,87,0,0,3,0,2,0,3,0,0,0,0,0,0,0,0,0,0,9,7.2
+12437851,T24-25,J10,Local,Osasuna,Rubén García,F,67,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,13,7.2
+12437851,T24-25,J10,Local,Osasuna,Ante Budimir,F,90,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,7.1
+12437851,T24-25,J10,Local,Osasuna,Bryan Zaragoza,F,88,0,0,4,1,1,0,2,0,0,0,0,0,0,0,0,0,0,14,7.4
+12437851,T24-25,J10,Local,Osasuna,Jon Moncayola,M,23,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,7,6.8
+12437851,T24-25,J10,Local,Osasuna,Raúl García de Haro,F,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.7
+12437851,T24-25,J10,Local,Osasuna,Rubén Peña,D,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.8
+12437851,T24-25,J10,Local,Osasuna,Moi Gómez,M,14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6.5
+12437851,T24-25,J10,Local,Osasuna,José Manuel Arnáiz,F,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.5
+12437851,T24-25,J10,Visitante,Real Betis,Rui Silva,G,90,0,0,0,0,0,0,17,1,5,0,0,0,0,0,0,0,0,19,7.5
+12437851,T24-25,J10,Visitante,Real Betis,Héctor Bellerín,D,90,0,0,1,0,1,0,1,3,0,0,0,0,0,0,0,0,0,9,7.5
+12437851,T24-25,J10,Visitante,Real Betis,Marc Bartra,D,88,0,0,0,0,1,0,3,8,0,0,0,0,0,0,0,0,0,13,7.4
+12437851,T24-25,J10,Visitante,Real Betis,Diego Llorente,D,90,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,7,7.2
+12437851,T24-25,J10,Visitante,Real Betis,Romain Perraud,D,90,0,0,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,20,7.0
+12437851,T24-25,J10,Visitante,Real Betis,Aitor Ruibal,M,68,0,1,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,8,7.4
+12437851,T24-25,J10,Visitante,Real Betis,Johnny Cardoso,M,90,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,8,6.9
+12437851,T24-25,J10,Visitante,Real Betis,Sergi Altimira,M,68,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,7,6.8
+12437851,T24-25,J10,Visitante,Real Betis,Pablo Fornals,M,89,0,0,4,2,0,0,7,0,0,0,0,0,0,0,0,0,0,8,7.0
+12437851,T24-25,J10,Visitante,Real Betis,Cédric Bakambu,F,60,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,10,6.4
+12437851,T24-25,J10,Visitante,Real Betis,Vitor Roque,F,45,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,5,6.8
+12437851,T24-25,J10,Visitante,Real Betis,Chimy Ávila,F,45,1,0,1,0,3,0,2,1,0,0,0,0,0,0,0,0,0,6,7.9
+12437851,T24-25,J10,Visitante,Real Betis,Abdessamad Ezzalzouli,F,30,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6.6
+12437851,T24-25,J10,Visitante,Real Betis,Mateo Flores,M,22,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,6.5
+12437851,T24-25,J10,Visitante,Real Betis,Iker Losada,M,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.7
+12437851,T24-25,J10,Visitante,Real Betis,Natan,D,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5.7
+12437851,T24-25,J10,Visitante,Real Betis,Ricardo Rodríguez,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+12437843,T24-25,J10,Local,Girona FC,Paulo Gazzaniga,G,90,0,0,0,0,0,0,8,0,3,0,0,0,0,0,0,0,0,9,6.8
+12437843,T24-25,J10,Local,Girona FC,Alejandro Francés,D,72,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,8,7.3
+12437843,T24-25,J10,Local,Girona FC,David López,D,90,0,0,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,7,6.9
+12437843,T24-25,J10,Local,Girona FC,Ladislav Krejčí,D,90,0,0,0,1,1,0,2,3,0,0,0,0,0,0,0,0,0,8,7.5
+12437843,T24-25,J10,Local,Girona FC,Iván Martín,M,90,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,4,6.8
+12437843,T24-25,J10,Local,Girona FC,Arnau Martínez,M,90,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,13,7.2
+12437843,T24-25,J10,Local,Girona FC,Donny van de Beek,M,59,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,6.2
+12437843,T24-25,J10,Local,Girona FC,Yangel Herrera,M,90,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,0,14,6.6
+12437843,T24-25,J10,Local,Girona FC,Miguel Gutiérrez,M,90,0,0,3,2,0,0,4,0,0,0,0,0,0,0,0,0,0,9,7.1
+12437843,T24-25,J10,Local,Girona FC,Bojan Miovski,F,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.6
+12437843,T24-25,J10,Local,Girona FC,Arnaut Danjuma,F,90,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,17,7.2
+12437843,T24-25,J10,Local,Girona FC,Gabriel Misehouy,M,31,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,7.1
+12437843,T24-25,J10,Local,Girona FC,Cristhian Stuani,F,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.6
+12437843,T24-25,J10,Local,Girona FC,Min-su Kim,F,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.5
+12437843,T24-25,J10,Visitante,Real Sociedad,Álex Remiro,G,90,0,0,0,0,0,0,6,2,3,0,0,0,0,0,0,0,0,4,7.6
+12437843,T24-25,J10,Visitante,Real Sociedad,Jon Aramburu,D,90,0,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,14,7.0
+12437843,T24-25,J10,Visitante,Real Sociedad,Igor Zubeldia,D,90,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,6.9
+12437843,T24-25,J10,Visitante,Real Sociedad,Nayef Aguerd,D,90,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,5,7.2
+12437843,T24-25,J10,Visitante,Real Sociedad,Sergio Gómez,D,90,0,0,2,2,0,0,4,1,0,0,0,0,0,0,0,0,0,8,7.6
+12437843,T24-25,J10,Visitante,Real Sociedad,Martín Zubimendi,M,90,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,7,6.7
+12437843,T24-25,J10,Visitante,Real Sociedad,Mikel Oyarzabal,M,80,1,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,0,10,7.9
+12437843,T24-25,J10,Visitante,Real Sociedad,Luka Sučić,M,90,0,0,1,0,0,0,10,3,0,0,0,0,0,0,0,0,0,5,7.1
+12437843,T24-25,J10,Visitante,Real Sociedad,Brais Méndez,M,80,0,0,3,0,1,0,3,2,0,0,0,0,0,0,0,0,0,9,7.5
+12437843,T24-25,J10,Visitante,Real Sociedad,Ander Barrenetxea,M,59,0,1,4,3,0,0,3,0,0,0,0,0,0,0,0,0,0,12,7.3
+12437843,T24-25,J10,Visitante,Real Sociedad,Orri Steinn Óskarsson,F,65,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,6.0
+12437843,T24-25,J10,Visitante,Real Sociedad,Javi López,D,31,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,6.6
+12437843,T24-25,J10,Visitante,Real Sociedad,Takefusa Kubo,F,25,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.7
+12437843,T24-25,J10,Visitante,Real Sociedad,Beñat Turrientes,M,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
+12437843,T24-25,J10,Visitante,Real Sociedad,Sheraldo Becker,F,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.5
+12437842,T24-25,J10,Local,Celta Vigo,Vicente Guaita,G,90,0,0,0,0,0,0,7,1,1,0,0,0,0,0,0,0,0,5,6.5
+12437842,T24-25,J10,Local,Celta Vigo,Javier Manquillo,D,72,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437842,T24-25,J10,Local,Celta Vigo,Carl Starfelt,D,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,7,6.3
+12437842,T24-25,J10,Local,Celta Vigo,Marcos Alonso,D,90,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,11,6.8
+12437842,T24-25,J10,Local,Celta Vigo,Óscar Mingueza,M,90,0,1,3,2,0,0,6,0,0,0,0,0,0,0,0,0,0,17,7.4
+12437842,T24-25,J10,Local,Celta Vigo,Fran Beltrán,M,87,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,9,6.3
+12437842,T24-25,J10,Local,Celta Vigo,Hugo Sotelo,M,90,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,16,7.3
+12437842,T24-25,J10,Local,Celta Vigo,Hugo Álvarez,M,90,0,0,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,14,6.8
+12437842,T24-25,J10,Local,Celta Vigo,Jonathan Bamba,F,78,0,0,0,1,2,0,9,0,0,0,0,0,0,0,0,0,0,13,6.6
+12437842,T24-25,J10,Local,Celta Vigo,Borja Iglesias,F,78,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10,6.8
+12437842,T24-25,J10,Local,Celta Vigo,Williot Swedberg,F,72,1,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,0,7,7.0
+12437842,T24-25,J10,Local,Celta Vigo,Javi Rodríguez,D,18,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6.8
+12437842,T24-25,J10,Local,Celta Vigo,Alfon González,F,18,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,7.0
+12437842,T24-25,J10,Local,Celta Vigo,Anastasios Douvikas,F,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.2
+12437842,T24-25,J10,Local,Celta Vigo,Pablo Durán,F,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.7
+12437842,T24-25,J10,Local,Celta Vigo,Damián Rodríguez,M,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.7
+12437842,T24-25,J10,Visitante,Real Madrid,Thibaut Courtois,G,90,0,0,0,0,0,0,8,1,4,0,0,0,0,0,0,0,0,9,7.1
+12437842,T24-25,J10,Visitante,Real Madrid,Éder Militão,D,90,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,7,7.2
+12437842,T24-25,J10,Visitante,Real Madrid,Aurélien Tchouaméni,D,90,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,5,7.5
+12437842,T24-25,J10,Visitante,Real Madrid,Antonio Rüdiger,D,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,13,6.7
+12437842,T24-25,J10,Visitante,Real Madrid,Lucas Vázquez,M,90,0,0,3,0,0,0,1,2,0,0,0,0,0,0,0,0,0,9,7.0
+12437842,T24-25,J10,Visitante,Real Madrid,Federico Valverde,M,63,0,0,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,4,7.2
+12437842,T24-25,J10,Visitante,Real Madrid,Eduardo Camavinga,M,63,0,1,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,8,7.0
+12437842,T24-25,J10,Visitante,Real Madrid,Fran García,M,70,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,5,7.0
+12437842,T24-25,J10,Visitante,Real Madrid,Jude Bellingham,F,90,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,10,6.9
+12437842,T24-25,J10,Visitante,Real Madrid,Vinicius Júnior,F,90,1,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,16,7.5
+12437842,T24-25,J10,Visitante,Real Madrid,Kylian Mbappé,F,82,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,13,7.2
+12437842,T24-25,J10,Visitante,Real Madrid,Luka Modrić,M,27,0,1,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,7.5
+12437842,T24-25,J10,Visitante,Real Madrid,Rodrygo,F,27,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,6,6.4
+12437842,T24-25,J10,Visitante,Real Madrid,Ferland Mendy,D,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
+12437842,T24-25,J10,Visitante,Real Madrid,Dani Ceballos,M,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6.9
+12437847,T24-25,J10,Local,Mallorca,Dominik Greif,G,90,0,0,0,0,0,0,7,1,2,0,0,0,0,0,0,0,0,10,7.3
+12437847,T24-25,J10,Local,Mallorca,Pablo Maffeo,D,90,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,20,7.0
+12437847,T24-25,J10,Local,Mallorca,Martin Valjent,D,90,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,8,7.2
+12437847,T24-25,J10,Local,Mallorca,Antonio Raíllo,D,90,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,9,7.5
+12437847,T24-25,J10,Local,Mallorca,Johan Mojica,D,90,0,0,3,3,0,0,4,4,0,0,0,0,0,0,0,0,0,7,7.5
+12437847,T24-25,J10,Local,Mallorca,Robert Navarro,M,72,0,0,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,13,6.6
+12437847,T24-25,J10,Local,Mallorca,Manu Morlanes,M,77,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,4,7.0
+12437847,T24-25,J10,Local,Mallorca,Samú Costa,M,90,0,0,1,0,0,0,8,1,0,0,0,0,0,0,0,0,0,13,7.6
+12437847,T24-25,J10,Local,Mallorca,Sergi Darder,M,84,0,0,4,3,0,0,5,0,0,0,0,0,0,0,0,0,0,16,7.5
+12437847,T24-25,J10,Local,Mallorca,Vedat Muriqi,F,84,1,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,13,7.7
+12437847,T24-25,J10,Local,Mallorca,Cyle Larin,F,72,0,0,1,0,1,0,4,0,0,0,0,0,0,0,0,0,0,11,7.0
+12437847,T24-25,J10,Local,Mallorca,Valery Fernández,D,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437847,T24-25,J10,Local,Mallorca,Dani Rodríguez,M,18,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,5,7.0
+12437847,T24-25,J10,Local,Mallorca,Omar Mascarell,M,13,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,6.7
+12437847,T24-25,J10,Local,Mallorca,Antonio Sánchez,M,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.6
+12437847,T24-25,J10,Local,Mallorca,Abdón Prats,F,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.5
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Augusto Batalla,G,90,0,0,0,0,0,0,9,1,4,0,0,0,0,0,0,0,0,17,7.5
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Andrei Rațiu,D,90,0,0,1,1,0,0,5,1,0,0,0,0,0,0,0,0,0,13,6.7
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Florian Lejeune,D,90,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,10,6.6
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Abdul Mumin,D,73,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,8,6.8
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Iván Balliu,D,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,7,6.6
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Jorge de Frutos,M,90,0,0,1,0,1,0,4,1,0,0,0,0,0,0,0,0,0,6,6.9
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Unai López,M,63,0,0,2,2,0,0,5,1,0,0,0,0,0,0,0,0,0,13,6.8
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Gerard Gumbau,M,55,0,0,0,0,1,0,3,2,0,0,0,0,0,0,0,0,0,8,7.0
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Álvaro García,M,90,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,10,6.9
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Sergio Camello,F,55,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,4,6.6
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Isi Palazón,F,64,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6,6.7
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Pathé Ismaël Ciss,M,35,0,0,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,2,6.8
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Sergi Guardiola,F,35,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,6.6
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Óscar Valentín,M,27,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.5
+12437847,T24-25,J10,Visitante,Rayo Vallecano,James Rodríguez,M,26,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,6.5
+12437847,T24-25,J10,Visitante,Rayo Vallecano,Aridane Hernández,D,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.3
+12437835,T24-25,J10,Local,Atlético Madrid,Jan Oblak,G,90,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,5,6.4
+12437835,T24-25,J10,Local,Atlético Madrid,Nahuel Molina,D,45,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,11,6.8
+12437835,T24-25,J10,Local,Atlético Madrid,Axel Witsel,D,90,0,1,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,6,7.6
+12437835,T24-25,J10,Local,Atlético Madrid,Clément Lenglet,D,64,0,0,2,0,0,0,5,1,0,0,0,0,0,0,0,0,0,7,6.8
+12437835,T24-25,J10,Local,Atlético Madrid,Javi Galán,D,90,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,9,6.9
+12437835,T24-25,J10,Local,Atlético Madrid,Pablo Barrios,M,89,0,0,3,0,0,0,8,1,0,0,0,0,0,0,0,0,0,9,8.1
+12437835,T24-25,J10,Local,Atlético Madrid,Koke,M,57,0,0,1,1,0,0,7,0,0,0,0,0,0,0,0,0,0,9,6.7
+12437835,T24-25,J10,Local,Atlético Madrid,Rodrigo Riquelme,M,57,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,12,6.3
+12437835,T24-25,J10,Local,Atlético Madrid,Antoine Griezmann,M,90,1,0,4,1,1,0,5,1,0,0,0,0,0,0,0,0,0,21,9.0
+12437835,T24-25,J10,Local,Atlético Madrid,Alexander Sørloth,F,90,2,0,0,0,4,0,5,2,0,0,0,0,0,0,0,0,0,9,8.1
+12437835,T24-25,J10,Local,Atlético Madrid,Ángel Correa,F,57,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,12,6.6
+12437835,T24-25,J10,Local,Atlético Madrid,Samuel Lino,M,45,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10,6.6
+12437835,T24-25,J10,Local,Atlético Madrid,Giuliano Simeone,F,33,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,10,7.1
+12437835,T24-25,J10,Local,Atlético Madrid,Rodrigo de Paul,M,33,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6.6
+12437835,T24-25,J10,Local,Atlético Madrid,Julián Alvarez,F,33,0,1,1,1,1,0,4,0,0,0,0,0,0,0,0,0,0,7,7.2
+12437835,T24-25,J10,Local,Atlético Madrid,José María Giménez,D,26,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,6.8
+12437835,T24-25,J10,Visitante,Leganés,Marko Dmitrović,G,90,0,0,0,0,0,0,12,2,5,0,0,0,0,0,0,0,0,13,6.8
+12437835,T24-25,J10,Visitante,Leganés,Valentin Rosier,D,90,0,0,0,0,0,0,4,11,0,0,0,0,0,0,0,0,0,8,6.4
+12437835,T24-25,J10,Visitante,Leganés,Sergio González,D,90,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,11,6.1
+12437835,T24-25,J10,Visitante,Leganés,Matija Nastasić,D,90,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,10,7.3
+12437835,T24-25,J10,Visitante,Leganés,Javier Hernández,D,83,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,9,6.2
+12437835,T24-25,J10,Visitante,Leganés,Juan Cruz,M,68,0,0,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,5,6.8
+12437835,T24-25,J10,Visitante,Leganés,Yvan Neyou,M,90,1,0,1,0,1,0,6,3,0,0,0,0,0,0,0,0,0,9,7.1
+12437835,T24-25,J10,Visitante,Leganés,Renato Tapia,M,90,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,15,6.7
+12437835,T24-25,J10,Visitante,Leganés,Seydouba Cisse,M,83,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,9,6.4
+12437835,T24-25,J10,Visitante,Leganés,Dani Raba,F,68,0,1,2,0,1,0,2,0,0,0,0,0,0,0,0,0,0,9,7.4
+12437835,T24-25,J10,Visitante,Leganés,Miguel de la Fuente,F,77,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,14,6.3
+12437835,T24-25,J10,Visitante,Leganés,Roberto López,M,22,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,8,5.9
+12437835,T24-25,J10,Visitante,Leganés,Munir El Haddadi,F,22,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6,6.3
+12437835,T24-25,J10,Visitante,Leganés,Sébastien Haller,F,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6.5
+12437835,T24-25,J10,Visitante,Leganés,Enric Franquesa,D,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437835,T24-25,J10,Visitante,Leganés,Diego García,F,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
+12437852,T24-25,J10,Local,Villarreal,Diego Conde,G,90,0,0,0,0,0,0,10,0,3,0,0,0,0,0,0,0,0,13,7.0
+12437852,T24-25,J10,Local,Villarreal,Kiko Femenía,D,90,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,9,7.2
+12437852,T24-25,J10,Local,Villarreal,Raúl Albiol,D,90,0,0,0,0,0,0,1,5,0,0,0,1,0,0,0,0,0,8,6.3
+12437852,T24-25,J10,Local,Villarreal,Eric Bailly,D,45,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,3,7.1
+12437852,T24-25,J10,Local,Villarreal,Sergi Cardona,D,90,0,0,0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,18,6.9
+12437852,T24-25,J10,Local,Villarreal,Santi Comesaña,M,90,1,0,2,0,1,0,9,4,0,0,0,0,0,0,0,0,0,13,7.9
+12437852,T24-25,J10,Local,Villarreal,Dani Parejo,M,90,0,0,1,0,0,0,8,1,0,0,0,0,0,0,0,0,0,12,7.2
+12437852,T24-25,J10,Local,Villarreal,Ilias Akhomach,M,69,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,18,6.9
+12437852,T24-25,J10,Local,Villarreal,Pape Gueye,M,79,0,0,1,0,3,0,2,1,0,0,0,0,0,0,0,0,0,15,7.6
+12437852,T24-25,J10,Local,Villarreal,Alejandro Baena,M,79,0,0,3,2,0,0,5,1,0,0,0,0,0,0,0,0,0,22,6.5
+12437852,T24-25,J10,Local,Villarreal,Thierno Barry,F,90,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,7.0
+12437852,T24-25,J10,Local,Villarreal,Pau Navarro,D,45,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,6.7
+12437852,T24-25,J10,Local,Villarreal,Nicolas Pépé,F,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,6.8
+12437852,T24-25,J10,Local,Villarreal,Ramón Terrats,M,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.4
+12437852,T24-25,J10,Local,Villarreal,Yéremy Pino,M,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.3
+12437852,T24-25,J10,Visitante,Getafe,David Soria,G,90,0,0,0,0,0,0,7,1,3,0,0,0,0,0,0,0,0,15,7.1
+12437852,T24-25,J10,Visitante,Getafe,Juan Iglesias,D,90,0,0,1,2,0,0,4,4,0,0,0,0,0,0,0,0,0,13,7.5
+12437852,T24-25,J10,Visitante,Getafe,Djené,D,90,0,0,1,0,0,0,5,7,0,0,0,0,0,0,0,0,0,6,6.6
+12437852,T24-25,J10,Visitante,Getafe,Omar Alderete,D,90,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,6,6.8
+12437852,T24-25,J10,Visitante,Getafe,Diego Rico,D,90,0,0,2,1,0,0,4,1,0,0,0,0,0,0,0,0,0,16,6.9
+12437852,T24-25,J10,Visitante,Getafe,Carles Pérez,M,89,0,0,3,2,0,0,3,3,0,0,0,0,0,0,0,0,0,12,6.7
+12437852,T24-25,J10,Visitante,Getafe,Mauro Arambarri,M,90,1,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,11,7.2
+12437852,T24-25,J10,Visitante,Getafe,Luis Milla,M,90,0,0,4,2,0,0,10,0,0,0,0,0,0,0,0,0,0,7,7.7
+12437852,T24-25,J10,Visitante,Getafe,Álex Sola,M,68,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,12,6.6
+12437852,T24-25,J10,Visitante,Getafe,Bertuğ Yıldırım,F,89,0,0,2,0,2,0,1,2,0,0,1,0,0,0,0,0,0,9,7.6
+12437852,T24-25,J10,Visitante,Getafe,Christantus Uche,F,45,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6.4
+12437852,T24-25,J10,Visitante,Getafe,Álvaro Rodriguez,F,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,10,6.9
+12437852,T24-25,J10,Visitante,Getafe,Peter González,F,22,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,5,7.0
+12437852,T24-25,J10,Visitante,Getafe,Nabil Aberdin,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+12437852,T24-25,J10,Visitante,Getafe,Allan Nyom,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+12437839,T24-25,J10,Local,Barcelona,Iñaki Peña,G,90,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,2,6.6
+12437839,T24-25,J10,Local,Barcelona,Jules Koundé,D,90,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,13,7.0
+12437839,T24-25,J10,Local,Barcelona,Pau Cubarsí,D,90,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,4,7.1
+12437839,T24-25,J10,Local,Barcelona,Iñigo Martínez,D,90,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10,7.3
+12437839,T24-25,J10,Local,Barcelona,Alejandro Balde,D,90,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,16,6.6
+12437839,T24-25,J10,Local,Barcelona,Marc Casadó,M,90,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,7,6.9
+12437839,T24-25,J10,Local,Barcelona,Pedri,M,83,1,0,3,0,1,0,7,0,0,0,0,0,0,0,0,0,0,9,8.8
+12437839,T24-25,J10,Local,Barcelona,Lamine Yamal,M,76,0,1,3,0,1,0,3,0,0,0,0,0,0,0,0,0,0,11,7.7
+12437839,T24-25,J10,Local,Barcelona,Raphinha,M,66,0,1,4,0,0,0,4,1,0,0,1,0,0,0,0,0,0,9,8.7
+12437839,T24-25,J10,Local,Barcelona,Ansu Fati,M,76,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,10,6.8
+12437839,T24-25,J10,Local,Barcelona,Robert Lewandowski,F,66,2,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,9,8.2
+12437839,T24-25,J10,Local,Barcelona,Fermín López,M,24,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,3,6.9
+12437839,T24-25,J10,Local,Barcelona,Pau Víctor,F,24,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,6.5
+12437839,T24-25,J10,Local,Barcelona,Gerard Martín,D,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.5
+12437839,T24-25,J10,Local,Barcelona,Pablo Torre,M,14,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,8.7
+12437839,T24-25,J10,Local,Barcelona,Pablo Gavi,M,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.6
+12437839,T24-25,J10,Visitante,Sevilla,Ørjan Nyland,G,90,0,0,0,0,0,0,3,3,4,0,0,0,0,0,0,0,0,14,6.2
+12437839,T24-25,J10,Visitante,Sevilla,José Ángel Carmona,D,90,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,11,6.6
+12437839,T24-25,J10,Visitante,Sevilla,Loïc Badé,D,90,0,1,1,0,0,0,4,4,0,0,0,0,0,0,0,0,0,11,6.7
+12437839,T24-25,J10,Visitante,Sevilla,Marcão,D,90,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,2,6.1
+12437839,T24-25,J10,Visitante,Sevilla,Adrià Pedrosa,D,81,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,7,6.5
+12437839,T24-25,J10,Visitante,Sevilla,Lucien Agoumé,M,70,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,8,6.9
+12437839,T24-25,J10,Visitante,Sevilla,Nemanja Gudelj,M,90,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,7,6.1
+12437839,T24-25,J10,Visitante,Sevilla,Dodi Lukebakio,M,90,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,12,5.9
+12437839,T24-25,J10,Visitante,Sevilla,Peque Fernández,M,45,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,8,6.0
+12437839,T24-25,J10,Visitante,Sevilla,Chidera Ejuke,M,45,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9,6.3
+12437839,T24-25,J10,Visitante,Sevilla,Isaac Romero,F,90,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,11,6.5
+12437839,T24-25,J10,Visitante,Sevilla,Albert Sambi Lokonga,M,45,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,6.4
+12437839,T24-25,J10,Visitante,Sevilla,Suso,M,25,0,0,2,2,0,0,5,0,0,0,0,0,0,0,0,0,0,3,6.7
+12437839,T24-25,J10,Visitante,Sevilla,Stanis Idumbo Muzambo,M,20,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7.0
+12437839,T24-25,J10,Visitante,Sevilla,Djibril Sow,M,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.2
+12437839,T24-25,J10,Visitante,Sevilla,Gonzalo Montiel,D,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.0
+12437854,T24-25,J10,Local,Valencia,Giorgi Mamardashvili,G,90,0,0,0,0,0,0,5,1,3,0,0,0,0,0,0,0,0,7,6.5
+12437854,T24-25,J10,Local,Valencia,Thierry Correia,D,75,0,0,1,1,1,0,3,0,0,0,0,0,0,0,0,0,0,13,6.6
+12437854,T24-25,J10,Local,Valencia,César Tárrega,D,90,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,13,6.9
+12437854,T24-25,J10,Local,Valencia,Cristhian Mosquera,D,90,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,7,6.5
+12437854,T24-25,J10,Local,Valencia,Rodrigo Abajas,D,66,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,14,6.2
+12437854,T24-25,J10,Local,Valencia,Sergi Canós,M,55,0,0,2,1,0,0,5,0,0,0,0,0,0,0,0,0,0,14,6.5
+12437854,T24-25,J10,Local,Valencia,Enzo Barrenechea,M,55,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0,4,6.9
+12437854,T24-25,J10,Local,Valencia,Pepelu,M,69,1,0,0,2,2,0,6,2,0,0,0,0,0,0,0,0,0,10,7.3
+12437854,T24-25,J10,Local,Valencia,Luis Rioja,M,90,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,24,6.6
+12437854,T24-25,J10,Local,Valencia,Dani Gómez,F,75,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,8,6.5
+12437854,T24-25,J10,Local,Valencia,Hugo Duro,F,90,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,6.6
+12437854,T24-25,J10,Local,Valencia,Diego López,F,35,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,13,6.7
+12437854,T24-25,J10,Local,Valencia,André Almeida,M,35,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,9,6.9
+12437854,T24-25,J10,Local,Valencia,José Luis Gayà,D,24,0,1,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,5,7.2
+12437854,T24-25,J10,Local,Valencia,Dimitri Foulquier,D,15,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,7.1
+12437854,T24-25,J10,Local,Valencia,Javier Guerra,M,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,6.4
+12437854,T24-25,J10,Visitante,Las Palmas,Jasper Cillessen,G,90,0,0,0,0,0,0,9,1,5,0,0,0,0,0,0,0,0,22,7.3
+12437854,T24-25,J10,Visitante,Las Palmas,Viti Rozada,D,74,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6,6.8
+12437854,T24-25,J10,Visitante,Las Palmas,Alex Suárez,D,90,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,5,6.2
+12437854,T24-25,J10,Visitante,Las Palmas,Scott McKenna,D,90,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,6,6.5
+12437854,T24-25,J10,Visitante,Las Palmas,Álex Muñoz,D,74,1,0,0,1,2,0,3,2,0,0,0,0,0,0,0,0,0,6,7.1
+12437854,T24-25,J10,Visitante,Las Palmas,Dário Essugo,M,90,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,11,6.7
+12437854,T24-25,J10,Visitante,Las Palmas,José Campaña,M,59,0,1,2,0,0,0,3,1,0,0,0,1,0,0,0,0,0,10,7.1
+12437854,T24-25,J10,Visitante,Las Palmas,Adnan Januzaj,M,66,0,0,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,16,6.7
+12437854,T24-25,J10,Visitante,Las Palmas,Kirian Rodríguez,M,90,0,0,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,8,6.9
+12437854,T24-25,J10,Visitante,Las Palmas,Alberto Moleiro,M,90,1,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,10,7.2
+12437854,T24-25,J10,Visitante,Las Palmas,Fábio Silva,F,66,1,0,1,0,2,0,3,6,0,0,0,0,0,0,0,0,0,7,7.7
+12437854,T24-25,J10,Visitante,Las Palmas,Javier Muñoz,M,31,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,7,6.4
+12437854,T24-25,J10,Visitante,Las Palmas,Marc Cardona,F,24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6.4
+12437854,T24-25,J10,Visitante,Las Palmas,Oliver McBurnie,F,24,0,1,2,0,0,0,1,2,0,0,0,0,0,0,0,0,0,7,7.2
+12437854,T24-25,J10,Visitante,Las Palmas,Juanma Herzog,D,16,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,6.4
+12437854,T24-25,J10,Visitante,Las Palmas,Benito Ramírez,M,16,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,5,6.7

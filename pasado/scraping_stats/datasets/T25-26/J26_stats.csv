@@ -14,7 +14,7 @@
 14081793,T25-26,J26,Local,Levante UD,Oriol Rey,M,32,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,4,6.8
 14081793,T25-26,J26,Local,Levante UD,José Luis Morales,F,21,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,5,7.0
 14081793,T25-26,J26,Local,Levante UD,Iker Losada,F,11,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,6.6
-14081793,T25-26,J26,Local,Levante UD,Etta Eyong,F,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
+14081793,T25-26,J26,Local,Levante UD,Etta Eyong,F,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.5
 14081793,T25-26,J26,Visitante,Deportivo Alavés,Antonio Sivera,G,90,0,0,0,0,0,0,9,3,3,0,0,0,0,0,0,0,0,17,6.5
 14081793,T25-26,J26,Visitante,Deportivo Alavés,Jonny Otto,D,90,0,0,1,1,0,0,2,5,0,0,0,0,0,0,0,0,0,7,7.0
 14081793,T25-26,J26,Visitante,Deportivo Alavés,Nahuel Tenaglia,D,90,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0,10,6.7
@@ -57,29 +57,29 @@
 14081790,T25-26,J26,Visitante,Athletic Club,Oihan Sancet,M,86,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,12,6.6
 14081790,T25-26,J26,Visitante,Athletic Club,Unai Gómez,M,45,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,10,6.4
 14081790,T25-26,J26,Visitante,Athletic Club,Gorka Guruzeta,F,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,15,5.8
-14081790,T25-26,J26,Visitante,Athletic Club,Álex Berenguer,F,45,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,8,6.7
+14081790,T25-26,J26,Visitante,Athletic Club,Álex Berenguer,F,45,0,1,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,8,6.7
 14081790,T25-26,J26,Visitante,Athletic Club,Alejandro Rego,M,31,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,6,6.8
 14081790,T25-26,J26,Visitante,Athletic Club,Andoni Gorosabel,D,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,6.9
 14081790,T25-26,J26,Visitante,Athletic Club,Mikel Vesga,M,10,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,6.8
 14081790,T25-26,J26,Visitante,Athletic Club,Selton Sanchez,M,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.4
 14081789,T25-26,J26,Local,Barcelona,Joan García,G,90,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,7.0
-14081789,T25-26,J26,Local,Barcelona,Jules Koundé,D,90,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0,13,8.2
+14081789,T25-26,J26,Local,Barcelona,Jules Koundé,D,90,0,1,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0,13,8.2
 14081789,T25-26,J26,Local,Barcelona,Pau Cubarsí,D,90,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,4,6.9
 14081789,T25-26,J26,Local,Barcelona,Eric García,D,90,0,0,1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,5,7.5
 14081789,T25-26,J26,Local,Barcelona,Alejandro Balde,D,90,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,7,6.7
-14081789,T25-26,J26,Local,Barcelona,Fermín López,M,90,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,10,8.2
+14081789,T25-26,J26,Local,Barcelona,Fermín López,M,90,0,2,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,10,8.2
 14081789,T25-26,J26,Local,Barcelona,Marc Bernal,M,67,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,8,6.6
 14081789,T25-26,J26,Local,Barcelona,Dani Olmo,M,59,0,0,0,0,1,0,7,2,0,0,0,0,0,0,0,0,0,11,5.9
 14081789,T25-26,J26,Local,Barcelona,Lamine Yamal,F,73,3,0,2,0,4,0,3,0,0,0,0,0,0,0,0,0,0,15,10.0
 14081789,T25-26,J26,Local,Barcelona,Ferran Torres,F,67,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,6.3
 14081789,T25-26,J26,Local,Barcelona,Raphinha,F,73,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,13,7.6
-14081789,T25-26,J26,Local,Barcelona,Pedri,M,31,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,8.1
+14081789,T25-26,J26,Local,Barcelona,Pedri,M,31,0,1,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,8.1
 14081789,T25-26,J26,Local,Barcelona,Ronald Araújo,D,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.8
 14081789,T25-26,J26,Local,Barcelona,Robert Lewandowski,F,23,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,7.0
 14081789,T25-26,J26,Local,Barcelona,Marcus Rashford,F,17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7.0
 14081789,T25-26,J26,Local,Barcelona,Roony Bardghji,F,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.5
 14081789,T25-26,J26,Visitante,Villarreal,Luiz Júnior,G,90,0,0,0,0,0,0,6,0,4,0,0,0,0,0,0,0,0,8,6.6
-14081789,T25-26,J26,Visitante,Villarreal,Santiago Mouriño,D,90,0,0,1,0,0,0,5,4,0,0,0,0,0,0,0,0,0,13,5.7
+14081789,T25-26,J26,Visitante,Villarreal,Santiago Mouriño,D,90,0,1,1,0,0,0,5,4,0,0,0,0,0,0,0,0,0,13,5.7
 14081789,T25-26,J26,Visitante,Villarreal,Pau Navarro,D,90,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,2,6.5
 14081789,T25-26,J26,Visitante,Villarreal,Renato Veiga,D,90,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,3,5.7
 14081789,T25-26,J26,Visitante,Villarreal,Sergi Cardona,D,80,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,14,5.7
@@ -180,9 +180,9 @@
 14081819,T25-26,J26,Visitante,Espanyol,Carlos Romero,D,90,1,0,1,0,1,0,4,4,0,0,0,1,0,0,0,0,0,8,7.5
 14081819,T25-26,J26,Visitante,Espanyol,Tyrhys Dolan,M,89,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9,6.4
 14081819,T25-26,J26,Visitante,Espanyol,Urko González,M,90,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,6,6.0
-14081819,T25-26,J26,Visitante,Espanyol,Pol Lozano,M,58,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,4,6.7
+14081819,T25-26,J26,Visitante,Espanyol,Pol Lozano,M,58,0,1,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,4,6.7
 14081819,T25-26,J26,Visitante,Espanyol,Pere Milla,M,58,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,8,6.3
-14081819,T25-26,J26,Visitante,Espanyol,Edu Expósito,F,76,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13,7.0
+14081819,T25-26,J26,Visitante,Espanyol,Edu Expósito,F,76,0,1,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13,7.0
 14081819,T25-26,J26,Visitante,Espanyol,Kike García,F,76,1,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,9,7.5
 14081819,T25-26,J26,Visitante,Espanyol,Charles Pickel,M,37,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,6.1
 14081819,T25-26,J26,Visitante,Espanyol,Jofre Carreras,F,32,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,6.4
@@ -231,7 +231,7 @@
 14081791,T25-26,J26,Local,Real Betis,Álvaro Fidalgo,M,70,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,2,7.7
 14081791,T25-26,J26,Local,Real Betis,Antony,F,90,1,0,1,0,1,0,12,0,0,0,0,0,0,0,0,0,0,20,7.9
 14081791,T25-26,J26,Local,Real Betis,Cucho Hernández,F,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6.0
-14081791,T25-26,J26,Local,Real Betis,Abdessamad Ezzalzouli,F,90,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,14,7.9
+14081791,T25-26,J26,Local,Real Betis,Abdessamad Ezzalzouli,F,90,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,14,7.9
 14081791,T25-26,J26,Local,Real Betis,Sergi Altimira,M,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,6.8
 14081791,T25-26,J26,Local,Real Betis,Cédric Bakambu,F,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,6.4
 14081791,T25-26,J26,Visitante,Sevilla,Odysseas Vlachodimos,G,90,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,6.4
@@ -240,12 +240,12 @@
 14081791,T25-26,J26,Visitante,Sevilla,Kike Salas,D,90,0,0,1,0,0,0,7,4,0,0,0,0,0,0,0,0,0,22,7.5
 14081791,T25-26,J26,Visitante,Sevilla,José Ángel Carmona,M,45,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6.4
 14081791,T25-26,J26,Visitante,Sevilla,Lucien Agoumé,M,90,0,0,2,0,0,0,5,1,0,0,0,0,0,0,0,0,0,11,7.0
-14081791,T25-26,J26,Visitante,Sevilla,Djibril Sow,M,89,0,0,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,4,6.7
+14081791,T25-26,J26,Visitante,Sevilla,Djibril Sow,M,89,0,1,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,4,6.7
 14081791,T25-26,J26,Visitante,Sevilla,Gabriel Suazo,M,45,0,0,2,1,0,0,4,0,0,0,0,0,0,0,0,0,0,9,6.2
 14081791,T25-26,J26,Visitante,Sevilla,Juanlu Sánchez,F,90,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,4,7.0
 14081791,T25-26,J26,Visitante,Sevilla,Alexis Sánchez,F,70,1,0,1,0,1,0,6,0,0,0,0,0,0,0,0,0,0,12,7.5
 14081791,T25-26,J26,Visitante,Sevilla,Akor Adams,F,90,0,0,2,0,3,0,2,1,0,0,0,0,0,0,0,0,0,12,6.2
-14081791,T25-26,J26,Visitante,Sevilla,Oso,D,45,0,0,1,1,0,0,6,0,0,0,0,0,0,0,0,0,0,11,7.1
+14081791,T25-26,J26,Visitante,Sevilla,Oso,D,45,0,1,1,1,0,0,6,0,0,0,0,0,0,0,0,0,0,11,7.1
 14081791,T25-26,J26,Visitante,Sevilla,Chidera Ejuke,F,45,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,11,6.5
 14081791,T25-26,J26,Visitante,Sevilla,Isaac Romero,F,20,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,7.5
 14081791,T25-26,J26,Visitante,Sevilla,Adnan Januzaj,M,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,6.7
@@ -256,7 +256,7 @@
 14081797,T25-26,J26,Local,Girona FC,Daley Blind,D,90,0,0,1,1,1,0,6,2,0,0,0,0,0,0,0,0,0,13,7.1
 14081797,T25-26,J26,Local,Girona FC,Arnau Martínez,D,90,0,0,3,1,0,0,4,1,0,0,0,0,0,0,0,0,0,13,6.4
 14081797,T25-26,J26,Local,Girona FC,Fran Beltrán,M,90,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,6.7
-14081797,T25-26,J26,Local,Girona FC,Axel Witsel,M,73,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,7.1
+14081797,T25-26,J26,Local,Girona FC,Axel Witsel,M,73,0,1,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,7.1
 14081797,T25-26,J26,Local,Girona FC,Viktor Tsygankov,M,90,0,0,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,11,6.3
 14081797,T25-26,J26,Local,Girona FC,Thomas Lemar,M,64,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,8,6.6
 14081797,T25-26,J26,Local,Girona FC,Bryan Gil,M,65,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,12,6.8
@@ -270,7 +270,7 @@
 14081797,T25-26,J26,Visitante,Celta Vigo,Javi Rodríguez,D,90,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,9,6.7
 14081797,T25-26,J26,Visitante,Celta Vigo,Joseph Aidoo,D,90,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,4,7.2
 14081797,T25-26,J26,Visitante,Celta Vigo,Carlos Domínguez,D,85,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,5,6.7
-14081797,T25-26,J26,Visitante,Celta Vigo,Óscar Mingueza,M,85,0,0,1,0,1,0,5,2,0,0,0,0,0,0,0,0,0,10,7.2
+14081797,T25-26,J26,Visitante,Celta Vigo,Óscar Mingueza,M,85,0,1,1,0,1,0,5,2,0,0,0,0,0,0,0,0,0,10,7.2
 14081797,T25-26,J26,Visitante,Celta Vigo,Miguel Román,M,90,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,7,7.0
 14081797,T25-26,J26,Visitante,Celta Vigo,Ilaix Moriba,M,90,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,6,7.2
 14081797,T25-26,J26,Visitante,Celta Vigo,Sergio Carreira,M,90,0,0,1,0,1,0,6,3,0,0,0,0,0,0,0,0,0,14,6.4
@@ -306,7 +306,7 @@
 14081798,T25-26,J26,Visitante,Getafe,Diego Rico,D,90,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,16,6.8
 14081798,T25-26,J26,Visitante,Getafe,Kiko Femenía,M,58,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6,6.2
 14081798,T25-26,J26,Visitante,Getafe,Luis Milla,M,90,0,0,2,2,0,0,10,3,0,0,0,0,0,0,0,0,0,8,7.0
-14081798,T25-26,J26,Visitante,Getafe,Mauro Arambarri,M,90,0,0,3,1,2,0,3,2,0,0,0,0,0,0,0,0,0,6,7.1
+14081798,T25-26,J26,Visitante,Getafe,Mauro Arambarri,M,90,0,1,3,1,2,0,3,2,0,0,0,0,0,0,0,0,0,6,7.1
 14081798,T25-26,J26,Visitante,Getafe,Martín Satriano,M,89,1,0,1,0,1,0,1,3,0,0,0,0,0,0,0,0,0,11,7.9
 14081798,T25-26,J26,Visitante,Getafe,Luis Vázquez,F,69,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,9,6.2
 14081798,T25-26,J26,Visitante,Getafe,Adrian Liso,F,39,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,6.3

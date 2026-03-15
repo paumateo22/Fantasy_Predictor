@@ -1,0 +1,448 @@
+﻿ID_Partido,Temporada,Jornada,Local,Visitante,Equipo_Jugador,Es_Local,Jugador,Posicion,Puntos,Relevo
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Cillessen,Portero,5,1
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Alex Suárez,Defensa,2,1
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,McKenna,Defensa,5,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Mármol,Defensa,5,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Javi Muñoz,Mediocampista,4,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Kirian,Mediocampista,5,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Fuster,Mediocampista,-1,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Essugo,Mediocampista,2,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Moleiro,Mediocampista,3,1
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Sandro,Delantero,5,2
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Fábio Silva,Delantero,1,1
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Horkas,Portero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Israel,Portero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Álex Muñoz,Defensa,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Herzog,Defensa,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Pelmard,Defensa,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Januzaj,Mediocampista,8,3
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Loiodice,Mediocampista,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Viera,Mediocampista,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,M. Cardona,Delantero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,McBurnie,Delantero,2,1
+18085,24-25,21,Las Palmas,Osasuna,Las Palmas,1,Mata,Delantero,2,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Herrera,Portero,8,3
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Catena,Defensa,3,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Juan Cruz,Defensa,9,2
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Areso,Defensa,6,2
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Boyomo,Defensa,3,2
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Rubén G.,Mediocampista,1,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Kike Barja,Delantero,2,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Oroz,Mediocampista,12,4
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Moncayola,Mediocampista,4,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Iker Muñoz,Mediocampista,2,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Budimir,Delantero,4,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Aitor,Portero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Stamatakis,Portero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Rubén Peña,Defensa,1,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Unai García,Defensa,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Herrando,Defensa,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Bretones,Mediocampista,2,1
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Torró,Mediocampista,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Ibáñez,Mediocampista,5,3
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Osambela,Mediocampista,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Arnáiz,Delantero,0,0
+18085,24-25,21,Las Palmas,Osasuna,Osasuna,0,Raúl García,Delantero,3,1
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Greif,Portero,7,3
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Mojica,Defensa,4,2
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Raíllo,Defensa,7,2
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Maffeo,Defensa,10,3
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Copete,Defensa,4,1
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Mascarell,Mediocampista,1,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Darder,Mediocampista,6,2
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Dani Rodríguez,Mediocampista,6,3
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Navarro,Mediocampista,8,3
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Samú,Mediocampista,5,3
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Larin,Delantero,3,1
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Pere,Portero,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Leo Román,Portero,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Lato,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Valjent,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Morey,Defensa,1,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Van Der Heyden,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Antonio,Mediocampista,2,1
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Chiquinho,Delantero,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Luna,Mediocampista,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Abdon,Delantero,0,0
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Asano,Delantero,2,1
+18086,24-25,21,Mallorca,Betis,Mallorca,1,Muriqi,Delantero,2,1
+18086,24-25,21,Mallorca,Betis,Betis,0,Adrián,Portero,11,3
+18086,24-25,21,Mallorca,Betis,Betis,0,D. Llorente,Defensa,12,3
+18086,24-25,21,Mallorca,Betis,Betis,0,Ortiz,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Arribas,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Natan,Defensa,7,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Isco,Mediocampista,7,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Marc Roca,Mediocampista,4,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Cardoso,Mediocampista,7,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Jesús,Mediocampista,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Abde,Delantero,2,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Vitor Roque,Delantero,3,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Vieites,Portero,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Germán,Portero,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Bartra,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Pleguezuelo,Defensa,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Losada,Mediocampista,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Altimira,Mediocampista,3,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Flores,Mediocampista,0,0
+18086,24-25,21,Mallorca,Betis,Betis,0,Juanmi,Delantero,2,1
+18086,24-25,21,Mallorca,Betis,Betis,0,Bakambu,Delantero,6,2
+18086,24-25,21,Mallorca,Betis,Betis,0,Pablo García,Delantero,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Oblak,Portero,3,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Witsel,Defensa,6,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Le Normand,Defensa,2,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Reinildo,Defensa,1,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Molina,Defensa,2,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Koke,Mediocampista,5,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Gallagher,Mediocampista,3,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Giuliano,Delantero,4,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Barrios,Mediocampista,7,3
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Correa,Delantero,3,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Alvarez,Delantero,4,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Musso,Portero,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Gomis,Portero,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Giménez,Defensa,-1,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Azpilicueta,Defensa,3,2
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Kostis,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,De Paul,Mediocampista,4,3
+18082,24-25,21,Atlético,Villarreal,Atlético,1,M. Llorente,Mediocampista,2,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Lemar,Mediocampista,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Riquelme,Mediocampista,0,0
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Samuel Lino,Mediocampista,10,3
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Griezmann,Delantero,2,1
+18082,24-25,21,Atlético,Villarreal,Atlético,1,Sörloth,Delantero,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Luiz Junior,Portero,10,4
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Femenia,Defensa,2,1
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,S. Cardona,Defensa,5,2
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Costa,Defensa,5,2
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Kambwala,Defensa,4,1
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Comesaña,Mediocampista,3,2
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Baena,Mediocampista,7,2
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,P. Gueye,Mediocampista,6,3
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Yéremi,Delantero,1,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Gerard,Delantero,11,3
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Barry,Delantero,3,1
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Conde,Portero,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Albiol,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Bernat,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Bailly,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Foyth,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Pau Navarro,Defensa,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Denis Suárez,Mediocampista,4,2
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Terrats,Mediocampista,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Ojeda,Mediocampista,0,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Ayoze,Delantero,1,0
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Pépé,Delantero,2,1
+18082,24-25,21,Atlético,Villarreal,Villarreal,0,Cabanes,Delantero,2,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Nyland,Portero,3,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Gudelj,Mediocampista,7,3
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Juanlu,Mediocampista,1,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Carmona,Defensa,4,2
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Badé,Defensa,11,3
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Saúl,Mediocampista,2,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Sow,Mediocampista,9,4
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Lokonga,Mediocampista,2,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Lukebakio,Delantero,8,3
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Vargas,Delantero,4,2
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Peque,Delantero,3,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Álvaro,Portero,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Alberto,Portero,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Marcão,Defensa,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Hormigo,Defensa,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Ramón,Defensa,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Suso,Delantero,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Agoume,Mediocampista,2,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Ortiz,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Ejuke,Delantero,4,1
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Idumbo M.,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Iheanacho,Delantero,0,0
+18090,24-25,21,Sevilla,Espanyol,Sevilla,1,Antonetti,Delantero,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Joan Garcia,Portero,6,3
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Cabrera,Defensa,5,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Tejero,Defensa,3,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Oliván,Defensa,2,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Kumbulla,Mediocampista,13,3
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,El Hilali,Defensa,5,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Lozano,Mediocampista,1,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Kral,Mediocampista,4,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Jofre,Delantero,3,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Puado,Mediocampista,2,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Roberto,Delantero,1,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Pacheco,Portero,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Fortuño,Portero,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Sergi Gómez,Defensa,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Calero,Defensa,1,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Romero,Defensa,5,1
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Pere Milla,Delantero,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Edu Expósito,Mediocampista,1,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Aguado,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Urko,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Almansa,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Roca,Mediocampista,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Cheddira,Delantero,0,0
+18090,24-25,21,Sevilla,Espanyol,Espanyol,0,Véliz,Delantero,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Hein,Portero,4,2
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Javi Sánchez,Defensa,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Luis Pérez,Defensa,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Torres,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Rosa,Defensa,1,1
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Iván Sánchez,Mediocampista,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Anuar,Mediocampista,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Amallah,Mediocampista,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Mario Martín,Mediocampista,-2,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Sylla,Delantero,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Marcos André,Delantero,3,1
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Ferreira,Portero,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Özkacar,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Koke Iglesias,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Chasco,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Kike Pérez,Mediocampista,2,1
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Chuki,Mediocampista,2,1
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Amath,Delantero,0,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Latasa,Delantero,1,0
+18089,24-25,21,Valladolid,Real Madrid,Valladolid,1,Arnu,Delantero,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Courtois,Portero,9,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Rüdiger,Defensa,9,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Fran García,Defensa,8,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Asencio,Defensa,6,1
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Ceballos,Mediocampista,7,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Valverde,Mediocampista,6,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Brahim,Mediocampista,6,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Bellingham,Mediocampista,13,4
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Tchouaméni,Mediocampista,9,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Mbappé,Delantero,20,4
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Rodrygo,Delantero,11,4
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Lunin,Portero,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Fran González,Portero,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Lucas,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Alaba,Defensa,2,1
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Mendy,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Jacobo,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Lorenzo,Defensa,0,0
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Modric,Mediocampista,2,1
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Güler,Mediocampista,4,2
+18089,24-25,21,Valladolid,Real Madrid,Real Madrid,0,Endrick,Delantero,2,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Batalla,Portero,7,2
+18087,24-25,21,Rayo,Girona,Rayo,1,Lejeune,Defensa,3,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Ratiu,Defensa,4,2
+18087,24-25,21,Rayo,Girona,Rayo,1,Pep Chavarría,Defensa,8,3
+18087,24-25,21,Rayo,Girona,Rayo,1,Mumin,Defensa,6,2
+18087,24-25,21,Rayo,Girona,Rayo,1,Embarba,Delantero,2,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Unai López,Mediocampista,2,2
+18087,24-25,21,Rayo,Girona,Rayo,1,De Frutos,Mediocampista,6,2
+18087,24-25,21,Rayo,Girona,Rayo,1,Isi,Delantero,3,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Pathé Ciss,Mediocampista,3,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Camello,Delantero,4,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Cárdenas,Portero,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Aridane,Defensa,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Espino,Defensa,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Balliu,Defensa,2,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Pelayo,Defensa,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Álvaro García,Mediocampista,13,4
+18087,24-25,21,Rayo,Girona,Rayo,1,Gumbau,Mediocampista,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Pedro Díaz,Mediocampista,2,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Trejo,Mediocampista,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Valentín,Mediocampista,3,1
+18087,24-25,21,Rayo,Girona,Rayo,1,Guardiola,Delantero,0,0
+18087,24-25,21,Rayo,Girona,Rayo,1,Nteka,Mediocampista,15,4
+18087,24-25,21,Rayo,Girona,Girona,0,Gazzaniga,Portero,7,3
+18087,24-25,21,Rayo,Girona,Girona,0,David López,Defensa,1,1
+18087,24-25,21,Rayo,Girona,Girona,0,Blind,Defensa,2,1
+18087,24-25,21,Rayo,Girona,Girona,0,Juanpe,Defensa,2,1
+18087,24-25,21,Rayo,Girona,Girona,0,Arnau,Defensa,4,2
+18087,24-25,21,Rayo,Girona,Girona,0,Van de Beek,Mediocampista,7,2
+18087,24-25,21,Rayo,Girona,Girona,0,Bryan Gil,Delantero,12,4
+18087,24-25,21,Rayo,Girona,Girona,0,Herrera,Mediocampista,4,1
+18087,24-25,21,Rayo,Girona,Girona,0,Iván Martín,Mediocampista,9,4
+18087,24-25,21,Rayo,Girona,Girona,0,Asprilla,Delantero,3,2
+18087,24-25,21,Rayo,Girona,Girona,0,Danjuma,Mediocampista,2,1
+18087,24-25,21,Rayo,Girona,Girona,0,Pau López,Portero,2,2
+18087,24-25,21,Rayo,Girona,Girona,0,Juan Carlos,Portero,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Francés,Defensa,2,1
+18087,24-25,21,Rayo,Girona,Girona,0,Portu,Delantero,2,1
+18087,24-25,21,Rayo,Girona,Girona,0,Romeu,Mediocampista,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Tsygankov,Delantero,1,1
+18087,24-25,21,Rayo,Girona,Girona,0,Solís,Mediocampista,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Misehouy,Mediocampista,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Stuani,Delantero,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Abel Ruiz,Delantero,0,0
+18087,24-25,21,Rayo,Girona,Girona,0,Miovski,Delantero,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Remiro,Portero,-1,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Zubeldia,Defensa,5,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Aihen,Defensa,3,2
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Pacheco,Defensa,3,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Aramburu,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Sergio Gómez,Delantero,4,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Zubimendi,Mediocampista,2,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Kubo,Mediocampista,8,2
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Turrientes,Mediocampista,1,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Olasagasti,Mediocampista,-1,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Oyarzabal,Delantero,4,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Marrero,Portero,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Fraga,Portero,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Aritz,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Odriozola,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Javi López,Defensa,-1,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Aguerd,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Brais,Mediocampista,0,1
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Barrenetxea,Mediocampista,1,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Sucic,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Marín,Mediocampista,1,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Óskarsson,Delantero,0,0
+18088,24-25,21,Real Sociedad,Getafe,Real Sociedad,1,Becker,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Soria,Portero,14,4
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Diego Rico,Defensa,15,4
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Álex Sola,Defensa,1,1
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Djené,Defensa,7,2
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,D. Duarte,Defensa,13,3
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Iglesias,Defensa,7,2
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Alderete,Defensa,9,2
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Luis Milla,Mediocampista,5,1
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Uche,Mediocampista,16,4
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Yildirim,Delantero,5,1
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Coba,Mediocampista,3,1
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Letácek,Portero,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Berrocal,Defensa,1,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Bekhoucha,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Lohr,Defensa,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Aleñá,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Carles Pérez,Delantero,14,4
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Peter,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Yellu,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Risco,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Keita,Mediocampista,0,0
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Mayoral,Delantero,2,1
+18088,24-25,21,Real Sociedad,Getafe,Getafe,0,Alvaro R.,Delantero,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Unai Simón,Portero,10,2
+18081,24-25,21,Athletic,Leganés,Athletic,1,Yeray,Defensa,13,4
+18081,24-25,21,Athletic,Leganés,Athletic,1,Gorosabel,Defensa,11,3
+18081,24-25,21,Athletic,Leganés,Athletic,1,Vivian,Defensa,11,3
+18081,24-25,21,Athletic,Leganés,Athletic,1,Boiro,Mediocampista,2,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,Berenguer,Delantero,9,3
+18081,24-25,21,Athletic,Leganés,Athletic,1,Vesga,Mediocampista,4,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,N. Williams,Delantero,7,2
+18081,24-25,21,Athletic,Leganés,Athletic,1,Jauregizar,Mediocampista,4,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,I. Williams,Delantero,4,2
+18081,24-25,21,Athletic,Leganés,Athletic,1,Guruzeta,Delantero,3,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Agirrezabala,Portero,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,De Marcos,Defensa,2,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,Yuri,Defensa,5,3
+18081,24-25,21,Athletic,Leganés,Athletic,1,Lekue,Defensa,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Núñez,Defensa,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Paredes,Defensa,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Sancet,Mediocampista,2,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,Prados,Mediocampista,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Serrano,Delantero,2,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,Unai Gómez,Mediocampista,2,1
+18081,24-25,21,Athletic,Leganés,Athletic,1,Canales,Delantero,0,0
+18081,24-25,21,Athletic,Leganés,Athletic,1,Martón,Delantero,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Dmitrovic,Portero,10,4
+18081,24-25,21,Athletic,Leganés,Leganés,0,Nastasic,Defensa,9,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Sergio,Defensa,10,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Rosier,Defensa,12,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Altimira,Defensa,9,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Brasanac,Mediocampista,6,1
+18081,24-25,21,Athletic,Leganés,Leganés,0,Cisse,Mediocampista,9,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Neyou,Mediocampista,7,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Juan Cruz,Mediocampista,5,1
+18081,24-25,21,Athletic,Leganés,Leganés,0,Raba,Delantero,7,2
+18081,24-25,21,Athletic,Leganés,Leganés,0,Miguel,Delantero,3,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Soriano,Portero,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Alvin,Portero,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Jorge Sáenz,Defensa,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Javi Hernández,Mediocampista,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Bachiller,Defensa,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Óscar,Mediocampista,2,1
+18081,24-25,21,Athletic,Leganés,Leganés,0,Roberto López,Mediocampista,0,0
+18081,24-25,21,Athletic,Leganés,Leganés,0,Chicco,Mediocampista,2,1
+18081,24-25,21,Athletic,Leganés,Leganés,0,Munir,Delantero,4,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Szczesny,Portero,6,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Koundé,Defensa,5,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Eric García,Defensa,4,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Balde,Defensa,11,4
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Cubarsí,Defensa,12,4
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,F. de Jong,Mediocampista,10,3
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Casadó,Mediocampista,2,1
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Fermín,Mediocampista,27,4
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Raphinha,Delantero,12,4
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Ferran,Delantero,11,3
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Yamal,Delantero,12,4
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Peña,Portero,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Kochen,Portero,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,A. Christensen,Defensa,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Araújo,Defensa,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Fort,Defensa,2,1
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Martín,Defensa,4,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Gavi,Mediocampista,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Pablo Torre,Mediocampista,2,1
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Lewandowski,Delantero,7,2
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Ansu Fati,Delantero,0,0
+18083,24-25,21,Barcelona,Valencia,Barcelona,1,Pau Víctor,Mediocampista,3,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Mamardashvili,Portero,-3,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Gayà,Defensa,-2,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Foulquier,Defensa,-3,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Tárrega,Defensa,-4,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Yarek,Defensa,-1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Pepelu,Mediocampista,-1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Rioja,Mediocampista,-1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Javi Guerra,Mediocampista,1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Almeida,Mediocampista,-1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Duro,Delantero,4,2
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Diego López,Delantero,5,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Jaume,Portero,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Dimitrievski,Portero,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Diakhaby,Defensa,2,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Aarons,Defensa,1,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Jesús Vázquez,Defensa,-1,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Córdoba,Defensa,2,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Guillamón,Mediocampista,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Canós,Delantero,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Alemañ,Mediocampista,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Fran Pérez,Mediocampista,2,1
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Dani Gómez,Delantero,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Sadiq,Delantero,0,0
+18083,24-25,21,Barcelona,Valencia,Valencia,0,Madrigal,Delantero,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Owono,Portero,3,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Abqar,Defensa,5,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Manu Sánchez,Defensa,3,1
+18084,24-25,21,Alavés,Celta,Alavés,1,Tenaglia,Defensa,5,3
+18084,24-25,21,Alavés,Celta,Alavés,1,Diarra,Defensa,5,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Guridi,Mediocampista,5,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Guevara,Mediocampista,4,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Protesoni,Mediocampista,4,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Carlos Vicente,Delantero,5,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Conechny,Delantero,4,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Kike García,Delantero,7,2
+18084,24-25,21,Alavés,Celta,Alavés,1,Adrián,Portero,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Swiderski,Portero,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Sedlar,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Novoa,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Mouriño,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Garcés,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Pica,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Doumbia,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Villalibre,Delantero,2,1
+18084,24-25,21,Alavés,Celta,Alavés,1,Toni Martinez,Delantero,1,0
+18084,24-25,21,Alavés,Celta,Alavés,1,Carlos Martín,Mediocampista,2,1
+18084,24-25,21,Alavés,Celta,Celta,0,Guaita,Portero,3,1
+18084,24-25,21,Alavés,Celta,Celta,0,M. Alonso,Defensa,3,2
+18084,24-25,21,Alavés,Celta,Celta,0,Carreira,Defensa,1,1
+18084,24-25,21,Alavés,Celta,Celta,0,Starfelt,Defensa,3,1
+18084,24-25,21,Alavés,Celta,Celta,0,Ristic,Defensa,5,2
+18084,24-25,21,Alavés,Celta,Celta,0,Lago,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Cervi,Mediocampista,1,0
+18084,24-25,21,Alavés,Celta,Celta,0,Beltrán,Mediocampista,2,1
+18084,24-25,21,Alavés,Celta,Celta,0,Moriba,Mediocampista,4,1
+18084,24-25,21,Alavés,Celta,Celta,0,Iglesias,Delantero,2,0
+18084,24-25,21,Alavés,Celta,Celta,0,Durán,Delantero,9,3
+18084,24-25,21,Alavés,Celta,Celta,0,Iván Villar,Portero,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Marc Vidal,Portero,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Domínguez,Defensa,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Javi Rodríguez,Defensa,4,3
+18084,24-25,21,Alavés,Celta,Celta,0,Jailson,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Sotelo,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Hugo Álvarez,Mediocampista,1,1
+18084,24-25,21,Alavés,Celta,Celta,0,Damián,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Swedberg,Mediocampista,3,2
+18084,24-25,21,Alavés,Celta,Celta,0,Fer López,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,El-Abdellaoui,Mediocampista,0,0
+18084,24-25,21,Alavés,Celta,Celta,0,Douvikas,Delantero,2,1
