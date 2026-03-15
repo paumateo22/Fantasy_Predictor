@@ -163,9 +163,13 @@ def orquestar_auditoria(temporadas_dict):
         print("\n🔍 TOP 15 DISCREPANCIAS MÁS GRANDES A NIVEL HISTÓRICO:")
         print("-" * 60)
         df_errores = df_global[df_global['Error_Absoluto'] > 0].sort_values(by='Error_Absoluto', ascending=False).head(15)
-        # Mostramos la etiqueta para saber en qué partido exacto patinó
-        columnas_mostrar = ['Etiqueta_Jornada', 'Jugador', 'Posicion', 'Stats_Reales', 'Stats_Calculados', 'Discrepancia']
-        print(df_errores[columnas_mostrar].to_string(index=False))
+        # 🚨 NUEVO: Mostramos ambas columnas de nombres en el Top 15
+        columnas_mostrar = ['Etiqueta_Jornada', 'Jugador_Fantasy', 'Jugador_SofaScore', 'Posicion', 'Stats_Reales', 'Stats_Calculados', 'Discrepancia']
+        
+        # Filtramos para no dar error si por alguna razón un CSV antiguo aún no tiene las nuevas columnas
+        columnas_existentes = [col for col in columnas_mostrar if col in df_errores.columns]
+        
+        print(df_errores[columnas_existentes].to_string(index=False))
 
 if __name__ == "__main__":
     # Formato: "Temporada": [Jornada_Inicio, Jornada_Fin, [Jornadas_a_saltar]]
