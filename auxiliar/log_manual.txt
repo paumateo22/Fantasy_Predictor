@@ -96,3 +96,15 @@ He añadido que en el cruce de scraping y mercado sea un match automático si el
 ================================================================================================================================================
 He creado un scraping de besoccer para la tabla de clasificación. Porque por ahora estoy usando una gem de
 gemini cargada con mis datasets de cada jornada para tantear la predicción de 11s.
+
+================================================================================================================================================
+[14-15/03/26]
+================================================================================================================================================
+He estado buscando una fuente de stats de jugadores para juntar esos datos a los puntos de cada jugador,
+después de estar buscando y probando varios, me he quedado con sofascore, que en principio tiene datos desde
+la temporada 69/70. Obtengo todas las stats necesarias para hacer el cáclulo de puntos estadísticos, pero los
+puntos que se calculan difieren de los que tienen los jugadores, es decir, las stats de jugadores no son iguales
+para sofascore y para opta. Por ahora estoy adaptando el cruzado de fuentes [FutbolFantasy y Sofascore], la forma
+que estoy probando ahora es muy similar a la que hago en JaJ, pero guardo los 2 nombres, algo que quiero adaptar
+a JaJ. Sigo en proceso de generar el diccionario, pues son 3 temporadas, después de eso podré valorar mejor
+el resultado de puntos estadísticos.
