@@ -1,507 +1,506 @@
-﻿ID_Partido,Temporada,Jornada,Equipo,Nombre,Posicion,Precio_Fantastica,Edad,Nacionalidad,Probabilidad_Jugar,Estado_Medico,Partidos_Jugados,Goles,Asistencias,Penaltis_Parados,Tarjetas_Amarillas,Tarjetas_Rojas,Estado_Forma,Puntos_Totales,Media_Puntos,Puntos_Ultima_Jornada,Puntos_Jornada_Ant_2,Puntos_Jornada_Ant_3
-20323,2025/26,26,Barcelona,A. Christensen,Defensa,5.0,29,DK,0%,Lesionado/Duda,12,0,0,0,1,0,-1,29,2.4,0,0,0
-20330,2025/26,26,Real Madrid,A. F. Carreras,Defensa,23.0,22,ES,80%,Sano,22,2,2,0,4,1,1.8,152,6.9,3,9,16
-20331,2025/26,26,Real Oviedo,Aarón,Portero,25.0,30,ES,95%,Sano,24,0,0,2,2,0,1.4,175,7.3,3,2,7
-20329,2025/26,26,Betis,Abde,Delantero,25.0,24,MA,90%,Sano,16,5,4,0,2,0,1.8,125,7.8,6,10,10
-20327,2025/26,26,Mallorca,Abdon,Delantero,3.0,33,ES,5%,Sano,9,0,0,0,0,0,-1,13,1.4,0,0,0
-20325,2025/26,26,Girona,Abel Ruiz,Delantero,3.0,26,ES,10%,Sano,3,0,0,0,0,0,-1,4,1.3,0,0,0
-20330,2025/26,26,Getafe,Abqar,Defensa,8.0,26,MA,30%,Lesionado/Duda,13,0,1,0,6,0,1,48,3.7,3,3,1
-20324,2025/26,26,Elche,Adam Boayar,Mediocampista,4.0,20,MA,10%,Sano,7,1,0,0,0,0,-1,19,2.7,2,0,0
-20329,2025/26,26,Sevilla,Adams,Delantero,11.0,26,NG,70%,Sano,20,6,3,0,1,0,1.2,95,4.8,8,3,3
-20329,2025/26,26,Betis,Adrián,Portero,1.0,39,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20324,2025/26,26,Elche,Affengruber,Defensa,10.0,24,AT,50%,Sano,23,0,0,0,5,1,1,96,4.2,2,0,-1
-20332,2025/26,26,Valencia,Agirrezabala,Portero,17.0,25,ES,0%,Lesionado/Duda,18,0,0,1,1,0,-1,104,5.8,0,0,0
-20329,2025/26,26,Sevilla,Agoume,Mediocampista,10.0,24,FR,80%,Sano,22,1,2,0,9,0,1,91,4.1,6,3,4
-20324,2025/26,26,Elche,Aguado,Mediocampista,10.0,26,ES,70%,Sano,24,0,1,0,2,0,1,93,3.9,4,5,2
-20331,2025/26,26,Real Oviedo,Ahijado,Defensa,8.0,31,ES,10%,Sano,13,0,1,0,2,0,1,41,3.2,0,2,2
-20325,2025/26,26,Celta,Aidoo,Defensa,7.0,30,GH,50%,Sano,4,0,0,0,0,0,1.5,20,5,11,0,0
-20327,2025/26,26,Real Sociedad,Aihen,Defensa,6.0,28,ES,0%,Lesionado/Duda,16,0,0,0,1,0,1,29,1.8,0,-3,0
-20326,2025/26,26,Alavés,Aitor Mañas,Delantero,3.0,2026,N/A,5%,Sano,6,0,0,0,0,0,0.9,9,1.5,2,0,2
-20332,2025/26,26,Osasuna,Aitor,Portero,1.0,34,ES,5%,Sano,0,0,0,0,2,0,-1,-2,0,0,0,0
-20328,2025/26,26,Rayo,Akhomach,Delantero,6.0,21,MA,70%,Sano,4,0,0,0,1,0,1.5,38,2.9,6,8,3
-20330,2025/26,26,Real Madrid,Alaba,Defensa,4.0,33,AT,50%,Sano,7,0,0,0,1,0,1,15,2.1,1,2,0
-20328,2025/26,26,Rayo,Alemão,Delantero,6.0,27,BR,10%,Sano,13,1,0,0,1,0,-1,32,2.5,0,0,0
-20330,2025/26,26,Real Madrid,Alexander-Arnold,Defensa,7.0,27,EN,70%,Sano,11,0,2,0,1,0,1.5,45,4.1,0,11,2
-20329,2025/26,26,Sevilla,Alexis,Delantero,8.0,37,CL,30%,Sano,17,2,1,0,1,0,0.7,60,3.5,1,0,2
-20326,2025/26,26,Alavés,Aleñá,Mediocampista,10.0,28,ES,80%,Sano,25,0,4,0,3,0,1.2,103,4.1,3,11,5
-20323,2025/26,26,Villarreal,Alfon,Delantero,5.0,26,ES,10%,Sano,1,0,0,0,0,0,-1,33,3,1,0,0
-20331,2025/26,26,Real Oviedo,Alhassane,Defensa,9.0,24,NE,30%,Sano,19,0,0,0,1,0,-1,57,3,0,0,0
-20331,2025/26,26,Atlético,Almada,Mediocampista,9.0,24,AR,50%,Sano,17,3,1,0,1,0,0.7,84,4.9,1,4,2
-20332,2025/26,26,Valencia,Almeida,Mediocampista,8.0,25,PT,30%,Sano,15,0,1,0,0,0,-1,61,4.1,2,0,0
-20329,2025/26,26,Betis,Altimira,Mediocampista,8.0,24,ES,10%,Sano,16,1,1,0,2,0,1,60,3.8,0,2,2
-20331,2025/26,26,Atlético,Alvarez,Delantero,20.0,26,AR,40%,Sano,25,7,3,0,2,0,0.4,162,6.5,1,2,2
-20324,2025/26,26,Elche,Alvaro R.,Delantero,13.0,21,UY,50%,Lesionado/Duda,22,5,4,0,0,0,1.1,113,5.1,4,5,3
-20324,2025/26,26,Elche,André Silva,Delantero,10.0,30,PT,80%,Sano,19,6,0,0,1,0,1.1,88,4.6,7,5,9
-20327,2025/26,26,Mallorca,Antonio,Mediocampista,7.0,28,ES,30%,Sano,21,0,0,0,4,1,1,44,2.1,3,4,5
-20329,2025/26,26,Betis,Antony,Delantero,25.0,26,BR,90%,Sano,20,6,5,0,1,1,1.8,149,7.5,2,12,10
-20330,2025/26,26,Getafe,Arambarri,Mediocampista,15.0,30,UY,95%,Sano,25,5,1,0,3,0,1.6,134,5.4,4,13,13
-20327,2025/26,26,Real Sociedad,Aramburu,Defensa,9.0,23,VE,90%,Sano,23,1,0,0,7,0,0.8,50,2.2,0,-6,2
-20323,2025/26,26,Barcelona,Araújo,Defensa,7.0,26,UY,40%,Sano,14,2,0,0,2,0,1,50,3.6,2,1,0
-20328,2025/26,26,Athletic,Areso,Defensa,9.0,26,ES,50%,Sano,21,0,1,0,3,0,1,72,3.4,2,3,0
-20327,2025/26,26,Real Sociedad,Aritz,Defensa,5.0,31,ES,30%,Sano,9,0,0,0,0,0,1,18,2,2,0,0
-20325,2025/26,26,Girona,Arnau,Defensa,13.0,22,ES,95%,Sano,22,1,1,0,5,0,1.6,112,5.1,2,4,9
-20326,2025/26,26,Levante,Arriaga,Mediocampista,9.0,28,HN,0%,Sano,17,1,1,0,6,1,1,64,3.8,0,0,1
-20327,2025/26,26,Mallorca,Asano,Delantero,5.0,31,JP,0%,Lesionado/Duda,15,1,0,0,2,0,-1,30,2,0,0,0
-20330,2025/26,26,Real Madrid,Asencio,Defensa,11.0,23,ES,0%,Lesionado/Duda,18,2,0,0,2,0,0.8,91,5.1,2,0,8
-20325,2025/26,26,Celta,Aspas,Delantero,9.0,38,ES,30%,Sano,22,4,3,0,3,0,2.1,108,4.9,16,1,5
-20323,2025/26,26,Villarreal,Ayoze,Delantero,8.0,32,ES,50%,Sano,17,2,3,0,3,0,1,65,3.8,3,2,2
-20329,2025/26,26,Sevilla,Azpilicueta,Defensa,8.0,36,ES,90%,Sano,12,0,0,0,4,0,1.7,39,3.3,7,3,-1
-20331,2025/26,26,Atlético,Baena,Mediocampista,10.0,24,ES,40%,Sano,17,2,2,0,3,0,1.1,93,5.5,10,1,1
-20331,2025/26,26,Real Oviedo,Bailly,Defensa,8.0,31,CI,0%,Lesionado/Duda,7,1,0,0,1,0,1.6,33,4.7,9,6,0
-20329,2025/26,26,Betis,Bakambu,Delantero,6.0,34,CD,50%,Sano,11,3,0,0,0,0,1.5,42,3.8,10,9,5
-20323,2025/26,26,Barcelona,Balde,Defensa,11.0,22,ES,50%,Sano,20,0,2,0,2,0,1.4,93,4.7,0,1,9
-20328,2025/26,26,Rayo,Balliu,Defensa,3.0,34,AL,10%,Sano,9,0,0,0,2,0,-1,10,1.1,0,0,0
-20323,2025/26,26,Barcelona,Bardghji,Delantero,6.0,20,SE,15%,Sano,14,1,1,0,0,0,1,45,3.2,2,2,2
-20327,2025/26,26,Real Sociedad,Barrenetxea,Mediocampista,11.0,24,ES,30%,Sano,19,3,3,0,2,0,-1,105,5.5,0,0,0
-20331,2025/26,26,Atlético,Barrios,Mediocampista,17.0,22,ES,0%,Lesionado/Duda,21,1,1,0,0,0,-1,123,5.9,0,0,0
-20329,2025/26,26,Betis,Bartra,Defensa,16.0,35,ES,50%,Sano,20,1,0,0,3,0,1,114,5.7,0,3,2
-20328,2025/26,26,Rayo,Batalla,Portero,18.0,29,AR,95%,Sano,24,0,0,0,4,0,1.7,145,6,5,10,2
-20329,2025/26,26,Betis,Bellerín,Defensa,9.0,30,ES,10%,Sano,16,0,2,0,1,0,-1,68,4.3,0,0,0
-20330,2025/26,26,Real Madrid,Bellingham,Mediocampista,25.0,22,EN,0%,Lesionado/Duda,18,4,3,0,1,0,-1,137,7.6,0,0,0
-20325,2025/26,26,Girona,Beltrán,Mediocampista,8.0,27,ES,50%,Sano,5,1,0,0,2,0,1.8,57,3.8,1,10,4
-20332,2025/26,26,Valencia,Beltrán,Mediocampista,9.0,24,AR,40%,Lesionado/Duda,21,1,2,0,0,0,1.7,78,3.7,0,4,4
-20332,2025/26,26,Osasuna,Benito,Delantero,5.0,23,ES,0%,Lesionado/Duda,5,1,0,0,1,0,-1,19,3.8,0,0,0
-20328,2025/26,26,Athletic,Berenguer,Delantero,15.0,30,ES,20%,Sano,20,2,2,0,3,0,-1,107,5.4,0,0,0
-20327,2025/26,26,Mallorca,Bergstrom,Portero,10.0,23,FI,5%,Sano,5,0,0,0,1,0,-1,36,7.2,0,0,0
-20323,2025/26,26,Barcelona,Bernal,Mediocampista,5.0,18,ES,60%,Sano,12,2,1,0,3,0,2.2,42,3.5,11,2,10
-20324,2025/26,26,Elche,Bigas,Defensa,12.0,35,ES,70%,Sano,18,0,2,0,3,0,1,86,4.8,-2,10,2
-20330,2025/26,26,Getafe,Birmancevic,Delantero,4.0,27,RS,30%,Sano,1,0,0,0,0,0,1,2,2,2,0,0
-20326,2025/26,26,Alavés,Blanco,Mediocampista,10.0,25,ES,80%,Sano,23,1,1,0,5,0,1.4,103,4.5,5,3,3
-20325,2025/26,26,Girona,Blind,Defensa,11.0,35,NL,95%,Sano,23,0,0,0,1,0,1.5,106,4.6,4,7,5
-20328,2025/26,26,Athletic,Boiro,Defensa,5.0,23,ES,10%,Sano,8,0,0,0,1,0,1.5,15,1.9,0,0,0
-20331,2025/26,26,Real Oviedo,Borbas,Delantero,2.0,23,UY,10%,Sano,4,0,0,0,1,0,1,4,1,1,0,0
-20330,2025/26,26,Getafe,Boselli,Defensa,3.0,22,UY,50%,Sano,3,0,0,0,0,0,1,4,1.3,0,2,0
-20332,2025/26,26,Osasuna,Boyomo,Defensa,11.0,24,CM,0%,Lesionado/Duda,20,1,1,0,4,0,1,87,4.4,0,0,2
-20326,2025/26,26,Alavés,Boyé,Delantero,18.0,29,AR,95%,Sano,19,7,1,0,2,1,2,113,5.9,15,4,2
-20330,2025/26,26,Real Madrid,Brahim,Mediocampista,7.0,26,MA,25%,Sano,17,0,4,0,1,0,1.1,71,4.2,2,2,8
-20327,2025/26,26,Real Sociedad,Brais,Mediocampista,12.0,29,ES,0%,Sano,22,5,2,0,5,1,1,108,4.9,2,0,0
-20332,2025/26,26,Osasuna,Bretones,Defensa,9.0,25,ES,30%,Sano,21,1,0,0,5,1,1,65,3.1,1,2,1
-20326,2025/26,26,Levante,Brugui,Delantero,7.0,29,ES,0%,Lesionado/Duda,15,0,1,0,1,0,-1,42,2.8,0,0,0
-20325,2025/26,26,Girona,Bryan Gil,Delantero,10.0,25,ES,70%,Lesionado/Duda,22,0,3,0,4,0,2.2,92,4.2,4,6,4
-20323,2025/26,26,Villarreal,Buchanan,Mediocampista,11.0,27,CA,50%,Sano,23,5,1,0,7,0,1,109,4.7,1,0,1
-20332,2025/26,26,Osasuna,Budimir,Delantero,18.0,34,HR,95%,Sano,24,12,0,0,1,0,1.9,144,6,12,4,10
-20326,2025/26,26,Levante,C. Álvarez,Mediocampista,10.0,22,ES,90%,Sano,25,3,1,0,3,0,1.4,100,4,0,3,2
-20323,2025/26,26,Villarreal,Cabanes,Delantero,1.0,21,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
-20324,2025/26,26,Espanyol,Cabrera,Defensa,10.0,34,UY,95%,Sano,24,3,0,0,2,0,1,108,4.5,-2,-1,7
-20326,2025/26,26,Alavés,Calebe,Mediocampista,7.0,25,BR,50%,Sano,17,0,0,0,2,0,0.9,48,2.8,1,1,5
-20324,2025/26,26,Espanyol,Calero,Defensa,11.0,30,ES,70%,Sano,20,0,0,0,3,0,0.5,94,4.7,1,0,1
-20327,2025/26,26,Real Sociedad,Caleta-Car,Defensa,10.0,29,HR,60%,Sano,16,1,0,0,4,1,1,59,3.7,10,0,5
-20331,2025/26,26,Real Oviedo,Calvo,Defensa,8.0,31,ES,95%,Sano,9,0,0,0,3,0,-1,36,4,0,0,0
-20330,2025/26,26,Real Madrid,Camavinga,Mediocampista,10.0,23,FR,70%,Sano,19,1,0,0,0,0,1,90,4.7,7,3,6
-20328,2025/26,26,Rayo,Camello,Delantero,5.0,25,ES,10%,Sano,13,0,0,0,2,1,-1,23,1.8,0,0,0
-20323,2025/26,26,Barcelona,Cancelo,Defensa,9.0,31,PT,50%,Sano,4,0,1,0,0,0,2.2,29,7.3,16,0,2
-20331,2025/26,26,Atlético,Cardoso,Mediocampista,7.0,24,US,50%,Sano,10,0,0,0,4,0,0.9,33,3.3,3,0,0
-20329,2025/26,26,Sevilla,Cardoso,Defensa,7.0,31,PT,20%,Sano,4,0,0,0,0,0,-1,20,5,0,0,0
-20326,2025/26,26,Levante,Carlos Espí,Delantero,4.0,20,ES,20%,Sano,12,1,0,0,1,0,1,24,2,0,4,1
-20328,2025/26,26,Rayo,Carlos Martín,Mediocampista,4.0,23,ES,10%,Sano,4,0,0,0,1,0,-1,8,2,0,0,1
-20327,2025/26,26,Real Sociedad,Carlos Soler,Mediocampista,12.0,29,ES,80%,Sano,20,2,2,0,2,1,1.3,101,5.1,0,3,3
-20331,2025/26,26,Real Oviedo,Carmo,Defensa,10.0,26,AO,95%,Sano,18,1,0,0,8,1,1.1,81,4.5,2,1,8
-20329,2025/26,26,Sevilla,Carmona,Defensa,10.0,24,ES,40%,Sano,23,1,3,0,9,0,0.7,83,3.6,3,1,0
-20325,2025/26,26,Celta,Carreira,Defensa,10.0,25,ES,50%,Sano,21,2,1,0,2,0,1.6,95,4.5,0,2,1
-20330,2025/26,26,Real Madrid,Carvajal,Defensa,6.0,34,ES,30%,Sano,9,0,0,0,0,0,0.7,32,3.6,4,3,0
-20323,2025/26,26,Barcelona,Casadó,Mediocampista,7.0,22,ES,50%,Sano,16,0,1,0,0,0,2,50,3.1,0,0,6
-20329,2025/26,26,Sevilla,Castrín,Defensa,8.0,22,ES,10%,Lesionado/Duda,9,0,0,0,3,0,-1,40,4.4,0,0,0
-20332,2025/26,26,Osasuna,Catena,Defensa,17.0,31,ES,95%,Sano,23,2,2,0,8,1,1.7,134,5.8,5,7,9
-20331,2025/26,26,Real Oviedo,Cazorla,Mediocampista,6.0,41,ES,30%,Sano,15,0,1,0,0,1,1.4,43,2.9,5,2,2
-20330,2025/26,26,Real Madrid,Ceballos,Mediocampista,6.0,29,ES,0%,Lesionado/Duda,15,0,0,0,1,0,0.4,45,3,1,2,0
-20324,2025/26,26,Elche,Cepeda,Delantero,7.0,23,CL,40%,Sano,4,0,0,0,1,0,1.2,11,2.8,1,5,3
-20325,2025/26,26,Celta,Cervi,Delantero,1.0,31,AR,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20331,2025/26,26,Real Oviedo,Chaira,Delantero,11.0,25,MA,90%,Sano,22,3,1,0,1,1,1.9,95,4.3,1,7,11
-20329,2025/26,26,Betis,Chimy,Delantero,4.0,32,AR,10%,Sano,10,1,0,0,4,0,-1,22,2.2,0,0,0
-20324,2025/26,26,Elche,Chust,Defensa,9.0,25,ES,70%,Sano,19,0,0,0,7,1,1.2,57,3,3,8,0
-20331,2025/26,26,Real Oviedo,Colombatto,Mediocampista,10.0,29,AR,70%,Sano,19,0,1,0,5,0,1,78,4.1,0,3,9
-20323,2025/26,26,Villarreal,Comesaña,Mediocampista,12.0,29,ES,70%,Sano,23,3,2,0,4,1,1.4,110,4.8,12,8,3
-20323,2025/26,26,Villarreal,Conde,Portero,1.0,27,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20332,2025/26,26,Valencia,Copete,Defensa,10.0,26,ES,0%,Lesionado/Duda,21,0,0,0,5,0,1.2,76,3.6,2,0,0
-20326,2025/26,26,Levante,Cortés,Delantero,4.0,18,ES,50%,Sano,7,0,0,0,0,0,1.5,14,2,2,5,2
-20323,2025/26,26,Villarreal,Costa,Defensa,4.9,24,CV,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
-20331,2025/26,26,Real Oviedo,Costas,Defensa,11.0,30,ES,0%,Lesionado/Duda,17,0,0,0,2,0,2,80,4.7,0,0,8
-20330,2025/26,26,Real Madrid,Courtois,Portero,21.0,33,BE,95%,Sano,25,0,0,0,1,0,1.3,166,6.6,-3,6,6
-20323,2025/26,26,Barcelona,Cubarsí,Defensa,14.0,19,ES,80%,Sano,20,1,0,0,1,0,2.2,105,5.3,0,12,7
-20329,2025/26,26,Betis,Cucho,Delantero,21.0,26,CO,50%,Sano,20,8,3,0,2,0,1,131,6.6,4,0,0
-20327,2025/26,26,Mallorca,Cuéllar,Portero,1.0,41,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20326,2025/26,26,Levante,Cuñat Campos,Portero,8.0,23,ES,5%,Sano,2,0,0,0,0,0,-1,14,7,0,0,0
-20328,2025/26,26,Rayo,Cárdenas,Portero,1.0,28,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
-20332,2025/26,26,Valencia,Cömert,Defensa,7.0,28,CH,90%,Sano,8,1,0,0,1,0,1.4,35,4.4,1,9,4
-20330,2025/26,26,Getafe,D. Duarte,Defensa,10.0,30,PT,80%,Sano,22,0,0,0,8,0,1.1,98,4.5,3,5,6
-20329,2025/26,26,Betis,D. Llorente,Defensa,7.0,32,ES,70%,Sano,8,1,0,0,2,0,1.3,39,4.9,3,2,11
-20332,2025/26,26,Valencia,Danjuma,Delantero,11.0,29,NL,50%,Sano,23,3,2,0,0,0,0.7,108,4.7,1,0,2
-20327,2025/26,26,Mallorca,Darder,Mediocampista,14.0,32,ES,70%,Sano,25,1,3,0,3,0,0.8,130,5.2,3,11,2
-20325,2025/26,26,Girona,David López,Defensa,3.0,36,ES,5%,Sano,3,0,0,0,0,0,-1,4,1.3,0,0,0
-20327,2025/26,26,Mallorca,David López,Defensa,6.0,23,ES,35%,Sano,5,0,0,0,1,0,1.8,19,3.8,0,2,4
-20330,2025/26,26,Getafe,Davinchi,Defensa,5.0,18,ES,0%,Lesionado/Duda,7,0,0,0,1,0,-1,19,2.7,0,0,0
-20328,2025/26,26,Rayo,De Frutos,Delantero,17.0,29,ES,90%,Sano,22,7,1,0,2,0,1.3,126,5.7,3,3,9
-20326,2025/26,26,Levante,De la Fuente,Defensa,10.0,27,ES,80%,Sano,22,2,1,0,4,0,1.2,82,3.7,0,4,2
-20331,2025/26,26,Real Oviedo,Dendoncker,Mediocampista,9.0,30,BE,20%,Sano,19,1,0,0,2,0,1.1,61,3.2,0,0,2
-20326,2025/26,26,Alavés,Denis Suárez,Mediocampista,8.0,32,ES,30%,Sano,20,1,0,0,4,0,0.8,61,3.1,2,2,2
-20329,2025/26,26,Betis,Deossa,Mediocampista,6.0,26,CO,30%,Sano,15,0,0,0,3,0,1,43,2.9,1,2,3
-20326,2025/26,26,Alavés,Diabaté,Delantero,1.0,26,CI,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20332,2025/26,26,Valencia,Diakhaby,Defensa,8.0,29,GN,0%,Lesionado/Duda,8,1,0,0,3,0,-1,38,4.8,0,0,0
-20324,2025/26,26,Elche,Diangana,Delantero,6.0,27,CD,50%,Lesionado/Duda,13,1,0,0,2,0,1.5,31,2.4,0,0,0
-20332,2025/26,26,Valencia,Diego López,Delantero,10.0,23,ES,30%,Lesionado/Duda,22,3,0,0,2,0,-1,78,3.5,0,0,0
-20330,2025/26,26,Getafe,Diego Rico,Defensa,9.0,33,ES,50%,Sano,21,0,0,0,3,0,1,60,2.9,2,-1,2
-20332,2025/26,26,Valencia,Dimitrievski,Portero,9.0,32,MK,95%,Sano,7,0,0,0,0,0,1.3,37,5.3,4,10,4
-20324,2025/26,26,Elche,Dituro,Portero,10.0,38,AR,60%,Sano,9,0,0,0,1,0,1.9,62,6.9,5,10,0
-20330,2025/26,26,Getafe,Djené,Defensa,10.0,34,TG,0%,Sano,24,0,0,0,6,1,0.7,95,4,-2,4,8
-20324,2025/26,26,Espanyol,Dmitrovic,Portero,15.0,34,RS,95%,Sano,25,0,0,0,0,0,1,137,5.5,1,3,-3
-20324,2025/26,26,Espanyol,Dolan,Delantero,10.0,24,EN,70%,Sano,24,1,3,0,4,1,1.3,101,4.2,2,8,1
-20325,2025/26,26,Celta,Domínguez,Defensa,6.0,25,ES,20%,Sano,6,0,0,0,1,0,-1,21,3.5,0,0,0
-20332,2025/26,26,Valencia,Duro,Delantero,10.0,26,ES,30%,Sano,24,7,0,0,5,0,0.8,90,3.8,1,3,1
-20325,2025/26,26,Celta,Durán,Delantero,8.0,24,ES,0%,Lesionado/Duda,20,2,2,0,0,0,1.2,73,3.7,2,8,0
-20325,2025/26,26,Girona,Echeverri,Mediocampista,5.0,20,AR,40%,Sano,5,0,0,0,2,0,1.6,15,3,2,6,0
-20324,2025/26,26,Espanyol,Edu Expósito,Mediocampista,18.0,29,ES,70%,Sano,24,1,5,0,4,0,1.3,144,6,9,2,-3
-20328,2025/26,26,Athletic,Egiluz,Defensa,0.4,23,ES,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
-20331,2025/26,26,Real Oviedo,Ejaria,Delantero,4.0,28,EN,0%,Lesionado/Duda,7,0,0,0,1,0,-1,15,2.1,0,0,0
-20329,2025/26,26,Sevilla,Ejuke,Delantero,7.0,28,NG,20%,Sano,18,1,1,0,0,0,1.3,73,4.1,4,2,6
-20324,2025/26,26,Espanyol,El Hilali,Defensa,9.0,22,MA,80%,Sano,23,0,2,0,5,0,1.2,66,2.9,-4,1,-2
-20325,2025/26,26,Celta,El-Abdellaoui,Delantero,6.0,20,MA,50%,Sano,15,2,0,0,0,0,1.3,45,3,2,0,3
-20326,2025/26,26,Levante,Elgezabal,Defensa,8.0,32,ES,0%,Lesionado/Duda,12,1,0,0,2,0,-1,33,2.8,0,0,0
-20323,2025/26,26,Barcelona,Eric García,Defensa,16.0,25,ES,80%,Sano,25,1,2,0,3,0,2,141,5.6,15,3,9
-20328,2025/26,26,Rayo,Espino,Defensa,7.0,34,UY,50%,Sano,18,1,0,0,2,0,1.4,48,2.7,4,7,0
-20326,2025/26,26,Levante,Etta Eyong,Delantero,11.0,22,CM,50%,Sano,20,5,1,0,2,0,0.7,106,4.6,1,2,2
-20323,2025/26,26,Barcelona,F. de Jong,Mediocampista,19.0,28,NL,0%,Lesionado/Duda,19,1,4,0,6,1,1.6,119,6.3,15,2,0
-20324,2025/26,26,Elche,Febas,Mediocampista,14.0,30,ES,95%,Sano,24,2,1,0,7,0,1.8,126,5.3,2,9,0
-20330,2025/26,26,Getafe,Femenia,Defensa,10.0,35,ES,80%,Sano,20,0,1,0,2,0,1.2,83,4.2,5,3,7
-20325,2025/26,26,Celta,Fer López,Mediocampista,9.0,21,ES,70%,Sano,4,0,0,0,0,0,1.3,19,4.8,6,5,2
-20323,2025/26,26,Barcelona,Fermín,Mediocampista,17.0,22,ES,50%,Sano,19,5,5,0,2,0,1.7,134,7.1,9,1,12
-20323,2025/26,26,Barcelona,Ferran,Delantero,20.0,25,ES,50%,Sano,23,12,1,0,2,0,0.6,146,6.3,2,3,1
-20329,2025/26,26,Betis,Fidalgo,Mediocampista,8.0,28,ES,70%,Sano,3,0,0,0,0,0,2,12,4,3,4,5
-20331,2025/26,26,Real Oviedo,Fonseca,Mediocampista,3.0,27,UY,30%,Sano,7,0,0,0,2,0,1,4,0.6,2,1,1
-20329,2025/26,26,Betis,Fornals,Mediocampista,25.0,30,ES,90%,Sano,25,6,4,0,2,0,1.3,184,7.4,1,9,6
-20324,2025/26,26,Elche,Fort,Defensa,8.0,19,ES,0%,Lesionado/Duda,9,1,2,0,0,0,-1,36,4,0,0,0
-20324,2025/26,26,Espanyol,Fortuño,Portero,1.0,24,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20331,2025/26,26,Real Oviedo,Forés,Delantero,4.0,24,ES,20%,Sano,14,0,1,0,0,0,0.9,27,1.9,1,2,0
-20332,2025/26,26,Valencia,Foulquier,Defensa,9.0,32,GP,0%,Lesionado/Duda,15,0,0,0,1,0,-1,44,2.9,0,0,0
-20323,2025/26,26,Villarreal,Foyth,Defensa,9.0,28,AR,0%,Lesionado/Duda,13,0,0,0,2,0,-1,63,4.8,0,0,0
-20327,2025/26,26,Real Sociedad,Fraga,Portero,1.0,22,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20330,2025/26,26,Real Madrid,Fran García,Defensa,6.0,26,ES,20%,Sano,7,1,0,0,2,1,-1,26,3.7,0,0,0
-20328,2025/26,26,Rayo,Fran Pérez,Mediocampista,8.0,23,ES,50%,Sano,20,2,0,0,2,0,1.4,76,3.8,2,13,0
-20325,2025/26,26,Girona,Francés,Defensa,5.0,23,ES,20%,Sano,15,0,0,0,1,1,0.9,33,2.2,1,2,2
-20323,2025/26,26,Villarreal,Freeman,Defensa,4.0,21,US,10%,Sano,3,0,0,0,0,0,1,4,1.3,0,1,2
-20332,2025/26,26,Osasuna,Galán,Defensa,9.0,31,ES,90%,Sano,8,0,1,0,1,0,1.4,67,5.2,8,10,2
-20326,2025/26,26,Alavés,Garcés,Defensa,9.0,26,MY,50%,Sano,9,0,0,0,3,0,0.8,43,4.8,0,4,3
-20323,2025/26,26,Barcelona,Gavi,Mediocampista,5.0,21,ES,0%,Lesionado/Duda,2,0,1,0,0,0,-1,8,4,0,0,0
-20332,2025/26,26,Valencia,Gayà,Defensa,10.0,30,ES,80%,Sano,21,1,1,0,5,1,1,78,3.7,2,8,-1
-20325,2025/26,26,Girona,Gazzaniga,Portero,14.0,34,AR,70%,Lesionado/Duda,22,0,0,0,4,1,1.3,116,5.3,4,9,5
-20323,2025/26,26,Villarreal,Gerard,Delantero,13.0,33,ES,0%,Lesionado/Duda,12,7,0,0,0,0,-1,94,7.8,0,0,0
-20331,2025/26,26,Atlético,Giménez,Defensa,10.0,31,UY,50%,Sano,10,0,0,0,3,0,1,56,5.6,0,3,6
-20331,2025/26,26,Atlético,Giuliano,Delantero,18.0,23,AR,50%,Sano,22,3,5,0,1,0,0.8,134,6.1,9,0,2
-20330,2025/26,26,Real Madrid,Gonzalo,Delantero,6.0,21,ES,70%,Sano,20,4,0,0,1,0,1.1,61,3.1,3,9,4
-20331,2025/26,26,Atlético,González,Mediocampista,10.0,27,AR,0%,Lesionado/Duda,18,1,0,0,3,0,0,82,4.6,0,2,0
-20328,2025/26,26,Athletic,Gorosabel,Defensa,6.0,29,ES,30%,Sano,13,0,1,0,2,0,1.2,34,2.6,0,8,1
-20327,2025/26,26,Real Sociedad,Gorrotxategi,Mediocampista,10.0,24,ES,80%,Sano,23,1,3,0,5,0,1.5,103,4.5,2,2,10
-20331,2025/26,26,Atlético,Griezmann,Delantero,9.0,34,FR,70%,Sano,22,6,0,0,0,0,1.3,107,4.9,6,0,6
-20329,2025/26,26,Sevilla,Gudelj,Mediocampista,11.0,34,RS,80%,Sano,21,1,0,0,6,0,1.2,89,4.2,11,2,6
-20327,2025/26,26,Real Sociedad,Guedes,Mediocampista,17.0,29,PT,80%,Sano,25,6,4,0,1,0,1.3,144,5.8,6,3,7
-20326,2025/26,26,Alavés,Guevara,Mediocampista,6.0,28,ES,30%,Sano,17,1,0,0,2,0,1.5,47,2.8,2,3,0
-20332,2025/26,26,Valencia,Guido,Mediocampista,5.0,31,AR,70%,Sano,3,0,0,0,0,0,1,7,2.3,3,2,2
-20328,2025/26,26,Rayo,Gumbau,Mediocampista,5.0,31,ES,50%,Sano,17,0,1,0,4,0,1.2,37,2.2,1,8,0
-20326,2025/26,26,Alavés,Guridi,Mediocampista,5.0,30,ES,20%,Sano,16,0,0,0,0,0,1,31,1.9,0,2,0
-20328,2025/26,26,Athletic,Guruzeta,Delantero,11.0,29,ES,90%,Sano,22,6,1,0,4,1,2.2,103,4.7,15,1,16
-20330,2025/26,26,Real Madrid,Güler,Mediocampista,25.0,21,TR,80%,Sano,25,3,7,0,1,0,1.1,184,7.4,5,5,6
-20331,2025/26,26,Atlético,Hancko,Defensa,13.0,28,SK,40%,Sano,24,0,2,0,0,0,1.5,120,5,4,0,4
-20331,2025/26,26,Real Oviedo,Hassan,Mediocampista,10.0,24,FR,70%,Sano,23,0,3,0,1,0,1.4,94,4.1,10,3,5
-20332,2025/26,26,Osasuna,Herrando,Defensa,9.0,24,ES,95%,Sano,21,0,1,0,2,0,1.2,67,3.2,4,8,1
-20332,2025/26,26,Osasuna,Herrera,Portero,23.0,32,ES,95%,Sano,25,0,0,0,2,0,2.3,173,6.9,7,11,6
-20327,2025/26,26,Real Sociedad,Herrera,Mediocampista,3.0,28,VE,50%,Sano,5,0,0,0,1,0,1.3,6,0.9,-1,2,2
-20325,2025/26,26,Celta,Hugo Álvarez,Mediocampista,7.0,22,ES,70%,Sano,16,2,1,0,2,0,2,59,3.7,5,0,3
-20330,2025/26,26,Real Madrid,Huijsen,Defensa,19.0,20,ES,50%,Lesionado/Duda,18,1,2,0,4,1,1,113,6.3,0,0,15
-20328,2025/26,26,Athletic,I. Williams,Delantero,10.0,31,GH,90%,Sano,17,1,2,0,1,0,1.3,67,3.9,2,3,14
-20326,2025/26,26,Alavés,Ibáñez,Mediocampista,10.0,27,ES,70%,Sano,25,1,1,0,4,0,1.4,101,4,4,4,1
-20325,2025/26,26,Celta,Iglesias,Delantero,16.0,33,ES,0%,Sano,23,10,2,0,5,0,2,129,5.6,3,9,9
-20330,2025/26,26,Getafe,Iglesias,Defensa,10.0,27,ES,90%,Sano,24,1,2,0,3,0,1.3,96,4,1,10,5
-20332,2025/26,26,Osasuna,Iker Muñoz,Mediocampista,6.0,23,ES,40%,Sano,11,0,0,0,3,0,1.1,31,2.8,1,5,5
-20329,2025/26,26,Betis,Isco,Mediocampista,10.0,33,ES,0%,Lesionado/Duda,1,0,1,0,0,0,-1,10,10,0,0,0
-20328,2025/26,26,Rayo,Isi,Delantero,12.0,31,ES,80%,Sano,23,3,3,0,7,0,1.9,110,4.8,11,5,1
-20324,2025/26,26,Elche,Iturbe,Portero,1.0,22,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20325,2025/26,26,Girona,Iván Martín,Mediocampista,11.0,27,ES,60%,Sano,23,0,1,0,5,1,1.5,107,4.7,3,4,5
-20326,2025/26,26,Levante,Iván Romero,Delantero,10.0,24,ES,70%,Sano,21,4,1,0,3,0,1.3,94,4.5,5,0,2
-20325,2025/26,26,Celta,Iván Villar,Portero,1.0,28,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20328,2025/26,26,Athletic,Izeta,Delantero,3.0,26,ES,10%,Sano,10,0,0,0,2,0,1,14,1.4,2,0,0
-20329,2025/26,26,Sevilla,Januzaj,Mediocampista,4.0,31,BE,20%,Sano,11,0,0,0,1,0,2,22,2,2,0,0
-20328,2025/26,26,Athletic,Jauregizar,Mediocampista,12.0,22,ES,70%,Sano,24,2,0,0,2,0,1.8,118,4.9,0,11,5
-20332,2025/26,26,Valencia,Javi Guerra,Mediocampista,9.0,22,ES,50%,Sano,24,0,3,0,3,0,1.7,80,3.3,2,9,1
-20331,2025/26,26,Real Oviedo,Javi López,Defensa,7.0,23,ES,70%,Sano,12,0,0,0,0,0,1.5,31,2.6,3,0,7
-20330,2025/26,26,Getafe,Javi Muñoz,Mediocampista,5.0,30,ES,20%,Sano,13,0,0,0,0,0,1,29,2.2,0,1,0
-20325,2025/26,26,Celta,Javi Rodríguez,Defensa,11.0,22,ES,50%,Sano,21,0,0,0,3,0,1.6,89,4.2,11,2,2
-20332,2025/26,26,Valencia,Jesús Vázquez,Defensa,6.0,23,ES,20%,Sano,15,0,0,0,2,0,1,36,2.4,2,1,0
-20323,2025/26,26,Barcelona,Joan Garcia,Portero,34.0,24,ES,95%,Sano,19,0,0,0,1,0,2,173,9.1,11,11,12
-20324,2025/26,26,Espanyol,Jofre,Delantero,7.0,24,ES,50%,Sano,17,1,0,0,1,0,1.3,49,2.9,5,1,0
-20324,2025/26,26,Elche,John C.,Defensa,5.0,25,ES,20%,Sano,14,1,0,0,2,0,0.7,31,2.2,0,2,-1
-20327,2025/26,26,Real Sociedad,Jon Martín,Defensa,10.0,19,ES,70%,Sano,16,0,0,0,4,0,1.4,59,3.7,2,2,0
-20326,2025/26,26,Alavés,Jonny,Defensa,10.0,31,ES,80%,Sano,24,0,0,0,5,0,0.8,80,3.3,1,0,-1
-20329,2025/26,26,Sevilla,Jordan,Mediocampista,2.0,31,ES,0%,Sano,3,0,0,0,1,1,-1,3,1,0,-3,0
-20324,2025/26,26,Elche,Josan,Mediocampista,6.0,36,ES,20%,Sano,12,0,2,0,2,0,-1,48,4,0,0,0
-20327,2025/26,26,Mallorca,Joseph,Delantero,10.0,22,ES,30%,Sano,24,2,2,0,2,0,1,87,3.6,0,0,1
-20325,2025/26,26,Girona,Juan Carlos,Portero,1.0,38,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
-20332,2025/26,26,Osasuna,Juan Cruz,Defensa,6.0,33,ES,20%,Sano,12,0,0,0,0,0,-1,35,2.9,0,0,0
-20329,2025/26,26,Sevilla,Juanlu,Mediocampista,10.0,22,ES,60%,Sano,20,0,2,0,3,1,0.8,77,3.9,0,-1,4
-20330,2025/26,26,Getafe,Juanmi,Delantero,4.0,32,ES,0%,Lesionado/Duda,8,1,0,0,0,0,-1,18,2.3,0,0,0
-20328,2025/26,26,Rayo,Juanpe,Portero,1.0,2026,N/A,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20331,2025/26,26,Atlético,Julio Díaz,Defensa,1.0,2026,N/A,50%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20329,2025/26,26,Betis,Junior,Defensa,7.0,29,DO,10%,Sano,8,0,1,0,2,0,-1,29,3.6,0,0,0
-20325,2025/26,26,Celta,Jutglà,Delantero,8.0,27,ES,80%,Sano,17,3,1,0,3,0,1.1,64,3.8,3,8,2
-20327,2025/26,26,Mallorca,Kalumba,Delantero,1.0,21,FR,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20330,2025/26,26,Getafe,Kamara,Delantero,4.0,22,EN,0%,Lesionado/Duda,9,0,0,0,1,0,-1,16,1.8,0,0,0
-20323,2025/26,26,Villarreal,Kambwala,Defensa,5.3,21,FR,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
-20327,2025/26,26,Real Sociedad,Karrikaburu,Delantero,3.0,23,ES,0%,Sano,6,0,0,0,0,0,-1,9,1.5,0,0,0
-20332,2025/26,26,Osasuna,Kike Barja,Delantero,3.0,28,ES,10%,Sano,15,0,0,0,2,0,-1,22,1.5,0,0,0
-20324,2025/26,26,Espanyol,Kike García,Delantero,8.0,36,ES,50%,Sano,24,4,1,0,3,0,1.1,84,3.5,1,8,2
-20329,2025/26,26,Sevilla,Kike Salas,Defensa,11.0,23,ES,90%,Sano,14,1,0,0,0,0,2.3,76,5.4,9,8,10
-20331,2025/26,26,Atlético,Koke,Mediocampista,13.0,34,ES,40%,Sano,23,2,2,0,4,0,1,116,5,3,0,7
-20326,2025/26,26,Alavés,Koski,Defensa,0.5,24,FI,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
-20323,2025/26,26,Barcelona,Koundé,Defensa,11.0,27,FR,80%,Sano,24,1,2,0,4,0,1.2,114,4.8,9,4,9
-20325,2025/26,26,Girona,Krapyvtsov,Portero,3.0,20,UA,0%,Sano,2,0,0,0,0,0,-1,3,1.5,0,0,0
-20327,2025/26,26,Real Sociedad,Kubo,Mediocampista,13.0,24,JP,0%,Lesionado/Duda,18,2,3,0,0,0,-1,104,5.8,0,0,0
-20327,2025/26,26,Mallorca,Kumbulla,Defensa,4.0,26,AL,0%,Lesionado/Duda,7,0,0,0,1,0,-1,9,1.3,0,0,0
-20331,2025/26,26,Real Oviedo,L. Ilic,Mediocampista,5.0,26,RS,10%,Sano,14,1,0,0,4,1,-1,27,1.9,0,0,0
-20325,2025/26,26,Celta,Lago,Defensa,5.0,21,ES,0%,Sano,4,0,0,0,2,0,-1,10,2.5,0,0,0
-20328,2025/26,26,Athletic,Laporte,Defensa,10.0,31,ES,80%,Sano,14,0,1,0,2,0,1.9,69,4.9,9,7,1
-20325,2025/26,26,Girona,Lass,Mediocampista,1.0,21,GN,0%,Sano,5,0,0,0,0,1,-1,0,0,0,0,0
-20327,2025/26,26,Mallorca,Lato,Defensa,5.0,28,ES,30%,Sano,8,0,1,0,2,0,1,16,2,5,2,0
-20331,2025/26,26,Atlético,Le Normand,Defensa,10.0,29,ES,50%,Sano,19,1,0,0,2,0,0.7,80,4.2,1,3,3
-20328,2025/26,26,Rayo,Lejeune,Defensa,17.0,34,FR,95%,Sano,24,0,0,0,3,0,1.8,140,5.8,7,12,4
-20328,2025/26,26,Athletic,Lekue,Defensa,4.0,32,ES,20%,Sano,8,0,0,0,2,2,0.7,13,1.6,-1,0,2
-20325,2025/26,26,Girona,Lemar,Mediocampista,9.0,30,FR,50%,Lesionado/Duda,16,2,1,0,2,0,2.2,74,4.6,4,11,14
-20331,2025/26,26,Atlético,Lenglet,Defensa,9.0,30,FR,50%,Sano,11,0,0,0,4,1,0,48,4.4,0,3,0
-20327,2025/26,26,Mallorca,Leo Román,Portero,13.0,25,ES,95%,Sano,20,0,0,1,2,0,1.8,100,5,4,5,3
-20330,2025/26,26,Getafe,Letácek,Portero,1.0,27,CZ,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20323,2025/26,26,Barcelona,Lewandowski,Delantero,10.0,37,PL,50%,Sano,20,10,1,0,2,0,0.9,113,5.7,5,2,10
-20330,2025/26,26,Getafe,Liso,Delantero,10.0,20,ES,30%,Sano,21,3,0,0,2,0,1,68,3.2,1,2,5
-20327,2025/26,26,Mallorca,Llabrés,Delantero,3.0,23,ES,10%,Sano,13,0,0,0,0,0,1,22,1.7,1,0,1
-20329,2025/26,26,Betis,Lo Celso,Mediocampista,11.0,29,AR,0%,Lesionado/Duda,17,2,2,0,3,0,-1,93,5.5,0,0,0
-20331,2025/26,26,Atlético,Lookman,Delantero,7.0,28,NG,70%,Sano,3,1,0,0,1,0,0.8,13,4.3,9,2,2
-20326,2025/26,26,Levante,Losada,Delantero,6.0,24,ES,30%,Sano,14,2,0,0,1,0,0.6,41,2.9,2,1,3
-20324,2025/26,26,Espanyol,Lozano,Mediocampista,9.0,26,ES,70%,Sano,23,1,0,0,6,0,1.3,66,2.9,2,4,3
-20330,2025/26,26,Getafe,Luis Milla,Mediocampista,24.0,31,ES,95%,Sano,24,0,8,0,2,1,1.7,170,7.1,1,3,14
-20330,2025/26,26,Getafe,Luis Vázquez,Delantero,16.0,24,AR,90%,Sano,5,2,0,0,0,0,1.5,32,6.4,3,5,10
-20328,2025/26,26,Rayo,Luiz Felipe,Defensa,5.0,28,IT,20%,Sano,8,0,0,0,1,0,-1,19,2.4,0,0,2
-20323,2025/26,26,Villarreal,Luiz Junior,Portero,25.0,25,BR,90%,Sano,22,0,0,1,3,0,1.5,163,7.4,3,14,3
-20330,2025/26,26,Real Madrid,Lunin,Portero,1.0,27,UA,5%,Sano,0,0,0,0,0,1,-1,-1,0,0,0,0
-20327,2025/26,26,Mallorca,Luvumbo,Delantero,5.0,23,AO,50%,Sano,1,0,0,0,0,0,1.5,2,2,0,2,0
-20325,2025/26,26,Celta,M. Alonso,Defensa,21.0,35,ES,50%,Sano,22,1,0,0,2,0,1.7,145,6.6,10,7,4
-20331,2025/26,26,Atlético,M. Llorente,Defensa,20.0,31,ES,40%,Sano,21,0,4,0,4,0,1.4,134,6.4,10,0,3
-20327,2025/26,26,Mallorca,Maffeo,Defensa,10.0,28,AR,70%,Sano,20,1,0,0,6,0,0.9,70,3.5,1,-1,0
-20329,2025/26,26,Sevilla,Manu Bueno,Mediocampista,4.0,21,ES,0%,Sano,4,0,0,0,0,0,-1,10,2.5,0,0,0
-20325,2025/26,26,Celta,Manu Fernández,Defensa,7.0,24,ES,50%,Sano,12,0,0,0,2,0,-1,41,3.4,0,0,0
-20326,2025/26,26,Levante,Manu Sánchez,Defensa,9.0,25,ES,60%,Sano,21,1,1,0,5,0,1.1,63,3,1,0,2
-20329,2025/26,26,Betis,Marc Roca,Mediocampista,11.0,29,ES,90%,Sano,20,0,1,0,1,0,1.8,89,4.5,3,6,7
-20325,2025/26,26,Celta,Marc Vidal,Portero,0.6,26,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20329,2025/26,26,Sevilla,Marcão,Defensa,8.0,29,BR,0%,Lesionado/Duda,13,0,0,0,4,1,-1,46,3.5,0,0,0
-20326,2025/26,26,Alavés,Mariano,Delantero,4.0,32,DO,0%,Sano,9,0,0,0,1,0,-1,17,1.9,0,0,0
-20330,2025/26,26,Getafe,Mario Martín,Mediocampista,9.0,21,ES,70%,Sano,23,2,0,0,8,0,1,60,2.6,2,0,0
-20327,2025/26,26,Real Sociedad,Marrero,Portero,1.0,24,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20324,2025/26,26,Elche,Martim Neto,Mediocampista,10.0,23,PT,30%,Sano,20,2,4,0,1,0,0.7,104,5.2,0,2,1
-20323,2025/26,26,Barcelona,Martín,Defensa,10.0,24,ES,0%,Sano,21,0,0,0,5,0,1.6,88,4.2,6,4,0
-20327,2025/26,26,Real Sociedad,Marín,Mediocampista,7.0,22,ES,35%,Sano,22,0,0,0,1,0,1.1,47,2.1,0,0,3
-20327,2025/26,26,Mallorca,Mascarell,Mediocampista,10.0,33,GQ,50%,Sano,18,1,1,0,4,0,1.3,67,3.7,4,2,1
-20330,2025/26,26,Real Madrid,Mastantuono,Delantero,8.0,18,AR,30%,Sano,15,1,0,0,4,0,-1,55,3.7,0,0,1
-20326,2025/26,26,Levante,Matturro,Defensa,7.0,21,UY,50%,Sano,12,1,0,0,0,1,1,40,3.3,3,3,0
-20329,2025/26,26,Sevilla,Maupay,Delantero,9.0,29,FR,80%,Sano,4,1,0,0,0,0,1,18,4.5,4,3,4
-20330,2025/26,26,Getafe,Mayoral,Delantero,10.0,28,ES,0%,Lesionado/Duda,14,4,1,0,0,0,-1,67,4.8,0,0,0
-20330,2025/26,26,Real Madrid,Mbappé,Delantero,50.0,27,FR,0%,Lesionado/Duda,23,23,4,0,3,0,0.8,279,12.1,3,0,11
-20331,2025/26,26,Atlético,Mendoza,Mediocampista,7.0,20,ES,50%,Sano,2,0,0,0,1,0,0.7,51,2.8,0,-1,2
-20328,2025/26,26,Rayo,Mendy,Defensa,12.0,21,SN,80%,Sano,15,2,0,0,4,1,1.3,81,5.4,4,18,2
-20330,2025/26,26,Real Madrid,Mendy,Defensa,2.0,30,FR,10%,Sano,1,0,0,0,0,0,-1,1,1,0,0,0
-20329,2025/26,26,Sevilla,Mendy,Mediocampista,10.0,26,FR,70%,Sano,20,1,0,0,6,0,0.9,69,3.5,2,1,3
-20324,2025/26,26,Espanyol,Miguel Rubio,Defensa,4.0,27,ES,5%,Sano,8,1,0,0,0,0,-1,23,2.9,0,0,0
-20323,2025/26,26,Villarreal,Mikautadze,Delantero,19.0,25,GE,80%,Sano,20,8,4,0,1,0,1.8,131,6.6,1,12,10
-20330,2025/26,26,Real Madrid,Militão,Defensa,13.0,28,BR,0%,Lesionado/Duda,13,1,1,0,2,0,-1,86,6.6,0,0,0
-20325,2025/26,26,Celta,Mingueza,Defensa,10.0,26,ES,70%,Sano,21,1,2,0,3,0,1,85,4,0,2,1
-20332,2025/26,26,Osasuna,Moi Gómez,Mediocampista,8.0,31,ES,20%,Sano,17,0,0,0,1,0,-1,62,3.6,0,0,2
-20327,2025/26,26,Mallorca,Mojica,Defensa,10.0,33,CO,70%,Sano,25,0,3,0,4,0,0.8,84,3.4,-2,1,0
-20331,2025/26,26,Real Oviedo,Moldovan,Portero,1.0,28,RO,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20323,2025/26,26,Villarreal,Moleiro,Mediocampista,23.0,22,ES,90%,Sano,24,9,4,0,2,0,1.2,169,7,5,5,0
-20331,2025/26,26,Atlético,Molina,Defensa,7.0,27,AR,70%,Sano,17,0,1,0,1,0,1,55,3.2,1,4,0
-20332,2025/26,26,Osasuna,Moncayola,Mediocampista,12.0,27,ES,80%,Sano,23,0,4,0,6,0,1,112,4.9,2,2,0
-20326,2025/26,26,Levante,Morales,Delantero,5.0,38,ES,10%,Sano,17,1,1,0,1,0,-1,46,2.7,0,0,0
-20326,2025/26,26,Levante,Moreno,Defensa,10.0,22,AR,70%,Sano,16,0,0,0,4,0,0.6,69,4.3,0,4,-1
-20327,2025/26,26,Mallorca,Morey,Defensa,6.0,25,ES,30%,Sano,14,1,0,0,2,0,1,29,2.1,0,0,2
-20325,2025/26,26,Celta,Moriba,Mediocampista,9.0,23,GN,70%,Sano,25,0,1,0,4,0,1.2,78,3.1,2,2,2
-20327,2025/26,26,Mallorca,Morlanes,Mediocampista,8.0,27,ES,50%,Sano,19,1,0,0,4,1,1,60,3.2,0,2,2
-20323,2025/26,26,Villarreal,Mouriño,Defensa,12.0,24,UY,90%,Sano,18,0,1,0,9,1,1,86,4.8,4,8,0
-20328,2025/26,26,Rayo,Mumin,Defensa,1.0,27,GH,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20327,2025/26,26,Mallorca,Muriqi,Delantero,21.0,31,XK,95%,Sano,24,16,1,0,3,1,0.8,157,6.5,2,7,0
-20331,2025/26,26,Atlético,Musso,Portero,9.0,31,AR,5%,Sano,1,0,0,0,1,0,-1,8,8,0,0,0
-20328,2025/26,26,Athletic,N. Williams,Delantero,19.0,23,ES,0%,Lesionado/Duda,19,4,2,0,1,0,2,121,6.4,0,0,7
-20331,2025/26,26,Real Oviedo,Nacho Vidal,Defensa,9.0,31,ES,90%,Sano,16,0,0,0,2,0,1,53,3.3,1,2,6
-20329,2025/26,26,Betis,Natan,Defensa,16.0,25,BR,80%,Sano,23,0,0,0,5,0,1.6,131,5.7,5,6,8
-20328,2025/26,26,Athletic,Navarro,Mediocampista,8.0,23,ES,30%,Sano,21,5,1,0,1,0,1.3,89,4.2,2,2,8
-20324,2025/26,26,Espanyol,Ngongé,Delantero,6.0,25,BE,30%,Sano,3,0,1,0,1,0,1,14,4.7,0,6,8
-20329,2025/26,26,Sevilla,Nianzou,Defensa,5.0,23,FR,0%,Sano,9,0,0,0,5,0,1.5,23,2.6,2,5,0
-20328,2025/26,26,Rayo,Nteka,Delantero,3.0,28,AO,0%,Sano,8,0,0,0,0,0,1,14,1.8,1,1,0
-20329,2025/26,26,Sevilla,Nyland,Portero,6.0,35,NO,5%,Sano,4,0,0,0,1,0,-1,16,4,0,0,0
-20330,2025/26,26,Getafe,Nyom,Defensa,3.0,37,CM,10%,Sano,10,0,0,0,4,1,-1,7,0.7,0,1,1
-20332,2025/26,26,Valencia,Núñez,Defensa,8.0,29,ES,80%,Sano,3,0,0,0,1,0,1.3,13,4.3,-2,10,5
-20331,2025/26,26,Atlético,Oblak,Portero,22.0,33,SI,95%,Sano,24,0,0,0,0,0,0.9,164,6.8,0,7,7
-20327,2025/26,26,Real Sociedad,Odriozola,Defensa,6.0,30,ES,0%,Lesionado/Duda,5,1,0,0,0,0,1.5,22,4.4,2,0,3
-20326,2025/26,26,Levante,Olasagasti,Mediocampista,7.0,25,ES,70%,Sano,21,1,2,0,3,0,1.4,57,2.7,3,2,2
-20323,2025/26,26,Barcelona,Olmo,Mediocampista,25.0,27,ES,50%,Sano,20,6,6,0,0,0,1.3,154,7.7,5,9,16
-20323,2025/26,26,Villarreal,Oluwaseyi,Delantero,6.0,25,CA,30%,Sano,20,2,1,0,1,0,1,57,2.9,0,2,0
-20326,2025/26,26,Levante,Oriol Rey,Mediocampista,7.0,28,ES,40%,Sano,13,0,0,0,2,0,1,38,2.9,2,0,0
-20332,2025/26,26,Osasuna,Oroz,Mediocampista,10.0,24,ES,0%,Sano,19,0,2,0,5,0,1.4,85,4.5,3,9,3
-20329,2025/26,26,Betis,Ortiz,Defensa,5.0,21,ES,20%,Sano,11,0,0,0,1,0,1,28,2.5,3,2,0
-20332,2025/26,26,Osasuna,Osambela,Mediocampista,5.0,21,ES,10%,Sano,10,1,0,0,1,0,1,27,2.7,0,0,3
-20329,2025/26,26,Sevilla,Oso,Defensa,7.0,22,ES,10%,Lesionado/Duda,8,0,1,0,1,0,2,28,3.5,0,0,3
-20325,2025/26,26,Girona,Ounahi,Mediocampista,15.0,25,MA,50%,Sano,11,3,2,0,6,0,2,87,7.9,10,0,0
-20327,2025/26,26,Real Sociedad,Oyarzabal,Delantero,24.0,28,ES,95%,Sano,22,10,3,0,2,0,1.3,158,7.2,4,6,9
-20323,2025/26,26,Villarreal,P. Gueye,Mediocampista,13.0,27,SN,80%,Sano,19,3,1,0,7,0,1.6,101,5.3,13,6,3
-20329,2025/26,26,Betis,Pablo García,Delantero,5.0,19,ES,0%,Sano,14,0,0,0,1,0,-1,31,2.2,0,0,0
-20326,2025/26,26,Levante,Pablo Martínez,Mediocampista,10.0,28,ES,0%,Lesionado/Duda,17,1,2,0,2,0,1,84,4.9,0,0,8
-20327,2025/26,26,Mallorca,Pablo Torre,Mediocampista,7.0,22,ES,30%,Sano,23,1,2,0,2,0,1.2,61,2.7,0,2,1
-20326,2025/26,26,Alavés,Pacheco,Defensa,10.0,25,ES,50%,Sano,18,0,0,0,3,0,1,73,4.1,0,5,0
-20328,2025/26,26,Athletic,Padilla,Portero,1.0,22,MX,5%,Sano,0,0,0,0,0,1,-1,-3,0,0,0,0
-20326,2025/26,26,Levante,Pampín,Mediocampista,6.0,25,ES,30%,Sano,6,0,0,0,2,0,1,19,3.2,0,4,0
-20326,2025/26,26,Alavés,Parada,Defensa,8.0,23,ES,50%,Sano,18,0,2,0,6,0,2,41,2.3,10,0,0
-20328,2025/26,26,Athletic,Paredes,Defensa,12.0,25,ES,30%,Sano,17,1,0,0,4,0,1,83,4.9,0,4,6
-20323,2025/26,26,Villarreal,Parejo,Mediocampista,8.0,36,ES,40%,Sano,21,0,0,0,2,0,0.5,65,3.1,2,0,2
-20328,2025/26,26,Rayo,Pathé Ciss,Mediocampista,10.0,31,SN,50%,Sano,17,1,0,0,4,2,0.8,68,4,2,0,1
-20329,2025/26,26,Betis,Pau López,Portero,10.0,31,ES,30%,Sano,8,0,0,1,1,0,-1,56,7,0,0,0
-20323,2025/26,26,Villarreal,Pau Navarro,Defensa,9.0,20,ES,80%,Sano,13,0,0,0,3,0,1.2,47,3.6,5,12,0
-20323,2025/26,26,Villarreal,Pedraza,Defensa,9.0,29,ES,50%,Sano,19,1,2,0,5,0,1,80,4.2,4,4,2
-20323,2025/26,26,Barcelona,Pedri,Mediocampista,23.0,23,ES,70%,Sano,17,2,5,0,2,1,1.5,127,7.5,3,0,0
-20328,2025/26,26,Rayo,Pedro Díaz,Mediocampista,8.0,27,ES,25%,Sano,21,0,0,0,1,0,1.2,51,2.4,1,2,3
-20324,2025/26,26,Elche,Pedrosa,Defensa,7.0,27,ES,40%,Sano,16,1,1,0,4,0,0.9,44,2.6,2,0,1
-20328,2025/26,26,Rayo,Pep Chavarría,Defensa,11.0,27,ES,50%,Sano,23,1,2,0,6,1,1.1,99,4.3,2,0,-2
-20332,2025/26,26,Valencia,Pepelu,Mediocampista,11.0,27,ES,30%,Sano,22,2,0,0,3,0,1,102,4.6,0,2,6
-20329,2025/26,26,Sevilla,Peque,Delantero,7.0,23,ES,30%,Sano,21,2,1,0,7,0,1,63,3,1,0,2
-20324,2025/26,26,Espanyol,Pere Milla,Delantero,11.0,33,ES,50%,Sano,23,6,0,0,4,1,0.9,108,4.7,1,3,4
-20324,2025/26,26,Elche,Peña,Portero,20.0,26,ES,40%,Sano,16,0,0,0,0,0,1,102,6.4,0,0,5
-20324,2025/26,26,Espanyol,Pickel,Mediocampista,5.0,28,CD,40%,Sano,15,0,0,0,1,0,1.3,34,2.3,0,2,2
-20328,2025/26,26,Athletic,Prados,Mediocampista,4.0,25,ES,0%,Lesionado/Duda,2,0,0,0,1,0,-1,6,3,0,0,0
-20326,2025/26,26,Levante,Primo,Portero,1.0,21,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20326,2025/26,26,Alavés,Protesoni,Mediocampista,4.0,27,UY,20%,Sano,7,0,0,0,2,1,-1,15,2.1,0,0,0
-20324,2025/26,26,Espanyol,Puado,Mediocampista,8.0,27,ES,0%,Lesionado/Duda,10,2,0,0,2,0,-1,42,4.2,0,0,0
-20331,2025/26,26,Atlético,Pubill,Defensa,10.0,22,ES,50%,Sano,11,0,1,0,1,0,2.5,73,6.6,5,0,0
-20323,2025/26,26,Villarreal,Pépé,Delantero,18.0,30,CI,80%,Sano,24,3,4,0,3,0,1.6,144,6,5,12,1
-20324,2025/26,26,Elche,Pétrot,Defensa,7.0,28,FR,50%,Sano,22,0,0,0,1,0,1.2,49,2.2,2,7,1
-20328,2025/26,26,Athletic,R. de Galarreta,Mediocampista,11.0,32,ES,90%,Sano,23,1,1,0,9,0,1.7,99,4.3,7,2,11
-20332,2025/26,26,Valencia,Raba,Delantero,5.0,30,ES,0%,Sano,11,0,1,0,0,0,-1,29,2.6,0,0,0
-20325,2025/26,26,Celta,Radu,Portero,23.0,28,RO,95%,Sano,25,0,0,2,0,0,1.2,175,7,9,3,1
-20323,2025/26,26,Villarreal,Rafa Marín,Defensa,16.0,23,ES,30%,Sano,16,1,0,0,1,0,1,91,5.7,0,11,0
-20324,2025/26,26,Elche,Rafa Mir,Delantero,11.0,28,ES,50%,Sano,20,6,0,0,1,0,1,93,4.7,1,1,0
-20326,2025/26,26,Levante,Raghouber,Mediocampista,8.0,22,FR,50%,Sano,5,0,0,0,0,0,1,15,3,0,4,0
-20332,2025/26,26,Valencia,Ramazani,Delantero,6.0,25,BE,70%,Sano,14,3,1,0,3,0,1.7,46,3.3,8,12,1
-20323,2025/26,26,Barcelona,Raphinha,Delantero,22.0,29,BR,90%,Sano,16,8,3,0,2,0,2,132,8.3,5,5,0
-20323,2025/26,26,Barcelona,Rashford,Delantero,14.0,28,EN,30%,Sano,21,4,6,0,2,0,3,121,5.8,0,0,4
-20328,2025/26,26,Rayo,Ratiu,Defensa,19.0,27,RO,90%,Sano,21,0,3,0,6,0,2,130,6.2,14,15,-1
-20332,2025/26,26,Osasuna,Raul Moro,Delantero,9.0,23,ES,60%,Sano,4,0,2,0,0,0,1.3,24,6,8,2,10
-20327,2025/26,26,Mallorca,Raíllo,Defensa,10.0,34,ES,90%,Sano,19,0,1,0,3,0,1,70,3.7,-2,0,0
-20326,2025/26,26,Alavés,Raúl F.,Portero,1.0,37,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20332,2025/26,26,Osasuna,Raúl García,Delantero,7.0,25,ES,5%,Sano,24,5,0,0,1,0,1.7,82,3.4,8,2,8
-20326,2025/26,26,Alavés,Rebbach,Delantero,7.0,27,DZ,20%,Sano,19,0,0,0,4,0,1,55,2.9,0,0,2
-20324,2025/26,26,Elche,Redondo,Mediocampista,3.0,23,AR,5%,Sano,7,0,0,0,0,1,-1,11,1.6,0,0,0
-20328,2025/26,26,Athletic,Rego,Defensa,6.0,22,ES,30%,Sano,17,1,0,0,4,0,1,39,2.3,4,0,-2
-20331,2025/26,26,Real Oviedo,Reina,Mediocampista,10.0,28,ES,80%,Sano,23,2,0,0,4,1,1.3,79,3.4,5,3,6
-20327,2025/26,26,Real Sociedad,Remiro,Portero,12.0,30,ES,95%,Sano,25,0,0,0,0,0,1.3,121,4.8,2,-1,5
-20324,2025/26,26,Espanyol,Riedel,Defensa,8.0,22,DE,30%,Sano,12,0,1,0,3,0,0.7,43,3.6,2,5,-2
-20325,2025/26,26,Girona,Rincón,Defensa,9.0,23,ES,90%,Sano,22,0,1,0,2,0,1.2,58,2.6,1,4,7
-20332,2025/26,26,Valencia,Rioja,Mediocampista,13.0,32,ES,50%,Sano,24,2,4,0,1,0,1.3,123,5.1,3,11,4
-20329,2025/26,26,Betis,Riquelme,Mediocampista,6.0,25,ES,20%,Sano,18,0,1,0,1,0,1.1,47,2.6,2,0,2
-20325,2025/26,26,Celta,Ristic,Defensa,5.0,30,RS,40%,Sano,4,0,0,0,0,0,-1,13,3.3,0,0,0
-20332,2025/26,26,Valencia,Rivero,Portero,1.0,27,ES,5%,Sano,0,0,0,0,0,1,-1,-3,0,0,0,0
-20324,2025/26,26,Espanyol,Roberto,Delantero,10.0,23,ES,50%,Sano,25,5,2,0,1,0,0.7,112,4.5,1,2,-1
-20324,2025/26,26,Espanyol,Roca,Mediocampista,3.0,23,ES,10%,Lesionado/Duda,8,0,0,0,1,0,1,10,1.3,0,0,1
-20325,2025/26,26,Girona,Roca,Delantero,7.0,20,ES,30%,Sano,20,1,1,0,3,1,0.7,52,2.6,0,4,1
-20330,2025/26,26,Real Madrid,Rodrygo,Delantero,8.0,25,BR,40%,Lesionado/Duda,18,1,3,0,3,0,-1,90,5,0,0,0
-20329,2025/26,26,Betis,Rodríguez,Defensa,9.0,33,CH,90%,Sano,17,0,1,0,0,0,1.3,68,4,1,3,8
-20324,2025/26,26,Espanyol,Romero,Defensa,14.0,24,ES,95%,Sano,23,4,2,0,2,0,0.6,121,5.3,-1,2,0
-20330,2025/26,26,Getafe,Romero,Defensa,25.0,26,AR,90%,Sano,5,0,0,0,1,0,1.5,37,7.4,9,5,10
-20329,2025/26,26,Sevilla,Romero,Delantero,8.0,25,ES,30%,Sano,18,3,0,0,3,1,1,53,2.9,0,2,0
-20325,2025/26,26,Celta,Román,Mediocampista,10.0,23,ES,70%,Sano,17,1,0,0,3,0,1.4,84,4.9,6,5,8
-20332,2025/26,26,Osasuna,Rosier,Defensa,10.0,29,FR,90%,Sano,18,0,1,0,4,1,1.5,75,4.2,6,7,3
-20332,2025/26,26,Osasuna,Rubén G.,Mediocampista,15.0,32,ES,90%,Sano,23,2,5,0,4,0,1.4,127,5.5,6,4,1
-20324,2025/26,26,Espanyol,Rubén Sánchez,Mediocampista,6.0,25,ES,20%,Sano,13,0,0,0,2,0,-1,38,2.9,0,0,0
-20325,2025/26,26,Girona,Rubén,Portero,1.0,30,ES,30%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20325,2025/26,26,Celta,Rueda,Defensa,10.0,23,ES,30%,Sano,18,2,4,0,4,0,1.2,104,5.8,7,8,1
-20331,2025/26,26,Atlético,Ruggeri,Defensa,10.0,23,IT,40%,Sano,18,0,2,0,3,0,0.9,92,5.1,14,0,0
-20329,2025/26,26,Betis,Ruibal,Delantero,10.0,29,ES,70%,Sano,20,4,1,0,3,0,1.5,99,5,4,4,5
-20326,2025/26,26,Levante,Ryan,Portero,19.0,33,AU,95%,Sano,23,0,0,1,2,0,1.4,142,6.2,7,7,1
-20330,2025/26,26,Real Madrid,Rüdiger,Defensa,9.0,32,DE,70%,Sano,8,0,0,0,0,0,2,44,5.5,0,3,0
-20329,2025/26,26,Betis,S. Amrabat,Mediocampista,7.0,29,MA,0%,Lesionado/Duda,8,0,0,0,3,0,-1,32,4,0,0,0
-20323,2025/26,26,Villarreal,S. Cardona,Defensa,10.0,26,ES,50%,Sano,20,0,3,0,3,0,1,85,4.3,4,8,0
-20332,2025/26,26,Valencia,Sadiq,Delantero,5.0,29,NG,70%,Sano,7,1,0,0,2,0,1.7,29,2.4,2,8,1
-20327,2025/26,26,Mallorca,Salas,Mediocampista,3.0,20,ES,0%,Lesionado/Duda,2,0,0,0,0,0,-1,4,2,0,0,0
-20324,2025/26,26,Espanyol,Salinas,Defensa,3.0,25,ES,5%,Sano,9,0,0,0,2,0,0,6,0.7,0,0,-5
-20327,2025/26,26,Mallorca,Samú,Mediocampista,10.0,25,PT,90%,Sano,22,4,0,0,8,0,1.1,90,4.1,2,0,5
-20328,2025/26,26,Athletic,Sancet,Mediocampista,9.0,25,ES,80%,Sano,18,2,0,0,2,1,1.4,61,3.4,4,9,0
-20330,2025/26,26,Getafe,Sancris,Delantero,6.0,29,ES,10%,Sano,15,0,1,0,3,1,-1,36,2.4,0,0,0
-20324,2025/26,26,Elche,Sangaré,Defensa,0.4,18,ES,40%,Sano,1,0,0,0,0,0,1,0,0,N/A,0,0
-20328,2025/26,26,Athletic,Sannadi,Delantero,4.0,25,MA,0%,Lesionado/Duda,8,1,0,0,1,0,-1,17,2.1,0,0,0
-20332,2025/26,26,Valencia,Santamaria,Mediocampista,7.0,30,FR,10%,Sano,19,1,1,0,2,0,-1,58,3.1,0,2,0
-20324,2025/26,26,Elche,Santiago,Mediocampista,4.0,22,ES,0%,Sano,8,0,0,0,1,1,-1,19,2.4,0,2,0
-20330,2025/26,26,Getafe,Satriano,Delantero,12.0,25,UY,80%,Sano,6,1,0,0,2,0,1.5,30,5,7,9,7
-20328,2025/26,26,Athletic,Selton,Mediocampista,4.0,19,ES,10%,Sano,5,0,1,0,0,0,1,13,2.6,0,0,5
-20327,2025/26,26,Real Sociedad,Sergio Gómez,Defensa,11.0,25,ES,90%,Sano,23,0,2,0,2,0,1.7,109,4.7,10,0,5
-20328,2025/26,26,Athletic,Serrano,Delantero,5.0,22,ES,20%,Sano,11,1,0,0,0,0,1.6,35,3.2,0,3,13
-20331,2025/26,26,Real Oviedo,Sibo,Mediocampista,8.0,27,GH,80%,Sano,15,0,0,0,2,0,1.4,42,2.8,2,4,5
-20326,2025/26,26,Alavés,Sivera,Portero,11.0,29,ES,95%,Sano,25,0,0,0,0,0,1.4,118,4.7,2,5,5
-20330,2025/26,26,Getafe,Soria,Portero,16.0,32,ES,95%,Sano,25,0,0,0,2,0,1.4,140,5.6,2,3,12
-20325,2025/26,26,Celta,Sotelo,Mediocampista,9.0,22,ES,20%,Lesionado/Duda,14,0,1,0,2,0,-1,65,4.6,0,0,0
-20329,2025/26,26,Sevilla,Sow,Mediocampista,11.0,29,CH,80%,Sano,21,4,0,0,3,0,1.6,90,4.3,13,12,2
-20325,2025/26,26,Celta,Starfelt,Defensa,15.0,30,SE,50%,Sano,17,0,0,0,3,1,1.3,95,5.6,0,4,2
-20325,2025/26,26,Girona,Stuani,Delantero,5.0,39,UY,10%,Sano,13,3,0,0,2,0,0.4,36,2.8,1,0,-1
-20329,2025/26,26,Sevilla,Suazo,Defensa,10.0,28,CL,90%,Sano,18,0,1,0,4,0,0.7,75,4.2,4,3,-1
-20327,2025/26,26,Real Sociedad,Sucic,Mediocampista,6.0,23,HR,40%,Sano,10,1,0,0,1,0,1.5,32,3.2,0,0,8
-20325,2025/26,26,Celta,Swedberg,Mediocampista,8.0,22,SE,40%,Sano,18,3,1,0,1,0,1.5,70,3.9,7,2,4
-20323,2025/26,26,Barcelona,Szczesny,Portero,8.0,35,PL,5%,Sano,6,0,0,1,0,0,-1,32,5.3,0,0,0
-20331,2025/26,26,Atlético,Sörloth,Delantero,11.0,30,NO,50%,Sano,24,9,0,0,3,1,1.5,109,4.5,14,1,3
-20330,2025/26,26,Real Madrid,Tchouaméni,Mediocampista,15.0,26,FR,90%,Sano,22,0,0,0,5,0,1.9,118,5.4,5,4,9
-20326,2025/26,26,Alavés,Tenaglia,Defensa,11.0,30,AR,90%,Sano,23,1,0,0,2,0,1.4,109,4.7,4,5,-1
-20323,2025/26,26,Villarreal,Tenas,Portero,4.0,24,ES,10%,Sano,3,0,0,0,0,0,-1,7,2.3,0,0,0
-20325,2025/26,26,Girona,Ter Stegen,Portero,7.0,33,DE,0%,Lesionado/Duda,2,0,0,0,0,0,-1,12,6,0,0,0
-20324,2025/26,26,Espanyol,Terrats,Mediocampista,6.0,25,ES,40%,Sano,17,1,1,0,0,0,1.2,59,3.5,1,8,0
-20324,2025/26,26,Elche,Tete Morente,Delantero,7.0,29,ES,50%,Sano,2,0,0,0,1,0,1,5,2.5,4,1,0
-20330,2025/26,26,Real Madrid,Thiago,Mediocampista,1.0,2026,N/A,30%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
-20331,2025/26,26,Real Oviedo,Thiago,Mediocampista,4.0,21,AR,30%,Sano,3,0,1,0,1,0,1.4,7,2.3,0,-1,8
-20332,2025/26,26,Valencia,Thierry,Defensa,7.0,26,PT,40%,Sano,16,0,1,0,3,0,0.8,36,2.3,2,0,2
-20323,2025/26,26,Villarreal,Thomas,Mediocampista,7.0,32,GH,20%,Sano,16,0,0,0,0,0,1,47,2.9,2,2,0
-20326,2025/26,26,Levante,Toljan,Defensa,9.0,31,DE,80%,Sano,24,1,3,0,6,0,1.3,70,2.9,-1,1,0
-20326,2025/26,26,Alavés,Toni Martinez,Delantero,11.0,28,ES,80%,Sano,24,5,2,0,1,0,1.1,111,4.6,1,11,2
-20332,2025/26,26,Osasuna,Torró,Mediocampista,10.0,31,ES,80%,Sano,23,0,1,0,6,0,1.6,80,3.5,6,5,0
-20328,2025/26,26,Rayo,Trejo,Mediocampista,3.0,37,AR,10%,Sano,5,0,0,0,2,0,-1,7,1.4,0,0,0
-20325,2025/26,26,Girona,Tsygankov,Delantero,18.0,28,UA,90%,Sano,19,5,2,0,1,0,1.9,113,5.9,12,4,4
-20326,2025/26,26,Levante,Tunde,Mediocampista,7.0,20,ES,50%,Sano,9,0,0,0,1,0,1.4,17,1.9,0,2,1
-20327,2025/26,26,Real Sociedad,Turrientes,Mediocampista,7.0,24,ES,40%,Sano,16,0,1,0,4,0,1.1,47,2.9,2,1,7
-20332,2025/26,26,Valencia,Tárrega,Defensa,10.0,24,ES,80%,Sano,21,0,0,0,6,0,1,85,4,0,7,0
-20332,2025/26,26,Valencia,Ugrinic,Mediocampista,8.0,27,CH,70%,Sano,15,0,3,0,3,0,1,63,4.2,2,0,5
-20328,2025/26,26,Athletic,Unai Gómez,Mediocampista,5.0,22,ES,50%,Sano,17,1,1,0,1,0,1.3,33,1.9,0,2,0
-20328,2025/26,26,Rayo,Unai López,Mediocampista,10.0,30,ES,25%,Sano,17,0,3,0,6,1,-1,85,5,0,2,0
-20328,2025/26,26,Athletic,Unai Simón,Portero,16.0,28,ES,95%,Sano,25,0,0,1,0,0,1,143,5.7,5,4,2
-20324,2025/26,26,Espanyol,Urko,Mediocampista,9.0,24,ES,70%,Sano,23,0,1,0,3,0,1.3,69,2.9,1,3,0
-20329,2025/26,26,Betis,Valentín Gómez,Defensa,9.0,22,AR,0%,Sano,18,1,0,0,5,0,1,67,3.7,0,0,0
-20328,2025/26,26,Rayo,Valentín,Mediocampista,11.0,31,ES,70%,Sano,21,1,0,0,2,1,1.3,89,4.2,4,13,0
-20324,2025/26,26,Elche,Valera,Mediocampista,18.0,23,ES,90%,Sano,24,4,3,0,2,0,1.9,146,6.1,5,7,1
-20327,2025/26,26,Mallorca,Valjent,Defensa,10.0,30,SK,95%,Sano,25,0,0,0,2,0,1.2,90,3.6,2,1,2
-20329,2025/26,26,Betis,Valles,Portero,23.0,28,ES,70%,Sano,17,0,0,1,1,0,1.3,118,6.9,5,4,12
-20330,2025/26,26,Real Madrid,Valverde,Mediocampista,24.0,27,UY,90%,Sano,24,1,7,0,2,0,1.5,173,7.2,10,13,8
-20325,2025/26,26,Girona,Van de Beek,Mediocampista,3.0,28,NL,0%,Lesionado/Duda,2,0,0,0,0,0,-1,4,2,0,0,0
-20325,2025/26,26,Girona,Vanat,Delantero,13.0,24,UA,70%,Lesionado/Duda,22,8,1,0,4,0,1.6,112,5.1,8,11,1
-20331,2025/26,26,Atlético,Vargas,Mediocampista,5.0,20,MX,50%,Sano,2,0,0,0,0,0,1,4,2,0,2,2
-20329,2025/26,26,Sevilla,Vargas,Delantero,10.0,27,CH,0%,Lesionado/Duda,13,3,4,0,1,0,-1,82,6.3,0,0,0
-20325,2025/26,26,Celta,Vecino,Mediocampista,5.0,34,UY,30%,Sano,2,0,0,0,0,0,1.1,6,3,4,2,0
-20323,2025/26,26,Villarreal,Veiga,Defensa,10.0,22,PT,90%,Sano,22,0,0,0,3,1,1.1,80,3.6,4,2,-3
-20326,2025/26,26,Levante,Vencedor,Mediocampista,7.0,25,ES,40%,Sano,15,0,0,0,3,1,1,37,2.5,0,4,4
-20328,2025/26,26,Rayo,Vertrouwd,Defensa,3.0,21,NL,5%,Sano,7,0,0,0,0,0,1,6,0.9,0,2,0
-20328,2025/26,26,Athletic,Vesga,Mediocampista,4.0,32,ES,10%,Sano,15,0,0,0,0,0,1,30,2,2,2,0
-20324,2025/26,26,Elche,Villar,Mediocampista,1.0,27,ES,20%,Sano,1,0,0,0,1,0,1,0,0,0,0,0
-20330,2025/26,26,Real Madrid,Vinicius,Delantero,27.0,25,BR,95%,Sano,24,9,5,0,6,0,2.1,186,7.8,8,18,0
-20327,2025/26,26,Mallorca,Virgili,Delantero,14.0,19,ES,70%,Sano,20,0,4,0,0,0,1.2,100,5,4,3,5
-20325,2025/26,26,Girona,Vitor Reis,Defensa,12.0,20,BR,95%,Sano,24,1,1,0,4,1,1.3,118,4.9,4,5,3
-20328,2025/26,26,Athletic,Vivian,Defensa,10.0,26,ES,90%,Sano,20,0,0,0,6,1,1.5,81,4.1,6,0,0
-20331,2025/26,26,Real Oviedo,Viñas,Delantero,12.0,27,UY,70%,Sano,20,5,1,0,4,3,2.1,99,5,17,7,5
-20329,2025/26,26,Sevilla,Vlachodimos,Portero,15.0,31,GR,95%,Sano,21,0,0,1,2,0,1.6,115,5.5,12,2,12
-20326,2025/26,26,Levante,Víctor García,Defensa,5.0,28,ES,50%,Sano,12,0,0,0,0,0,1,32,2.7,-2,2,0
-20332,2025/26,26,Osasuna,Víctor Muñoz,Delantero,14.0,22,ES,90%,Sano,25,4,1,0,2,0,1.6,130,5.2,8,2,3
-20327,2025/26,26,Real Sociedad,Wesley,Mediocampista,2.0,20,BR,20%,Sano,2,0,0,0,0,0,0,0,0,0,0,0
-20325,2025/26,26,Girona,Witsel,Mediocampista,11.0,37,BE,70%,Sano,19,1,1,0,3,1,1.6,81,4.3,10,3,1
-20323,2025/26,26,Barcelona,Yamal,Delantero,48.0,18,ES,95%,Sano,21,10,9,0,0,0,1.4,247,11.8,10,5,11
-20326,2025/26,26,Alavés,Youssef,Defensa,8.0,20,MA,50%,Sano,19,0,1,0,3,0,1.7,58,3.1,9,3,3
-20328,2025/26,26,Athletic,Yuri,Defensa,14.0,36,ES,90%,Sano,22,0,3,0,3,0,1.6,115,5.2,12,10,4
-20327,2025/26,26,Real Sociedad,Zakharyan,Mediocampista,4.0,22,RU,10%,Sano,13,0,0,0,1,0,1,21,1.6,2,0,0
-20327,2025/26,26,Real Sociedad,Zubeldia,Defensa,10.0,28,ES,50%,Sano,19,0,1,0,7,0,1.4,76,4,0,-2,5
-20325,2025/26,26,Celta,Á. Núñez,Defensa,16.0,25,ES,10%,Sano,N/A,N/A,N/A,N/A,N/A,N/A,-1,108,5.7,0,0,0
-20325,2025/26,26,Girona,Álex Moreno,Defensa,11.0,32,ES,0%,Lesionado/Duda,21,0,3,0,4,0,-1,88,4.2,0,0,0
-20328,2025/26,26,Rayo,Álvaro García,Mediocampista,11.0,33,ES,50%,Sano,24,3,4,0,3,0,1.3,111,4.6,2,6,10
-20326,2025/26,26,Alavés,Ángel Pérez,Delantero,6.0,23,ES,50%,Sano,3,0,0,0,0,0,1.7,6,2,1,2,3
-20327,2025/26,26,Real Sociedad,Óskarsson,Delantero,6.0,21,IS,50%,Sano,9,4,0,0,0,0,1.9,39,4.3,14,1,7
+﻿Jugador_FutFantasy,Jugador_Fantasy,ID_Partido,Temporada,Jornada,Equipo,Posicion,Precio_Fantastica,Edad,Nacionalidad,Probabilidad_Jugar,Estado_Medico,Partidos_Jugados,Goles,Asistencias,Penaltis_Parados,Tarjetas_Amarillas,Tarjetas_Rojas,Estado_Forma,Puntos_Totales,Media_Puntos,Puntos_Ultima_Jornada,Puntos_Jornada_Ant_2,Puntos_Jornada_Ant_3
+A. Christensen,Christensen,20323,2025/26,26,Barcelona,Defensa,5.0,29,DK,0%,Lesionado/Duda,12,0,0,0,1,0,-1,29,2.4,0,0,0
+A. F. Carreras,Á. Carreras,20330,2025/26,26,Real Madrid,Defensa,23.0,22,ES,80%,Sano,22,2,2,0,4,1,1.8,152,6.9,3,9,16
+Aarón,Aarón,20331,2025/26,26,Real Oviedo,Portero,25.0,30,ES,95%,Sano,24,0,0,2,2,0,1.4,175,7.3,3,2,7
+Abde,Ez Abde,20329,2025/26,26,Betis,Delantero,25.0,24,MA,90%,Sano,16,5,4,0,2,0,1.8,125,7.8,6,10,10
+Abdon,Abdón,20327,2025/26,26,Mallorca,Delantero,3.0,33,ES,5%,Sano,9,0,0,0,0,0,-1,13,1.4,0,0,0
+Abel Ruiz,Abel Ruiz,20325,2025/26,26,Girona,Delantero,3.0,26,ES,10%,Sano,3,0,0,0,0,0,-1,4,1.3,0,0,0
+Abqar,A. abqar,20330,2025/26,26,Getafe,Defensa,8.0,26,MA,30%,Lesionado/Duda,13,0,1,0,6,0,1,48,3.7,3,3,1
+Adam Boayar,Adam B.,20324,2025/26,26,Elche,Mediocampista,4.0,20,MA,10%,Sano,7,1,0,0,0,0,-1,19,2.7,2,0,0
+Adams,Akor,20329,2025/26,26,Sevilla,Delantero,11.0,26,NG,70%,Sano,20,6,3,0,1,0,1.2,95,4.8,8,3,3
+Adrián,Adrián,20329,2025/26,26,Betis,Portero,1.0,39,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Affengruber,Affengruber,20324,2025/26,26,Elche,Defensa,10.0,24,AT,50%,Sano,23,0,0,0,5,1,1,96,4.2,2,0,-1
+Agirrezabala,Agirrezabala,20332,2025/26,26,Valencia,Portero,17.0,25,ES,0%,Lesionado/Duda,18,0,0,1,1,0,-1,104,5.8,0,0,0
+Agoume,Agoumé,20329,2025/26,26,Sevilla,Mediocampista,10.0,24,FR,80%,Sano,22,1,2,0,9,0,1,91,4.1,6,3,4
+Aguado,M. Aguado,20324,2025/26,26,Elche,Mediocampista,10.0,26,ES,70%,Sano,24,0,1,0,2,0,1,93,3.9,4,5,2
+Ahijado,Lucas,20331,2025/26,26,Real Oviedo,Defensa,8.0,31,ES,10%,Sano,13,0,1,0,2,0,1,41,3.2,0,2,2
+Aidoo,Aidoo Jr,20325,2025/26,26,Celta,Defensa,7.0,30,GH,50%,Sano,4,0,0,0,0,0,1.5,20,5,11,0,0
+Aihen,Aihen,20327,2025/26,26,Real Sociedad,Defensa,6.0,28,ES,0%,Lesionado/Duda,16,0,0,0,1,0,1,29,1.8,0,-3,0
+Aitor Mañas,Mañas,20326,2025/26,26,Alavés,Delantero,3.0,2026,N/A,5%,Sano,6,0,0,0,0,0,0.9,9,1.5,2,0,2
+Aitor,Aitor Fdez,20332,2025/26,26,Osasuna,Portero,1.0,34,ES,5%,Sano,0,0,0,0,2,0,-1,-2,0,0,0,0
+Akhomach,I. Akhomach,20328,2025/26,26,Rayo,Delantero,6.0,21,MA,70%,Sano,4,0,0,0,1,0,1.5,38,2.9,6,8,3
+Alaba,Alaba,20330,2025/26,26,Real Madrid,Defensa,4.0,33,AT,50%,Sano,7,0,0,0,1,0,1,15,2.1,1,2,0
+Alemão,Alemao,20328,2025/26,26,Rayo,Delantero,6.0,27,BR,10%,Sano,13,1,0,0,1,0,-1,32,2.5,0,0,0
+Alexander-Arnold,Trent,20330,2025/26,26,Real Madrid,Defensa,7.0,27,EN,70%,Sano,11,0,2,0,1,0,1.5,45,4.1,0,11,2
+Alexis,Alexis Sánchez,20329,2025/26,26,Sevilla,Delantero,8.0,37,CL,30%,Sano,17,2,1,0,1,0,0.7,60,3.5,1,0,2
+Aleñá,Aleñá,20326,2025/26,26,Alavés,Mediocampista,10.0,28,ES,80%,Sano,25,0,4,0,3,0,1.2,103,4.1,3,11,5
+Alfon,Alfon,20323,2025/26,26,Villarreal,Delantero,5.0,26,ES,10%,Sano,1,0,0,0,0,0,-1,33,3,1,0,0
+Alhassane,A. Rahim,20331,2025/26,26,Real Oviedo,Defensa,9.0,24,NE,30%,Sano,19,0,0,0,1,0,-1,57,3,0,0,0
+Almada,Almada,20331,2025/26,26,Atlético,Mediocampista,9.0,24,AR,50%,Sano,17,3,1,0,1,0,0.7,84,4.9,1,4,2
+Almeida,Almeida,20332,2025/26,26,Valencia,Mediocampista,8.0,25,PT,30%,Sano,15,0,1,0,0,0,-1,61,4.1,2,0,0
+Altimira,Altimira,20329,2025/26,26,Betis,Mediocampista,8.0,24,ES,10%,Sano,16,1,1,0,2,0,1,60,3.8,0,2,2
+Alvarez,Julián Alvarez,20331,2025/26,26,Atlético,Delantero,20.0,26,AR,40%,Sano,25,7,3,0,2,0,0.4,162,6.5,1,2,2
+Alvaro R.,Álvaro,20324,2025/26,26,Elche,Delantero,13.0,21,UY,50%,Lesionado/Duda,22,5,4,0,0,0,1.1,113,5.1,4,5,3
+André Silva,André Silva,20324,2025/26,26,Elche,Delantero,10.0,30,PT,80%,Sano,19,6,0,0,1,0,1.1,88,4.6,7,5,9
+Antonio,Antonio Sánchez,20327,2025/26,26,Mallorca,Mediocampista,7.0,28,ES,30%,Sano,21,0,0,0,4,1,1,44,2.1,3,4,5
+Antony,Antony,20329,2025/26,26,Betis,Delantero,25.0,26,BR,90%,Sano,20,6,5,0,1,1,1.8,149,7.5,2,12,10
+Arambarri,Arambarri,20330,2025/26,26,Getafe,Mediocampista,15.0,30,UY,95%,Sano,25,5,1,0,3,0,1.6,134,5.4,4,13,13
+Aramburu,Aramburu,20327,2025/26,26,Real Sociedad,Defensa,9.0,23,VE,90%,Sano,23,1,0,0,7,0,0.8,50,2.2,0,-6,2
+Araújo,R. Araujo,20323,2025/26,26,Barcelona,Defensa,7.0,26,UY,40%,Sano,14,2,0,0,2,0,1,50,3.6,2,1,0
+Areso,Areso,20328,2025/26,26,Athletic,Defensa,9.0,26,ES,50%,Sano,21,0,1,0,3,0,1,72,3.4,2,3,0
+Aritz,Aritz,20327,2025/26,26,Real Sociedad,Defensa,5.0,31,ES,30%,Sano,9,0,0,0,0,0,1,18,2,2,0,0
+Arnau,Arnau,20325,2025/26,26,Girona,Defensa,13.0,22,ES,95%,Sano,22,1,1,0,5,0,1.6,112,5.1,2,4,9
+Arriaga,Arriaga,20326,2025/26,26,Levante,Mediocampista,9.0,28,HN,0%,Sano,17,1,1,0,6,1,1,64,3.8,0,0,1
+Asano,Asano,20327,2025/26,26,Mallorca,Delantero,5.0,31,JP,0%,Lesionado/Duda,15,1,0,0,2,0,-1,30,2,0,0,0
+Asencio,Asencio,20330,2025/26,26,Real Madrid,Defensa,11.0,23,ES,0%,Lesionado/Duda,18,2,0,0,2,0,0.8,91,5.1,2,0,8
+Aspas,Iago Aspas,20325,2025/26,26,Celta,Delantero,9.0,38,ES,30%,Sano,22,4,3,0,3,0,2.1,108,4.9,16,1,5
+Ayoze,Ayoze,20323,2025/26,26,Villarreal,Delantero,8.0,32,ES,50%,Sano,17,2,3,0,3,0,1,65,3.8,3,2,2
+Azpilicueta,Azpilicueta,20329,2025/26,26,Sevilla,Defensa,8.0,36,ES,90%,Sano,12,0,0,0,4,0,1.7,39,3.3,7,3,-1
+Baena,Álex Baena,20331,2025/26,26,Atlético,Mediocampista,10.0,24,ES,40%,Sano,17,2,2,0,3,0,1.1,93,5.5,10,1,1
+Bailly,E. Bailly,20331,2025/26,26,Real Oviedo,Defensa,8.0,31,CI,0%,Lesionado/Duda,7,1,0,0,1,0,1.6,33,4.7,9,6,0
+Bakambu,Bakambu,20329,2025/26,26,Betis,Delantero,6.0,34,CD,50%,Sano,11,3,0,0,0,0,1.5,42,3.8,10,9,5
+Balde,Álex Balde,20323,2025/26,26,Barcelona,Defensa,11.0,22,ES,50%,Sano,20,0,2,0,2,0,1.4,93,4.7,0,1,9
+Balliu,Balliu,20328,2025/26,26,Rayo,Defensa,3.0,34,AL,10%,Sano,9,0,0,0,2,0,-1,10,1.1,0,0,0
+Bardghji,Bardghji,20323,2025/26,26,Barcelona,Delantero,6.0,20,SE,15%,Sano,14,1,1,0,0,0,1,45,3.2,2,2,2
+Barrenetxea,Barrenetxea,20327,2025/26,26,Real Sociedad,Mediocampista,11.0,24,ES,30%,Sano,19,3,3,0,2,0,-1,105,5.5,0,0,0
+Barrios,Barrios,20331,2025/26,26,Atlético,Mediocampista,17.0,22,ES,0%,Lesionado/Duda,21,1,1,0,0,0,-1,123,5.9,0,0,0
+Bartra,Bartra,20329,2025/26,26,Betis,Defensa,16.0,35,ES,50%,Sano,20,1,0,0,3,0,1,114,5.7,0,3,2
+Batalla,A. Batalla,20328,2025/26,26,Rayo,Portero,18.0,29,AR,95%,Sano,24,0,0,0,4,0,1.7,145,6,5,10,2
+Bellerín,Bellerín,20329,2025/26,26,Betis,Defensa,9.0,30,ES,10%,Sano,16,0,2,0,1,0,-1,68,4.3,0,0,0
+Bellingham,Bellingham,20330,2025/26,26,Real Madrid,Mediocampista,25.0,22,EN,0%,Lesionado/Duda,18,4,3,0,1,0,-1,137,7.6,0,0,0
+Beltrán,Fran Beltrán,20325,2025/26,26,Girona,Mediocampista,8.0,27,ES,50%,Sano,5,1,0,0,2,0,1.8,57,3.8,1,10,4
+Beltrán,Lucas Beltrán,20332,2025/26,26,Valencia,Mediocampista,9.0,24,AR,40%,Lesionado/Duda,21,1,2,0,0,0,1.7,78,3.7,0,4,4
+Benito,I. Benito,20332,2025/26,26,Osasuna,Delantero,5.0,23,ES,0%,Lesionado/Duda,5,1,0,0,1,0,-1,19,3.8,0,0,0
+Berenguer,Berenguer,20328,2025/26,26,Athletic,Delantero,15.0,30,ES,20%,Sano,20,2,2,0,3,0,-1,107,5.4,0,0,0
+Bergstrom,Bergstrom,20327,2025/26,26,Mallorca,Portero,10.0,23,FI,5%,Sano,5,0,0,0,1,0,-1,36,7.2,0,0,0
+Bernal,Marc Bernal,20323,2025/26,26,Barcelona,Mediocampista,5.0,18,ES,60%,Sano,12,2,1,0,3,0,2.2,42,3.5,11,2,10
+Bigas,R.P. Bigas,20324,2025/26,26,Elche,Defensa,12.0,35,ES,70%,Sano,18,0,2,0,3,0,1,86,4.8,-2,10,2
+Birmancevic,Birma,20330,2025/26,26,Getafe,Delantero,4.0,27,RS,30%,Sano,1,0,0,0,0,0,1,2,2,2,0,0
+Blanco,Blanco,20326,2025/26,26,Alavés,Mediocampista,10.0,25,ES,80%,Sano,23,1,1,0,5,0,1.4,103,4.5,5,3,3
+Blind,Daley Blind,20325,2025/26,26,Girona,Defensa,11.0,35,NL,95%,Sano,23,0,0,0,1,0,1.5,106,4.6,4,7,5
+Boiro,Adama,20328,2025/26,26,Athletic,Defensa,5.0,23,ES,10%,Sano,8,0,0,0,1,0,1.5,15,1.9,0,0,0
+Borbas,T. Borbas,20331,2025/26,26,Real Oviedo,Delantero,2.0,23,UY,10%,Sano,4,0,0,0,1,0,1,4,1,1,0,0
+Boselli,Boselli,20330,2025/26,26,Getafe,Defensa,3.0,22,UY,50%,Sano,3,0,0,0,0,0,1,4,1.3,0,2,0
+Boyomo,Boyomo,20332,2025/26,26,Osasuna,Defensa,11.0,24,CM,0%,Lesionado/Duda,20,1,1,0,4,0,1,87,4.4,0,0,2
+Boyé,Lucas Boyé,20326,2025/26,26,Alavés,Delantero,18.0,29,AR,95%,Sano,19,7,1,0,2,1,2,113,5.9,15,4,2
+Brahim,Brahim,20330,2025/26,26,Real Madrid,Mediocampista,7.0,26,MA,25%,Sano,17,0,4,0,1,0,1.1,71,4.2,2,2,8
+Brais,Brais Méndez,20327,2025/26,26,Real Sociedad,Mediocampista,12.0,29,ES,0%,Sano,22,5,2,0,5,1,1,108,4.9,2,0,0
+Bretones,Abel Bretones,20332,2025/26,26,Osasuna,Defensa,9.0,25,ES,30%,Sano,21,1,0,0,5,1,1,65,3.1,1,2,1
+Brugui,R. Brugué,20326,2025/26,26,Levante,Delantero,7.0,29,ES,0%,Lesionado/Duda,15,0,1,0,1,0,-1,42,2.8,0,0,0
+Bryan Gil,Bryan Gil,20325,2025/26,26,Girona,Delantero,10.0,25,ES,70%,Lesionado/Duda,22,0,3,0,4,0,2.2,92,4.2,4,6,4
+Buchanan,Buchanan,20323,2025/26,26,Villarreal,Mediocampista,11.0,27,CA,50%,Sano,23,5,1,0,7,0,1,109,4.7,1,0,1
+Budimir,Budimir,20332,2025/26,26,Osasuna,Delantero,18.0,34,HR,95%,Sano,24,12,0,0,1,0,1.9,144,6,12,4,10
+C. Álvarez,C. Alvarez,20326,2025/26,26,Levante,Mediocampista,10.0,22,ES,90%,Sano,25,3,1,0,3,0,1.4,100,4,0,3,2
+Cabanes,Cabanes,20323,2025/26,26,Villarreal,Delantero,1.0,21,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
+Cabrera,Cabrera,20324,2025/26,26,Espanyol,Defensa,10.0,34,UY,95%,Sano,24,3,0,0,2,0,1,108,4.5,-2,-1,7
+Calebe,Calebe,20326,2025/26,26,Alavés,Mediocampista,7.0,25,BR,50%,Sano,17,0,0,0,2,0,0.9,48,2.8,1,1,5
+Calero,F. Calero,20324,2025/26,26,Espanyol,Defensa,11.0,30,ES,70%,Sano,20,0,0,0,3,0,0.5,94,4.7,1,0,1
+Caleta-Car,Caleta-Car,20327,2025/26,26,Real Sociedad,Defensa,10.0,29,HR,60%,Sano,16,1,0,0,4,1,1,59,3.7,10,0,5
+Calvo,Dani Calvo,20331,2025/26,26,Real Oviedo,Defensa,8.0,31,ES,95%,Sano,9,0,0,0,3,0,-1,36,4,0,0,0
+Camavinga,Camavinga,20330,2025/26,26,Real Madrid,Mediocampista,10.0,23,FR,70%,Sano,19,1,0,0,0,0,1,90,4.7,7,3,6
+Camello,Camello,20328,2025/26,26,Rayo,Delantero,5.0,25,ES,10%,Sano,13,0,0,0,2,1,-1,23,1.8,0,0,0
+Cancelo,Cancelo,20323,2025/26,26,Barcelona,Defensa,9.0,31,PT,50%,Sano,4,0,1,0,0,0,2.2,29,7.3,16,0,2
+Cardoso,Johnny,20331,2025/26,26,Atlético,Mediocampista,7.0,24,US,50%,Sano,10,0,0,0,4,0,0.9,33,3.3,3,0,0
+Cardoso,Cardoso,20329,2025/26,26,Sevilla,Defensa,7.0,31,PT,20%,Sano,4,0,0,0,0,0,-1,20,5,0,0,0
+Carlos Espí,C. Espí,20326,2025/26,26,Levante,Delantero,4.0,20,ES,20%,Sano,12,1,0,0,1,0,1,24,2,0,4,1
+Carlos Martín,Carlos Martín,20328,2025/26,26,Rayo,Mediocampista,4.0,23,ES,10%,Sano,4,0,0,0,1,0,-1,8,2,0,0,1
+Carlos Soler,C. Soler,20327,2025/26,26,Real Sociedad,Mediocampista,12.0,29,ES,80%,Sano,20,2,2,0,2,1,1.3,101,5.1,0,3,3
+Carmo,David Carmo,20331,2025/26,26,Real Oviedo,Defensa,10.0,26,AO,95%,Sano,18,1,0,0,8,1,1.1,81,4.5,2,1,8
+Carmona,Carmona,20329,2025/26,26,Sevilla,Defensa,10.0,24,ES,40%,Sano,23,1,3,0,9,0,0.7,83,3.6,3,1,0
+Carreira,Carreira,20325,2025/26,26,Celta,Defensa,10.0,25,ES,50%,Sano,21,2,1,0,2,0,1.6,95,4.5,0,2,1
+Carvajal,Carvajal,20330,2025/26,26,Real Madrid,Defensa,6.0,34,ES,30%,Sano,9,0,0,0,0,0,0.7,32,3.6,4,3,0
+Casadó,M. Casadó,20323,2025/26,26,Barcelona,Mediocampista,7.0,22,ES,50%,Sano,16,0,1,0,0,0,2,50,3.1,0,0,6
+Castrín,A. Castrín,20329,2025/26,26,Sevilla,Defensa,8.0,22,ES,10%,Lesionado/Duda,9,0,0,0,3,0,-1,40,4.4,0,0,0
+Catena,Catena,20332,2025/26,26,Osasuna,Defensa,17.0,31,ES,95%,Sano,23,2,2,0,8,1,1.7,134,5.8,5,7,9
+Cazorla,S. Cazorla,20331,2025/26,26,Real Oviedo,Mediocampista,6.0,41,ES,30%,Sano,15,0,1,0,0,1,1.4,43,2.9,5,2,2
+Ceballos,D. Ceballos,20330,2025/26,26,Real Madrid,Mediocampista,6.0,29,ES,0%,Lesionado/Duda,15,0,0,0,1,0,0.4,45,3,1,2,0
+Cepeda,Cepeda,20324,2025/26,26,Elche,Delantero,7.0,23,CL,40%,Sano,4,0,0,0,1,0,1.2,11,2.8,1,5,3
+Cervi,Franco Cervi,20325,2025/26,26,Celta,Delantero,1.0,31,AR,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Chaira,Ilyas,20331,2025/26,26,Real Oviedo,Delantero,11.0,25,MA,90%,Sano,22,3,1,0,1,1,1.9,95,4.3,1,7,11
+Chimy,Chimy Ávila,20329,2025/26,26,Betis,Delantero,4.0,32,AR,10%,Sano,10,1,0,0,4,0,-1,22,2.2,0,0,0
+Chust,V. Chust,20324,2025/26,26,Elche,Defensa,9.0,25,ES,70%,Sano,19,0,0,0,7,1,1.2,57,3,3,8,0
+Colombatto,Colobatto,20331,2025/26,26,Real Oviedo,Mediocampista,10.0,29,AR,70%,Sano,19,0,1,0,5,0,1,78,4.1,0,3,9
+Comesaña,Comesaña,20323,2025/26,26,Villarreal,Mediocampista,12.0,29,ES,70%,Sano,23,3,2,0,4,1,1.4,110,4.8,12,8,3
+Conde,Diego Conde,20323,2025/26,26,Villarreal,Portero,1.0,27,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Copete,Copete,20332,2025/26,26,Valencia,Defensa,10.0,26,ES,0%,Lesionado/Duda,21,0,0,0,5,0,1.2,76,3.6,2,0,0
+Cortés,Paco Cortes,20326,2025/26,26,Levante,Delantero,4.0,18,ES,50%,Sano,7,0,0,0,0,0,1.5,14,2,2,5,2
+Costa,Costa,20323,2025/26,26,Villarreal,Defensa,4.9,24,CV,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
+Costas,David Costas,20331,2025/26,26,Real Oviedo,Defensa,11.0,30,ES,0%,Lesionado/Duda,17,0,0,0,2,0,2,80,4.7,0,0,8
+Courtois,Courtois,20330,2025/26,26,Real Madrid,Portero,21.0,33,BE,95%,Sano,25,0,0,0,1,0,1.3,166,6.6,-3,6,6
+Cubarsí,Pau Cubrasí,20323,2025/26,26,Barcelona,Defensa,14.0,19,ES,80%,Sano,20,1,0,0,1,0,2.2,105,5.3,0,12,7
+Cucho,Cucho,20329,2025/26,26,Betis,Delantero,21.0,26,CO,50%,Sano,20,8,3,0,2,0,1,131,6.6,4,0,0
+Cuéllar,Cuéllar,20327,2025/26,26,Mallorca,Portero,1.0,41,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Cuñat Campos,P. Campos,20326,2025/26,26,Levante,Portero,8.0,23,ES,5%,Sano,2,0,0,0,0,0,-1,14,7,0,0,0
+Cárdenas,D. Cárdenas,20328,2025/26,26,Rayo,Portero,1.0,28,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
+Cömert,Cömert,20332,2025/26,26,Valencia,Defensa,7.0,28,CH,90%,Sano,8,1,0,0,1,0,1.4,35,4.4,1,9,4
+D. Duarte,Domingos Duar...,20330,2025/26,26,Getafe,Defensa,10.0,30,PT,80%,Sano,22,0,0,0,8,0,1.1,98,4.5,3,5,6
+D. Llorente,Llorente,20329,2025/26,26,Betis,Defensa,7.0,32,ES,70%,Sano,8,1,0,0,2,0,1.3,39,4.9,3,2,11
+Danjuma,Danjuma,20332,2025/26,26,Valencia,Delantero,11.0,29,NL,50%,Sano,23,3,2,0,0,0,0.7,108,4.7,1,0,2
+Darder,Darder,20327,2025/26,26,Mallorca,Mediocampista,14.0,32,ES,70%,Sano,25,1,3,0,3,0,0.8,130,5.2,3,11,2
+David López,David López,20325,2025/26,26,Girona,Defensa,3.0,36,ES,5%,Sano,3,0,0,0,0,0,-1,4,1.3,0,0,0
+David López,David López,20327,2025/26,26,Mallorca,Defensa,6.0,23,ES,35%,Sano,5,0,0,0,1,0,1.8,19,3.8,0,2,4
+Davinchi,Davinchi,20330,2025/26,26,Getafe,Defensa,5.0,18,ES,0%,Lesionado/Duda,7,0,0,0,1,0,-1,19,2.7,0,0,0
+De Frutos,De Frutos,20328,2025/26,26,Rayo,Delantero,17.0,29,ES,90%,Sano,22,7,1,0,2,0,1.3,126,5.7,3,3,9
+De la Fuente,Dela,20326,2025/26,26,Levante,Defensa,10.0,27,ES,80%,Sano,22,2,1,0,4,0,1.2,82,3.7,0,4,2
+Dendoncker,Dendoncker,20331,2025/26,26,Real Oviedo,Mediocampista,9.0,30,BE,20%,Sano,19,1,0,0,2,0,1.1,61,3.2,0,0,2
+Denis Suárez,Denis Suárez,20326,2025/26,26,Alavés,Mediocampista,8.0,32,ES,30%,Sano,20,1,0,0,4,0,0.8,61,3.1,2,2,2
+Deossa,Nelson Deossa,20329,2025/26,26,Betis,Mediocampista,6.0,26,CO,30%,Sano,15,0,0,0,3,0,1,43,2.9,1,2,3
+Diabaté,Diabate,20326,2025/26,26,Alavés,Delantero,1.0,26,CI,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Diakhaby,Diakhaby,20332,2025/26,26,Valencia,Defensa,8.0,29,GN,0%,Lesionado/Duda,8,1,0,0,3,0,-1,38,4.8,0,0,0
+Diangana,Grady Diangana,20324,2025/26,26,Elche,Delantero,6.0,27,CD,50%,Lesionado/Duda,13,1,0,0,2,0,1.5,31,2.4,0,0,0
+Diego López,Diego López,20332,2025/26,26,Valencia,Delantero,10.0,23,ES,30%,Lesionado/Duda,22,3,0,0,2,0,-1,78,3.5,0,0,0
+Diego Rico,Rico,20330,2025/26,26,Getafe,Defensa,9.0,33,ES,50%,Sano,21,0,0,0,3,0,1,60,2.9,2,-1,2
+Dimitrievski,Dimitrievski,20332,2025/26,26,Valencia,Portero,9.0,32,MK,95%,Sano,7,0,0,0,0,0,1.3,37,5.3,4,10,4
+Dituro,M. Dituro,20324,2025/26,26,Elche,Portero,10.0,38,AR,60%,Sano,9,0,0,0,1,0,1.9,62,6.9,5,10,0
+Djené,Djene,20330,2025/26,26,Getafe,Defensa,10.0,34,TG,0%,Sano,24,0,0,0,6,1,0.7,95,4,-2,4,8
+Dmitrovic,Dmitrovic,20324,2025/26,26,Espanyol,Portero,15.0,34,RS,95%,Sano,25,0,0,0,0,0,1,137,5.5,1,3,-3
+Dolan,Dolan,20324,2025/26,26,Espanyol,Delantero,10.0,24,EN,70%,Sano,24,1,3,0,4,1,1.3,101,4.2,2,8,1
+Domínguez,C. Dominguez,20325,2025/26,26,Celta,Defensa,6.0,25,ES,20%,Sano,6,0,0,0,1,0,-1,21,3.5,0,0,0
+Duro,Hugo Duro,20332,2025/26,26,Valencia,Delantero,10.0,26,ES,30%,Sano,24,7,0,0,5,0,0.8,90,3.8,1,3,1
+Durán,Pablo Durán,20325,2025/26,26,Celta,Delantero,8.0,24,ES,0%,Lesionado/Duda,20,2,2,0,0,0,1.2,73,3.7,2,8,0
+Echeverri,Echeverri,20325,2025/26,26,Girona,Mediocampista,5.0,20,AR,40%,Sano,5,0,0,0,2,0,1.6,15,3,2,6,0
+Edu Expósito,Edu Expósito,20324,2025/26,26,Espanyol,Mediocampista,18.0,29,ES,70%,Sano,24,1,5,0,4,0,1.3,144,6,9,2,-3
+Egiluz,Egiluz,20328,2025/26,26,Athletic,Defensa,0.4,23,ES,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
+Ejaria,Ejaria,20331,2025/26,26,Real Oviedo,Delantero,4.0,28,EN,0%,Lesionado/Duda,7,0,0,0,1,0,-1,15,2.1,0,0,0
+Ejuke,Ejuke,20329,2025/26,26,Sevilla,Delantero,7.0,28,NG,20%,Sano,18,1,1,0,0,0,1.3,73,4.1,4,2,6
+El Hilali,El Hilali,20324,2025/26,26,Espanyol,Defensa,9.0,22,MA,80%,Sano,23,0,2,0,5,0,1.2,66,2.9,-4,1,-2
+El-Abdellaoui,El-Abdellaoui,20325,2025/26,26,Celta,Delantero,6.0,20,MA,50%,Sano,15,2,0,0,0,0,1.3,45,3,2,0,3
+Elgezabal,Elgezabal,20326,2025/26,26,Levante,Defensa,8.0,32,ES,0%,Lesionado/Duda,12,1,0,0,2,0,-1,33,2.8,0,0,0
+Eric García,Eric,20323,2025/26,26,Barcelona,Defensa,16.0,25,ES,80%,Sano,25,1,2,0,3,0,2,141,5.6,15,3,9
+Espino,Pacha,20328,2025/26,26,Rayo,Defensa,7.0,34,UY,50%,Sano,18,1,0,0,2,0,1.4,48,2.7,4,7,0
+Etta Eyong,Etta Eyong,20326,2025/26,26,Levante,Delantero,11.0,22,CM,50%,Sano,20,5,1,0,2,0,0.7,106,4.6,1,2,2
+F. de Jong,F. De Jong,20323,2025/26,26,Barcelona,Mediocampista,19.0,28,NL,0%,Lesionado/Duda,19,1,4,0,6,1,1.6,119,6.3,15,2,0
+Febas,Febas,20324,2025/26,26,Elche,Mediocampista,14.0,30,ES,95%,Sano,24,2,1,0,7,0,1.8,126,5.3,2,9,0
+Femenia,Kiko F.,20330,2025/26,26,Getafe,Defensa,10.0,35,ES,80%,Sano,20,0,1,0,2,0,1.2,83,4.2,5,3,7
+Fer López,Fer López,20325,2025/26,26,Celta,Mediocampista,9.0,21,ES,70%,Sano,4,0,0,0,0,0,1.3,19,4.8,6,5,2
+Fermín,Fermín,20323,2025/26,26,Barcelona,Mediocampista,17.0,22,ES,50%,Sano,19,5,5,0,2,0,1.7,134,7.1,9,1,12
+Ferran,Ferran,20323,2025/26,26,Barcelona,Delantero,20.0,25,ES,50%,Sano,23,12,1,0,2,0,0.6,146,6.3,2,3,1
+Fidalgo,Fidalgo,20329,2025/26,26,Betis,Mediocampista,8.0,28,ES,70%,Sano,3,0,0,0,0,0,2,12,4,3,4,5
+Fonseca,Fonseca,20331,2025/26,26,Real Oviedo,Mediocampista,3.0,27,UY,30%,Sano,7,0,0,0,2,0,1,4,0.6,2,1,1
+Fornals,Fornals,20329,2025/26,26,Betis,Mediocampista,25.0,30,ES,90%,Sano,25,6,4,0,2,0,1.3,184,7.4,1,9,6
+Fort,Héctor Fort,20324,2025/26,26,Elche,Defensa,8.0,19,ES,0%,Lesionado/Duda,9,1,2,0,0,0,-1,36,4,0,0,0
+Fortuño,A. Fortuño,20324,2025/26,26,Espanyol,Portero,1.0,24,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Forés,A. Fores,20331,2025/26,26,Real Oviedo,Delantero,4.0,24,ES,20%,Sano,14,0,1,0,0,0,0.9,27,1.9,1,2,0
+Foulquier,Foulquier,20332,2025/26,26,Valencia,Defensa,9.0,32,GP,0%,Lesionado/Duda,15,0,0,0,1,0,-1,44,2.9,0,0,0
+Foyth,Foyth,20323,2025/26,26,Villarreal,Defensa,9.0,28,AR,0%,Lesionado/Duda,13,0,0,0,2,0,-1,63,4.8,0,0,0
+Fraga,Fraga,20327,2025/26,26,Real Sociedad,Portero,1.0,22,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Fran García,Fran García,20330,2025/26,26,Real Madrid,Defensa,6.0,26,ES,20%,Sano,7,1,0,0,2,1,-1,26,3.7,0,0,0
+Fran Pérez,Fran Pérez,20328,2025/26,26,Rayo,Mediocampista,8.0,23,ES,50%,Sano,20,2,0,0,2,0,1.4,76,3.8,2,13,0
+Francés,Francés,20325,2025/26,26,Girona,Defensa,5.0,23,ES,20%,Sano,15,0,0,0,1,1,0.9,33,2.2,1,2,2
+Freeman,Freeman,20323,2025/26,26,Villarreal,Defensa,4.0,21,US,10%,Sano,3,0,0,0,0,0,1,4,1.3,0,1,2
+Galán,Javi Galán,20332,2025/26,26,Osasuna,Defensa,9.0,31,ES,90%,Sano,8,0,1,0,1,0,1.4,67,5.2,8,10,2
+Garcés,F. Garcés,20326,2025/26,26,Alavés,Defensa,9.0,26,MY,50%,Sano,9,0,0,0,3,0,0.8,43,4.8,0,4,3
+Gavi,Gavi,20323,2025/26,26,Barcelona,Mediocampista,5.0,21,ES,0%,Lesionado/Duda,2,0,1,0,0,0,-1,8,4,0,0,0
+Gayà,Gayá,20332,2025/26,26,Valencia,Defensa,10.0,30,ES,80%,Sano,21,1,1,0,5,1,1,78,3.7,2,8,-1
+Gazzaniga,Gazzaniga,20325,2025/26,26,Girona,Portero,14.0,34,AR,70%,Lesionado/Duda,22,0,0,0,4,1,1.3,116,5.3,4,9,5
+Gerard,Gerard,20323,2025/26,26,Villarreal,Delantero,13.0,33,ES,0%,Lesionado/Duda,12,7,0,0,0,0,-1,94,7.8,0,0,0
+Giménez,J.M. Giménez,20331,2025/26,26,Atlético,Defensa,10.0,31,UY,50%,Sano,10,0,0,0,3,0,1,56,5.6,0,3,6
+Giuliano,Giuliano,20331,2025/26,26,Atlético,Delantero,18.0,23,AR,50%,Sano,22,3,5,0,1,0,0.8,134,6.1,9,0,2
+Gonzalo,Gonzalo,20330,2025/26,26,Real Madrid,Delantero,6.0,21,ES,70%,Sano,20,4,0,0,1,0,1.1,61,3.1,3,9,4
+González,Nico Gonzalez,20331,2025/26,26,Atlético,Mediocampista,10.0,27,AR,0%,Lesionado/Duda,18,1,0,0,3,0,0,82,4.6,0,2,0
+Gorosabel,Gorosabel,20328,2025/26,26,Athletic,Defensa,6.0,29,ES,30%,Sano,13,0,1,0,2,0,1.2,34,2.6,0,8,1
+Gorrotxategi,Gorrotxa,20327,2025/26,26,Real Sociedad,Mediocampista,10.0,24,ES,80%,Sano,23,1,3,0,5,0,1.5,103,4.5,2,2,10
+Griezmann,Griezmann,20331,2025/26,26,Atlético,Delantero,9.0,34,FR,70%,Sano,22,6,0,0,0,0,1.3,107,4.9,6,0,6
+Gudelj,Gudelj,20329,2025/26,26,Sevilla,Mediocampista,11.0,34,RS,80%,Sano,21,1,0,0,6,0,1.2,89,4.2,11,2,6
+Guedes,Guedes,20327,2025/26,26,Real Sociedad,Mediocampista,17.0,29,PT,80%,Sano,25,6,4,0,1,0,1.3,144,5.8,6,3,7
+Guevara,Guevara,20326,2025/26,26,Alavés,Mediocampista,6.0,28,ES,30%,Sano,17,1,0,0,2,0,1.5,47,2.8,2,3,0
+Guido,G. Rodríguez,20332,2025/26,26,Valencia,Mediocampista,5.0,31,AR,70%,Sano,3,0,0,0,0,0,1,7,2.3,3,2,2
+Gumbau,Gumbau,20328,2025/26,26,Rayo,Mediocampista,5.0,31,ES,50%,Sano,17,0,1,0,4,0,1.2,37,2.2,1,8,0
+Guridi,Guridi,20326,2025/26,26,Alavés,Mediocampista,5.0,30,ES,20%,Sano,16,0,0,0,0,0,1,31,1.9,0,2,0
+Guruzeta,Guruzeta,20328,2025/26,26,Athletic,Delantero,11.0,29,ES,90%,Sano,22,6,1,0,4,1,2.2,103,4.7,15,1,16
+Güler,Arda Güler,20330,2025/26,26,Real Madrid,Mediocampista,25.0,21,TR,80%,Sano,25,3,7,0,1,0,1.1,184,7.4,5,5,6
+Hancko,Hancko,20331,2025/26,26,Atlético,Defensa,13.0,28,SK,40%,Sano,24,0,2,0,0,0,1.5,120,5,4,0,4
+Hassan,Hassan,20331,2025/26,26,Real Oviedo,Mediocampista,10.0,24,FR,70%,Sano,23,0,3,0,1,0,1.4,94,4.1,10,3,5
+Herrando,Herrando,20332,2025/26,26,Osasuna,Defensa,9.0,24,ES,95%,Sano,21,0,1,0,2,0,1.2,67,3.2,4,8,1
+Herrera,Sergio Herrera,20332,2025/26,26,Osasuna,Portero,23.0,32,ES,95%,Sano,25,0,0,0,2,0,2.3,173,6.9,7,11,6
+Herrera,Herrera,20327,2025/26,26,Real Sociedad,Mediocampista,3.0,28,VE,50%,Sano,5,0,0,0,1,0,1.3,6,0.9,-1,2,2
+Hugo Álvarez,Hugo Alvarez,20325,2025/26,26,Celta,Mediocampista,7.0,22,ES,70%,Sano,16,2,1,0,2,0,2,59,3.7,5,0,3
+Huijsen,Huijsen,20330,2025/26,26,Real Madrid,Defensa,19.0,20,ES,50%,Lesionado/Duda,18,1,2,0,4,1,1,113,6.3,0,0,15
+I. Williams,Iñaki Williams,20328,2025/26,26,Athletic,Delantero,10.0,31,GH,90%,Sano,17,1,2,0,1,0,1.3,67,3.9,2,3,14
+Ibáñez,Ibañez,20326,2025/26,26,Alavés,Mediocampista,10.0,27,ES,70%,Sano,25,1,1,0,4,0,1.4,101,4,4,4,1
+Iglesias,B. Iglesias,20325,2025/26,26,Celta,Delantero,16.0,33,ES,0%,Sano,23,10,2,0,5,0,2,129,5.6,3,9,9
+Iglesias,Juan Iglesias,20330,2025/26,26,Getafe,Defensa,10.0,27,ES,90%,Sano,24,1,2,0,3,0,1.3,96,4,1,10,5
+Iker Muñoz,Iker Muñoz,20332,2025/26,26,Osasuna,Mediocampista,6.0,23,ES,40%,Sano,11,0,0,0,3,0,1.1,31,2.8,1,5,5
+Isco,Isco,20329,2025/26,26,Betis,Mediocampista,10.0,33,ES,0%,Lesionado/Duda,1,0,1,0,0,0,-1,10,10,0,0,0
+Isi,Isi,20328,2025/26,26,Rayo,Delantero,12.0,31,ES,80%,Sano,23,3,3,0,7,0,1.9,110,4.8,11,5,1
+Iturbe,A. Iturbe,20324,2025/26,26,Elche,Portero,1.0,22,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Iván Martín,Iván Martín,20325,2025/26,26,Girona,Mediocampista,11.0,27,ES,60%,Sano,23,0,1,0,5,1,1.5,107,4.7,3,4,5
+Iván Romero,I. Romero,20326,2025/26,26,Levante,Delantero,10.0,24,ES,70%,Sano,21,4,1,0,3,0,1.3,94,4.5,5,0,2
+Iván Villar,Iván Villar,20325,2025/26,26,Celta,Portero,1.0,28,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Izeta,Izeta,20328,2025/26,26,Athletic,Delantero,3.0,26,ES,10%,Sano,10,0,0,0,2,0,1,14,1.4,2,0,0
+Januzaj,Januzaj,20329,2025/26,26,Sevilla,Mediocampista,4.0,31,BE,20%,Sano,11,0,0,0,1,0,2,22,2,2,0,0
+Jauregizar,Jauregizar,20328,2025/26,26,Athletic,Mediocampista,12.0,22,ES,70%,Sano,24,2,0,0,2,0,1.8,118,4.9,0,11,5
+Javi Guerra,Javi Guerra,20332,2025/26,26,Valencia,Mediocampista,9.0,22,ES,50%,Sano,24,0,3,0,3,0,1.7,80,3.3,2,9,1
+Javi López,Javi Lopéz,20331,2025/26,26,Real Oviedo,Defensa,7.0,23,ES,70%,Sano,12,0,0,0,0,0,1.5,31,2.6,3,0,7
+Javi Muñoz,Javi Muñoz,20330,2025/26,26,Getafe,Mediocampista,5.0,30,ES,20%,Sano,13,0,0,0,0,0,1,29,2.2,0,1,0
+Javi Rodríguez,Javi Rodriguez,20325,2025/26,26,Celta,Defensa,11.0,22,ES,50%,Sano,21,0,0,0,3,0,1.6,89,4.2,11,2,2
+Jesús Vázquez,J. Vázquez,20332,2025/26,26,Valencia,Defensa,6.0,23,ES,20%,Sano,15,0,0,0,2,0,1,36,2.4,2,1,0
+Joan Garcia,Joan García,20323,2025/26,26,Barcelona,Portero,34.0,24,ES,95%,Sano,19,0,0,0,1,0,2,173,9.1,11,11,12
+Jofre,Jofre,20324,2025/26,26,Espanyol,Delantero,7.0,24,ES,50%,Sano,17,1,0,0,1,0,1.3,49,2.9,5,1,0
+John C.,John C.,20324,2025/26,26,Elche,Defensa,5.0,25,ES,20%,Sano,14,1,0,0,2,0,0.7,31,2.2,0,2,-1
+Jon Martín,Jon Martin,20327,2025/26,26,Real Sociedad,Defensa,10.0,19,ES,70%,Sano,16,0,0,0,4,0,1.4,59,3.7,2,2,0
+Jonny,Jonny Otto,20326,2025/26,26,Alavés,Defensa,10.0,31,ES,80%,Sano,24,0,0,0,5,0,0.8,80,3.3,1,0,-1
+Jordan,Jordán,20329,2025/26,26,Sevilla,Mediocampista,2.0,31,ES,0%,Sano,3,0,0,0,1,1,-1,3,1,0,-3,0
+Josan,Josan,20324,2025/26,26,Elche,Mediocampista,6.0,36,ES,20%,Sano,12,0,2,0,2,0,-1,48,4,0,0,0
+Joseph,Mateo Joseph,20327,2025/26,26,Mallorca,Delantero,10.0,22,ES,30%,Sano,24,2,2,0,2,0,1,87,3.6,0,0,1
+Juan Carlos,Juan Carlos,20325,2025/26,26,Girona,Portero,1.0,38,ES,0%,Lesionado/Duda,0,0,0,0,0,0,-1,0,0,0,0,0
+Juan Cruz,Juan Cruz,20332,2025/26,26,Osasuna,Defensa,6.0,33,ES,20%,Sano,12,0,0,0,0,0,-1,35,2.9,0,0,0
+Juanlu,Juanlu,20329,2025/26,26,Sevilla,Mediocampista,10.0,22,ES,60%,Sano,20,0,2,0,3,1,0.8,77,3.9,0,-1,4
+Juanmi,Juanmi,20330,2025/26,26,Getafe,Delantero,4.0,32,ES,0%,Lesionado/Duda,8,1,0,0,0,0,-1,18,2.3,0,0,0
+Juanpe,Juanpe Gil,20328,2025/26,26,Rayo,Portero,1.0,2026,N/A,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Julio Díaz,Julio Díaz,20331,2025/26,26,Atlético,Defensa,1.0,2026,N/A,50%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Junior,Junior,20329,2025/26,26,Betis,Defensa,7.0,29,DO,10%,Sano,8,0,1,0,2,0,-1,29,3.6,0,0,0
+Jutglà,Ferran Jutglà,20325,2025/26,26,Celta,Delantero,8.0,27,ES,80%,Sano,17,3,1,0,3,0,1.1,64,3.8,3,8,2
+Kalumba,Kalumba Jr,20327,2025/26,26,Mallorca,Delantero,1.0,21,FR,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Kamara,Kamara,20330,2025/26,26,Getafe,Delantero,4.0,22,EN,0%,Lesionado/Duda,9,0,0,0,1,0,-1,16,1.8,0,0,0
+Kambwala,Kambwala,20323,2025/26,26,Villarreal,Defensa,5.3,21,FR,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
+Karrikaburu,Karrikaburu,20327,2025/26,26,Real Sociedad,Delantero,3.0,23,ES,0%,Sano,6,0,0,0,0,0,-1,9,1.5,0,0,0
+Kike Barja,Kike Barja,20332,2025/26,26,Osasuna,Delantero,3.0,28,ES,10%,Sano,15,0,0,0,2,0,-1,22,1.5,0,0,0
+Kike García,Kike García,20324,2025/26,26,Espanyol,Delantero,8.0,36,ES,50%,Sano,24,4,1,0,3,0,1.1,84,3.5,1,8,2
+Kike Salas,Kike Salas,20329,2025/26,26,Sevilla,Defensa,11.0,23,ES,90%,Sano,14,1,0,0,0,0,2.3,76,5.4,9,8,10
+Koke,Koke,20331,2025/26,26,Atlético,Mediocampista,13.0,34,ES,40%,Sano,23,2,2,0,4,0,1,116,5,3,0,7
+Koski,Koski,20326,2025/26,26,Alavés,Defensa,0.5,24,FI,0%,Lesionado/Duda,N/A,N/A,N/A,N/A,N/A,N/A,-1,0,0,0,0,0
+Koundé,Kounde,20323,2025/26,26,Barcelona,Defensa,11.0,27,FR,80%,Sano,24,1,2,0,4,0,1.2,114,4.8,9,4,9
+Krapyvtsov,Krapyvtsov,20325,2025/26,26,Girona,Portero,3.0,20,UA,0%,Sano,2,0,0,0,0,0,-1,3,1.5,0,0,0
+Kubo,Kubo,20327,2025/26,26,Real Sociedad,Mediocampista,13.0,24,JP,0%,Lesionado/Duda,18,2,3,0,0,0,-1,104,5.8,0,0,0
+Kumbulla,Kumbulla,20327,2025/26,26,Mallorca,Defensa,4.0,26,AL,0%,Lesionado/Duda,7,0,0,0,1,0,-1,9,1.3,0,0,0
+L. Ilic,Ilic,20331,2025/26,26,Real Oviedo,Mediocampista,5.0,26,RS,10%,Sano,14,1,0,0,4,1,-1,27,1.9,0,0,0
+Lago,Yoel Lago,20325,2025/26,26,Celta,Defensa,5.0,21,ES,0%,Sano,4,0,0,0,2,0,-1,10,2.5,0,0,0
+Laporte,Laporte,20328,2025/26,26,Athletic,Defensa,10.0,31,ES,80%,Sano,14,0,1,0,2,0,1.9,69,4.9,9,7,1
+Lass,Lass,20325,2025/26,26,Girona,Mediocampista,1.0,21,GN,0%,Sano,5,0,0,0,0,1,-1,0,0,0,0,0
+Lato,Toni Lato,20327,2025/26,26,Mallorca,Defensa,5.0,28,ES,30%,Sano,8,0,1,0,2,0,1,16,2,5,2,0
+Le Normand,Le Normand,20331,2025/26,26,Atlético,Defensa,10.0,29,ES,50%,Sano,19,1,0,0,2,0,0.7,80,4.2,1,3,3
+Lejeune,Lejeune,20328,2025/26,26,Rayo,Defensa,17.0,34,FR,95%,Sano,24,0,0,0,3,0,1.8,140,5.8,7,12,4
+Lekue,I. Lekue,20328,2025/26,26,Athletic,Defensa,4.0,32,ES,20%,Sano,8,0,0,0,2,2,0.7,13,1.6,-1,0,2
+Lemar,Lemar,20325,2025/26,26,Girona,Mediocampista,9.0,30,FR,50%,Lesionado/Duda,16,2,1,0,2,0,2.2,74,4.6,4,11,14
+Lenglet,Lenglet,20331,2025/26,26,Atlético,Defensa,9.0,30,FR,50%,Sano,11,0,0,0,4,1,0,48,4.4,0,3,0
+Leo Román,Leo Román,20327,2025/26,26,Mallorca,Portero,13.0,25,ES,95%,Sano,20,0,0,1,2,0,1.8,100,5,4,5,3
+Letácek,Letacek,20330,2025/26,26,Getafe,Portero,1.0,27,CZ,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Lewandowski,Lewandowski,20323,2025/26,26,Barcelona,Delantero,10.0,37,PL,50%,Sano,20,10,1,0,2,0,0.9,113,5.7,5,2,10
+Liso,A. Liso,20330,2025/26,26,Getafe,Delantero,10.0,20,ES,30%,Sano,21,3,0,0,2,0,1,68,3.2,1,2,5
+Llabrés,Javi Llabrés,20327,2025/26,26,Mallorca,Delantero,3.0,23,ES,10%,Sano,13,0,0,0,0,0,1,22,1.7,1,0,1
+Lo Celso,Lo Celso,20329,2025/26,26,Betis,Mediocampista,11.0,29,AR,0%,Lesionado/Duda,17,2,2,0,3,0,-1,93,5.5,0,0,0
+Lookman,Lookman,20331,2025/26,26,Atlético,Delantero,7.0,28,NG,70%,Sano,3,1,0,0,1,0,0.8,13,4.3,9,2,2
+Losada,Iker Losada,20326,2025/26,26,Levante,Delantero,6.0,24,ES,30%,Sano,14,2,0,0,1,0,0.6,41,2.9,2,1,3
+Lozano,Pol Lozano,20324,2025/26,26,Espanyol,Mediocampista,9.0,26,ES,70%,Sano,23,1,0,0,6,0,1.3,66,2.9,2,4,3
+Luis Milla,L. Milla,20330,2025/26,26,Getafe,Mediocampista,24.0,31,ES,95%,Sano,24,0,8,0,2,1,1.7,170,7.1,1,3,14
+Luis Vázquez,Luis Vázquez,20330,2025/26,26,Getafe,Delantero,16.0,24,AR,90%,Sano,5,2,0,0,0,0,1.5,32,6.4,3,5,10
+Luiz Felipe,Luiz Felipe,20328,2025/26,26,Rayo,Defensa,5.0,28,IT,20%,Sano,8,0,0,0,1,0,-1,19,2.4,0,0,2
+Luiz Junior,Júnior R.,20323,2025/26,26,Villarreal,Portero,25.0,25,BR,90%,Sano,22,0,0,1,3,0,1.5,163,7.4,3,14,3
+Lunin,Lunin,20330,2025/26,26,Real Madrid,Portero,1.0,27,UA,5%,Sano,0,0,0,0,0,1,-1,-1,0,0,0,0
+Luvumbo,Luvumbo,20327,2025/26,26,Mallorca,Delantero,5.0,23,AO,50%,Sano,1,0,0,0,0,0,1.5,2,2,0,2,0
+M. Alonso,Marcos Alonso,20325,2025/26,26,Celta,Defensa,21.0,35,ES,50%,Sano,22,1,0,0,2,0,1.7,145,6.6,10,7,4
+M. Llorente,Marcos Llorente,20331,2025/26,26,Atlético,Defensa,20.0,31,ES,40%,Sano,21,0,4,0,4,0,1.4,134,6.4,10,0,3
+Maffeo,Maffeo,20327,2025/26,26,Mallorca,Defensa,10.0,28,AR,70%,Sano,20,1,0,0,6,0,0.9,70,3.5,1,-1,0
+Manu Bueno,Manu Bueno,20329,2025/26,26,Sevilla,Mediocampista,4.0,21,ES,0%,Sano,4,0,0,0,0,0,-1,10,2.5,0,0,0
+Manu Fernández,Manuel Fernán...,20325,2025/26,26,Celta,Defensa,7.0,24,ES,50%,Sano,12,0,0,0,2,0,-1,41,3.4,0,0,0
+Manu Sánchez,Manu Sánchez,20326,2025/26,26,Levante,Defensa,9.0,25,ES,60%,Sano,21,1,1,0,5,0,1.1,63,3,1,0,2
+Marc Roca,Marc Roca,20329,2025/26,26,Betis,Mediocampista,11.0,29,ES,90%,Sano,20,0,1,0,1,0,1.8,89,4.5,3,6,7
+Marc Vidal,Marc Vidal,20325,2025/26,26,Celta,Portero,0.6,26,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Marcão,Marcao,20329,2025/26,26,Sevilla,Defensa,8.0,29,BR,0%,Lesionado/Duda,13,0,0,0,4,1,-1,46,3.5,0,0,0
+Mariano,Mariano,20326,2025/26,26,Alavés,Delantero,4.0,32,DO,0%,Sano,9,0,0,0,1,0,-1,17,1.9,0,0,0
+Mario Martín,Mario Martín,20330,2025/26,26,Getafe,Mediocampista,9.0,21,ES,70%,Sano,23,2,0,0,8,0,1,60,2.6,2,0,0
+Marrero,Marrero,20327,2025/26,26,Real Sociedad,Portero,1.0,24,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Martim Neto,Martim Neto,20324,2025/26,26,Elche,Mediocampista,10.0,23,PT,30%,Sano,20,2,4,0,1,0,0.7,104,5.2,0,2,1
+Martín,Gerard Martín,20323,2025/26,26,Barcelona,Defensa,10.0,24,ES,0%,Sano,21,0,0,0,5,0,1.6,88,4.2,6,4,0
+Marín,Marín,20327,2025/26,26,Real Sociedad,Mediocampista,7.0,22,ES,35%,Sano,22,0,0,0,1,0,1.1,47,2.1,0,0,3
+Mascarell,Mascarell,20327,2025/26,26,Mallorca,Mediocampista,10.0,33,GQ,50%,Sano,18,1,1,0,4,0,1.3,67,3.7,4,2,1
+Mastantuono,F. Mastantuono,20330,2025/26,26,Real Madrid,Delantero,8.0,18,AR,30%,Sano,15,1,0,0,4,0,-1,55,3.7,0,0,1
+Matturro,Alan Matturo,20326,2025/26,26,Levante,Defensa,7.0,21,UY,50%,Sano,12,1,0,0,0,1,1,40,3.3,3,3,0
+Maupay,Maupay,20329,2025/26,26,Sevilla,Delantero,9.0,29,FR,80%,Sano,4,1,0,0,0,0,1,18,4.5,4,3,4
+Mayoral,B. Mayoral,20330,2025/26,26,Getafe,Delantero,10.0,28,ES,0%,Lesionado/Duda,14,4,1,0,0,0,-1,67,4.8,0,0,0
+Mbappé,Mbappé,20330,2025/26,26,Real Madrid,Delantero,50.0,27,FR,0%,Lesionado/Duda,23,23,4,0,3,0,0.8,279,12.1,3,0,11
+Mendoza,R. Mendoza,20331,2025/26,26,Atlético,Mediocampista,7.0,20,ES,50%,Sano,2,0,0,0,1,0,0.7,51,2.8,0,-1,2
+Mendy,N. Mendy,20328,2025/26,26,Rayo,Defensa,12.0,21,SN,80%,Sano,15,2,0,0,4,1,1.3,81,5.4,4,18,2
+Mendy,F. Mendy,20330,2025/26,26,Real Madrid,Defensa,2.0,30,FR,10%,Sano,1,0,0,0,0,0,-1,1,1,0,0,0
+Mendy,Mendy,20329,2025/26,26,Sevilla,Mediocampista,10.0,26,FR,70%,Sano,20,1,0,0,6,0,0.9,69,3.5,2,1,3
+Miguel Rubio,Miguel Rubio,20324,2025/26,26,Espanyol,Defensa,4.0,27,ES,5%,Sano,8,1,0,0,0,0,-1,23,2.9,0,0,0
+Mikautadze,Mikautadze,20323,2025/26,26,Villarreal,Delantero,19.0,25,GE,80%,Sano,20,8,4,0,1,0,1.8,131,6.6,1,12,10
+Militão,E. Militao,20330,2025/26,26,Real Madrid,Defensa,13.0,28,BR,0%,Lesionado/Duda,13,1,1,0,2,0,-1,86,6.6,0,0,0
+Mingueza,O. Mingueza,20325,2025/26,26,Celta,Defensa,10.0,26,ES,70%,Sano,21,1,2,0,3,0,1,85,4,0,2,1
+Moi Gómez,Moi Gómez,20332,2025/26,26,Osasuna,Mediocampista,8.0,31,ES,20%,Sano,17,0,0,0,1,0,-1,62,3.6,0,0,2
+Mojica,J. Mojica,20327,2025/26,26,Mallorca,Defensa,10.0,33,CO,70%,Sano,25,0,3,0,4,0,0.8,84,3.4,-2,1,0
+Moldovan,Moldovan,20331,2025/26,26,Real Oviedo,Portero,1.0,28,RO,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Moleiro,A. Moleiro,20323,2025/26,26,Villarreal,Mediocampista,23.0,22,ES,90%,Sano,24,9,4,0,2,0,1.2,169,7,5,5,0
+Molina,Molina,20331,2025/26,26,Atlético,Defensa,7.0,27,AR,70%,Sano,17,0,1,0,1,0,1,55,3.2,1,4,0
+Moncayola,Moncayola,20332,2025/26,26,Osasuna,Mediocampista,12.0,27,ES,80%,Sano,23,0,4,0,6,0,1,112,4.9,2,2,0
+Morales,A. J. Morales,20326,2025/26,26,Levante,Delantero,5.0,38,ES,10%,Sano,17,1,1,0,1,0,-1,46,2.7,0,0,0
+Moreno,Matías Moreno,20326,2025/26,26,Levante,Defensa,10.0,22,AR,70%,Sano,16,0,0,0,4,0,0.6,69,4.3,0,4,-1
+Morey,Morey,20327,2025/26,26,Mallorca,Defensa,6.0,25,ES,30%,Sano,14,1,0,0,2,0,1,29,2.1,0,0,2
+Moriba,Ilaix Moriba,20325,2025/26,26,Celta,Mediocampista,9.0,23,GN,70%,Sano,25,0,1,0,4,0,1.2,78,3.1,2,2,2
+Morlanes,Morlanes,20327,2025/26,26,Mallorca,Mediocampista,8.0,27,ES,50%,Sano,19,1,0,0,4,1,1,60,3.2,0,2,2
+Mouriño,Mouriño,20323,2025/26,26,Villarreal,Defensa,12.0,24,UY,90%,Sano,18,0,1,0,9,1,1,86,4.8,4,8,0
+Mumin,A. Mumin,20328,2025/26,26,Rayo,Defensa,1.0,27,GH,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Muriqi,Muriqi,20327,2025/26,26,Mallorca,Delantero,21.0,31,XK,95%,Sano,24,16,1,0,3,1,0.8,157,6.5,2,7,0
+Musso,J. Musso,20331,2025/26,26,Atlético,Portero,9.0,31,AR,5%,Sano,1,0,0,0,1,0,-1,8,8,0,0,0
+N. Williams,Nico Williams,20328,2025/26,26,Athletic,Delantero,19.0,23,ES,0%,Lesionado/Duda,19,4,2,0,1,0,2,121,6.4,0,0,7
+Nacho Vidal,Nacho Vidal,20331,2025/26,26,Real Oviedo,Defensa,9.0,31,ES,90%,Sano,16,0,0,0,2,0,1,53,3.3,1,2,6
+Natan,Natan,20329,2025/26,26,Betis,Defensa,16.0,25,BR,80%,Sano,23,0,0,0,5,0,1.6,131,5.7,5,6,8
+Navarro,Navarro,20328,2025/26,26,Athletic,Mediocampista,8.0,23,ES,30%,Sano,21,5,1,0,1,0,1.3,89,4.2,2,2,8
+Ngongé,Ngonge,20324,2025/26,26,Espanyol,Delantero,6.0,25,BE,30%,Sano,3,0,1,0,1,0,1,14,4.7,0,6,8
+Nianzou,Nianzou,20329,2025/26,26,Sevilla,Defensa,5.0,23,FR,0%,Sano,9,0,0,0,5,0,1.5,23,2.6,2,5,0
+Nteka,Nteka,20328,2025/26,26,Rayo,Delantero,3.0,28,AO,0%,Sano,8,0,0,0,0,0,1,14,1.8,1,1,0
+Nyland,Nyland,20329,2025/26,26,Sevilla,Portero,6.0,35,NO,5%,Sano,4,0,0,0,1,0,-1,16,4,0,0,0
+Nyom,Nyom,20330,2025/26,26,Getafe,Defensa,3.0,37,CM,10%,Sano,10,0,0,0,4,1,-1,7,0.7,0,1,1
+Núñez,Núñez,20332,2025/26,26,Valencia,Defensa,8.0,29,ES,80%,Sano,3,0,0,0,1,0,1.3,13,4.3,-2,10,5
+Oblak,Oblak,20331,2025/26,26,Atlético,Portero,22.0,33,SI,95%,Sano,24,0,0,0,0,0,0.9,164,6.8,0,7,7
+Odriozola,Odriozola,20327,2025/26,26,Real Sociedad,Defensa,6.0,30,ES,0%,Lesionado/Duda,5,1,0,0,0,0,1.5,22,4.4,2,0,3
+Olasagasti,Olasagasti,20326,2025/26,26,Levante,Mediocampista,7.0,25,ES,70%,Sano,21,1,2,0,3,0,1.4,57,2.7,3,2,2
+Olmo,Dani Olmo,20323,2025/26,26,Barcelona,Mediocampista,25.0,27,ES,50%,Sano,20,6,6,0,0,0,1.3,154,7.7,5,9,16
+Oluwaseyi,Oluwaseyi,20323,2025/26,26,Villarreal,Delantero,6.0,25,CA,30%,Sano,20,2,1,0,1,0,1,57,2.9,0,2,0
+Oriol Rey,O. Rey,20326,2025/26,26,Levante,Mediocampista,7.0,28,ES,40%,Sano,13,0,0,0,2,0,1,38,2.9,2,0,0
+Oroz,Aimar,20332,2025/26,26,Osasuna,Mediocampista,10.0,24,ES,0%,Sano,19,0,2,0,5,0,1.4,85,4.5,3,9,3
+Ortiz,Á. Ortiz,20329,2025/26,26,Betis,Defensa,5.0,21,ES,20%,Sano,11,0,0,0,1,0,1,28,2.5,3,2,0
+Osambela,A. Osambela,20332,2025/26,26,Osasuna,Mediocampista,5.0,21,ES,10%,Sano,10,1,0,0,1,0,1,27,2.7,0,0,3
+Oso,Oso,20329,2025/26,26,Sevilla,Defensa,7.0,22,ES,10%,Lesionado/Duda,8,0,1,0,1,0,2,28,3.5,0,0,3
+Ounahi,Ounahi,20325,2025/26,26,Girona,Mediocampista,15.0,25,MA,50%,Sano,11,3,2,0,6,0,2,87,7.9,10,0,0
+Oyarzabal,Oyarzabal,20327,2025/26,26,Real Sociedad,Delantero,24.0,28,ES,95%,Sano,22,10,3,0,2,0,1.3,158,7.2,4,6,9
+P. Gueye,Gueye,20323,2025/26,26,Villarreal,Mediocampista,13.0,27,SN,80%,Sano,19,3,1,0,7,0,1.6,101,5.3,13,6,3
+Pablo García,Pablo García,20329,2025/26,26,Betis,Delantero,5.0,19,ES,0%,Sano,14,0,0,0,1,0,-1,31,2.2,0,0,0
+Pablo Martínez,P. Martínez,20326,2025/26,26,Levante,Mediocampista,10.0,28,ES,0%,Lesionado/Duda,17,1,2,0,2,0,1,84,4.9,0,0,8
+Pablo Torre,Pablo Torre,20327,2025/26,26,Mallorca,Mediocampista,7.0,22,ES,30%,Sano,23,1,2,0,2,0,1.2,61,2.7,0,2,1
+Pacheco,Pacheco,20326,2025/26,26,Alavés,Defensa,10.0,25,ES,50%,Sano,18,0,0,0,3,0,1,73,4.1,0,5,0
+Padilla,Padilla,20328,2025/26,26,Athletic,Portero,1.0,22,MX,5%,Sano,0,0,0,0,0,1,-1,-3,0,0,0,0
+Pampín,Pampin,20326,2025/26,26,Levante,Mediocampista,6.0,25,ES,30%,Sano,6,0,0,0,2,0,1,19,3.2,0,4,0
+Parada,V. Parada,20326,2025/26,26,Alavés,Defensa,8.0,23,ES,50%,Sano,18,0,2,0,6,0,2,41,2.3,10,0,0
+Paredes,Paredes,20328,2025/26,26,Athletic,Defensa,12.0,25,ES,30%,Sano,17,1,0,0,4,0,1,83,4.9,0,4,6
+Parejo,Parejo,20323,2025/26,26,Villarreal,Mediocampista,8.0,36,ES,40%,Sano,21,0,0,0,2,0,0.5,65,3.1,2,0,2
+Pathé Ciss,Pathé I. Ciss,20328,2025/26,26,Rayo,Mediocampista,10.0,31,SN,50%,Sano,17,1,0,0,4,2,0.8,68,4,2,0,1
+Pau López,Pau López,20329,2025/26,26,Betis,Portero,10.0,31,ES,30%,Sano,8,0,0,1,1,0,-1,56,7,0,0,0
+Pau Navarro,Pau Navarro,20323,2025/26,26,Villarreal,Defensa,9.0,20,ES,80%,Sano,13,0,0,0,3,0,1.2,47,3.6,5,12,0
+Pedraza,A. Pedraza,20323,2025/26,26,Villarreal,Defensa,9.0,29,ES,50%,Sano,19,1,2,0,5,0,1,80,4.2,4,4,2
+Pedri,Pedri,20323,2025/26,26,Barcelona,Mediocampista,23.0,23,ES,70%,Sano,17,2,5,0,2,1,1.5,127,7.5,3,0,0
+Pedro Díaz,Pedro Díaz,20328,2025/26,26,Rayo,Mediocampista,8.0,27,ES,25%,Sano,21,0,0,0,1,0,1.2,51,2.4,1,2,3
+Pedrosa,Pedrosa,20324,2025/26,26,Elche,Defensa,7.0,27,ES,40%,Sano,16,1,1,0,4,0,0.9,44,2.6,2,0,1
+Pep Chavarría,Chavarría,20328,2025/26,26,Rayo,Defensa,11.0,27,ES,50%,Sano,23,1,2,0,6,1,1.1,99,4.3,2,0,-2
+Pepelu,Pepelu,20332,2025/26,26,Valencia,Mediocampista,11.0,27,ES,30%,Sano,22,2,0,0,3,0,1,102,4.6,0,2,6
+Peque,Peque,20329,2025/26,26,Sevilla,Delantero,7.0,23,ES,30%,Sano,21,2,1,0,7,0,1,63,3,1,0,2
+Pere Milla,Pere Milla,20324,2025/26,26,Espanyol,Delantero,11.0,33,ES,50%,Sano,23,6,0,0,4,1,0.9,108,4.7,1,3,4
+Peña,Iñaki Peña,20324,2025/26,26,Elche,Portero,20.0,26,ES,40%,Sano,16,0,0,0,0,0,1,102,6.4,0,0,5
+Pickel,Pickel,20324,2025/26,26,Espanyol,Mediocampista,5.0,28,CD,40%,Sano,15,0,0,0,1,0,1.3,34,2.3,0,2,2
+Prados,Prados,20328,2025/26,26,Athletic,Mediocampista,4.0,25,ES,0%,Lesionado/Duda,2,0,0,0,1,0,-1,6,3,0,0,0
+Primo,A. Primo,20326,2025/26,26,Levante,Portero,1.0,21,ES,0%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Protesoni,Protesoni,20326,2025/26,26,Alavés,Mediocampista,4.0,27,UY,20%,Sano,7,0,0,0,2,1,-1,15,2.1,0,0,0
+Puado,Puado,20324,2025/26,26,Espanyol,Mediocampista,8.0,27,ES,0%,Lesionado/Duda,10,2,0,0,2,0,-1,42,4.2,0,0,0
+Pubill,Marc Pubill,20331,2025/26,26,Atlético,Defensa,10.0,22,ES,50%,Sano,11,0,1,0,1,0,2.5,73,6.6,5,0,0
+Pépé,Pepe,20323,2025/26,26,Villarreal,Delantero,18.0,30,CI,80%,Sano,24,3,4,0,3,0,1.6,144,6,5,12,1
+Pétrot,Léo Pétrot,20324,2025/26,26,Elche,Defensa,7.0,28,FR,50%,Sano,22,0,0,0,1,0,1.2,49,2.2,2,7,1
+R. de Galarreta,De Galarreta,20328,2025/26,26,Athletic,Mediocampista,11.0,32,ES,90%,Sano,23,1,1,0,9,0,1.7,99,4.3,7,2,11
+Raba,Raba,20332,2025/26,26,Valencia,Delantero,5.0,30,ES,0%,Sano,11,0,1,0,0,0,-1,29,2.6,0,0,0
+Radu,Ionut Radu,20325,2025/26,26,Celta,Portero,23.0,28,RO,95%,Sano,25,0,0,2,0,0,1.2,175,7,9,3,1
+Rafa Marín,Rafa Marín,20323,2025/26,26,Villarreal,Defensa,16.0,23,ES,30%,Sano,16,1,0,0,1,0,1,91,5.7,0,11,0
+Rafa Mir,Rafa Mir,20324,2025/26,26,Elche,Delantero,11.0,28,ES,50%,Sano,20,6,0,0,1,0,1,93,4.7,1,1,0
+Raghouber,Raghouber,20326,2025/26,26,Levante,Mediocampista,8.0,22,FR,50%,Sano,5,0,0,0,0,0,1,15,3,0,4,0
+Ramazani,Ramazani,20332,2025/26,26,Valencia,Delantero,6.0,25,BE,70%,Sano,14,3,1,0,3,0,1.7,46,3.3,8,12,1
+Raphinha,Raphinha,20323,2025/26,26,Barcelona,Delantero,22.0,29,BR,90%,Sano,16,8,3,0,2,0,2,132,8.3,5,5,0
+Rashford,Rashford,20323,2025/26,26,Barcelona,Delantero,14.0,28,EN,30%,Sano,21,4,6,0,2,0,3,121,5.8,0,0,4
+Ratiu,Ratiu,20328,2025/26,26,Rayo,Defensa,19.0,27,RO,90%,Sano,21,0,3,0,6,0,2,130,6.2,14,15,-1
+Raul Moro,Raúl Moro,20332,2025/26,26,Osasuna,Delantero,9.0,23,ES,60%,Sano,4,0,2,0,0,0,1.3,24,6,8,2,10
+Raíllo,Raíllo,20327,2025/26,26,Mallorca,Defensa,10.0,34,ES,90%,Sano,19,0,1,0,3,0,1,70,3.7,-2,0,0
+Raúl F.,Raúl Fernández,20326,2025/26,26,Alavés,Portero,1.0,37,ES,5%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Rebbach,A. Rebbach,20326,2025/26,26,Alavés,Delantero,7.0,27,DZ,20%,Sano,19,0,0,0,4,0,1,55,2.9,0,0,2
+Redondo,Redondo,20324,2025/26,26,Elche,Mediocampista,3.0,23,AR,5%,Sano,7,0,0,0,0,1,-1,11,1.6,0,0,0
+Rego,Rego,20328,2025/26,26,Athletic,Defensa,6.0,22,ES,30%,Sano,17,1,0,0,4,0,1,39,2.3,4,0,-2
+Reina,A. Reina,20331,2025/26,26,Real Oviedo,Mediocampista,10.0,28,ES,80%,Sano,23,2,0,0,4,1,1.3,79,3.4,5,3,6
+Remiro,Remiro,20327,2025/26,26,Real Sociedad,Portero,12.0,30,ES,95%,Sano,25,0,0,0,0,0,1.3,121,4.8,2,-1,5
+Riedel,Riedel,20324,2025/26,26,Espanyol,Defensa,8.0,22,DE,30%,Sano,12,0,1,0,3,0,0.7,43,3.6,2,5,-2
+Rincón,H. Rincón,20325,2025/26,26,Girona,Defensa,9.0,23,ES,90%,Sano,22,0,1,0,2,0,1.2,58,2.6,1,4,7
+Rioja,Rioja,20332,2025/26,26,Valencia,Mediocampista,13.0,32,ES,50%,Sano,24,2,4,0,1,0,1.3,123,5.1,3,11,4
+Riquelme,Riquelme,20329,2025/26,26,Betis,Mediocampista,6.0,25,ES,20%,Sano,18,0,1,0,1,0,1.1,47,2.6,2,0,2
+Ristic,Ristic,20325,2025/26,26,Celta,Defensa,5.0,30,RS,40%,Sano,4,0,0,0,0,0,-1,13,3.3,0,0,0
+Rivero,C. Rivero,20332,2025/26,26,Valencia,Portero,1.0,27,ES,5%,Sano,0,0,0,0,0,1,-1,-3,0,0,0,0
+Roberto,Roberto,20324,2025/26,26,Espanyol,Delantero,10.0,23,ES,50%,Sano,25,5,2,0,1,0,0.7,112,4.5,1,2,-1
+Roca,A. Roca,20324,2025/26,26,Espanyol,Mediocampista,3.0,23,ES,10%,Lesionado/Duda,8,0,0,0,1,0,1,10,1.3,0,0,1
+Roca,Joel Roca,20325,2025/26,26,Girona,Delantero,7.0,20,ES,30%,Sano,20,1,1,0,3,1,0.7,52,2.6,0,4,1
+Rodrygo,Rodrygo,20330,2025/26,26,Real Madrid,Delantero,8.0,25,BR,40%,Lesionado/Duda,18,1,3,0,3,0,-1,90,5,0,0,0
+Rodríguez,Rodríguez,20329,2025/26,26,Betis,Defensa,9.0,33,CH,90%,Sano,17,0,1,0,0,0,1.3,68,4,1,3,8
+Romero,C. Romero,20324,2025/26,26,Espanyol,Defensa,14.0,24,ES,95%,Sano,23,4,2,0,2,0,0.6,121,5.3,-1,2,0
+Romero,Zaid Romero,20330,2025/26,26,Getafe,Defensa,25.0,26,AR,90%,Sano,5,0,0,0,1,0,1.5,37,7.4,9,5,10
+Romero,Isaac,20329,2025/26,26,Sevilla,Delantero,8.0,25,ES,30%,Sano,18,3,0,0,3,1,1,53,2.9,0,2,0
+Román,M. Román,20325,2025/26,26,Celta,Mediocampista,10.0,23,ES,70%,Sano,17,1,0,0,3,0,1.4,84,4.9,6,5,8
+Rosier,V. Rosier,20332,2025/26,26,Osasuna,Defensa,10.0,29,FR,90%,Sano,18,0,1,0,4,1,1.5,75,4.2,6,7,3
+Rubén G.,Rubén García,20332,2025/26,26,Osasuna,Mediocampista,15.0,32,ES,90%,Sano,23,2,5,0,4,0,1.4,127,5.5,6,4,1
+Rubén Sánchez,Rubén S.,20324,2025/26,26,Espanyol,Mediocampista,6.0,25,ES,20%,Sano,13,0,0,0,2,0,-1,38,2.9,0,0,0
+Rubén,Rubén Blanco,20325,2025/26,26,Girona,Portero,1.0,30,ES,30%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Rueda,Javi Rueda,20325,2025/26,26,Celta,Defensa,10.0,23,ES,30%,Sano,18,2,4,0,4,0,1.2,104,5.8,7,8,1
+Ruggeri,Ruggeri,20331,2025/26,26,Atlético,Defensa,10.0,23,IT,40%,Sano,18,0,2,0,3,0,0.9,92,5.1,14,0,0
+Ruibal,Aitor Ruibal,20329,2025/26,26,Betis,Delantero,10.0,29,ES,70%,Sano,20,4,1,0,3,0,1.5,99,5,4,4,5
+Ryan,Ryan,20326,2025/26,26,Levante,Portero,19.0,33,AU,95%,Sano,23,0,0,1,2,0,1.4,142,6.2,7,7,1
+Rüdiger,Rüdiger,20330,2025/26,26,Real Madrid,Defensa,9.0,32,DE,70%,Sano,8,0,0,0,0,0,2,44,5.5,0,3,0
+S. Amrabat,Amrabat,20329,2025/26,26,Betis,Mediocampista,7.0,29,MA,0%,Lesionado/Duda,8,0,0,0,3,0,-1,32,4,0,0,0
+S. Cardona,Cardona,20323,2025/26,26,Villarreal,Defensa,10.0,26,ES,50%,Sano,20,0,3,0,3,0,1,85,4.3,4,8,0
+Sadiq,Sadiq,20332,2025/26,26,Valencia,Delantero,5.0,29,NG,70%,Sano,7,1,0,0,2,0,1.7,29,2.4,2,8,1
+Salas,Jan Salas,20327,2025/26,26,Mallorca,Mediocampista,3.0,20,ES,0%,Lesionado/Duda,2,0,0,0,0,0,-1,4,2,0,0,0
+Salinas,Salias,20324,2025/26,26,Espanyol,Defensa,3.0,25,ES,5%,Sano,9,0,0,0,2,0,0,6,0.7,0,0,-5
+Samú,Samu Costa,20327,2025/26,26,Mallorca,Mediocampista,10.0,25,PT,90%,Sano,22,4,0,0,8,0,1.1,90,4.1,2,0,5
+Sancet,O. Sancet,20328,2025/26,26,Athletic,Mediocampista,9.0,25,ES,80%,Sano,18,2,0,0,2,1,1.4,61,3.4,4,9,0
+Sancris,Álex Sancris,20330,2025/26,26,Getafe,Delantero,6.0,29,ES,10%,Sano,15,0,1,0,3,1,-1,36,2.4,0,0,0
+Sangaré,B. Sangare,20324,2025/26,26,Elche,Defensa,0.4,18,ES,40%,Sano,1,0,0,0,0,0,1,0,0,N/A,0,0
+Sannadi,Maroan,20328,2025/26,26,Athletic,Delantero,4.0,25,MA,0%,Lesionado/Duda,8,1,0,0,1,0,-1,17,2.1,0,0,0
+Santamaria,Santamaría,20332,2025/26,26,Valencia,Mediocampista,7.0,30,FR,10%,Sano,19,1,1,0,2,0,-1,58,3.1,0,2,0
+Santiago,Y. Santiago,20324,2025/26,26,Elche,Mediocampista,4.0,22,ES,0%,Sano,8,0,0,0,1,1,-1,19,2.4,0,2,0
+Satriano,Satriano,20330,2025/26,26,Getafe,Delantero,12.0,25,UY,80%,Sano,6,1,0,0,2,0,1.5,30,5,7,9,7
+Selton,Selton,20328,2025/26,26,Athletic,Mediocampista,4.0,19,ES,10%,Sano,5,0,1,0,0,0,1,13,2.6,0,0,5
+Sergio Gómez,Sergio Gómez,20327,2025/26,26,Real Sociedad,Defensa,11.0,25,ES,90%,Sano,23,0,2,0,2,0,1.7,109,4.7,10,0,5
+Serrano,Nico Serrano,20328,2025/26,26,Athletic,Delantero,5.0,22,ES,20%,Sano,11,1,0,0,0,0,1.6,35,3.2,0,3,13
+Sibo,Sibo,20331,2025/26,26,Real Oviedo,Mediocampista,8.0,27,GH,80%,Sano,15,0,0,0,2,0,1.4,42,2.8,2,4,5
+Sivera,Sivera,20326,2025/26,26,Alavés,Portero,11.0,29,ES,95%,Sano,25,0,0,0,0,0,1.4,118,4.7,2,5,5
+Soria,David Soria,20330,2025/26,26,Getafe,Portero,16.0,32,ES,95%,Sano,25,0,0,0,2,0,1.4,140,5.6,2,3,12
+Sotelo,Hugo Sotelo,20325,2025/26,26,Celta,Mediocampista,9.0,22,ES,20%,Lesionado/Duda,14,0,1,0,2,0,-1,65,4.6,0,0,0
+Sow,Sow,20329,2025/26,26,Sevilla,Mediocampista,11.0,29,CH,80%,Sano,21,4,0,0,3,0,1.6,90,4.3,13,12,2
+Starfelt,Starfelt,20325,2025/26,26,Celta,Defensa,15.0,30,SE,50%,Sano,17,0,0,0,3,1,1.3,95,5.6,0,4,2
+Stuani,Stuani,20325,2025/26,26,Girona,Delantero,5.0,39,UY,10%,Sano,13,3,0,0,2,0,0.4,36,2.8,1,0,-1
+Suazo,Suazo,20329,2025/26,26,Sevilla,Defensa,10.0,28,CL,90%,Sano,18,0,1,0,4,0,0.7,75,4.2,4,3,-1
+Sucic,Sucic,20327,2025/26,26,Real Sociedad,Mediocampista,6.0,23,HR,40%,Sano,10,1,0,0,1,0,1.5,32,3.2,0,0,8
+Swedberg,Williot,20325,2025/26,26,Celta,Mediocampista,8.0,22,SE,40%,Sano,18,3,1,0,1,0,1.5,70,3.9,7,2,4
+Szczesny,Szczesny,20323,2025/26,26,Barcelona,Portero,8.0,35,PL,5%,Sano,6,0,0,1,0,0,-1,32,5.3,0,0,0
+Sörloth,Sørloth,20331,2025/26,26,Atlético,Delantero,11.0,30,NO,50%,Sano,24,9,0,0,3,1,1.5,109,4.5,14,1,3
+Tchouaméni,Tchouaméni,20330,2025/26,26,Real Madrid,Mediocampista,15.0,26,FR,90%,Sano,22,0,0,0,5,0,1.9,118,5.4,5,4,9
+Tenaglia,Tenaglia,20326,2025/26,26,Alavés,Defensa,11.0,30,AR,90%,Sano,23,1,0,0,2,0,1.4,109,4.7,4,5,-1
+Tenas,Arnau Tenas,20323,2025/26,26,Villarreal,Portero,4.0,24,ES,10%,Sano,3,0,0,0,0,0,-1,7,2.3,0,0,0
+Ter Stegen,Ter Stegen,20325,2025/26,26,Girona,Portero,7.0,33,DE,0%,Lesionado/Duda,2,0,0,0,0,0,-1,12,6,0,0,0
+Terrats,R. Terrats,20324,2025/26,26,Espanyol,Mediocampista,6.0,25,ES,40%,Sano,17,1,1,0,0,0,1.2,59,3.5,1,8,0
+Tete Morente,T. Morente,20324,2025/26,26,Elche,Delantero,7.0,29,ES,50%,Sano,2,0,0,0,1,0,1,5,2.5,4,1,0
+Thiago,Thiago Pitarch,20330,2025/26,26,Real Madrid,Mediocampista,1.0,2026,N/A,30%,Sano,0,0,0,0,0,0,-1,0,0,0,0,0
+Thiago,Thiago Fernánd...,20331,2025/26,26,Real Oviedo,Mediocampista,4.0,21,AR,30%,Sano,3,0,1,0,1,0,1.4,7,2.3,0,-1,8
+Thierry,Thierry Correia,20332,2025/26,26,Valencia,Defensa,7.0,26,PT,40%,Sano,16,0,1,0,3,0,0.8,36,2.3,2,0,2
+Thomas,Thomas Partey,20323,2025/26,26,Villarreal,Mediocampista,7.0,32,GH,20%,Sano,16,0,0,0,0,0,1,47,2.9,2,2,0
+Toljan,Jeremy Toljan,20326,2025/26,26,Levante,Defensa,9.0,31,DE,80%,Sano,24,1,3,0,6,0,1.3,70,2.9,-1,1,0
+Toni Martinez,T. Martinez,20326,2025/26,26,Alavés,Delantero,11.0,28,ES,80%,Sano,24,5,2,0,1,0,1.1,111,4.6,1,11,2
+Torró,Torró,20332,2025/26,26,Osasuna,Mediocampista,10.0,31,ES,80%,Sano,23,0,1,0,6,0,1.6,80,3.5,6,5,0
+Trejo,Trejo,20328,2025/26,26,Rayo,Mediocampista,3.0,37,AR,10%,Sano,5,0,0,0,2,0,-1,7,1.4,0,0,0
+Tsygankov,Tsygankov,20325,2025/26,26,Girona,Delantero,18.0,28,UA,90%,Sano,19,5,2,0,1,0,1.9,113,5.9,12,4,4
+Tunde,K. Tunde,20326,2025/26,26,Levante,Mediocampista,7.0,20,ES,50%,Sano,9,0,0,0,1,0,1.4,17,1.9,0,2,1
+Turrientes,Turrientes,20327,2025/26,26,Real Sociedad,Mediocampista,7.0,24,ES,40%,Sano,16,0,1,0,4,0,1.1,47,2.9,2,1,7
+Tárrega,Tárrega,20332,2025/26,26,Valencia,Defensa,10.0,24,ES,80%,Sano,21,0,0,0,6,0,1,85,4,0,7,0
+Ugrinic,Ugrinic,20332,2025/26,26,Valencia,Mediocampista,8.0,27,CH,70%,Sano,15,0,3,0,3,0,1,63,4.2,2,0,5
+Unai Gómez,Unai G.,20328,2025/26,26,Athletic,Mediocampista,5.0,22,ES,50%,Sano,17,1,1,0,1,0,1.3,33,1.9,0,2,0
+Unai López,Unai Lopez,20328,2025/26,26,Rayo,Mediocampista,10.0,30,ES,25%,Sano,17,0,3,0,6,1,-1,85,5,0,2,0
+Unai Simón,Unai Simón,20328,2025/26,26,Athletic,Portero,16.0,28,ES,95%,Sano,25,0,0,1,0,0,1,143,5.7,5,4,2
+Urko,Urko,20324,2025/26,26,Espanyol,Mediocampista,9.0,24,ES,70%,Sano,23,0,1,0,3,0,1.3,69,2.9,1,3,0
+Valentín Gómez,Valentín Gómez,20329,2025/26,26,Betis,Defensa,9.0,22,AR,0%,Sano,18,1,0,0,5,0,1,67,3.7,0,0,0
+Valentín,Óscar Valentín,20328,2025/26,26,Rayo,Mediocampista,11.0,31,ES,70%,Sano,21,1,0,0,2,1,1.3,89,4.2,4,13,0
+Valera,German V.,20324,2025/26,26,Elche,Mediocampista,18.0,23,ES,90%,Sano,24,4,3,0,2,0,1.9,146,6.1,5,7,1
+Valjent,Valjent,20327,2025/26,26,Mallorca,Defensa,10.0,30,SK,95%,Sano,25,0,0,0,2,0,1.2,90,3.6,2,1,2
+Valles,Á. Valles,20329,2025/26,26,Betis,Portero,23.0,28,ES,70%,Sano,17,0,0,1,1,0,1.3,118,6.9,5,4,12
+Valverde,Valverde,20330,2025/26,26,Real Madrid,Mediocampista,24.0,27,UY,90%,Sano,24,1,7,0,2,0,1.5,173,7.2,10,13,8
+Van de Beek,Van De Beek,20325,2025/26,26,Girona,Mediocampista,3.0,28,NL,0%,Lesionado/Duda,2,0,0,0,0,0,-1,4,2,0,0,0
+Vanat,Vanat,20325,2025/26,26,Girona,Delantero,13.0,24,UA,70%,Lesionado/Duda,22,8,1,0,4,0,1.6,112,5.1,8,11,1
+Vargas,Obed Vargas,20331,2025/26,26,Atlético,Mediocampista,5.0,20,MX,50%,Sano,2,0,0,0,0,0,1,4,2,0,2,2
+Vargas,Vargas,20329,2025/26,26,Sevilla,Delantero,10.0,27,CH,0%,Lesionado/Duda,13,3,4,0,1,0,-1,82,6.3,0,0,0
+Vecino,Vecino,20325,2025/26,26,Celta,Mediocampista,5.0,34,UY,30%,Sano,2,0,0,0,0,0,1.1,6,3,4,2,0
+Veiga,Renato Veiga,20323,2025/26,26,Villarreal,Defensa,10.0,22,PT,90%,Sano,22,0,0,0,3,1,1.1,80,3.6,4,2,-3
+Vencedor,Vencedor,20326,2025/26,26,Levante,Mediocampista,7.0,25,ES,40%,Sano,15,0,0,0,3,1,1,37,2.5,0,4,4
+Vertrouwd,J. Vertrouwd,20328,2025/26,26,Rayo,Defensa,3.0,21,NL,5%,Sano,7,0,0,0,0,0,1,6,0.9,0,2,0
+Vesga,Vesga,20328,2025/26,26,Athletic,Mediocampista,4.0,32,ES,10%,Sano,15,0,0,0,0,0,1,30,2,2,2,0
+Villar,G. Villar,20324,2025/26,26,Elche,Mediocampista,1.0,27,ES,20%,Sano,1,0,0,0,1,0,1,0,0,0,0,0
+Vinicius,Vini Jr.,20330,2025/26,26,Real Madrid,Delantero,27.0,25,BR,95%,Sano,24,9,5,0,6,0,2.1,186,7.8,8,18,0
+Virgili,Jan Virgili,20327,2025/26,26,Mallorca,Delantero,14.0,19,ES,70%,Sano,20,0,4,0,0,0,1.2,100,5,4,3,5
+Vitor Reis,Vitor Reis,20325,2025/26,26,Girona,Defensa,12.0,20,BR,95%,Sano,24,1,1,0,4,1,1.3,118,4.9,4,5,3
+Vivian,Vivian,20328,2025/26,26,Athletic,Defensa,10.0,26,ES,90%,Sano,20,0,0,0,6,1,1.5,81,4.1,6,0,0
+Viñas,F. Viñas,20331,2025/26,26,Real Oviedo,Delantero,12.0,27,UY,70%,Sano,20,5,1,0,4,3,2.1,99,5,17,7,5
+Vlachodimos,Vlachodimos,20329,2025/26,26,Sevilla,Portero,15.0,31,GR,95%,Sano,21,0,0,1,2,0,1.6,115,5.5,12,2,12
+Víctor García,Víctor G.,20326,2025/26,26,Levante,Defensa,5.0,28,ES,50%,Sano,12,0,0,0,0,0,1,32,2.7,-2,2,0
+Víctor Muñoz,Víctor Muñoz,20332,2025/26,26,Osasuna,Delantero,14.0,22,ES,90%,Sano,25,4,1,0,2,0,1.6,130,5.2,8,2,3
+Wesley,Wesley,20327,2025/26,26,Real Sociedad,Mediocampista,2.0,20,BR,20%,Sano,2,0,0,0,0,0,0,0,0,0,0,0
+Witsel,Witsel,20325,2025/26,26,Girona,Mediocampista,11.0,37,BE,70%,Sano,19,1,1,0,3,1,1.6,81,4.3,10,3,1
+Yamal,Lamine Yamal,20323,2025/26,26,Barcelona,Delantero,48.0,18,ES,95%,Sano,21,10,9,0,0,0,1.4,247,11.8,10,5,11
+Youssef,Youssef,20326,2025/26,26,Alavés,Defensa,8.0,20,MA,50%,Sano,19,0,1,0,3,0,1.7,58,3.1,9,3,3
+Yuri,Yuri,20328,2025/26,26,Athletic,Defensa,14.0,36,ES,90%,Sano,22,0,3,0,3,0,1.6,115,5.2,12,10,4
+Zakharyan,Zakharyan,20327,2025/26,26,Real Sociedad,Mediocampista,4.0,22,RU,10%,Sano,13,0,0,0,1,0,1,21,1.6,2,0,0
+Zubeldia,Zubeldia,20327,2025/26,26,Real Sociedad,Defensa,10.0,28,ES,50%,Sano,19,0,1,0,7,0,1.4,76,4,0,-2,5
+Á. Núñez,Álvaro Nuñez,20325,2025/26,26,Celta,Defensa,16.0,25,ES,10%,Sano,N/A,N/A,N/A,N/A,N/A,N/A,-1,108,5.7,0,0,0
+Álex Moreno,Alex Moreno,20325,2025/26,26,Girona,Defensa,11.0,32,ES,0%,Lesionado/Duda,21,0,3,0,4,0,-1,88,4.2,0,0,0
+Álvaro García,Álvaro García,20328,2025/26,26,Rayo,Mediocampista,11.0,33,ES,50%,Sano,24,3,4,0,3,0,1.3,111,4.6,2,6,10
+Ángel Pérez,Ángel Pérez,20326,2025/26,26,Alavés,Delantero,6.0,23,ES,50%,Sano,3,0,0,0,0,0,1.7,6,2,1,2,3
+Óskarsson,Oskarsson,20327,2025/26,26,Real Sociedad,Delantero,6.0,21,IS,50%,Sano,9,4,0,0,0,0,1.9,39,4.3,14,1,7

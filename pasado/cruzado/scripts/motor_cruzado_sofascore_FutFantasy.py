@@ -45,12 +45,24 @@ def cargar_diccionario():
     diccionario_base = {}
     if os.path.exists(RUTA_DICCIONARIO):
         df_alias = pd.read_csv(RUTA_DICCIONARIO)
+        
+        # 🚨 LA CURA: Limpiamos los nombres de las columnas para evitar espacios invisibles
+        df_alias.columns = df_alias.columns.str.strip()
+        
+        # Comprobamos cómo se llama la columna
+        columna_fantasy = 'FutFantasy' if 'FutFantasy' in df_alias.columns else 'Fantasy'
+        
+        if columna_fantasy not in df_alias.columns:
+            print(f"⚠️ ERROR: No se encontró la columna {columna_fantasy} en el diccionario.")
+            return diccionario_base
+            
         for _, fila in df_alias.iterrows():
             if 'Equipo' in df_alias.columns and not pd.isna(fila['Equipo']):
-                clave = f"{str(fila['Equipo']).strip()}_{str(fila['Fantasy']).strip()}"
+                clave = f"{str(fila['Equipo']).strip()}_{str(fila[columna_fantasy]).strip()}"
             else:
-                clave = str(fila['Fantasy']).strip()
+                clave = str(fila[columna_fantasy]).strip()
             diccionario_base[clave] = str(fila['SofaScore']).strip()
+            
     return diccionario_base
 
 def guardar_alias(equipo, nom_fantasy, nom_sofascore):
@@ -58,14 +70,22 @@ def guardar_alias(equipo, nom_fantasy, nom_sofascore):
     if clave in ALIAS_JUGADORES and ALIAS_JUGADORES[clave] == nom_sofascore:
         return
         
-    nuevo_alias = pd.DataFrame([{'Equipo': equipo, 'Fantasy': nom_fantasy, 'SofaScore': nom_sofascore}])
-    if not os.path.exists(RUTA_DICCIONARIO):
-        nuevo_alias.to_csv(RUTA_DICCIONARIO, index=False)
-    else:
-        nuevo_alias.to_csv(RUTA_DICCIONARIO, mode='a', header=False, index=False)
+    columna_fantasy = 'FutFantasy'
+    escribir_header = not os.path.exists(RUTA_DICCIONARIO)
+    
+    if not escribir_header:
+        df_temp = pd.read_csv(RUTA_DICCIONARIO, nrows=0)
+        df_temp.columns = df_temp.columns.str.strip() # 🚨 Limpieza aquí también
+        if 'Fantasy' in df_temp.columns and 'FutFantasy' not in df_temp.columns:
+            columna_fantasy = 'Fantasy'
+            
+    nuevo_alias = pd.DataFrame([{'Equipo': equipo, columna_fantasy: nom_fantasy, 'SofaScore': nom_sofascore}])
+    nuevo_alias = nuevo_alias[['Equipo', columna_fantasy, 'SofaScore']]
+    
+    nuevo_alias.to_csv(RUTA_DICCIONARIO, mode='a' if not escribir_header else 'w', header=escribir_header, index=False)
     
     ALIAS_JUGADORES[clave] = nom_sofascore
-
+    
 ALIAS_JUGADORES = cargar_diccionario()
 
 ALIAS_GLOBALES = {
@@ -322,10 +342,11 @@ def cruzar_jornada(temporada_str, jornada_num):
             for idx, (_, row_p) in enumerate(candidatos_mostrar.iterrows(), 1):
                 lista_opciones.append((row_p.name, row_p['Jugador']))
                 pts_f = row_p['Stats_Reales']
-                print(f"{idx}. {row_p['Jugador']} | {row_p['Posicion']} | {pts_f} pts Fantasy")
+                # 🚨 Actualizado el print visual
+                print(f"{idx}. {row_p['Jugador']} | {row_p['Posicion']} | {pts_f} pts FutFantasy")
             
             if len(lista_opciones) == 0:
-                print("⚠️ [Fantasy no tiene más jugadores libres registrados en este partido]")
+                print("⚠️ [FutFantasy no tiene más jugadores libres registrados en este partido]")
             
             while True:
                 opcion = input(f"\nElige una opción (0-{len(lista_opciones)}): ").strip()
@@ -340,7 +361,6 @@ def cruzar_jornada(temporada_str, jornada_num):
                 idx_elegido_p, nombre_fantasy_elegido = lista_opciones[opcion - 1]
                 nom_p_limpio_guardar = limpiar_texto_crudo(nombre_fantasy_elegido)
                 
-                # 🚨 Guardamos la relación Fantasy -> SofaScore como siempre
                 guardar_alias(equipo, nom_p_limpio_guardar, nom_s_crudo)
                 df_puntos.at[idx_elegido_p, 'Jugador_SofaScore'] = nom_s_original
                 asignados_stats.add(i_s)
@@ -364,9 +384,10 @@ def cruzar_jornada(temporada_str, jornada_num):
         'Penaltis_parados', 'Penaltis_fallados', 'Goles_en_propia_puerta', 'Amarillas', 'Rojas', 'Posesiones_perdidas'
     ]
     
+    # 🚨 Jugador_puntos se convierte formalmente en Jugador_FutFantasy
     df_final = df_final[columnas_mantener].rename(columns={
         'Temporada_puntos': 'Temporada', 'Jornada_puntos': 'Jornada', 'Equipo_Nombre': 'Equipo',
-        'Jugador_puntos': 'Jugador_Fantasy', 'Jugador_stats': 'Jugador_SofaScore', 
+        'Jugador_puntos': 'Jugador_FutFantasy', 'Jugador_stats': 'Jugador_SofaScore', 
         'Posicion_stats': 'Posicion'
     })
     
@@ -396,7 +417,9 @@ def orquestar_cruce(temporadas_dict):
 
 if __name__ == "__main__":
     temporadas_a_cruzar = {
-        "25-26": [27, 28, []]
+        "23-24": [1, 38, []],
+        "24-25": [1, 38, []],
+        "25-26": [1, 28, []]
     }
     
     orquestar_cruce(temporadas_a_cruzar)

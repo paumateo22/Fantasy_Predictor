@@ -15,11 +15,11 @@ def ejecutar_pipeline_cruzado(temporada, jornada):
     print("★"*60)
 
     # ---------------|| PASO 1: RELACIONAR (MATCHMAKER) ||---------------
-    try:
+    """   try:
         relacionar_bases_datos(temporada, jornada)
     except Exception as e:
         print(f"\n❌ Error fatal en el Paso 1 (Matchmaker): {e}")
-        return
+        return"""
     
     # ---------------|| PASO 2: FUSIONAR Y AUDITAR ||---------------
     try:
@@ -34,6 +34,6 @@ def ejecutar_pipeline_cruzado(temporada, jornada):
 
 if __name__ == "__main__":
     TEMPORADA_ACTUAL = "T25-26"
-    JORNADA_ACTUAL = "J28"
+    JORNADA_ACTUAL = "J26"
     
     ejecutar_pipeline_cruzado(TEMPORADA_ACTUAL, JORNADA_ACTUAL)

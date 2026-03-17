@@ -1,4 +1,0 @@
-=== RESULTADOS DISTRIBUCIÓN: Nombre=0.2 | Puntos=0.6 | DAZN=0.2 ===
-Jugadores cruzados totales: 31145
-Aciertos exactos (0 pts dif): 9825 (31.55%)
-Errores graves (> 2 pts dif): 10747 (34.51%)

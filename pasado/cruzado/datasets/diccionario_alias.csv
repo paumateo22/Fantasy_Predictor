@@ -1,4 +1,4 @@
-Equipo,Fantasy,SofaScore
+Equipo,FutFantasy,SofaScore
 Almería,melero,gonzalo melero
 Almería,lazaro,lazaro
 Almería,lopy,dion lopy
@@ -386,7 +386,7 @@ Athletic Club,yuri,yuri berchiche
 Real Betis,miranda,juan miranda
 Getafe,angileri,fabrizio angileri
 Getafe,alderete,omar alderete
-Deportivo Alavés,omorodion,samu aghehowa
+Deportivo Alavés,owono,samu aghehowa
 Rayo Vallecano,camello,sergio camello
 Atlético Madrid,molina,nahuel molina
 Villarreal,femenia,kiko femenia
@@ -514,6 +514,7 @@ Celta Vigo,hugo alvarez,hugo alvarez
 Barcelona,vitor roque,vitor roque
 Sevilla,romero,isaac romero
 Deportivo Alavés,parada,victor parada
+Deportivo Alavés,omorodion,samu aghehowa
 Las Palmas,inaki gonzalez,inaki gonzalez
 Las Palmas,herzog,juanma herzog
 Celta Vigo,jailson,jailson
@@ -907,7 +908,6 @@ Real Valladolid,alani,ibrahim alani
 Real Valladolid,parente,iago parente
 Real Betis,mendy,nobel mendy
 Las Palmas,diego martin,diego martin
-Las Palmas,viera,sergio vieira
 Girona FC,krapyvtsov,vladyslav krapyvtsov
 Real Valladolid,xavi moreno,xavi moreno
 Las Palmas,arturo,arturo rodriguez
@@ -1182,3 +1182,10 @@ Celta Vigo,antanon,andres antanon
 Real Madrid,thiago,thiago pitarch
 Real Madrid,palacios,cesar palacios
 Real Madrid,manuel angel,manuel angel moran
+Deportivo Alavés,ballestero,carlos ballestero
+Deportivo Alavés,koski,ville koski
+Real Madrid,d. aguado,diego aguado
+Mallorca,kalumba,justin-noel kalumba
+Barcelona,espart,xavi espart
+Celta Vigo,a. nunez,alvaro nunez
+Las Palmas,sergio ruiz,sergio vieira

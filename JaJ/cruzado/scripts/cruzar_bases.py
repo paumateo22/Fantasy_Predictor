@@ -108,8 +108,6 @@ def fusionar_datos_jornada(temporada, jornada):
                     registro_posiciones[clave_s] = pos_final
                     registro_modificado = True
             
-            # (El "Desconocido" del scraping se ignora por completo de las disparidades, como pediste)
-
             # --- LÓGICA DE PUNTOS (OCR vs Scraping) ---
             pts_ocr = jugador_m.get('Puntos_PFSY', 'N/A')
             pts_scraping = jugador_s.get('Puntos_Totales', 'N/A')
@@ -125,6 +123,15 @@ def fusionar_datos_jornada(temporada, jornada):
 
             # --- FUSIÓN (Creando la fila perfecta) ---
             fila_fusionada = jugador_s.copy()
+            
+            # 🚨 NUEVO: Guardamos ambos nombres en sus respectivas columnas
+            fila_fusionada['Jugador_FutFantasy'] = jugador_s.get('Nombre', 'N/A')
+            fila_fusionada['Jugador_Fantasy'] = jugador_m.get('Nombre', 'N/A')
+            
+            # Eliminamos el 'Nombre' genérico para no tener columnas duplicadas
+            if 'Nombre' in fila_fusionada:
+                del fila_fusionada['Nombre']
+                
             fila_fusionada['Precio_Fantastica'] = jugador_m.get('Precio_Fantastica', 'N/A')
             fila_fusionada['Posicion'] = pos_final # Imponemos la posición del OCR/Registro
             
@@ -138,11 +145,19 @@ def fusionar_datos_jornada(temporada, jornada):
     # 6. Guardar el DataFrame Final Enriquecido
     df_final = pd.DataFrame(filas_finales)
     
-    # Reordenamos columnas para estética (Precio después de Posición)
+    # 🚨 NUEVO: Reordenamos las columnas para que los nombres estén al principio
     cols = df_final.columns.tolist()
+    
+    if 'Jugador_FutFantasy' in cols and 'Jugador_Fantasy' in cols:
+        cols.remove('Jugador_FutFantasy')
+        cols.remove('Jugador_Fantasy')
+        cols = ['Jugador_FutFantasy', 'Jugador_Fantasy'] + cols
+
     if 'Precio_Fantastica' in cols and 'Posicion' in cols:
-        cols.insert(cols.index('Posicion') + 1, cols.pop(cols.index('Precio_Fantastica')))
-        df_final = df_final[cols]
+        cols.remove('Precio_Fantastica')
+        cols.insert(cols.index('Posicion') + 1, 'Precio_Fantastica')
+        
+    df_final = df_final[cols]
 
     # Creamos las carpetas necesarias en la raíz y guardamos
     os.makedirs(os.path.dirname(rutas['salida_csv']), exist_ok=True)

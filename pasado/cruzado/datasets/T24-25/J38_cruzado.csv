@@ -1,4 +1,4 @@
-﻿Temporada,Jornada,Equipo,Equipo_Rival,Es_Local,Jugador_Fantasy,Jugador_SofaScore,Posicion,Puntos,Relevo,Nota_SofaScore,Minutos_jugados,Goles,Asistencias_de_gol,Asistencias_sin_gol,Balones_al_area,Tiros_a_puerta,Regates,Balones_recuperados,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_parados,Penaltis_fallados,Goles_en_propia_puerta,Amarillas,Rojas,Posesiones_perdidas
+﻿Temporada,Jornada,Equipo,Equipo_Rival,Es_Local,Jugador_FutFantasy,Jugador_SofaScore,Posicion,Puntos,Relevo,Nota_SofaScore,Minutos_jugados,Goles,Asistencias_de_gol,Asistencias_sin_gol,Balones_al_area,Tiros_a_puerta,Regates,Balones_recuperados,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_parados,Penaltis_fallados,Goles_en_propia_puerta,Amarillas,Rojas,Posesiones_perdidas
 24-25,38,Real Betis,Valencia,1,Adrián,Adrián,G,4,1,6.5,90,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,6
 24-25,38,Real Betis,Valencia,1,Bartra,Marc Bartra,D,8,2,7.1,73,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,4
 24-25,38,Real Betis,Valencia,1,Rodríguez,Ricardo Rodríguez,D,4,1,6.9,77,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,8
@@ -87,9 +87,9 @@
 24-25,38,Las Palmas,Espanyol,0,Loiodice,Enzo Loiodice,M,5,3,7.4,90,0,0,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,10
 24-25,38,Las Palmas,Espanyol,0,Marvin,Marvin Park,D,2,1,6.7,90,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,14
 24-25,38,Las Palmas,Espanyol,0,Essugo,Dário Essugo,M,2,1,6.4,70,0,0,0,0,0,0,7,1,0,0,0,1,0,0,0,0,0,4
-24-25,38,Las Palmas,Espanyol,0,Viera,Sergio Vieira,M,5,1,6.9,61,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
 24-25,38,Las Palmas,Espanyol,0,Mata,Jaime Mata,F,3,1,6.5,80,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,10
 24-25,38,Las Palmas,Espanyol,0,Januzaj,Adnan Januzaj,M,4,3,7.4,45,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,19
+24-25,38,Las Palmas,Espanyol,0,Sergio Ruiz,Sergio Vieira,M,0,0,6.9,61,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
 24-25,38,Las Palmas,Espanyol,0,Diego Martín,Diego Martín,F,0,0,6.5,29,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
 24-25,38,Las Palmas,Espanyol,0,Arturo,Arturo Rodríguez,F,0,0,6.4,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
 24-25,38,Las Palmas,Espanyol,0,Josito,José Carlo González,M,0,0,6.4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

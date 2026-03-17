@@ -162,17 +162,38 @@ def orquestar_auditoria(temporadas_dict):
     if fallos > 0:
         print("\n🔍 TOP 15 DISCREPANCIAS MÁS GRANDES A NIVEL HISTÓRICO:")
         print("-" * 60)
-        df_errores = df_global[df_global['Error_Absoluto'] > 0].sort_values(by='Error_Absoluto', ascending=False).head(15)
-        # 🚨 NUEVO: Mostramos ambas columnas de nombres en el Top 15
+        df_errores = df_global[df_global['Error_Absoluto'] > 0].sort_values(by='Error_Absoluto', ascending=False)
+        df_top_15 = df_errores.head(15)
+        
         columnas_mostrar = ['Etiqueta_Jornada', 'Jugador_Fantasy', 'Jugador_SofaScore', 'Posicion', 'Stats_Reales', 'Stats_Calculados', 'Discrepancia']
+        columnas_existentes = [col for col in columnas_mostrar if col in df_top_15.columns]
         
-        # Filtramos para no dar error si por alguna razón un CSV antiguo aún no tiene las nuevas columnas
-        columnas_existentes = [col for col in columnas_mostrar if col in df_errores.columns]
+        print(df_top_15[columnas_existentes].to_string(index=False))
+
+        # --- 🚨 NUEVO: GUARDAR CSV CON ERRORES >= 5 (INCLUYENDO RELEVO/DAZN) ---
+        umbral = 5
+        df_errores_altos = df_global[df_global['Error_Absoluto'] >= umbral].sort_values(by='Error_Absoluto', ascending=False)
         
-        print(df_errores[columnas_existentes].to_string(index=False))
+        if not df_errores_altos.empty:
+            dir_actual = os.path.dirname(os.path.abspath(__file__)) 
+            dir_analisis = os.path.dirname(dir_actual) 
+            dir_datasets_salida = os.path.join(dir_analisis, "datasets")
+            
+            os.makedirs(dir_datasets_salida, exist_ok=True)
+            ruta_csv = os.path.join(dir_datasets_salida, f"dif+{umbral}.csv")
+            
+            # 🚨 AÑADIDA LA COLUMNA 'Relevo' (QUE SON TUS PUNTOS DAZN)
+            columnas_csv = [
+                'Etiqueta_Jornada', 'Equipo', 'Equipo_Rival', 'Jugador_Fantasy', 'Jugador_SofaScore', 
+                'Posicion', 'Stats_Reales', 'Stats_Calculados', 'Discrepancia', 'Relevo', 'Nota_SofaScore', 
+                'Minutos_jugados', 'Goles', 'Asistencias_de_gol', 'Goles_en_contra_Reales', 'Amarillas', 'Rojas'
+            ]
+            cols_finales_csv = [col for col in columnas_csv if col in df_errores_altos.columns]
+            
+            df_errores_altos[cols_finales_csv].to_csv(ruta_csv, index=False, encoding='utf-8-sig')
+            print(f"\n💾 ¡Archivo guardado! {len(df_errores_altos)} jugadores con una diferencia de {umbral} o más puntos guardados en: {ruta_csv}")
 
 if __name__ == "__main__":
-    # Formato: "Temporada": [Jornada_Inicio, Jornada_Fin, [Jornadas_a_saltar]]
     temporadas_a_auditar = {
         "23-24": [1, 38, []],
         "24-25": [1, 38, []],
