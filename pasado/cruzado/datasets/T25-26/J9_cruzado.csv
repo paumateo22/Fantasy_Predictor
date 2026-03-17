@@ -1,0 +1,315 @@
+﻿Temporada,Jornada,Equipo,Equipo_Rival,Es_Local,Jugador_Fantasy,Jugador_SofaScore,Posicion,Puntos,Relevo,Nota_SofaScore,Minutos_jugados,Goles,Asistencias_de_gol,Asistencias_sin_gol,Balones_al_area,Tiros_a_puerta,Regates,Balones_recuperados,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_parados,Penaltis_fallados,Goles_en_propia_puerta,Amarillas,Rojas,Posesiones_perdidas
+25/26,9,Real Oviedo,Espanyol,1,Aarón,Aarón Escandell,G,9,4,9.6,90,0,0,0,0,0,0,10,0,8,0,0,0,0,0,0,0,0,8
+25/26,9,Real Oviedo,Espanyol,1,Bailly,Eric Bailly,D,1,1,6.5,90,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,4
+25/26,9,Real Oviedo,Espanyol,1,Nacho Vidal,Nacho Vidal,D,2,2,6.7,90,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,10
+25/26,9,Real Oviedo,Espanyol,1,Carmo,David Carmo,D,4,2,7.0,90,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Oviedo,Espanyol,1,Alhassane,Abdel Rahim,D,2,1,6.3,90,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,15
+25/26,9,Real Oviedo,Espanyol,1,Dendoncker,Leander Dendoncker,M,3,1,6.7,90,0,0,2,0,0,0,5,2,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Oviedo,Espanyol,1,Colombatto,Santiago Colombatto,M,2,1,6.6,80,0,0,2,1,0,0,3,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Oviedo,Espanyol,1,L. Ilic,Luka Ilić,M,2,1,6.3,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Oviedo,Espanyol,1,Hassan,Haissem Hassan,M,9,2,6.9,65,0,0,0,1,1,0,5,2,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Oviedo,Espanyol,1,Chaira,Ilyas Chaira,M,6,2,7.3,79,0,0,1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,11
+25/26,9,Real Oviedo,Espanyol,1,Rondón,Salomón Rondón,F,4,1,6.4,65,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,9
+25/26,9,Real Oviedo,Espanyol,1,Reina,Alberto Reina,M,-1,0,6.4,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Oviedo,Espanyol,1,Ejaria,Ovie Ejaria,F,2,1,6.9,10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Real Oviedo,Espanyol,1,Brekalo,Josip Brekalo,F,2,2,6.6,25,0,0,4,1,1,0,2,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Real Oviedo,Espanyol,1,Forés,Álex Forés,F,2,1,6.4,11,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Real Oviedo,Espanyol,1,Viñas,Federico Viñas,F,0,0,6.3,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Espanyol,Real Oviedo,0,Dmitrovic,Marko Dmitrović,G,12,4,7.1,90,0,0,0,0,0,0,9,2,4,0,0,0,0,0,0,0,0,12
+25/26,9,Espanyol,Real Oviedo,0,Cabrera,Leandro Cabrera,D,7,2,7.1,90,0,0,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,11
+25/26,9,Espanyol,Real Oviedo,0,Rubén Sánchez,Rubén Sánchez,D,8,2,7.4,80,0,0,0,2,0,0,5,4,0,0,0,0,0,0,0,0,0,11
+25/26,9,Espanyol,Real Oviedo,0,Romero,Carlos Romero,D,9,2,6.6,90,0,0,1,1,1,0,7,4,0,0,0,0,0,0,0,0,0,15
+25/26,9,Espanyol,Real Oviedo,0,Riedel,Clemens Riedel,D,8,2,8.2,90,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,4
+25/26,9,Espanyol,Real Oviedo,0,Pere Milla,Pere Milla,M,10,3,7.6,87,1,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Espanyol,Real Oviedo,0,Edu Expósito,Edu Expósito,M,9,3,7.9,80,0,0,4,2,0,0,7,1,0,0,0,0,0,0,0,0,0,15
+25/26,9,Espanyol,Real Oviedo,0,Lozano,Pol Lozano,M,6,2,6.9,90,0,0,1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,11
+25/26,9,Espanyol,Real Oviedo,0,Kike García,Kike García,F,14,4,8.0,74,1,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Espanyol,Real Oviedo,0,Roberto,Roberto Fernández,F,7,2,6.9,90,0,0,1,0,2,0,3,2,0,0,0,0,0,0,0,0,0,6
+25/26,9,Espanyol,Real Oviedo,0,Dolan,Tyrhys Dolan,M,4,1,6.4,74,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Espanyol,Real Oviedo,0,Salinas,Jose Salinas,D,2,1,6.8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Espanyol,Real Oviedo,0,El Hilali,Omar El Hilali,D,8,3,6.9,10,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+25/26,9,Espanyol,Real Oviedo,0,Urko,Urko González,M,1,0,6.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Espanyol,Real Oviedo,0,Pickel,Charles Pickel,M,2,1,6.6,16,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Espanyol,Real Oviedo,0,Roca,Antoniu Roca,F,1,0,6.5,16,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Sevilla,Mallorca,1,Vlachodimos,Odysseas Vlachodimos,G,3,1,6.8,90,0,0,0,0,0,0,7,4,3,0,0,0,0,0,0,0,0,8
+25/26,9,Sevilla,Mallorca,1,Azpilicueta,César Azpilicueta,D,1,0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Sevilla,Mallorca,1,Marcão,Marcão,D,1,1,5.8,90,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,9
+25/26,9,Sevilla,Mallorca,1,Juanlu,Juanlu Sánchez,M,4,2,7.1,71,0,0,0,1,1,0,3,1,0,0,0,0,0,0,0,0,0,8
+25/26,9,Sevilla,Mallorca,1,Carmona,José Ángel Carmona,D,6,2,6.7,90,0,1,1,3,0,0,3,3,0,0,0,0,0,0,0,0,0,11
+25/26,9,Sevilla,Mallorca,1,Suazo,Gabriel Suazo,D,4,2,6.2,90,0,0,3,4,0,0,7,4,0,0,0,0,0,0,0,0,0,12
+25/26,9,Sevilla,Mallorca,1,Sow,Djibril Sow,M,4,1,6.6,71,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Sevilla,Mallorca,1,Agoume,Lucien Agoumé,M,1,1,6.8,90,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,15
+25/26,9,Sevilla,Mallorca,1,Mendy,Batista Mendy,M,2,1,6.6,90,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Sevilla,Mallorca,1,Vargas,Ruben Vargas,M,11,4,7.9,88,1,0,1,2,2,0,6,1,0,0,0,0,0,0,0,0,0,19
+25/26,9,Sevilla,Mallorca,1,Romero,Isaac Romero,F,2,1,6.4,71,0,0,1,0,1,0,4,0,0,0,0,0,0,0,0,0,0,14
+25/26,9,Sevilla,Mallorca,1,Ramón,Ramón Martínez,D,0,0,6.0,87,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,7
+25/26,9,Sevilla,Mallorca,1,Januzaj,Adnan Januzaj,M,0,0,6.1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Sevilla,Mallorca,1,Ejuke,Chidera Ejuke,F,3,1,6.7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Sevilla,Mallorca,1,Alexis,Alexis Sánchez,F,1,1,6.9,19,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Sevilla,Mallorca,1,Adams,Akor Adams,F,1,1,6.7,19,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+25/26,9,Mallorca,Sevilla,0,Leo Román,Leo Román,G,5,2,7.1,90,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0,12
+25/26,9,Mallorca,Sevilla,0,Raíllo,Antonio Raíllo,D,3,1,7.3,90,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,12
+25/26,9,Mallorca,Sevilla,0,Maffeo,Pablo Maffeo,D,7,2,7.5,90,0,0,0,1,0,0,7,7,0,0,0,0,0,0,0,0,0,14
+25/26,9,Mallorca,Sevilla,0,Valjent,Martin Valjent,D,4,2,7.3,90,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,7
+25/26,9,Mallorca,Sevilla,0,Morey,Mateu Morey,D,3,1,6.4,62,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,7
+25/26,9,Mallorca,Sevilla,0,Darder,Sergi Darder,M,2,1,6.3,80,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Mallorca,Sevilla,0,Morlanes,Manu Morlanes,M,3,1,7.0,80,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2
+25/26,9,Mallorca,Sevilla,0,Samú,Samú Costa,M,5,2,6.1,90,0,0,2,0,0,0,3,4,0,0,0,0,0,0,0,0,0,16
+25/26,9,Mallorca,Sevilla,0,Llabrés,Javi Llabrés,M,2,0,6.1,62,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Mallorca,Sevilla,0,Virgili,Jan Virgili,M,13,3,6.9,90,0,1,1,0,3,0,4,2,0,0,0,0,0,0,0,0,0,9
+25/26,9,Mallorca,Sevilla,0,Muriqi,Vedat Muriqi,F,9,2,7.6,89,1,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,8
+25/26,9,Mallorca,Sevilla,0,Mojica,Johan Mojica,D,9,4,7.5,28,0,1,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,4
+25/26,9,Mallorca,Sevilla,0,Mascarell,Omar Mascarell,M,2,1,6.9,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Mallorca,Sevilla,0,Pablo Torre,Pablo Torre,M,1,0,6.5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Mallorca,Sevilla,0,Abdon,Abdón Prats,F,1,0,6.6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Mallorca,Sevilla,0,Joseph,Mateo Joseph,F,14,4,8.5,28,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3
+25/26,9,Barcelona,Girona FC,1,Szczesny,Wojciech Szczęsny,G,5,2,7.3,90,0,0,0,0,0,0,4,2,3,0,0,0,0,0,0,0,0,4
+25/26,9,Barcelona,Girona FC,1,Koundé,Jules Koundé,D,3,2,6.8,90,0,0,2,0,0,0,3,1,0,0,0,0,0,0,0,0,0,8
+25/26,9,Barcelona,Girona FC,1,Eric García,Eric García,D,6,2,7.0,90,0,0,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,4
+25/26,9,Barcelona,Girona FC,1,Balde,Alejandro Balde,D,4,2,6.8,76,0,0,3,1,0,0,2,2,0,0,0,0,0,0,0,0,0,1
+25/26,9,Barcelona,Girona FC,1,Cubarsí,Pau Cubarsí,D,5,2,7.6,90,0,0,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,2
+25/26,9,Barcelona,Girona FC,1,F. de Jong,Frenkie de Jong,M,11,4,7.1,90,0,1,3,0,1,0,6,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Barcelona,Girona FC,1,Pedri,Pedri,M,11,4,8.3,63,1,0,1,0,1,0,7,2,0,0,0,0,0,0,0,0,0,13
+25/26,9,Barcelona,Girona FC,1,Casadó,Marc Casadó,M,5,2,6.9,81,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Barcelona,Girona FC,1,Rashford,Marcus Rashford,M,5,2,6.2,90,0,0,1,1,3,0,2,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Barcelona,Girona FC,1,Yamal,Lamine Yamal,M,10,4,7.3,64,0,1,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,21
+25/26,9,Barcelona,Girona FC,1,Toni Fernández,Toni Fernández,F,2,1,6.4,45,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Barcelona,Girona FC,1,A. Christensen,Andreas Christensen,D,2,1,6.7,27,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,3
+25/26,9,Barcelona,Girona FC,1,Araújo,Ronald Araújo,D,8,2,7.7,9,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Barcelona,Girona FC,1,Martín,Gerard Martín,D,1,0,6.6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Barcelona,Girona FC,1,Fermín,Fermín López,M,5,2,6.5,45,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Barcelona,Girona FC,1,Bardghji,Roony Bardghji,F,5,2,7.7,26,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Girona FC,Barcelona,0,Gazzaniga,Paulo Gazzaniga,G,7,4,7.3,90,0,0,0,0,0,0,6,2,7,0,0,0,0,0,0,0,0,12
+25/26,9,Girona FC,Barcelona,0,Blind,Daley Blind,D,1,0,6.3,90,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,4
+25/26,9,Girona FC,Barcelona,0,Witsel,Axel Witsel,M,10,3,7.8,90,1,0,2,0,1,0,2,4,0,0,0,0,0,0,0,0,0,8
+25/26,9,Girona FC,Barcelona,0,Álex Moreno,Álex Moreno,D,0,0,6.5,90,0,0,2,1,0,0,2,6,0,0,0,0,0,0,0,0,0,14
+25/26,9,Girona FC,Barcelona,0,Arnau,Arnau Martínez,M,8,3,7.0,79,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Girona FC,Barcelona,0,Rincón,Hugo Rincón,D,0,0,6.3,90,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,8
+25/26,9,Girona FC,Barcelona,0,Vitor Reis,Vitor Reis,D,7,2,7.7,90,0,0,1,0,0,0,3,12,0,0,0,0,0,0,0,0,0,2
+25/26,9,Girona FC,Barcelona,0,Portu,Portu,F,2,0,7.2,63,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Girona FC,Barcelona,0,Bryan Gil,Bryan Gil,M,2,0,6.2,63,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,10
+25/26,9,Girona FC,Barcelona,0,Roca,Joel Roca,M,4,2,6.9,68,0,0,2,1,1,0,3,1,0,0,0,0,0,0,0,0,0,10
+25/26,9,Girona FC,Barcelona,0,Vanat,Vladyslav Vanat,F,4,1,6.5,68,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Girona FC,Barcelona,0,Tsygankov,Viktor Tsygankov,F,2,1,6.6,27,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2
+25/26,9,Girona FC,Barcelona,0,Asprilla,Yáser Asprilla,M,2,1,6.4,22,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Girona FC,Barcelona,0,Solís,Jhon Solís,M,1,0,6.5,27,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3
+25/26,9,Girona FC,Barcelona,0,Lass,Lass Kourouma,M,1,0,6.3,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Girona FC,Barcelona,0,Stuani,Cristhian Stuani,F,0,0,6.7,22,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Villarreal,Real Betis,1,Tenas,Arnau Tenas,G,2,2,6.5,90,0,0,0,0,0,0,7,2,1,0,0,0,0,0,0,0,0,14
+25/26,9,Villarreal,Real Betis,1,Pedraza,Alfonso Pedraza,D,4,2,7.0,81,0,0,1,3,0,0,2,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Villarreal,Real Betis,1,Rafa Marín,Rafa Marín,D,4,1,6.4,90,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,4
+25/26,9,Villarreal,Real Betis,1,Veiga,Renato Veiga,D,2,1,6.5,90,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,5
+25/26,9,Villarreal,Real Betis,1,Pau Navarro,Pau Navarro,D,1,0,6.5,90,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,7
+25/26,9,Villarreal,Real Betis,1,Parejo,Dani Parejo,M,4,2,7.2,73,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Villarreal,Real Betis,1,Comesaña,Santi Comesaña,M,9,3,6.9,90,0,1,1,0,0,0,4,3,0,0,0,0,0,0,0,0,0,12
+25/26,9,Villarreal,Real Betis,1,Moleiro,Alberto Moleiro,M,13,4,8.1,73,1,1,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,17
+25/26,9,Villarreal,Real Betis,1,Buchanan,Tajon Buchanan,M,9,3,7.6,90,1,0,1,0,1,0,5,1,0,0,0,0,0,0,0,0,0,15
+25/26,9,Villarreal,Real Betis,1,Gerard,Gerard Moreno,F,3,0,6.1,63,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Villarreal,Real Betis,1,Oluwaseyi,Tani Oluwaseyi,F,3,0,6.5,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Villarreal,Real Betis,1,S. Cardona,Sergi Cardona,D,1,0,6.7,17,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,3
+25/26,9,Villarreal,Real Betis,1,P. Gueye,Pape Gueye,M,1,0,6.3,17,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Villarreal,Real Betis,1,Ayoze,Ayoze Pérez,F,1,1,6.8,27,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Villarreal,Real Betis,1,Pépé,Nicolas Pépé,F,0,0,6.3,27,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Villarreal,Real Betis,1,Solomon,Manor Solomon,F,2,1,6.8,9,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Real Betis,Villarreal,0,Pau López,Pau López,G,3,1,6.1,90,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,3
+25/26,9,Real Betis,Villarreal,0,Bellerín,Héctor Bellerín,D,1,1,6.5,89,0,0,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,9
+25/26,9,Real Betis,Villarreal,0,Junior,Junior Firpo,D,2,2,6.5,90,0,0,2,1,0,0,1,3,0,0,0,0,0,0,0,0,0,10
+25/26,9,Real Betis,Villarreal,0,Natan,Natan,D,7,2,6.4,90,0,0,0,0,0,0,4,13,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Betis,Villarreal,0,Valentín Gómez,Valentín Gómez,D,2,1,6.1,90,0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Real Betis,Villarreal,0,Fornals,Pablo Fornals,M,11,4,7.3,90,0,2,4,1,0,0,3,1,0,0,0,0,0,0,0,0,0,17
+25/26,9,Real Betis,Villarreal,0,Marc Roca,Marc Roca,M,2,1,6.7,57,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+25/26,9,Real Betis,Villarreal,0,S. Amrabat,Sofyan Amrabat,M,0,1,6.6,90,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,11
+25/26,9,Real Betis,Villarreal,0,Cucho,Cucho Hernández,F,0,0,5.9,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Betis,Villarreal,0,Antony,Antony,M,16,4,9.4,90,2,0,3,3,2,0,8,0,0,0,0,0,0,0,0,0,0,20
+25/26,9,Real Betis,Villarreal,0,Abde,Abdessamad Ezzalzouli,M,3,2,6.9,69,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Betis,Villarreal,0,Lo Celso,Giovani Lo Celso,M,2,1,6.4,33,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Betis,Villarreal,0,Ruibal,Aitor Ruibal,F,2,1,6.9,21,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Real Betis,Villarreal,0,Pablo García,Pablo García,F,2,1,6.7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Elche,Athletic Club,1,Peña,Iñaki Peña,G,9,4,6.8,90,0,0,0,0,0,0,7,1,1,0,0,0,0,0,0,0,0,21
+25/26,9,Elche,Athletic Club,1,Bigas,Pedro Bigas,D,8,3,7.3,90,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,9
+25/26,9,Elche,Athletic Club,1,Chust,Víctor Chust,D,6,2,7.3,90,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,12
+25/26,9,Elche,Athletic Club,1,Á. Núñez,Alvaro Núñez,D,8,3,7.1,89,0,0,0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,10
+25/26,9,Elche,Athletic Club,1,Pétrot,Léo Pétrot,D,7,2,6.9,62,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,6
+25/26,9,Elche,Athletic Club,1,Febas,Aleix Febas,M,7,3,7.7,90,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Elche,Athletic Club,1,Valera,Germán Valera,F,5,2,6.6,89,0,0,2,1,0,0,5,1,0,0,0,0,0,0,0,0,0,17
+25/26,9,Elche,Athletic Club,1,Aguado,Marc Aguado,M,7,2,6.9,75,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,6
+25/26,9,Elche,Athletic Club,1,Martim Neto,Martim Neto,M,9,3,7.2,90,0,0,1,2,0,0,5,0,0,0,0,0,0,0,0,0,0,17
+25/26,9,Elche,Athletic Club,1,André Silva,André Silva,F,7,2,7.0,90,0,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Elche,Athletic Club,1,Rafa Mir,Rafa Mir,F,7,2,6.8,90,0,0,2,1,2,0,2,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Elche,Athletic Club,1,Pedrosa,Adrià Pedrosa,D,2,1,6.7,28,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Elche,Athletic Club,1,John C.,John Donald,D,2,1,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Elche,Athletic Club,1,Josan,Josan,M,2,1,0.0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Elche,Athletic Club,1,Mendoza,Rodrigo Mendoza,M,2,1,6.6,15,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Athletic Club,Elche,0,Unai Simón,Unai Simón,G,12,4,8.6,90,0,0,0,0,0,0,7,0,5,0,0,0,0,0,0,0,0,9
+25/26,9,Athletic Club,Elche,0,Laporte,Aymeric Laporte,D,9,2,7.4,81,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,6
+25/26,9,Athletic Club,Elche,0,Yuri,Yuri Berchiche,D,7,2,7.1,90,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,11
+25/26,9,Athletic Club,Elche,0,Vivian,Daniel Vivian,D,6,1,7.0,90,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,8
+25/26,9,Athletic Club,Elche,0,Areso,Jesús Areso,D,8,2,7.0,90,0,0,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,14
+25/26,9,Athletic Club,Elche,0,R. de Galarreta,Iñigo Ruiz de Galarreta,M,6,1,6.9,68,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Athletic Club,Elche,0,Berenguer,Álex Berenguer,M,4,1,6.0,90,0,0,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,16
+25/26,9,Athletic Club,Elche,0,Sancet,Oihan Sancet,M,2,1,6.7,58,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Athletic Club,Elche,0,Navarro,Robert Navarro,M,2,1,6.4,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Athletic Club,Elche,0,Jauregizar,Mikel Jauregizar,M,5,1,6.8,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,9
+25/26,9,Athletic Club,Elche,0,Guruzeta,Gorka Guruzeta,F,2,1,6.4,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Athletic Club,Elche,0,Paredes,Aitor Paredes,D,2,1,6.8,9,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+25/26,9,Athletic Club,Elche,0,N. Williams,Nico Williams,F,2,1,6.8,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Athletic Club,Elche,0,Unai Gómez,Unai Gómez,M,2,1,6.7,32,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Athletic Club,Elche,0,Rego,Alejandro Rego,M,3,2,6.8,22,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Athletic Club,Elche,0,I. Williams,Iñaki Williams,F,1,1,6.2,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+25/26,9,Celta Vigo,Real Sociedad,1,Radu,Ionuț Radu,G,9,4,7.1,90,0,0,0,0,0,0,12,2,6,0,0,0,0,0,0,0,0,22
+25/26,9,Celta Vigo,Real Sociedad,1,M. Alonso,Marcos Alonso,D,8,3,7.6,90,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,7
+25/26,9,Celta Vigo,Real Sociedad,1,Carreira,Sergio Carreira,M,4,1,6.6,90,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,12
+25/26,9,Celta Vigo,Real Sociedad,1,Mingueza,Óscar Mingueza,M,7,3,6.8,54,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,14
+25/26,9,Celta Vigo,Real Sociedad,1,Starfelt,Carl Starfelt,D,0,1,6.0,46,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Celta Vigo,Real Sociedad,1,Javi Rodríguez,Javi Rodríguez,D,4,1,7.1,90,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,3
+25/26,9,Celta Vigo,Real Sociedad,1,Moriba,Ilaix Moriba,M,2,1,7.5,90,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,10
+25/26,9,Celta Vigo,Real Sociedad,1,Sotelo,Hugo Sotelo,M,2,1,6.8,45,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Celta Vigo,Real Sociedad,1,Iglesias,Borja Iglesias,F,1,0,6.4,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Celta Vigo,Real Sociedad,1,Jutglà,Ferran Jutglà,F,5,1,6.6,70,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Celta Vigo,Real Sociedad,1,Durán,Pablo Durán,F,9,3,7.7,85,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,21
+25/26,9,Celta Vigo,Real Sociedad,1,Domínguez,Carlos Domínguez,D,3,1,6.8,45,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,2
+25/26,9,Celta Vigo,Real Sociedad,1,Rueda,Javier Rueda,D,1,0,6.5,36,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,3
+25/26,9,Celta Vigo,Real Sociedad,1,Beltrán,Fran Beltrán,M,1,0,6.5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Celta Vigo,Real Sociedad,1,Hugo Álvarez,Hugo Álvarez,M,2,1,6.5,36,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,6
+25/26,9,Celta Vigo,Real Sociedad,1,El-Abdellaoui,Jones El-Abdellaoui,F,1,0,6.6,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Real Sociedad,Celta Vigo,0,Remiro,Álex Remiro,G,5,2,6.6,90,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,3
+25/26,9,Real Sociedad,Celta Vigo,0,Zubeldia,Igor Zubeldia,D,2,1,6.3,90,0,0,1,0,0,0,3,5,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Sociedad,Celta Vigo,0,Caleta-Car,Duje Ćaleta-Car,D,5,2,7.1,90,0,0,1,0,0,0,5,5,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Sociedad,Celta Vigo,0,Aihen,Aihen Muñoz,D,2,0,6.3,67,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Sociedad,Celta Vigo,0,Aramburu,Jon Aramburu,M,4,1,6.5,76,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Sociedad,Celta Vigo,0,Brais,Brais Méndez,F,5,1,6.8,67,0,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Real Sociedad,Celta Vigo,0,Sergio Gómez,Sergio Gómez,M,7,2,7.4,90,0,0,4,4,0,0,5,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Sociedad,Celta Vigo,0,Barrenetxea,Ander Barrenetxea,F,5,1,6.2,76,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,19
+25/26,9,Real Sociedad,Celta Vigo,0,Herrera,Yangel Herrera,M,0,0,6.6,57,0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Sociedad,Celta Vigo,0,Gorrotxategi,Jon Gorrotxategi,M,5,1,6.4,90,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,9
+25/26,9,Real Sociedad,Celta Vigo,0,Oyarzabal,Mikel Oyarzabal,F,4,1,6.2,90,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,11
+25/26,9,Real Sociedad,Celta Vigo,0,Carlos Soler,Carlos Soler,M,10,3,7.6,23,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Sociedad,Celta Vigo,0,Zakharyan,Arsen Zakharyan,M,2,1,6.7,14,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Sociedad,Celta Vigo,0,Marín,Pablo Marín,M,2,1,6.2,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Real Sociedad,Celta Vigo,0,Guedes,Gonçalo Guedes,F,7,3,6.9,23,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Sociedad,Celta Vigo,0,Karrikaburu,Jon Karrikaburu,F,3,1,6.4,14,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+25/26,9,Levante UD,Rayo Vallecano,1,Ryan,Mathew Ryan,G,0,0,6.1,90,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3
+25/26,9,Levante UD,Rayo Vallecano,1,Toljan,Jeremy Toljan,D,-2,0,5.6,90,0,0,1,1,0,0,3,1,0,0,0,0,0,0,0,0,0,22
+25/26,9,Levante UD,Rayo Vallecano,1,De la Fuente,Adrián de la Fuente,D,0,0,6.1,90,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,13
+25/26,9,Levante UD,Rayo Vallecano,1,Manu Sánchez,Manuel Sánchez,D,0,1,6.2,90,0,0,1,1,0,0,3,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Levante UD,Rayo Vallecano,1,Moreno,Matias Moreno,D,1,0,6.7,82,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,7
+25/26,9,Levante UD,Rayo Vallecano,1,Vencedor,Unai Vencedor,M,4,3,7.4,74,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,11
+25/26,9,Levante UD,Rayo Vallecano,1,C. Álvarez,Carlos Álvarez,M,2,1,6.5,74,0,0,2,1,0,0,3,0,0,0,0,0,0,0,0,0,0,18
+25/26,9,Levante UD,Rayo Vallecano,1,Arriaga,Kervin Arriaga,M,4,2,7.5,90,0,0,2,1,0,0,8,3,0,0,0,0,0,0,0,0,0,9
+25/26,9,Levante UD,Rayo Vallecano,1,Iván Romero,Iván Romero,F,4,2,6.7,90,0,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,0,23
+25/26,9,Levante UD,Rayo Vallecano,1,Brugui,Roger Brugué,M,3,1,6.3,74,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,8
+25/26,9,Levante UD,Rayo Vallecano,1,Etta Eyong,Etta Eyong,F,2,0,6.4,74,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Levante UD,Rayo Vallecano,1,Pablo Martínez,Pablo Martínez,M,5,2,6.8,16,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Levante UD,Rayo Vallecano,1,Olasagasti,Jon Ander Olasagasti,M,2,1,6.6,16,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Levante UD,Rayo Vallecano,1,Morales,José Luis Morales,F,2,1,6.6,8,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Levante UD,Rayo Vallecano,1,Carlos Espí,Carlos Espí,F,2,1,6.4,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Levante UD,Rayo Vallecano,1,Koyalipou,Goduine Koyalipou,F,2,1,6.4,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Rayo Vallecano,Levante UD,0,Batalla,Augusto Batalla,G,13,4,7.7,90,0,0,0,0,0,0,14,2,4,0,0,0,0,0,0,0,0,12
+25/26,9,Rayo Vallecano,Levante UD,0,Lejeune,Florian Lejeune,D,10,2,7.6,90,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,3
+25/26,9,Rayo Vallecano,Levante UD,0,Ratiu,Andrei Rațiu,D,8,2,7.2,90,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,10
+25/26,9,Rayo Vallecano,Levante UD,0,Pep Chavarría,Josep Chavarría,D,13,4,7.6,90,0,1,2,0,0,0,1,3,0,0,0,0,0,0,0,0,0,15
+25/26,9,Rayo Vallecano,Levante UD,0,Mendy,Nobel Mendy,D,12,3,7.5,82,0,0,0,0,0,0,2,13,0,0,0,0,0,0,0,0,0,8
+25/26,9,Rayo Vallecano,Levante UD,0,Unai López,Unai López,M,11,3,6.7,63,0,1,2,1,0,0,3,2,0,0,0,0,0,0,0,0,0,8
+25/26,9,Rayo Vallecano,Levante UD,0,Pedro Díaz,Pedro Díaz,M,6,2,6.7,90,0,0,2,1,0,0,5,0,0,0,0,0,0,0,0,0,0,11
+25/26,9,Rayo Vallecano,Levante UD,0,De Frutos,Jorge de Frutos,M,16,4,8.7,75,2,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,7
+25/26,9,Rayo Vallecano,Levante UD,0,Valentín,Óscar Valentín,M,8,1,7.4,90,0,0,0,0,0,0,3,9,0,0,0,0,0,0,0,0,0,4
+25/26,9,Rayo Vallecano,Levante UD,0,Fran Pérez,Fran Pérez,M,5,1,6.5,74,0,0,1,0,1,0,7,2,0,0,0,0,0,0,0,0,0,11
+25/26,9,Rayo Vallecano,Levante UD,0,Alemão,Alemão,F,3,0,6.1,63,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,11
+25/26,9,Rayo Vallecano,Levante UD,0,Espino,Alfonso Espino,D,4,2,6.6,16,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,4
+25/26,9,Rayo Vallecano,Levante UD,0,Álvaro García,Álvaro García,M,10,3,7.6,27,1,0,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,3
+25/26,9,Rayo Vallecano,Levante UD,0,Gumbau,Gerard Gumbau,M,1,0,6.4,8,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3
+25/26,9,Rayo Vallecano,Levante UD,0,Isi,Isi Palazón,M,0,0,6.5,27,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Rayo Vallecano,Levante UD,0,Pathé Ciss,Pathé Ismaël Ciss,M,3,1,6.9,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
+25/26,9,Getafe,Real Madrid,1,Soria,David Soria,G,10,4,7.6,90,0,0,0,0,0,0,10,1,9,0,0,0,0,0,0,0,0,24
+25/26,9,Getafe,Real Madrid,1,Femenia,Kiko Femenía,D,10,2,6.8,76,0,0,1,0,0,0,7,6,0,0,0,0,0,0,0,0,0,5
+25/26,9,Getafe,Real Madrid,1,Diego Rico,Diego Rico,D,3,1,6.3,90,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,15
+25/26,9,Getafe,Real Madrid,1,Djené,Djené,D,6,1,6.6,90,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,5
+25/26,9,Getafe,Real Madrid,1,D. Duarte,Domingos Duarte,D,4,0,6.1,90,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,7
+25/26,9,Getafe,Real Madrid,1,Iglesias,Juan Iglesias,D,2,1,6.5,90,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,18
+25/26,9,Getafe,Real Madrid,1,Arambarri,Mauro Arambarri,M,2,0,6.0,90,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,8
+25/26,9,Getafe,Real Madrid,1,Luis Milla,Luis Milla,M,3,1,6.6,90,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,15
+25/26,9,Getafe,Real Madrid,1,Mario Martín,Mario Martín,M,2,0,6.0,87,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Getafe,Real Madrid,1,Sancris,Álex Sancris,F,1,0,5.7,84,0,0,1,1,0,0,6,0,0,0,0,0,0,0,0,0,0,11
+25/26,9,Getafe,Real Madrid,1,Liso,Adrian Liso,F,2,1,6.3,89,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+25/26,9,Getafe,Real Madrid,1,Nyom 75',Allan Nyom,D,-2,0,5.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Getafe,Real Madrid,1,Kamara,Abu Kamara,F,1,0,6.4,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Getafe,Real Madrid,1,Coba,Coba da Costa,F,2,1,6.6,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Real Madrid,Getafe,0,Courtois,Thibaut Courtois,G,8,2,6.8,90,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,13
+25/26,9,Real Madrid,Getafe,0,Alaba,David Alaba,D,4,2,6.8,45,0,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+25/26,9,Real Madrid,Getafe,0,Militão,Éder Militão,D,8,3,7.4,90,0,0,1,0,1,0,2,5,0,0,0,0,0,0,0,0,0,11
+25/26,9,Real Madrid,Getafe,0,A. F. Carreras,Álvaro Carreras,D,7,3,7.1,90,0,0,1,0,0,0,4,2,0,0,0,0,0,0,0,0,0,13
+25/26,9,Real Madrid,Getafe,0,Valverde,Federico Valverde,D,7,3,7.5,90,0,0,2,1,0,0,5,1,0,0,0,0,0,0,0,0,0,11
+25/26,9,Real Madrid,Getafe,0,Bellingham,Jude Bellingham,M,9,3,7.8,86,0,0,3,0,2,0,3,1,0,0,0,0,0,0,0,0,0,8
+25/26,9,Real Madrid,Getafe,0,Camavinga,Eduardo Camavinga,M,8,3,7.4,65,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Real Madrid,Getafe,0,Tchouaméni,Aurélien Tchouaméni,M,7,2,7.7,90,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,8
+25/26,9,Real Madrid,Getafe,0,Mastantuono,Franco Mastantuono,M,1,1,6.3,55,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,12
+25/26,9,Real Madrid,Getafe,0,Mbappé,Kylian Mbappé,F,13,4,7.8,90,1,0,2,0,4,0,3,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Real Madrid,Getafe,0,Rodrygo,Rodrygo,M,8,4,7.3,86,0,0,3,1,1,0,5,0,0,0,0,0,0,0,0,0,0,17
+25/26,9,Real Madrid,Getafe,0,Asencio,Raúl Asencio,D,3,2,7.3,45,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,3
+25/26,9,Real Madrid,Getafe,0,Brahim,Brahim Díaz,M,2,1,6.6,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+25/26,9,Real Madrid,Getafe,0,Güler,Arda Güler,M,9,4,7.3,25,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5
+25/26,9,Real Madrid,Getafe,0,Vinicius,Vinicius Júnior,F,2,1,6.7,35,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Real Madrid,Getafe,0,Gonzalo,Gonzalo García,F,1,0,6.3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Deportivo Alavés,Valencia,1,Sivera,Antonio Sivera,G,10,3,7.2,90,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,9
+25/26,9,Deportivo Alavés,Valencia,1,Jonny,Jonny Otto,D,9,4,7.5,90,0,0,2,1,0,0,5,2,0,0,0,0,0,0,0,0,0,8
+25/26,9,Deportivo Alavés,Valencia,1,Pacheco,Jon Pacheco,D,9,3,7.5,90,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,9
+25/26,9,Deportivo Alavés,Valencia,1,Tenaglia,Nahuel Tenaglia,D,8,2,7.1,90,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Deportivo Alavés,Valencia,1,Youssef,Youssef Enriquez Lekhedim,M,5,2,6.4,90,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,18
+25/26,9,Deportivo Alavés,Valencia,1,Blanco,Antonio Blanco,M,5,1,6.7,90,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,13
+25/26,9,Deportivo Alavés,Valencia,1,Ibáñez,Pablo Ibáñez,M,9,4,7.3,60,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Deportivo Alavés,Valencia,1,Rebbach,Abderrahman Rebbach,M,7,3,6.9,60,0,0,2,1,0,0,3,0,0,0,0,0,0,0,0,0,0,14
+25/26,9,Deportivo Alavés,Valencia,1,Calebe,Calebe Gonçalves,M,6,2,6.9,61,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9
+25/26,9,Deportivo Alavés,Valencia,1,Toni Martinez,Toni Martínez,F,5,2,6.9,71,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,11
+25/26,9,Deportivo Alavés,Valencia,1,Boyé,Lucas Boyé,F,4,2,5.7,90,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,13
+25/26,9,Deportivo Alavés,Valencia,1,Denis Suárez,Denis Suárez,M,2,1,6.8,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Deportivo Alavés,Valencia,1,Aleñá,Carles Aleñá,M,2,1,6.8,30,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Deportivo Alavés,Valencia,1,Guridi,Jon Guridi,M,2,1,6.5,19,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Deportivo Alavés,Valencia,1,Carlos Vicente,Carlos Vicente,F,5,3,6.6,29,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Valencia,Deportivo Alavés,0,Agirrezabala,Julen Agirrezabala,G,11,4,7.2,90,0,0,0,0,0,0,10,0,3,0,0,0,0,0,0,0,0,16
+25/26,9,Valencia,Deportivo Alavés,0,Gayà,José Luis Gayà,D,7,2,6.9,90,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,15
+25/26,9,Valencia,Deportivo Alavés,0,Thierry,Thierry Correia,D,6,2,6.8,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,15
+25/26,9,Valencia,Deportivo Alavés,0,Copete,José Copete,D,8,2,7.2,80,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,8
+25/26,9,Valencia,Deportivo Alavés,0,Tárrega,César Tárrega,D,9,2,7.3,90,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,11
+25/26,9,Valencia,Deportivo Alavés,0,Pepelu,Pepelu,M,5,1,7.0,90,0,0,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,8
+25/26,9,Valencia,Deportivo Alavés,0,Rioja,Luis Rioja,M,4,1,6.5,90,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,10
+25/26,9,Valencia,Deportivo Alavés,0,Javi Guerra,Javier Guerra,M,6,2,7.0,80,0,0,2,0,0,0,4,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Valencia,Deportivo Alavés,0,Duro,Hugo Duro,F,3,0,6.3,80,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,6
+25/26,9,Valencia,Deportivo Alavés,0,Danjuma,Arnaut Danjuma,M,6,2,6.3,71,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Valencia,Deportivo Alavés,0,Diego López,Diego López,F,2,0,6.7,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,11
+25/26,9,Valencia,Deportivo Alavés,0,Cömert,Eray Cömert,D,3,1,6.6,10,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1
+25/26,9,Valencia,Deportivo Alavés,0,Santamaria,Baptiste Santamaria,M,0,0,6.7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Valencia,Deportivo Alavés,0,Raba,Dani Raba,F,2,1,6.5,19,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+25/26,9,Valencia,Deportivo Alavés,0,Beltrán,Lucas Beltrán,M,2,1,6.7,10,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2
+25/26,9,Atlético Madrid,Osasuna,1,Oblak,Jan Oblak,G,13,4,7.8,90,0,0,0,0,0,0,10,1,2,0,0,0,0,0,0,0,0,5
+25/26,9,Atlético Madrid,Osasuna,1,Giménez,José María Giménez,D,11,3,7.6,90,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,4
+25/26,9,Atlético Madrid,Osasuna,1,Hancko,Dávid Hancko,D,7,2,7.0,90,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,10
+25/26,9,Atlético Madrid,Osasuna,1,Le Normand,Robin Le Normand,D,11,3,7.2,90,0,0,0,0,0,0,4,7,0,0,0,0,0,0,0,0,0,6
+25/26,9,Atlético Madrid,Osasuna,1,Koke,Koke,M,2,2,7.2,54,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Atlético Madrid,Osasuna,1,M. Llorente,Marcos Llorente,D,12,4,8.1,90,0,0,2,0,1,0,7,1,0,0,0,0,0,0,0,0,0,5
+25/26,9,Atlético Madrid,Osasuna,1,Baena,Alejandro Baena,M,6,2,6.6,63,0,0,1,1,1,0,6,0,0,0,0,0,0,0,0,0,0,15
+25/26,9,Atlético Madrid,Osasuna,1,Barrios,Pablo Barrios,M,8,3,7.6,90,0,0,2,0,1,0,8,2,0,0,0,0,0,0,0,0,0,9
+25/26,9,Atlético Madrid,Osasuna,1,Griezmann,Antoine Griezmann,F,4,2,7.3,55,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Atlético Madrid,Osasuna,1,González,Nicolás González,D,1,1,6.6,43,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,10
+25/26,9,Atlético Madrid,Osasuna,1,Alvarez,Julián Alvarez,F,9,3,7.4,82,0,0,2,1,3,0,1,0,0,0,0,0,0,0,0,0,0,8
+25/26,9,Atlético Madrid,Osasuna,1,Gallagher,Conor Gallagher,M,2,1,6.5,36,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4
+25/26,9,Atlético Madrid,Osasuna,1,Giuliano,Giuliano Simeone,F,8,4,7.8,47,0,1,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,13
+25/26,9,Atlético Madrid,Osasuna,1,Almada,Thiago Almada,M,10,4,7.7,27,1,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,6
+25/26,9,Atlético Madrid,Osasuna,1,Sörloth,Alexander Sørloth,F,1,0,6.4,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Atlético Madrid,Osasuna,1,Raspadori,Giacomo Raspadori,F,1,0,6.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Osasuna,Atlético Madrid,0,Herrera,Sergio Herrera,G,10,3,10.0,90,0,0,0,0,0,0,10,0,8,0,0,0,0,0,0,0,0,10
+25/26,9,Osasuna,Atlético Madrid,0,Catena,Alejandro Catena,D,4,1,6.7,90,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,3
+25/26,9,Osasuna,Atlético Madrid,0,Herrando,Jorge Herrando,D,4,1,6.5,74,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,4
+25/26,9,Osasuna,Atlético Madrid,0,Boyomo,Flavien Boyomo,D,3,1,6.6,90,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,6
+25/26,9,Osasuna,Atlético Madrid,0,Rosier,Valentin Rosier,M,4,2,6.9,41,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,2
+25/26,9,Osasuna,Atlético Madrid,0,Bretones,Abel Bretones,M,5,2,6.8,90,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,14
+25/26,9,Osasuna,Atlético Madrid,0,Rubén G.,Rubén García,F,5,2,6.8,63,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,12
+25/26,9,Osasuna,Atlético Madrid,0,Torró,Lucas Torró,M,3,2,7.2,74,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,10
+25/26,9,Osasuna,Atlético Madrid,0,Moncayola,Jon Moncayola,M,3,1,6.7,85,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+25/26,9,Osasuna,Atlético Madrid,0,Budimir,Ante Budimir,F,4,1,6.6,90,0,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,8
+25/26,9,Osasuna,Atlético Madrid,0,Víctor Muñoz,Victor Muñoz,F,1,0,6.0,85,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,16
+25/26,9,Osasuna,Atlético Madrid,0,Moi Gómez,Moi Gómez,F,5,2,7.0,27,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,7
+25/26,9,Osasuna,Atlético Madrid,0,Kike Barja,Kike Barja,F,3,2,6.5,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+25/26,9,Osasuna,Atlético Madrid,0,Benito,Iker Benito,F,3,1,6.7,49,0,0,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,8
+25/26,9,Osasuna,Atlético Madrid,0,Iker Muñoz,Iker Muñoz,M,2,1,6.6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Osasuna,Atlético Madrid,0,Raúl García,Raúl García de Haro,F,0,0,6.6,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+25/26,9,Osasuna,Atlético Madrid,0,Becker,Sheraldo Becker,F,2,1,6.4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4

@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import difflib
 import unicodedata
-import re  # 🚨 NUEVO: Importamos regex para limpiar números
+import re 
 
 DIRECTORIO_ACTUAL = os.path.dirname(os.path.abspath(__file__))
 DIRECTORIO_CRUZADO = os.path.dirname(DIRECTORIO_ACTUAL)
@@ -11,7 +11,36 @@ DIRECTORIO_DATASETS = os.path.join(DIRECTORIO_CRUZADO, "datasets")
 os.makedirs(DIRECTORIO_DATASETS, exist_ok=True)
 RUTA_DICCIONARIO = os.path.join(DIRECTORIO_DATASETS, "diccionario_alias.csv")
 
-# --- SISTEMA DE MEMORIA MAESTRA (POR EQUIPOS) ---
+# 🚨 EL DICCIONARIO DE EQUIPOS
+MAPA_EQUIPOS = {
+    "Alavés": "Deportivo Alavés",
+    "Almería": "Almería",
+    "Athletic": "Athletic Club",
+    "Atlético": "Atlético Madrid",
+    "Barcelona": "Barcelona",
+    "Betis": "Real Betis",
+    "Celta": "Celta Vigo",
+    "Cádiz": "Cádiz",
+    "Elche": "Elche",
+    "Espanyol": "Espanyol",
+    "Getafe": "Getafe",
+    "Girona": "Girona FC",
+    "Granada": "Granada",
+    "Las Palmas": "Las Palmas",
+    "Leganés": "Leganés",
+    "Levante": "Levante UD",
+    "Mallorca": "Mallorca",
+    "Osasuna": "Osasuna",
+    "Rayo": "Rayo Vallecano",
+    "Real Madrid": "Real Madrid",
+    "Real Oviedo": "Real Oviedo",
+    "Real Sociedad": "Real Sociedad",
+    "Sevilla": "Sevilla",
+    "Valencia": "Valencia",
+    "Valladolid": "Real Valladolid",
+    "Villarreal": "Villarreal"
+}
+
 def cargar_diccionario():
     diccionario_base = {}
     if os.path.exists(RUTA_DICCIONARIO):
@@ -49,10 +78,7 @@ ALIAS_GLOBALES = {
 def limpiar_texto_crudo(texto):
     if pd.isna(texto): return ""
     texto = str(texto).lower().strip()
-    
-    # 🚨 NUEVO: Fulminamos los minutos jugados del final del nombre (ej: "lukebakio 14'" -> "lukebakio")
     texto = re.sub(r"\s*\d+(\+\d+)?'?$", "", texto)
-    
     return ''.join(c for c in unicodedata.normalize('NFD', texto) if unicodedata.category(c) != 'Mn')
 
 def limpiar_texto(texto, equipo=""):
@@ -63,14 +89,29 @@ def limpiar_texto(texto, equipo=""):
         return ALIAS_JUGADORES[clave_equipo]
         
     for alias, nombre_real in ALIAS_GLOBALES.items():
-        if alias == texto_limpio or alias in texto_limpio:
+        if alias == texto_limpio:
             return nombre_real
             
     return texto_limpio
 
+def calcular_similitud_visual(n1, n2):
+    n1 = re.sub(r'\s+', ' ', n1.replace('.', '').replace('-', ' ').strip())
+    n2 = re.sub(r'\s+', ' ', n2.replace('.', '').replace('-', ' ').strip())
+    
+    base_sim = difflib.SequenceMatcher(None, n1, n2).ratio()
+    if n1 in n2 or n2 in n1:
+        base_sim += 0.3
+    partes1 = n1.split()
+    partes2 = n2.split()
+    if len(partes1) == 1:
+        for p2 in partes2:
+            if difflib.SequenceMatcher(None, n1, p2).ratio() > 0.80:
+                base_sim += 0.4 
+    return base_sim
+
 def nombres_compatibles(nom_fantasy, nom_sofa):
-    n1 = nom_fantasy.replace('.', '').strip()
-    n2 = nom_sofa.replace('.', '').strip()
+    n1 = re.sub(r'\s+', ' ', nom_fantasy.replace('.', '').replace('-', ' ').strip())
+    n2 = re.sub(r'\s+', ' ', nom_sofa.replace('.', '').replace('-', ' ').strip())
 
     if n1 == n2 or n1 in n2 or n2 in n1:
         return True
@@ -84,6 +125,11 @@ def nombres_compatibles(nom_fantasy, nom_sofa):
     if len(partes1) >= 2 and len(partes2) >= 2:
         if partes1[-1] == partes2[-1] and partes1[0][0] == partes2[0][0]:
             return True
+
+    if len(partes1) == 1:
+        for p2 in partes2:
+            if difflib.SequenceMatcher(None, n1, p2).ratio() > 0.80:
+                return True
 
     return False
 
@@ -160,26 +206,26 @@ def cruzar_jornada(temporada_str, jornada_num):
     df_puntos = pd.read_csv(ruta_puntos)
     df_stats = pd.read_csv(ruta_stats)
     
+    df_puntos['Equipo_Rival_crudo'] = df_puntos.apply(lambda row: row['Visitante'] if row['Es_Local'] == 1 else row['Local'], axis=1)
+    df_puntos['Equipo_Rival'] = df_puntos['Equipo_Rival_crudo'].apply(lambda x: MAPA_EQUIPOS.get(str(x).strip(), str(x).strip()))
+    
     df_stats['Puntos_Teoricos'] = df_stats.apply(calcular_puntos_objetivos, axis=1)
     df_puntos['Stats_Reales'] = df_puntos['Puntos'] - df_puntos['Relevo']
 
-    equipos_puntos = df_puntos['Equipo_Jugador'].unique()
-    equipos_stats = df_stats['Equipo_Nombre'].unique()
-    mapa_equipos = {}
-    for eq_p in equipos_puntos:
-        coincidencia = difflib.get_close_matches(eq_p, equipos_stats, n=1, cutoff=0.3)
-        mapa_equipos[eq_p] = coincidencia[0] if coincidencia else eq_p
-            
-    df_puntos['Equipo_Comun'] = df_puntos['Equipo_Jugador'].map(mapa_equipos)
+    df_puntos['Equipo_Comun'] = df_puntos['Equipo_Jugador'].apply(lambda x: MAPA_EQUIPOS.get(str(x).strip(), str(x).strip()))
     df_puntos['Jugador_SofaScore'] = None
     
-    for equipo in mapa_equipos.values():
+    equipos_a_cruzar = df_puntos['Equipo_Comun'].unique()
+    
+    for equipo in equipos_a_cruzar:
         df_p_equipo = df_puntos[df_puntos['Equipo_Comun'] == equipo]
         df_s_equipo = df_stats[df_stats['Equipo_Nombre'] == equipo]
         
+        if df_s_equipo.empty:
+            continue
+            
         posibles_matches = []
         
-        # --- FASE 2: EMPAREJAMIENTO AUTOMÁTICO (Todos contra Todos) ---
         for i_p, row_p in df_p_equipo.iterrows():
             nom_p_original = str(row_p['Jugador'])
             nom_p_crudo = limpiar_texto_crudo(nom_p_original)
@@ -208,6 +254,13 @@ def cruzar_jornada(temporada_str, jornada_num):
                 
                 if nom_p in nom_s or nom_s in nom_p:
                     similitud += 0.3
+                    
+                partes_p = nom_p.split()
+                partes_s = nom_s.split()
+                if len(partes_p) == 1:
+                    for p2 in partes_s:
+                        if difflib.SequenceMatcher(None, nom_p, p2).ratio() > 0.80:
+                            similitud += 0.3
                 
                 if not viene_del_diccionario and not son_compatibles and similitud < 0.75:
                     continue 
@@ -241,44 +294,38 @@ def cruzar_jornada(temporada_str, jornada_num):
                 clave_sofa = limpiar_texto_crudo(match['nombre_sofa'])
                 guardar_alias(equipo, clave_fantasy, clave_sofa)
 
-        # --- FASE 3: INTERACTIVA (SIN FILTRO DE BANQUILLO) ---
-        pendientes = []
-        for i_p in df_p_equipo.index:
-            if i_p in asignados_puntos: continue
-            
-            pts_p = df_p_equipo.at[i_p, 'Stats_Reales']
-            nom_p_limpio = limpiar_texto(df_p_equipo.at[i_p, 'Jugador'], equipo)
-            
-            if pts_p != 0:
-                pendientes.append(i_p)
-            else: # pts_p == 0
-                for i_s in df_s_equipo.index:
-                    if i_s in asignados_stats: continue
-                    nom_s_limpio = limpiar_texto_crudo(df_s_equipo.at[i_s, 'Jugador'])
-                    if nombres_compatibles(nom_p_limpio, nom_s_limpio):
-                        pendientes.append(i_p)
-                        break
+        # 🚨 FASE 3 INVERTIDA: Iteramos sobre los jugadores de SOFASCORE que faltan
+        pendientes_s = []
+        for i_s in df_s_equipo.index:
+            if i_s not in asignados_stats:
+                pendientes_s.append(i_s)
         
-        for i_p in pendientes:
-            row_p = df_p_equipo.loc[i_p]
-            nom_p_original = row_p['Jugador']
-            nom_p_limpio = limpiar_texto_crudo(nom_p_original)
-            pts_p = row_p['Stats_Reales']
+        for i_s in pendientes_s:
+            row_s = df_s_equipo.loc[i_s]
+            nom_s_original = row_s['Jugador']
+            nom_s_crudo = limpiar_texto_crudo(nom_s_original)
+            pts_teoricos = row_s['Puntos_Teoricos']
+            mins = row_s['Minutos_jugados']
             
-            candidatos_libres = df_s_equipo.loc[~df_s_equipo.index.isin(asignados_stats)].copy()
-            candidatos_libres['Similitud'] = candidatos_libres['Jugador'].apply(lambda x: difflib.SequenceMatcher(None, nom_p_limpio, limpiar_texto_crudo(x)).ratio())
-            candidatos_mostrar = candidatos_libres.sort_values(by='Similitud', ascending=False)
+            candidatos_libres_p = df_p_equipo.loc[~df_p_equipo.index.isin(asignados_puntos)].copy()
+            candidatos_libres_p['Similitud'] = candidatos_libres_p['Jugador'].apply(
+                lambda x: calcular_similitud_visual(nom_s_crudo, limpiar_texto_crudo(str(x)))
+            )
+            candidatos_mostrar = candidatos_libres_p.sort_values(by='Similitud', ascending=False)
             
             print(f"\n" + "="*60)
-            print(f"❓ FANTASY REGISTRÓ A: {nom_p_original} ({equipo}) | {pts_p} pts Fantasy")
+            print(f"❓ SOFASCORE REGISTRÓ A: {nom_s_original} ({equipo}) | ⏱️ {mins} mins | {pts_teoricos} pts calc.")
             print("="*60)
             print("0. ✍️  Descartar jugador (IGNORAR)")
             
             lista_opciones = []
-            for idx, (_, row_s) in enumerate(candidatos_mostrar.iterrows(), 1):
-                lista_opciones.append((row_s.name, row_s['Jugador']))
-                minutos = row_s['Minutos_jugados']
-                print(f"{idx}. {row_s['Jugador']} | {row_s['Posicion']} | {row_s['Puntos_Teoricos']} pts calc. | ⏱️ {minutos} mins")
+            for idx, (_, row_p) in enumerate(candidatos_mostrar.iterrows(), 1):
+                lista_opciones.append((row_p.name, row_p['Jugador']))
+                pts_f = row_p['Stats_Reales']
+                print(f"{idx}. {row_p['Jugador']} | {row_p['Posicion']} | {pts_f} pts Fantasy")
+            
+            if len(lista_opciones) == 0:
+                print("⚠️ [Fantasy no tiene más jugadores libres registrados en este partido]")
             
             while True:
                 opcion = input(f"\nElige una opción (0-{len(lista_opciones)}): ").strip()
@@ -290,13 +337,16 @@ def cruzar_jornada(temporada_str, jornada_num):
             if opcion == 0:
                 print("🚫 Jugador ignorado.")
             else:
-                idx_elegido, nombre_elegido = lista_opciones[opcion - 1]
-                guardar_alias(equipo, nom_p_limpio, limpiar_texto_crudo(nombre_elegido))
-                df_puntos.at[i_p, 'Jugador_SofaScore'] = nombre_elegido
-                asignados_stats.add(idx_elegido)
-                print(f"✅ Relación aprendida para siempre ({equipo}): {nom_p_original} -> {nombre_elegido}")
+                idx_elegido_p, nombre_fantasy_elegido = lista_opciones[opcion - 1]
+                nom_p_limpio_guardar = limpiar_texto_crudo(nombre_fantasy_elegido)
+                
+                # 🚨 Guardamos la relación Fantasy -> SofaScore como siempre
+                guardar_alias(equipo, nom_p_limpio_guardar, nom_s_crudo)
+                df_puntos.at[idx_elegido_p, 'Jugador_SofaScore'] = nom_s_original
+                asignados_stats.add(i_s)
+                asignados_puntos.add(idx_elegido_p)
+                print(f"✅ Relación aprendida para siempre ({equipo}): {nombre_fantasy_elegido} -> {nom_s_original}")
 
-    # --- FUSIÓN Y GUARDADO ---
     df_puntos_con_match = df_puntos.dropna(subset=['Jugador_SofaScore']).copy()
     
     df_final = pd.merge(
@@ -306,7 +356,7 @@ def cruzar_jornada(temporada_str, jornada_num):
     )
     
     columnas_mantener = [
-        'Temporada_puntos', 'Jornada_puntos', 'Equipo_Nombre', 
+        'Temporada_puntos', 'Jornada_puntos', 'Equipo_Nombre', 'Equipo_Rival', 'Es_Local',
         'Jugador_puntos', 'Jugador_stats', 
         'Posicion_stats', 'Puntos', 'Relevo', 'Nota_SofaScore', 'Minutos_jugados', 'Goles', 'Asistencias_de_gol',
         'Asistencias_sin_gol', 'Balones_al_area', 'Tiros_a_puerta', 'Regates', 'Balones_recuperados',
@@ -346,9 +396,7 @@ def orquestar_cruce(temporadas_dict):
 
 if __name__ == "__main__":
     temporadas_a_cruzar = {
-        "23-24": [1, 38, []],
-        "24-25": [1, 38, []],
-        "25-26": [1, 27, []]
+        "25-26": [27, 28, []]
     }
     
     orquestar_cruce(temporadas_a_cruzar)
