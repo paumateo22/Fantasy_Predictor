@@ -108,3 +108,8 @@ para sofascore y para opta. Por ahora estoy adaptando el cruzado de fuentes [Fut
 que estoy probando ahora es muy similar a la que hago en JaJ, pero guardo los 2 nombres, algo que quiero adaptar
 a JaJ. Sigo en proceso de generar el diccionario, pues son 3 temporadas, después de eso podré valorar mejor
 el resultado de puntos estadísticos.
+
+================================================================================================================================================
+[20/03/26]
+================================================================================================================================================
+Haciendo el scraping y cruzado de pre jornada, no ha puesto a De Frutos y lo he tenido que añadir de forma manual.
