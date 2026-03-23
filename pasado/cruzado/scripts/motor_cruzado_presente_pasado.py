@@ -18,7 +18,7 @@ def cruzar_pasado_presente(temporada, jornada):
     jornada_str = f"J{jornada}"
     
     ruta_pasado = os.path.join(dir_cruzado, "datasets", temporada, f"{jornada_str}_cruzado.csv")
-    ruta_jaj = os.path.join(dir_raiz, "datasets", "JaJ", temporada, jornada_str, "jugadores+mercado.csv")
+    ruta_jaj = os.path.join(dir_raiz, "datasets", "JaJ", temporada, jornada_str, f"{jornada_str}_jugadores+mercado.csv")
     dir_salida = os.path.join(dir_raiz, "datasets", "Pasado", temporada)
     
     if not os.path.exists(ruta_pasado):
