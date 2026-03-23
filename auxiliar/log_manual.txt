@@ -115,3 +115,8 @@ el resultado de puntos estadísticos.
 He conseguido tener algo funcional para cruzar Sofascore y FutbolFantasy y después he relacionado mediante FutbolFantasy el dataset
 post partido y el pre partido. Ahora toca hacer el análisis del dataset post partido, porque quiero conseguir calcular puntos en base
 a estadísticas de la mejor manera posible. Tengo que limpiar el dataset de los ejemplos sin sentido para entrenar modelos.
+
+================================================================================================================================================
+[20/03/26]
+================================================================================================================================================
+Haciendo el scraping y cruzado de pre jornada, no ha puesto a De Frutos y lo he tenido que añadir de forma manual.
