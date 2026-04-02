@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
+from curl_cffi import requests as curl_requests
 
 def extraer_nombres_equipos(soup):
     """Busca los nombres de los equipos de forma robusta con varios métodos de respaldo."""
@@ -180,60 +181,49 @@ def scrap_datos_alineaciones(url, jornada, temporada):
 
 
 def scrap_datos_clasificacion():
-    """Extrae la clasificación general desde BeSoccer (Solo los primeros 20 equipos)."""
     url = "https://es.besoccer.com/competicion/clasificacion/primera"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
     try:
-        r = requests.get(url, headers=headers)
+        # 🚨 Usamos el ALIAS 'curl_requests' para no interferir con las otras funciones
+        r = curl_requests.get(url, impersonate="chrome120")
+        
         if r.status_code != 200:
             print(f"❌ Error al conectar a la clasificación. Estado: {r.status_code}")
             return []
 
         soup = BeautifulSoup(r.text, 'html.parser')
         
-        # 🚨 LA MAGIA: Nos quedamos estrictamente con las 20 primeras filas (Clasificación General)
         filas_equipos = soup.find_all('tr', class_=lambda c: c and 'row-body' in c)[:20]
         
         datos_clasificacion = []
 
         for fila in filas_equipos:
             columnas = fila.find_all('td')
-            if len(columnas) < 11:
-                continue
+            if len(columnas) < 11: continue
                 
             try:
                 equipo = fila.find('span', class_='team-name').get_text(strip=True)
                 
                 racha_contenedor = fila.find('div', class_='match-res')
-                # Pequeña validación extra por si algún equipo no tiene racha aún
                 racha = "".join([span.get_text(strip=True) for span in racha_contenedor.find_all('span')]) if racha_contenedor else ""
-                
-                pts = columnas[3].get_text(strip=True)
-                pj = columnas[4].get_text(strip=True)
-                pg = columnas[5].get_text(strip=True)
-                pe = columnas[6].get_text(strip=True)
-                pp = columnas[7].get_text(strip=True)
-                gf = columnas[8].get_text(strip=True)
-                gc = columnas[9].get_text(strip=True)
-                dg = columnas[10].get_text(strip=True)
                 
                 datos_clasificacion.append({
                     "Equipo": equipo,
                     "Racha": racha,
-                    "PTS": pts,
-                    "PJ": pj,
-                    "PG": pg,
-                    "PE": pe,
-                    "PP": pp,
-                    "GF": gf,
-                    "GC": gc,
-                    "DG": dg
+                    "PTS": columnas[3].get_text(strip=True),
+                    "PJ": columnas[4].get_text(strip=True),
+                    "PG": columnas[5].get_text(strip=True),
+                    "PE": columnas[6].get_text(strip=True),
+                    "PP": columnas[7].get_text(strip=True),
+                    "GF": columnas[8].get_text(strip=True),
+                    "GC": columnas[9].get_text(strip=True),
+                    "DG": columnas[10].get_text(strip=True)
                 })
             except Exception as e:
-                pass # Ignoramos filas anómalas
+                pass 
                 
         return datos_clasificacion
     except Exception as e:
         print(f"❌ Error procesando clasificación: {e}")
         return []
+    
