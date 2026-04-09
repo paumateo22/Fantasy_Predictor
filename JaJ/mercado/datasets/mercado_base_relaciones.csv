@@ -1,4 +1,5 @@
 ﻿Oficial,OCR
+0,D
 A. Alti,A. Alti
 A. Arcos,A. Arcos
 A. Batalla,A. Batalla
@@ -102,6 +103,7 @@ Arnau Tenas,Arnau Tenas
 Arriaga,Arriaga
 Arriaga,Arriaga UusuiB
 Asano,Asano
+Asano,Asano DE
 Asencio,Asencio
 Asier Hierro,Asier Hierro
 Asier Hierro,Asier Hierro Ctc
@@ -198,6 +200,7 @@ Cepeda,Cepeda DI
 Cestero,Cestero
 Chavarría,Chavarría
 Cheli,Cheli
+Chimy Ávila,Chimy Ávila
 Chimy Ávila,Chimy Ávila D
 Chimy Ávila,Chimy Ávila DE
 Christensen,Christensen
@@ -266,6 +269,7 @@ Echeverri,Echeverri
 Eder Aller,Eder Aller
 Eder García,Eder García
 Eder García,Eder García Clp
+Eder García,Eder García Ctc
 Edu Altozano,Edu Altozano
 Edu Expósito,Edu Expósito
 Egiluz,Egiluz
@@ -294,9 +298,11 @@ F. De Jong,F.De Jong
 F. Garcés,F.Garcés
 F. Mastantuono,F. Mastantuono
 F. Mastantuono,F.Mastantuono
+F. Mastantuono,F.Mastantuono D
 F. Mendy,F Mendy
 F. Mendy,F. Mendy
 F. Viñas,F. Viñas
+F. Viñas,F. Viñas D
 Febas,Febas
 Fer López,Fer López
 Fermín,Fermín
@@ -306,6 +312,7 @@ Ferran,Ferran DE
 Ferran Jutglà,Ferran Jutgl
 Ferran Jutglà,Ferran Jutgl D
 Ferran Jutglà,Ferran Jutgl DE
+Ferran Jutglà,Ferran Jutgl DI
 Ferrer,Ferrer
 Ferri,Ferri
 Fidalgo,Fidalgo
@@ -345,12 +352,14 @@ Giuliano,Giuliano
 Gonzalo,Gonzalo
 Gorka Carrera,Gorka Carrera
 Gorka Carrera,Gorka Carrera D
+Gorka Carrera,Gorka Carrera DI
 Gorosabel,Gorosabel
 Gorosabel,Gorosabel Clp
 Gorosabel,Gorosabel Ctc
 Gorrotxa,Gorrotxa
 Goti,Goti
 Grady Diangana,Grady Diangana D
+Grady Diangana,Grady Diangana DE
 Grady Diangana,Grady Diangana DI
 Griezmann,Griezmann
 Gudelj,Gudelj
@@ -408,6 +417,7 @@ Ilic,Ilic
 Ilyas,Ilyas
 Ionut Radu,lonut Radu
 Isaac,Isaac
+Isaac,Isaac D
 Isaac,Isaac DE
 Isaac,Isaac DI
 Isaac,Isaac DL
@@ -520,6 +530,7 @@ Lamine Yamal,Lamine Yamal
 Lamine Yamal,Lamine Yamal D
 Lamini,Lamini
 Laporte,Laporte
+Laporte,Laporte Clp
 Lass,Lass
 Le Normand,Le Normand
 Lebarbier,Lebarbier
@@ -576,6 +587,7 @@ Mariezkurrena,Mariezkurrena DE
 Mario Martín,Mario Martín
 Maroan,Maroan
 Maroan,Maroan D
+Maroan,Maroan DE
 Marrero,Marrero
 Martim Neto,Martim Neto
 Martin Krug,Martin Krug
@@ -666,6 +678,7 @@ Oluwaseyi,Oluwaseyi D
 Omar Falah,Omar Falah
 Orejuela,Orejuela
 Oskarsson,Oskarsson
+Oskarsson,Oskarsson D
 Oskarsson,Oskarsson DE
 Oso,Oso
 Osorio,Osorio
@@ -674,6 +687,7 @@ Otorbi,Otorbi
 Ounahi,Ounahi
 Ounahi,ounahi
 Oyarzabal,Oyarzabal
+Oyarzabal,Oyarzabal DE
 P. Campos,P. Campos
 P. Campos,P.Campos
 P. Martínez,P. Martínez
@@ -691,6 +705,7 @@ Pacheco,Pacheco
 Paco Cortes,Paco Cortes
 Paco Cortes,Paco Cortes D
 Paco Cortes,Paco Cortes DE
+Paco Cortes,Paco Cortes DE UUuti
 Paco Cortes,Paco Cortes DI
 Padilla,Padilla
 Padilla,Padilla Ctc
@@ -713,6 +728,7 @@ Pepe,Pepe
 Pepelu,Pepelu
 Peque,Peque
 Peque,Peque DE
+Peque,Peque DL
 Pere Milla,Pere Milla
 Pere Milla,Pere Milla D
 Pickel,Pickel
@@ -730,6 +746,7 @@ R. Arroyo,R. Arroyo D
 R. Brugué,R. Brugué
 R. Brugué,R. Brugué DE
 R. Brugué,R. Brugué DE UlsuI
+R. Brugué,R. Brugué DI
 R. Brugué,R. Brugué Uuuib
 R. Chasco,R. Chasco
 R. Mendoza,B. Mendoza
@@ -744,6 +761,7 @@ Rafa Mir,Rafa Mir
 Rafa Mir,Rafa Mir D
 Rafa Romero,Rafa Romero
 Raghouber,Raghouber
+Raghouber,Raghouber UlsuI
 Ramazani,Ramazani
 Ramón Martínez,Ramón Martínez
 Raphinha,Raphinha
@@ -800,6 +818,7 @@ Saravia,Saravia
 Satriano,Satriano
 Satriano,Satriano D
 Selton,Selton
+Selton,Selton Ctc
 Selton,Selton lup
 Sergio Gómez,Sergio Gómez
 Sergio Herrera,Sergio Herrera
@@ -812,8 +831,10 @@ Sow,Sow
 Stamatakis,Stamatakis
 Starfelt,Starfelt
 Stuani,Stuani
+Stuani,Stuani D
 Suazo,Suazo
 Sucic,Sucic
+Sucic,sucic
 Swiderski,Swiderski
 Szczesny,Szczesny
 Szczesny,szczesny
@@ -889,6 +910,7 @@ Y. Santiago,Y. Santiago
 Yassin T.,Yassin T.
 Yañez,Yañez
 Yeray,Yeray
+Yeray,Yeray Ctc
 Yoel Lago,Yoel Lago
 Youssef,Youssef
 Yuri,Yuri
@@ -900,6 +922,7 @@ Zubeldia,Zubeldia
 Á. Ortiz,Á. Ortiz
 Á. Valles,Á. Valles
 Álex Baena,Álex Baena
+Álex Balde,Alex Balde
 Álex Balde,Álex Balde
 Álex Sancris,Álex Sancris
 Álex Sancris,Álex Sancris D

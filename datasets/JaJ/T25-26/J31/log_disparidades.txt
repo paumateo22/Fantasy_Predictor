@@ -1,0 +1,4 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J31 ---
+
+⚠️ Boiro (Athletic):
+   - Posición (OCR falló: leyó 'Delantero' -> Nuestro registro dice 'Defensa')
