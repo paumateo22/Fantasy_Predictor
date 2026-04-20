@@ -132,7 +132,7 @@ def ejecutar_temporada_completa(tareas):
 if __name__ == "__main__":
     
     tareas_a_ejecutar = {
-        "25-26": [30, 30, []]
+        "25-26": [31, 31, []]
     }
     
     print("\n🚀 INICIANDO EL MOTOR DE SCRAPING DE PUNTOS FANTASY 🚀")
