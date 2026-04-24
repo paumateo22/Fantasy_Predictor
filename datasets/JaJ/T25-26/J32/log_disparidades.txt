@@ -1,0 +1,4 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J32 ---
+
+⚠️ Rivero (Valencia):
+   - Puntos (OCR leyó: 3 -> Scraping oficial: -3)

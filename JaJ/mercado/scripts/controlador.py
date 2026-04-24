@@ -55,6 +55,6 @@ def ejecutar_pipeline(temporada, jornada):
 
 if __name__ == "__main__":
     TEMPORADA_ACTUAL = "T25-26"
-    JORNADA_ACTUAL = "J33"
+    JORNADA_ACTUAL = "J32"
     
     ejecutar_pipeline(TEMPORADA_ACTUAL, JORNADA_ACTUAL)

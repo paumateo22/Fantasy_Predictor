@@ -133,7 +133,7 @@ def orquestar_cruce(temporadas_dict):
 
 if __name__ == "__main__":
     temporadas_a_procesar = {
-        "T25-26": [31, 31, []]
+        "T25-26": [33, 33, []]
     }
     
     orquestar_cruce(temporadas_a_procesar)
