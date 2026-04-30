@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
     # --- 2. CONFIGURACIÓN DE SCRAPING ---
     scrapear = {
-        "25-26": [33, 33, []]
+        "25-26": [32, 32, []]
     }
 
     # Aquí guardaremos las jornadas que vayan fallando: (temporada_str, id_sofa, jornada_num)

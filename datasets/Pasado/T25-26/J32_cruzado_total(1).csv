@@ -1,0 +1,322 @@
+﻿Temporada,Jornada,ID_Partido,Equipo,Equipo_Rival,Es_Local,Jugador_FutFantasy,Jugador_Fantasy,Jugador_SofaScore,Posicion,Edad,Nacionalidad,Precio_Fantastica,Probabilidad_Jugar,Estado_Medico,Estado_Forma,Partidos_Jugados,Puntos_Totales,Media_Puntos,Puntos_Ultima_Jornada,Puntos_Jornada_Ant_2,Puntos_Jornada_Ant_3,Goles_Temporada,Asistencias_Temporada,Penaltis_Parados_Temporada,Amarillas_Temporada,Rojas_Temporada,Minutos_jugados,Nota_SofaScore,Goles_Partido,Asistencias_Partido,Asistencias_sin_gol,Tiros_a_puerta,Regates,Balones_al_area,Balones_recuperados,Posesiones_perdidas,Despejes,Paradas,Goles_en_contra,Penaltis_provocados,Penaltis_cometidos,Penaltis_Parados_Partido,Penaltis_fallados,Goles_en_propia_puerta,Amarillas_Partido,Rojas_Partido,Puntos,Relevo
+2025/26,32,20389,Betis,Real Madrid,1,Valles,Á. Valles,Álvaro Valles,Portero,28,ES,20.0,70%,Sano,1.5,23.0,147,6.4,1,6,10.0,0.0,0.0,1.0,1.0,0.0,90,8.1,0,0,0,0,0,0,9,5,2,7,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20389,Betis,Real Madrid,1,Bartra,Bartra,Marc Bartra,Defensa,35,ES,16.0,50%,Sano,1.5,24.0,137,5.7,2,0,10.0,1.0,0.0,0.0,3.0,0.0,32,6.6,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20389,Betis,Real Madrid,1,Rodríguez,Rodríguez,Ricardo Rodríguez,Defensa,33,CH,9.0,70%,Sano,-1.0,19.0,69,3.6,1,0,0.0,0.0,1.0,0.0,0.0,0.0,90,6.4,0,0,2,0,0,0,2,5,1,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20389,Betis,Real Madrid,1,Bellerín,Bellerín,Héctor Bellerín,Defensa,31,ES,10.0,70%,Sano,1.3,21.0,98,4.7,2,5,7.0,1.0,3.0,0.0,2.0,0.0,90,7.8,1,0,0,1,0,0,4,6,0,0,0,0,0,0,0,0,0,0,12,3
+2025/26,32,20389,Betis,Real Madrid,1,Natan,Natan,Natan,Defensa,25,BR,12.0,80%,Sano,1.5,28.0,140,5.0,1,4,0.0,0.0,0.0,0.0,7.0,0.0,90,6.7,0,0,0,0,0,0,3,7,3,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20389,Betis,Real Madrid,1,Fornals,Fornals,Pablo Fornals,Mediocampista,30,ES,23.0,70%,Sano,1.3,32.0,222,6.9,4,3,8.0,7.0,4.0,0.0,2.0,0.0,68,6.6,0,0,4,0,0,1,8,13,0,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20389,Betis,Real Madrid,1,S. Amrabat,Amrabat,Sofyan Amrabat,Mediocampista,29,MA,8.0,70%,Sano,1.6,12.0,50,4.2,3,6,7.0,0.0,0.0,0.0,3.0,0.0,73,6.5,0,0,1,0,0,0,5,7,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20389,Betis,Real Madrid,1,Fidalgo,Fidalgo,Álvaro Fidalgo,Mediocampista,29,ES,8.0,30%,Sano,-1.0,6.0,30,5.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0,45,6.6,0,0,1,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20389,Betis,Real Madrid,1,Bakambu,Bakambu,Cédric Bakambu,Delantero,35,CD,6.0,40%,Sano,2.0,16.0,53,3.3,6,0,0.0,3.0,1.0,0.0,1.0,0.0,45,6.2,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20389,Betis,Real Madrid,1,Antony,Antony,Antony,Delantero,26,BR,19.0,70%,Sano,0.4,26.0,164,6.3,0,0,3.0,7.0,5.0,0.0,5.0,1.0,90,7.0,0,0,1,2,0,0,1,15,1,0,0,0,0,0,0,0,0,0,5,3
+2025/26,32,20389,Betis,Real Madrid,1,Abde,Ez Abde,Abdessamad Ezzalzouli,Delantero,24,MA,26.0,80%,Sano,2.1,23.0,172,7.5,15,13,2.0,7.0,7.0,0.0,3.0,0.0,90,8.1,0,0,3,0,0,0,4,16,0,0,0,0,0,0,0,0,0,0,6,4
+2025/26,32,20389,Betis,Real Madrid,1,D. Llorente,Llorente,Diego Llorente,Defensa,32,ES,8.0,50%,Sano,2.0,13.0,66,5.1,0,7,13.0,1.0,0.0,0.0,3.0,0.0,58,7.2,0,0,1,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20389,Betis,Real Madrid,1,Isco,Isco,Isco,Mediocampista,34,ES,6.0,10%,Sano,2.0,2.0,11,5.5,1,0,0.0,0.0,1.0,0.0,0.0,0.0,17,6.7,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20389,Betis,Real Madrid,1,Marc Roca,Marc Roca,Marc Roca,Mediocampista,29,ES,10.0,40%,Sano,2.0,24.0,110,4.6,9,0,0.0,1.0,1.0,0.0,1.0,0.0,45,6.5,0,0,1,0,0,0,4,8,1,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20389,Betis,Real Madrid,1,Lo Celso,Lo Celso,Giovani Lo Celso,Mediocampista,30,AR,10.0,50%,Sano,0.7,19.0,97,5.1,0,4,0.0,2.0,2.0,0.0,4.0,0.0,22,6.8,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,3
+2025/26,32,20389,Betis,Real Madrid,1,Cucho,Cucho,Cucho Hernández,Delantero,27,CO,15.0,60%,Sano,1.4,27.0,151,5.6,2,2,4.0,8.0,3.0,0.0,4.0,0.0,45,6.4,0,0,0,1,0,1,2,5,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20389,Real Madrid,Real Betis,0,Lunin,Lunin,Andriy Lunin,Portero,27,UA,7.0,95%,Sano,1.2,4.0,21,5.3,8,5,2.0,0.0,0.0,0.0,0.0,1.0,90,7.6,0,0,0,0,0,0,6,4,0,3,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20389,Real Madrid,Real Betis,0,Rüdiger,Rüdiger,Antonio Rüdiger,Defensa,33,DE,10.0,80%,Sano,1.2,14.0,74,5.3,3,0,1.0,1.0,0.0,0.0,0.0,0.0,90,6.6,0,0,0,0,0,0,3,8,4,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20389,Real Madrid,Real Betis,0,Alexander-Arnold,Trent,Trent Alexander-Arnold,Defensa,27,EN,8.0,50%,Sano,0.6,16.0,73,4.6,10,0,6.0,0.0,4.0,0.0,1.0,0.0,90,6.5,0,0,2,0,0,2,4,27,1,0,0,0,0,0,0,0,0,0,0,1
+2025/26,32,20388,Rayo,Real Betis,0,Mendy,N. Mendy,Ferland Mendy,Defensa,21,SN,12.0,80%,Sano,0.0,19.0,93,4.9,0,-1,0.0,2.0,0.0,0.0,7.0,2.0,90,6.0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20389,Real Madrid,Real Betis,0,Mendy,F. Mendy,Ferland Mendy,Defensa,30,FR,4.0,50%,Sano,-1.0,3.0,8,2.7,0,2,0.0,0.0,0.0,0.0,0.0,0.0,90,6.0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20387,Sevilla,Real Betis,0,Mendy,Mendy,Ferland Mendy,Mediocampista,26,FR,9.0,30%,Sano,1.0,25.0,84,3.4,0,2,4.0,1.0,0.0,0.0,6.0,0.0,90,6.0,0,0,0,0,0,0,5,7,1,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20389,Real Madrid,Real Betis,0,Huijsen,Huijsen,Dean Huijsen,Defensa,21,ES,18.0,70%,Sano,0.9,24.0,144,6.0,9,4,2.0,2.0,2.0,0.0,6.0,1.0,73,7.6,0,0,0,1,0,0,2,9,3,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20389,Real Madrid,Real Betis,0,Valverde,Valverde,Federico Valverde,Mediocampista,27,UY,27.0,90%,Sano,1.2,30.0,230,7.7,9,11,0.0,5.0,8.0,0.0,3.0,1.0,90,7.3,0,0,0,2,0,0,8,6,3,0,0,0,0,0,0,0,0,0,9,3
+2025/26,32,20389,Real Madrid,Real Betis,0,Brahim,Brahim,Brahim Díaz,Mediocampista,26,MA,8.0,50%,Sano,0.9,24.0,102,4.3,2,11,3.0,0.0,5.0,0.0,1.0,0.0,82,6.3,0,0,1,0,0,0,2,9,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20389,Real Madrid,Real Betis,0,Bellingham,Bellingham,Jude Bellingham,Mediocampista,22,EN,22.0,80%,Sano,1.1,22.0,150,6.8,3,6,2.0,4.0,3.0,0.0,1.0,0.0,90,7.0,0,0,1,2,0,0,5,17,0,0,0,0,0,0,0,0,0,0,7,3
+2025/26,32,20389,Real Madrid,Real Betis,0,Thiago,Thiago Pitarch,Thiago Pitarch Pinar,Mediocampista,18,ES,4.0,50%,Sano,0.5,5.0,12,2.4,0,0,1.0,0.0,0.0,0.0,1.0,0.0,73,6.7,0,0,0,0,0,0,1,5,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20390,Real Oviedo,Real Betis,0,Thiago,Thiago Fernánd...,Thiago Pitarch Pinar,Mediocampista,22,AR,7.0,50%,Sano,2.2,11.0,51,4.6,4,11,8.0,0.0,4.0,0.0,2.0,0.0,73,6.7,0,0,0,0,0,0,1,5,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20389,Real Madrid,Real Betis,0,Mbappé,Mbappé,Kylian Mbappé,Delantero,27,FR,46.0,90%,Sano,1.2,27.0,300,11.1,13,3,3.0,24.0,4.0,0.0,4.0,0.0,81,6.3,0,0,2,1,0,0,0,12,0,0,0,0,0,0,0,0,0,0,6,3
+2025/26,32,20389,Real Madrid,Real Betis,0,Vinicius,Vini Jr.,Vinicius Júnior,Delantero,25,BR,27.0,99%,Sano,1.0,31.0,237,7.6,13,6,3.0,12.0,5.0,0.0,7.0,0.0,90,7.6,1,0,3,2,0,0,4,12,0,0,0,0,0,0,0,0,0,0,11,4
+2025/26,32,20389,Real Madrid,Real Betis,0,Alaba,Alaba,David Alaba,Defensa,33,AT,4.0,30%,Sano,-1.0,8.0,18,2.3,0,0,0.0,0.0,0.0,0.0,1.0,0.0,17,6.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20389,Real Madrid,Real Betis,0,Camavinga,Camavinga,Eduardo Camavinga,Mediocampista,23,FR,10.0,80%,Sano,0.4,24.0,106,4.4,1,4,6.0,1.0,0.0,0.0,1.0,0.0,17,7.2,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20389,Real Madrid,Real Betis,0,Gonzalo,Gonzalo,Gonzalo García,Delantero,22,ES,6.0,11%,Sano,-1.0,24.0,70,2.9,0,2,0.0,4.0,0.0,0.0,1.0,0.0,9,6.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20384,Alavés,Mallorca,1,Sivera,Sivera,Antonio Sivera,Portero,29,ES,10.0,95%,Sano,1.7,32.0,139,4.3,4,2,2.0,0.0,0.0,0.0,2.0,0.0,90,6.7,0,0,0,0,0,0,14,12,2,1,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20384,Alavés,Mallorca,1,Jonny,Jonny Otto,Jonny Otto,Defensa,32,ES,9.0,80%,Sano,1.0,31.0,92,3.0,1,1,2.0,0.0,0.0,0.0,5.0,0.0,90,6.8,0,0,1,0,0,0,6,12,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Alavés,Mallorca,1,Tenaglia,Tenaglia,Nahuel Tenaglia,Defensa,30,AR,10.0,90%,Sano,0.9,30.0,133,4.4,3,3,3.0,1.0,0.0,0.0,2.0,0.0,90,6.9,0,0,0,1,0,0,6,4,4,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20384,Alavés,Mallorca,1,Parada,V. Parada,Victor Parada,Defensa,24,ES,8.0,80%,Sano,1.0,24.0,60,2.5,1,2,1.0,0.0,3.0,0.0,8.0,1.0,81,6.5,0,0,1,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20384,Alavés,Mallorca,1,Ángel Pérez,Ángel Pérez,Ángel Pérez,Delantero,23,ES,9.0,80%,Sano,1.5,10.0,45,4.5,2,6,1.0,1.0,1.0,0.0,3.0,0.0,81,7.0,0,1,4,0,0,1,4,25,1,0,0,0,0,0,0,0,0,0,7,4
+2025/26,32,20384,Alavés,Mallorca,1,Aleñá,Aleñá,Carles Aleñá,Mediocampista,28,ES,9.0,50%,Sano,1.0,32.0,123,3.8,3,2,2.0,0.0,4.0,0.0,4.0,0.0,63,6.7,0,0,3,0,0,3,2,9,0,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20384,Alavés,Mallorca,1,Blanco,Blanco,Antonio Blanco,Mediocampista,25,ES,10.0,90%,Sano,1.6,30.0,129,4.3,4,4,7.0,1.0,2.0,0.0,7.0,0.0,90,6.7,0,0,0,0,0,0,3,5,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20384,Alavés,Mallorca,1,Ibáñez,Ibañez,Pablo Ibáñez,Mediocampista,27,ES,9.0,70%,Sano,1.3,31.0,117,3.8,3,1,6.0,1.0,1.0,0.0,5.0,0.0,90,6.7,0,0,1,0,0,0,4,14,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Alavés,Mallorca,1,Rebbach,A. Rebbach,Abderrahman Rebbach,Delantero,27,DZ,7.0,50%,Sano,1.8,24.0,74,3.1,0,1,2.0,1.0,1.0,0.0,5.0,0.0,90,6.9,0,1,3,1,0,3,7,18,0,0,0,0,0,0,0,0,0,0,12,4
+2025/26,32,20384,Alavés,Mallorca,1,Toni Martinez,T. Martinez,Toni Martínez,Delantero,28,ES,15.0,90%,Sano,1.8,31.0,173,5.6,11,3,11.0,9.0,3.0,0.0,1.0,0.0,81,9.3,2,0,1,2,0,0,2,7,1,0,0,0,0,0,0,0,0,0,15,4
+2025/26,32,20384,Alavés,Mallorca,1,Boyé,Lucas Boyé,Lucas Boyé,Delantero,30,AR,16.0,50%,Sano,1.5,26.0,147,5.7,0,8,8.0,11.0,1.0,0.0,4.0,1.0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20384,Alavés,Mallorca,1,Pacheco,Pacheco,Jon Pacheco,Defensa,25,ES,9.0,40%,Sano,-1.0,21.0,69,3.3,0,0,0.0,0.0,0.0,0.0,6.0,1.0,9,6.8,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Alavés,Mallorca,1,Denis Suárez,Denis Suárez,Denis Suárez,Mediocampista,32,ES,8.0,40%,Sano,1.2,24.0,79,3.3,1,6,0.0,1.0,2.0,0.0,6.0,0.0,27,6.9,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Alavés,Mallorca,1,Guridi,Guridi,Jon Guridi,Mediocampista,31,ES,6.0,60%,Sano,1.0,22.0,43,2.0,0,2,3.0,0.0,0.0,0.0,1.0,0.0,9,6.6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20384,Alavés,Mallorca,1,Calebe,Calebe,Calebe Gonçalves,Mediocampista,25,BR,6.0,10%,Sano,1.0,18.0,50,2.8,2,0,0.0,0.0,0.0,0.0,2.0,0.0,9,6.6,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Alavés,Mallorca,1,Diabaté,Diabate,Ibrahim Diabaté,Delantero,26,CI,5.0,50%,Sano,1.0,4.0,14,3.5,2,8,2.0,1.0,0.0,0.0,0.0,0.0,86,6.8,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Leo Román,Leo Román,Leo Román,Portero,25,ES,12.0,95%,Sano,2.1,27.0,133,4.9,6,12,4.0,0.0,0.0,1.0,4.0,0.0,90,7.1,0,0,0,0,0,0,13,9,1,2,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Mojica,J. Mojica,Johan Mojica,Defensa,33,CO,9.0,70%,Sano,1.5,31.0,109,3.5,4,7,2.0,0.0,3.0,0.0,5.0,0.0,86,6.2,0,0,0,0,0,0,4,8,3,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Maffeo,Maffeo,Pablo Maffeo,Defensa,28,AR,9.0,80%,Sano,1.4,26.0,108,4.2,4,9,7.0,1.0,1.0,0.0,9.0,0.0,85,6.5,0,0,0,0,0,0,6,13,1,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Valjent,Valjent,Martin Valjent,Defensa,30,SK,9.0,90%,Sano,1.7,31.0,115,3.7,7,0,5.0,0.0,0.0,0.0,5.0,0.0,90,6.9,0,0,0,0,0,0,3,6,8,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20391,Girona,Deportivo Alavés,0,David López,David López,David López,Defensa,36,ES,3.0,15%,Sano,-1.0,4.0,4,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,90,6.6,0,0,0,0,0,0,4,8,5,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,David López,David López,David López,Defensa,23,ES,6.0,50%,Sano,1.1,9.0,30,3.3,2,7,3.0,0.0,0.0,0.0,2.0,0.0,90,6.6,0,0,0,0,0,0,4,8,5,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Mascarell,Mascarell,Omar Mascarell,Mediocampista,33,GQ,10.0,60%,Sano,1.3,25.0,109,4.4,6,6,5.0,1.0,2.0,0.0,4.0,0.0,90,7.2,0,0,0,0,0,0,4,2,5,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Darder,Darder,Sergi Darder,Mediocampista,32,ES,14.0,70%,Sano,2.3,32.0,171,5.3,13,9,2.0,1.0,5.0,0.0,3.0,0.0,81,6.8,0,0,0,1,0,1,2,9,3,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Samú,Samu Costa,Samú Costa,Mediocampista,25,PT,10.0,90%,Sano,1.7,29.0,135,4.7,10,11,6.0,6.0,1.0,0.0,9.0,0.0,90,6.6,0,1,1,0,0,1,2,16,2,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Pablo Torre,Pablo Torre,Pablo Torre,Mediocampista,23,ES,9.0,70%,Sano,2.0,29.0,108,3.7,3,15,8.0,3.0,3.0,0.0,3.0,0.0,70,6.7,0,0,0,0,0,0,9,9,1,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Virgili,Jan Virgili,Jan Virgili,Delantero,19,ES,13.0,60%,Sano,1.7,25.0,121,4.8,5,11,2.0,1.0,4.0,0.0,0.0,1.0,90,7.1,1,0,0,1,0,0,1,10,0,0,0,0,0,0,0,0,0,0,7,2
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Muriqi,Muriqi,Vedat Muriqi,Delantero,32,XK,20.0,95%,Sano,2.1,31.0,200,6.5,2,15,8.0,21.0,1.0,0.0,3.0,1.0,90,6.3,0,0,0,0,0,0,1,15,1,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Lato,Toni Lato,Toni Lato,Defensa,28,ES,5.0,30%,Sano,-1.0,9.0,19,2.1,0,0,0.0,0.0,1.0,0.0,3.0,0.0,11,6.8,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Morey,Morey,Mateu Morey,Defensa,26,ES,5.0,20%,Sano,-1.0,16.0,30,1.9,0,0,0.0,1.0,0.0,0.0,2.0,0.0,12,6.7,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Morlanes,Morlanes,Manu Morlanes,Mediocampista,27,ES,9.0,70%,Sano,1.5,26.0,94,3.6,4,7,11.0,2.0,0.0,0.0,4.0,1.0,20,7.1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20384,Mallorca,Deportivo Alavés,0,Abdon,Abdón,Abdón Prats,Delantero,33,ES,3.0,15%,Sano,1.0,11.0,16,1.5,0,1,0.0,0.0,0.0,0.0,0.0,0.0,9,6.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20386,Getafe,Barcelona,1,Soria,David Soria,David Soria,Portero,33,ES,21.0,95%,Sano,2.1,32.0,214,6.7,9,17,10.0,0.0,0.0,2.0,2.0,0.0,90,5.9,0,0,0,0,0,0,9,19,0,2,0,0,0,0,0,0,0,0,2,2
+2025/26,32,20386,Getafe,Barcelona,1,Djené,Djene,Djené,Defensa,34,TG,10.0,80%,Sano,1.4,30.0,130,4.3,9,5,6.0,0.0,0.0,0.0,9.0,1.0,76,5.9,0,0,0,0,0,0,5,4,2,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20386,Getafe,Barcelona,1,D. Duarte,Domingos Duar...,Domingos Duarte,Defensa,31,PT,13.0,90%,Sano,1.2,28.0,144,5.1,0,3,8.0,1.0,1.0,0.0,10.0,0.0,90,6.0,0,0,0,0,0,0,1,6,3,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20392,Celta,Barcelona,1,Iglesias,B. Iglesias,Juan Iglesias,Delantero,33,ES,12.0,70%,Sano,1.0,29.0,144,5.0,1,2,1.0,11.0,2.0,0.0,6.0,0.0,90,6.1,0,0,0,0,0,0,3,12,2,0,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20386,Getafe,Barcelona,1,Iglesias,Juan Iglesias,Juan Iglesias,Defensa,27,ES,10.0,80%,Sano,1.2,31.0,137,4.4,7,3,5.0,1.0,2.0,0.0,4.0,0.0,90,6.1,0,0,0,0,0,0,3,12,2,0,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20386,Getafe,Barcelona,1,Davinchi,Davinchi,Davinchi,Defensa,18,ES,5.0,30%,Sano,1.0,8.0,20,2.5,0,1,0.0,0.0,0.0,0.0,1.0,0.0,76,5.9,0,0,0,0,0,0,2,18,1,0,0,0,0,0,0,0,0,0,-2,0
+2025/26,32,20386,Getafe,Barcelona,1,Boselli,Boselli,Sebastián Boselli,Defensa,22,UY,5.0,50%,Sano,1.7,9.0,27,3.0,4,2,7.0,0.0,0.0,0.0,2.0,0.0,45,6.2,0,0,0,0,0,0,1,7,3,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20386,Getafe,Barcelona,1,Arambarri,Arambarri,Mauro Arambarri,Mediocampista,30,UY,15.0,95%,Sano,1.3,31.0,173,5.6,6,0,4.0,6.0,2.0,0.0,6.0,0.0,81,6.5,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20386,Getafe,Barcelona,1,Luis Milla,L. Milla,Luis Milla,Mediocampista,31,ES,24.0,95%,Sano,1.5,31.0,219,7.1,5,3,10.0,0.0,9.0,0.0,4.0,1.0,90,6.9,0,0,2,0,0,1,3,19,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20386,Getafe,Barcelona,1,Mario Martín,Mario Martín,Mario Martín,Mediocampista,22,ES,8.0,50%,Sano,1.3,30.0,81,2.7,4,3,8.0,2.0,1.0,0.0,9.0,0.0,90,6.0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20386,Getafe,Barcelona,1,Satriano,Satriano,Martín Satriano,Delantero,25,UY,19.0,90%,Sano,1.4,13.0,82,6.3,3,4,16.0,4.0,1.0,0.0,4.0,0.0,90,6.8,0,0,1,0,0,0,2,11,0,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20386,Getafe,Barcelona,1,Birmancevic,Birma,Veljko Birmančević,Delantero,28,RS,3.0,10%,Sano,1.0,4.0,7,1.8,0,1,2.0,0.0,0.0,0.0,0.0,0.0,45,6.1,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20386,Getafe,Barcelona,1,Femenia,Kiko F.,Kiko Femenía,Defensa,35,ES,10.0,60%,Sano,1.3,26.0,111,4.3,8,1,0.0,1.0,1.0,0.0,6.0,0.0,45,6.2,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20386,Getafe,Barcelona,1,Abqar,A. abqar,Abdel Abqar,Defensa,27,MA,8.0,60%,Sano,1.0,18.0,65,3.6,5,8,0.0,0.0,2.0,0.0,8.0,1.0,14,6.9,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20386,Getafe,Barcelona,1,Sancris,Álex Sancris,Álex Sancris,Delantero,29,ES,6.0,10%,Sano,-1.0,15.0,36,2.4,0,0,0.0,0.0,1.0,0.0,3.0,1.0,14,6.4,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20386,Getafe,Barcelona,1,Kamara,Kamara,Abu Kamara,Delantero,22,EN,4.0,0%,Sano,-1.0,10.0,18,1.8,0,2,0.0,0.0,0.0,0.0,1.0,0.0,9,6.4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20386,Getafe,Barcelona,1,Luis Vázquez,Luis Vázquez,Luis Vázquez,Delantero,25,AR,10.0,90%,Sano,1.4,12.0,61,5.1,4,0,11.0,3.0,0.0,0.0,1.0,0.0,45,6.3,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20391,Valencia,Girona FC,1,Dimitrievski,Dimitrievski,Stole Dimitrievski,Portero,32,MK,16.0,95%,Sano,1.6,14.0,86,6.1,9,7,3.0,0.0,0.0,0.0,1.0,0.0,90,7.2,0,0,0,0,0,0,8,9,1,2,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20391,Valencia,Girona FC,1,Gayà,Gayá,José Luis Gayà,Defensa,30,ES,9.0,70%,Sano,1.2,28.0,100,3.6,6,3,-1.0,1.0,1.0,0.0,6.0,1.0,90,7.0,0,1,2,0,0,2,9,13,2,0,0,0,0,0,0,0,0,0,13,4
+2025/26,32,20391,Valencia,Girona FC,1,Tárrega,Tárrega,César Tárrega,Defensa,24,ES,9.0,80%,Sano,1.4,26.0,106,4.1,4,5,0.0,0.0,0.0,0.0,6.0,0.0,90,6.6,0,0,0,0,0,0,5,0,8,0,0,0,0,0,0,0,0,0,6,1
+2025/26,32,20391,Valencia,Girona FC,1,Saravia,Saravia,Renzo Saravia,Defensa,32,AR,4.0,70%,Sano,1.5,1.0,3,3.0,3,0,0.0,0.0,0.0,0.0,0.0,0.0,71,6.7,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20391,Valencia,Girona FC,1,Pepelu,Pepelu,Pepelu,Mediocampista,27,ES,10.0,50%,Sano,1.6,25.0,112,4.5,6,2,0.0,2.0,0.0,0.0,3.0,0.0,90,7.2,0,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20391,Valencia,Girona FC,1,Rioja,Rioja,Luis Rioja,Mediocampista,32,ES,13.0,70%,Sano,1.4,31.0,161,5.2,3,11,5.0,2.0,5.0,0.0,1.0,0.0,90,7.1,0,0,0,0,0,1,4,7,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20391,Valencia,Girona FC,1,Guido,G. Rodríguez,Guido Rodríguez,Mediocampista,32,AR,9.0,90%,Sano,1.5,10.0,51,5.1,4,3,15.0,2.0,0.0,0.0,3.0,0.0,90,6.7,0,0,0,1,0,0,6,11,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Valencia,Girona FC,1,Javi Guerra,Javi Guerra,Javier Guerra,Mediocampista,22,ES,9.0,50%,Sano,1.6,30.0,118,3.9,8,0,1.0,1.0,4.0,0.0,3.0,0.0,65,6.7,0,1,3,0,0,2,3,14,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20391,Valencia,Girona FC,1,Ramazani,Ramazani,Largie Ramazani,Delantero,25,BE,8.0,70%,Sano,1.6,21.0,88,4.2,2,7,2.0,5.0,1.0,0.0,4.0,0.0,84,7.8,1,0,1,1,0,0,8,19,0,0,0,0,0,0,0,0,0,0,12,4
+2025/26,32,20391,Valencia,Girona FC,1,Sadiq,Sadiq,Umar Sadiq,Delantero,29,NG,7.0,60%,Sano,1.3,14.0,71,3.7,9,4,7.0,2.0,2.0,0.0,2.0,0.0,71,6.8,1,0,0,1,0,0,1,11,1,0,0,0,0,0,0,0,0,0,9,3
+2025/26,32,20391,Girona,Girona FC,1,Beltrán,Fran Beltrán,Lucas Beltrán,Mediocampista,27,ES,9.0,60%,Sano,1.2,12.0,83,3.8,2,2,4.0,1.0,0.0,0.0,3.0,0.0,65,6.6,0,0,1,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Valencia,Girona FC,1,Beltrán,Lucas Beltrán,Lucas Beltrán,Mediocampista,25,AR,9.0,70%,Sano,0.8,26.0,88,3.4,3,3,2.0,1.0,2.0,0.0,1.0,0.0,65,6.6,0,0,1,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Valencia,Girona FC,1,Núñez,Núñez,Unai Núñez,Defensa,29,ES,8.0,60%,Sano,1.0,8.0,36,4.5,0,0,1.0,0.0,0.0,0.0,2.0,0.0,19,6.9,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Valencia,Girona FC,1,Almeida,Almeida,André Almeida,Mediocampista,25,PT,8.0,40%,Sano,1.0,19.0,81,4.3,0,0,3.0,0.0,1.0,0.0,0.0,0.0,15,6.5,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20391,Valencia,Girona FC,1,Ugrinic,Ugrinic,Filip Ugrinić,Mediocampista,27,CH,9.0,50%,Sano,1.2,21.0,87,4.1,5,5,3.0,0.0,3.0,0.0,3.0,0.0,25,8.3,0,0,2,0,0,1,4,3,1,0,0,0,0,0,0,0,0,0,6,3
+2025/26,32,20391,Valencia,Girona FC,1,Duro,Hugo Duro,Hugo Duro,Delantero,26,ES,9.0,40%,Sano,1.0,30.0,118,3.9,0,2,2.0,9.0,0.0,0.0,5.0,0.0,19,6.2,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Valencia,Girona FC,1,Diego López,Diego López,Diego López,Delantero,23,ES,9.0,30%,Sano,1.0,28.0,92,3.3,4,3,0.0,3.0,0.0,0.0,2.0,0.0,25,6.9,0,0,1,0,0,1,2,6,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20391,Girona,Valencia,0,Gazzaniga,Gazzaniga,Paulo Gazzaniga,Portero,34,AR,17.0,95%,Sano,1.2,29.0,170,5.9,0,10,9.0,0.0,0.0,0.0,4.0,1.0,90,7.1,0,0,0,0,0,0,4,3,0,1,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20391,Girona,Valencia,0,Blind,Daley Blind,Daley Blind,Defensa,36,NL,12.0,80%,Sano,1.7,29.0,144,5.0,4,0,8.0,0.0,0.0,0.0,1.0,0.0,69,6.3,0,0,0,0,0,0,1,10,1,0,0,0,0,0,0,0,0,0,0,1
+2025/26,32,20391,Girona,Valencia,0,Witsel,Witsel,Axel Witsel,Mediocampista,37,BE,11.0,90%,Sano,1.7,26.0,127,4.9,2,4,11.0,1.0,2.0,0.0,3.0,1.0,90,7.4,0,0,0,0,0,0,10,7,2,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20391,Girona,Valencia,0,Álex Moreno,Alex Moreno,Álex Moreno,Defensa,32,ES,9.0,90%,Sano,1.8,26.0,99,3.8,-1,2,7.0,0.0,3.0,0.0,4.0,0.0,61,6.1,0,0,0,0,0,0,3,12,4,0,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20391,Girona,Valencia,0,Arnau,Arnau,Arnau Martínez,Defensa,22,ES,13.0,70%,Sano,1.6,29.0,150,5.2,2,8,8.0,1.0,2.0,0.0,6.0,0.0,90,6.3,0,0,0,1,0,0,3,15,2,0,0,0,0,0,0,0,0,0,2,2
+2025/26,32,20391,Girona,Valencia,0,Vitor Reis,Vitor Reis,Vitor Reis,Defensa,20,BR,12.0,95%,Sano,2.0,30.0,146,4.9,2,6,8.0,1.0,1.0,0.0,6.0,1.0,90,6.8,0,0,0,1,0,0,8,8,2,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20391,Girona,Valencia,0,Lemar,Lemar,Thomas Lemar,Mediocampista,30,FR,9.0,50%,Sano,1.6,22.0,99,4.5,3,9,2.0,3.0,1.0,0.0,2.0,0.0,61,7.0,0,0,0,0,0,1,3,8,0,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20391,Girona,Valencia,0,Tsygankov,Tsygankov,Viktor Tsygankov,Delantero,28,UA,19.0,90%,Sano,1.3,26.0,160,6.2,9,4,7.0,6.0,4.0,0.0,2.0,0.0,90,6.3,0,0,1,0,0,3,2,14,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20391,Girona,Valencia,0,Iván Martín,Iván Martín,Iván Martín,Mediocampista,27,ES,10.0,60%,Sano,1.5,30.0,129,4.3,2,4,6.0,0.0,1.0,0.0,5.0,1.0,90,6.5,0,0,0,0,0,0,6,13,1,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20391,Girona,Valencia,0,Ounahi,Ounahi,Azzedine Ounahi,Mediocampista,26,MA,25.0,90%,Sano,1.5,18.0,137,7.6,8,4,10.0,5.0,2.0,0.0,7.0,0.0,69,6.7,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20391,Girona,Valencia,0,Echeverri,Echeverri,Claudio Echeverri,Mediocampista,20,AR,6.0,60%,Sano,1.1,11.0,41,3.7,3,3,0.0,1.0,1.0,0.0,3.0,0.0,61,6.5,0,0,1,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20391,Girona,Valencia,0,Francés,Francés,Alejandro Francés,Defensa,23,ES,6.0,20%,Sano,1.6,19.0,57,3.0,0,6,2.0,0.0,1.0,0.0,1.0,1.0,29,8.4,0,1,1,0,0,2,2,7,1,0,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20391,Girona,Valencia,0,Rincón,H. Rincón,Hugo Rincón,Defensa,23,ES,8.0,30%,Sano,1.0,29.0,78,2.7,1,0,2.0,1.0,1.0,0.0,4.0,0.0,21,7.8,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Girona,Valencia,0,Bryan Gil,Bryan Gil,Bryan Gil,Delantero,25,ES,9.0,30%,Sano,1.0,24.0,96,4.0,0,2,0.0,0.0,3.0,0.0,4.0,0.0,29,6.9,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20385,Espanyol,Valencia,0,Roca,A. Roca,Joel Roca,Mediocampista,23,ES,3.0,10%,Sano,-1.0,8.0,10,1.3,0,0,0.0,0.0,0.0,0.0,1.0,0.0,29,7.7,1,0,0,1,0,0,1,4,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20391,Girona,Valencia,0,Roca,Joel Roca,Joel Roca,Delantero,20,ES,8.0,40%,Sano,1.9,26.0,77,3.0,3,0,2.0,2.0,1.0,0.0,3.0,1.0,29,7.7,1,0,0,1,0,0,1,4,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20391,Girona,Valencia,0,Stuani,Stuani,Cristhian Stuani,Delantero,39,UY,4.0,30%,Sano,1.0,15.0,40,2.7,2,2,0.0,3.0,0.0,0.0,2.0,0.0,21,6.3,0,0,0,1,0,0,2,5,1,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20383,Atlético,Athletic Club,1,Oblak,Oblak,Jan Oblak,Portero,33,SI,22.0,99%,Sano,0.5,27.0,183,6.8,5,0,0.0,0.0,0.0,0.0,0.0,0.0,90,6.6,0,0,0,0,0,0,7,4,0,2,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20383,Atlético,Athletic Club,1,Lenglet,Lenglet,Clément Lenglet,Defensa,30,FR,9.0,50%,Sano,1.0,14.0,68,4.9,3,0,7.0,0.0,1.0,0.0,6.0,1.0,90,7.0,0,0,0,0,0,0,2,6,11,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20383,Atlético,Athletic Club,1,Ruggeri,Ruggeri,Matteo Ruggeri,Defensa,23,IT,13.0,70%,Sano,1.0,21.0,107,5.1,0,0,3.0,0.0,3.0,0.0,4.0,0.0,90,6.5,0,0,1,0,0,0,5,17,6,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20383,Atlético,Athletic Club,1,Pubill,Marc Pubill,Marc Pubill,Defensa,22,ES,10.0,70%,Sano,1.7,14.0,85,6.1,3,1,0.0,0.0,1.0,0.0,1.0,0.0,90,7.0,0,0,0,0,0,0,2,14,7,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Atlético,Athletic Club,1,Koke,Koke,Koke,Mediocampista,34,ES,11.0,70%,Sano,1.5,28.0,133,4.8,0,0,0.0,2.0,2.0,0.0,5.0,0.0,72,7.5,0,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,5,3
+2025/26,32,20383,Atlético,Athletic Club,1,M. Llorente,Marcos Llorente,Marcos Llorente,Defensa,31,ES,16.0,70%,Sano,-1.0,25.0,142,5.7,0,0,0.0,0.0,4.0,0.0,5.0,0.0,63,6.4,0,0,0,0,0,0,3,5,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20383,Atlético,Athletic Club,1,Baena,Álex Baena,Alex Baena,Mediocampista,24,ES,10.0,40%,Sano,0.8,23.0,112,4.9,2,0,3.0,2.0,2.0,0.0,4.0,0.0,90,7.5,0,1,2,0,0,1,4,13,1,0,0,0,0,0,0,0,0,0,11,4
+2025/26,32,20383,Atlético,Athletic Club,1,Giuliano,Giuliano,Giuliano Simeone,Delantero,23,AR,17.0,70%,Sano,0.9,28.0,163,5.8,2,0,8.0,4.0,6.0,0.0,2.0,0.0,72,6.8,0,0,1,0,0,2,4,8,0,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20383,Atlético,Athletic Club,1,Barrios,Barrios,Pablo Barrios,Mediocampista,22,ES,16.0,50%,Sano,1.0,22.0,125,5.7,2,0,0.0,1.0,1.0,0.0,0.0,0.0,58,6.6,0,0,0,0,0,1,6,14,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20383,Atlético,Athletic Club,1,Griezmann,Griezmann,Antoine Griezmann,Delantero,35,FR,9.0,70%,Sano,0.8,28.0,125,4.5,2,-1,3.0,6.0,1.0,0.0,1.0,0.0,63,7.3,1,0,0,1,0,0,0,13,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20383,Atlético,Athletic Club,1,Sörloth,Sørloth,Alexander Sørloth,Delantero,30,NO,10.0,30%,Lesionado/Duda,0.8,30.0,129,4.3,0,2,1.0,10.0,0.0,0.0,4.0,1.0,90,9.2,2,0,0,3,0,0,3,13,2,0,0,0,0,0,0,0,0,0,13,4
+2025/26,32,20383,Atlético,Athletic Club,1,Le Normand,Le Normand,Robin Le Normand,Defensa,29,ES,10.0,60%,Sano,1.2,23.0,99,4.3,6,0,3.0,1.0,1.0,0.0,3.0,0.0,18,6.5,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20383,Atlético,Athletic Club,1,Molina,Molina,Nahuel Molina,Defensa,28,AR,9.0,70%,Sano,1.0,23.0,90,3.9,1,0,1.0,2.0,1.0,0.0,4.0,0.0,27,6.8,0,1,1,0,0,0,4,3,2,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20383,Atlético,Athletic Club,1,Cardoso,Johnny,Johnny Cardoso,Mediocampista,24,US,7.0,40%,Sano,1.0,14.0,43,3.1,2,0,0.0,0.0,0.0,0.0,5.0,0.0,32,7.0,0,0,0,0,0,0,2,5,2,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20387,Sevilla,Athletic Club,1,Cardoso,Cardoso,Johnny Cardoso,Defensa,32,PT,6.0,0%,Sano,-1.0,4.0,20,5.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,32,7.0,0,0,0,0,0,0,2,5,2,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20383,Atlético,Athletic Club,1,Vargas,Obed Vargas,Obed Vargas,Mediocampista,20,MX,5.0,30%,Sano,1.3,6.0,15,2.5,2,1,2.0,0.0,0.0,0.0,1.0,0.0,18,6.7,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Sevilla,Athletic Club,1,Vargas,Vargas,Obed Vargas,Delantero,27,CH,15.0,80%,Sano,1.0,18.0,107,5.9,2,13,5.0,3.0,5.0,0.0,1.0,0.0,18,6.7,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20383,Atlético,Athletic Club,1,González,Nico Gonzalez,Nicolás González,Mediocampista,28,AR,14.0,50%,Sano,1.8,23.0,121,5.3,17,0,-3.0,5.0,0.0,0.0,4.0,1.0,27,6.5,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20383,Athletic,Atlético Madrid,0,Unai Simón,Unai Simón,Unai Simón,Portero,28,ES,18.0,95%,Sano,1.8,32.0,192,6.0,17,2,5.0,0.0,0.0,2.0,1.0,0.0,90,5.6,0,0,0,0,0,0,9,17,2,2,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20383,Athletic,Atlético Madrid,0,Yuri,Yuri,Yuri Berchiche,Defensa,36,ES,12.0,70%,Sano,1.4,28.0,140,5.0,9,8,-2.0,0.0,4.0,0.0,4.0,0.0,63,6.4,0,0,0,1,0,0,4,5,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Gorosabel,Gorosabel,Andoni Gorosabel,Defensa,29,ES,7.0,70%,Sano,1.6,18.0,49,2.7,8,1,0.0,0.0,1.0,0.0,3.0,0.0,90,5.8,0,0,0,0,0,0,2,16,5,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20383,Athletic,Atlético Madrid,0,Vivian,Vivian,Dani Vivian,Defensa,26,ES,10.0,90%,Sano,1.0,27.0,116,4.3,4,3,1.0,1.0,0.0,0.0,8.0,1.0,90,6.1,0,0,0,0,0,0,7,7,4,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Paredes,Paredes,Aitor Paredes,Defensa,25,ES,12.0,30%,Sano,-1.0,17.0,83,4.9,0,0,0.0,1.0,0.0,0.0,4.0,0.0,90,7.3,1,0,1,1,0,0,6,4,2,0,0,0,0,0,0,0,0,0,9,2
+2025/26,32,20383,Athletic,Atlético Madrid,0,R. de Galarreta,De Galarreta,Iñigo Ruiz de Galarreta,Mediocampista,32,ES,10.0,70%,Sano,1.0,29.0,124,4.3,6,5,3.0,1.0,1.0,0.0,9.0,0.0,70,7.0,0,1,2,0,0,2,2,15,1,0,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20383,Athletic,Atlético Madrid,0,N. Williams,Nico Williams,Nico Williams,Delantero,23,ES,18.0,70%,Sano,1.5,22.0,135,6.1,6,4,4.0,4.0,2.0,0.0,1.0,0.0,70,6.5,0,0,1,0,0,0,4,18,1,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20383,Athletic,Atlético Madrid,0,Unai Gómez,Unai G.,Unai Gómez,Mediocampista,22,ES,5.0,20%,Sano,-1.0,20.0,37,1.9,0,0,0.0,1.0,1.0,0.0,1.0,0.0,63,6.3,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20383,Athletic,Atlético Madrid,0,Rego,Rego,Alejandro Rego Mora,Defensa,22,ES,6.0,80%,Sano,0.9,23.0,53,2.3,2,2,1.0,1.0,0.0,0.0,5.0,0.0,90,6.7,0,1,1,0,0,1,3,7,2,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20383,Athletic,Atlético Madrid,0,I. Williams,Iñaki Williams,Iñaki Williams,Delantero,31,GH,9.0,70%,Sano,0.9,24.0,100,4.2,5,1,1.0,2.0,4.0,0.0,2.0,0.0,70,6.1,0,0,2,0,0,1,2,8,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Guruzeta,Guruzeta,Gorka Guruzeta,Delantero,29,ES,10.0,80%,Sano,1.5,29.0,132,4.6,10,7,4.0,8.0,1.0,0.0,5.0,1.0,90,7.1,1,0,1,2,0,0,2,9,0,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20383,Athletic,Atlético Madrid,0,Boiro,Adama,Adama Boiro,Defensa,23,ES,5.0,30%,Sano,1.0,10.0,20,2.0,2,0,0.0,0.0,0.0,0.0,1.0,0.0,27,6.7,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Berenguer,Berenguer,Álex Berenguer,Delantero,30,ES,12.0,40%,Sano,1.0,27.0,135,5.0,4,2,0.0,2.0,3.0,0.0,4.0,0.0,20,6.2,0,0,2,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Vesga,Vesga,Mikel Vesga,Mediocampista,33,ES,4.0,50%,Sano,1.0,20.0,40,2.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,20,6.6,0,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20383,Athletic,Atlético Madrid,0,Sancet,O. Sancet,Oihan Sancet,Mediocampista,25,ES,9.0,60%,Sano,0.7,25.0,91,3.6,2,2,3.0,3.0,0.0,0.0,4.0,1.0,27,6.2,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20383,Athletic,Atlético Madrid,0,Navarro,Navarro,Robert Navarro,Mediocampista,24,ES,8.0,30%,Sano,1.3,26.0,101,3.9,2,1,0.0,5.0,1.0,0.0,1.0,0.0,20,6.3,0,0,1,0,0,1,1,10,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20388,Rayo,Real Sociedad,1,Cárdenas,D. Cárdenas,Dani Cárdenas,Portero,29,ES,9.0,95%,Sano,2.2,2.0,17,8.5,17,0,0.0,0.0,0.0,1.0,0.0,0.0,90,7.6,0,0,0,0,0,0,7,6,2,5,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20388,Rayo,Real Sociedad,1,Lejeune,Lejeune,Florian Lejeune,Defensa,34,FR,19.0,90%,Sano,1.5,31.0,192,6.2,0,3,12.0,0.0,1.0,0.0,5.0,0.0,90,6.8,1,0,1,1,0,1,6,8,4,0,0,0,0,0,0,0,0,0,10,3
+2025/26,32,20388,Rayo,Real Sociedad,1,Ratiu,Ratiu,Andrei Rațiu,Defensa,27,RO,19.0,50%,Sano,1.7,29.0,181,6.2,14,1,12.0,0.0,3.0,0.0,8.0,0.0,90,6.0,0,0,2,1,0,1,2,14,2,0,0,0,1,0,0,0,0,0,-2,1
+2025/26,32,20388,Rayo,Real Sociedad,1,Pep Chavarría,Chavarría,Josep Chavarría,Defensa,28,ES,11.0,30%,Sano,1.0,28.0,133,4.8,8,2,8.0,1.0,2.0,0.0,6.0,1.0,90,6.0,0,0,0,0,0,0,5,20,3,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20388,Rayo,Real Sociedad,1,Mendy,N. Mendy,Nobel Mendy,Defensa,21,SN,12.0,80%,Sano,0.0,19.0,93,4.9,0,-1,0.0,2.0,0.0,0.0,7.0,2.0,64,6.6,0,0,1,0,0,0,2,3,7,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20389,Real Madrid,Real Sociedad,1,Mendy,F. Mendy,Nobel Mendy,Defensa,30,FR,4.0,50%,Sano,-1.0,3.0,8,2.7,0,2,0.0,0.0,0.0,0.0,0.0,0.0,64,6.6,0,0,1,0,0,0,2,3,7,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20387,Sevilla,Real Sociedad,1,Mendy,Mendy,Nobel Mendy,Mediocampista,26,FR,9.0,30%,Sano,1.0,25.0,84,3.4,0,2,4.0,1.0,0.0,0.0,6.0,0.0,64,6.6,0,0,1,0,0,0,2,3,7,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20388,Rayo,Real Sociedad,1,Unai López,Unai Lopez,Unai López,Mediocampista,30,ES,10.0,70%,Sano,1.0,23.0,109,4.7,2,0,7.0,0.0,3.0,0.0,6.0,1.0,81,6.6,0,0,0,0,0,0,7,7,3,0,0,0,0,0,0,0,0,0,3,0
+2025/26,32,20388,Rayo,Real Sociedad,1,Isi,Isi,Isi Palazón,Delantero,31,ES,11.0,50%,Sano,1.9,30.0,142,4.7,8,0,4.0,3.0,3.0,0.0,9.0,0.0,68,6.0,0,0,2,0,0,0,3,9,0,0,0,0,0,0,0,0,0,0,-3,0
+2025/26,32,20388,Rayo,Real Sociedad,1,Pathé Ciss,Pathé I. Ciss,Pathé Ismaël Ciss,Mediocampista,32,SN,10.0,30%,Sano,1.6,23.0,101,4.4,7,2,0.0,2.0,0.0,0.0,6.0,2.0,90,6.5,0,0,0,0,0,0,7,4,5,0,0,0,0,0,0,0,0,0,3,0
+2025/26,32,20388,Rayo,Real Sociedad,1,Akhomach,I. Akhomach,Ilias Akhomach,Delantero,22,MA,7.0,50%,Sano,1.0,10.0,58,3.1,8,2,0.0,0.0,1.0,0.0,2.0,0.0,90,6.6,0,0,4,2,0,0,1,19,1,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20388,Rayo,Real Sociedad,1,Camello,Camello,Sergio Camello,Delantero,25,ES,5.0,70%,Sano,2.0,17.0,39,2.3,8,4,1.0,1.0,0.0,0.0,2.0,1.0,64,7.8,1,0,2,2,0,0,4,11,0,0,0,0,0,0,0,0,0,0,10,3
+2025/26,32,20388,Rayo,Real Sociedad,1,Carlos Martín,Carlos Martín,Carlos Martín,Mediocampista,24,ES,4.0,70%,Sano,-1.0,7.0,14,2.0,0,0,2.0,0.0,0.0,0.0,1.0,0.0,64,6.4,0,0,1,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20388,Rayo,Real Sociedad,1,Gumbau,Gumbau,Gerard Gumbau,Mediocampista,31,ES,6.0,70%,Sano,1.0,23.0,54,2.3,3,1,0.0,0.0,1.0,0.0,4.0,0.0,22,7.4,0,0,4,0,0,3,1,3,0,0,0,0,0,0,0,0,0,0,7,3
+2025/26,32,20388,Rayo,Real Sociedad,1,Pedro Díaz,Pedro Díaz,Pedro Díaz,Mediocampista,27,ES,8.0,50%,Sano,1.5,29.0,78,2.7,7,3,2.0,0.0,0.0,0.0,2.0,0.0,26,7.3,0,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20388,Rayo,Real Sociedad,1,De Frutos,De Frutos,Jorge de Frutos,Delantero,29,ES,16.0,30%,Sano,1.3,30.0,170,5.7,4,2,5.0,10.0,1.0,0.0,3.0,0.0,26,6.4,0,0,1,1,0,1,0,6,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20388,Rayo,Real Sociedad,1,Fran Pérez,Fran Pérez,Fran Pérez,Mediocampista,23,ES,8.0,40%,Sano,-1.0,25.0,90,3.6,0,0,0.0,2.0,1.0,0.0,4.0,0.0,9,6.7,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20388,Rayo,Real Sociedad,1,Alemão,Alemao,Alemão,Delantero,28,BR,6.0,30%,Sano,1.0,20.0,46,2.3,5,1,3.0,1.0,0.0,0.0,1.0,0.0,26,7.0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Remiro,Remiro,Álex Remiro,Portero,31,ES,13.0,95%,Sano,1.1,32.0,162,5.1,2,2,13.0,0.0,0.0,0.0,1.0,0.0,90,6.9,0,0,0,0,0,0,13,17,1,6,0,0,0,0,0,0,0,0,6,3
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Caleta-Car,Caleta-Car,Duje Ćaleta-Car,Defensa,29,HR,10.0,0%,Sano,1.0,23.0,97,4.2,6,1,8.0,1.0,0.0,0.0,5.0,1.0,90,6.2,0,0,0,0,0,0,4,5,6,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Jon Martín,Jon Martin,Jon Martin,Defensa,20,ES,10.0,95%,Sano,1.9,20.0,89,4.5,7,0,17.0,1.0,0.0,0.0,5.0,0.0,90,6.3,0,0,0,0,0,0,3,8,8,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Aramburu,Aramburu,Jon Aramburu,Defensa,23,VE,8.0,90%,Sano,1.6,30.0,76,2.5,4,3,9.0,1.0,0.0,0.0,9.0,0.0,90,6.1,0,0,0,0,0,0,3,14,4,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Carlos Soler,C. Soler,Carlos Soler,Mediocampista,29,ES,18.0,50%,Sano,1.4,27.0,165,6.1,8,6,16.0,4.0,3.0,0.0,2.0,1.0,90,6.5,0,0,0,2,0,1,3,12,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Sergio Gómez,Sergio Gómez,Sergio Gómez,Defensa,25,ES,10.0,80%,Sano,1.7,29.0,132,4.6,0,-1,10.0,0.0,2.0,0.0,2.0,1.0,89,7.6,0,1,4,0,0,2,5,11,2,0,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Barrenetxea,Barrenetxea,Ander Barrenetxea,Mediocampista,24,ES,13.0,70%,Sano,1.7,26.0,135,5.2,5,6,5.0,3.0,4.0,0.0,3.0,0.0,56,6.9,0,1,1,1,0,0,4,14,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Kubo,Kubo,Takefusa Kubo,Mediocampista,24,JP,15.0,50%,Sano,1.6,20.0,114,5.7,3,7,0.0,2.0,4.0,0.0,1.0,0.0,56,6.5,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Turrientes,Turrientes,Beñat Turrientes,Mediocampista,24,ES,8.0,80%,Sano,1.5,22.0,82,3.7,2,3,7.0,0.0,3.0,0.0,5.0,0.0,67,6.8,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Oyarzabal,Oyarzabal,Mikel Oyarzabal,Delantero,29,ES,21.0,90%,Sano,1.4,28.0,186,6.6,2,0,8.0,12.0,3.0,0.0,2.0,0.0,90,8.3,2,0,2,3,0,0,4,9,3,0,0,0,0,0,0,0,0,0,16,4
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Óskarsson,Oskarsson,Orri Steinn Óskarsson,Delantero,21,IS,6.0,10%,Sano,1.2,15.0,51,3.4,3,7,1.0,5.0,0.0,0.0,3.0,0.0,67,7.2,1,0,1,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Aihen,Aihen,Aihen Muñoz,Defensa,28,ES,6.0,20%,Sano,1.1,18.0,34,1.9,4,1,0.0,0.0,0.0,0.0,1.0,0.0,14,6.4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Osasuna,Rayo Vallecano,0,Herrera,Sergio Herrera,Yangel Herrera,Portero,32,ES,20.0,95%,Sano,1.3,32.0,204,6.4,5,6,6.0,0.0,0.0,0.0,3.0,0.0,23,6.5,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Herrera,Herrera,Yangel Herrera,Mediocampista,28,VE,4.0,30%,Lesionado/Duda,-1.0,8.0,10,1.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,23,6.5,0,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Sucic,Sucic,Luka Sučić,Mediocampista,23,HR,8.0,70%,Sano,1.5,16.0,71,4.4,0,11,5.0,3.0,1.0,0.0,1.0,0.0,34,6.4,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Marín,Marín,Pablo Marín,Mediocampista,22,ES,7.0,30%,Sano,1.0,28.0,62,2.2,1,2,8.0,0.0,1.0,0.0,2.0,0.0,34,7.0,0,0,1,0,0,1,2,4,1,0,0,1,0,0,0,0,0,0,4,1
+2025/26,32,20388,Real Sociedad,Rayo Vallecano,0,Gorrotxategi,Gorrotxa,Jon Gorrotxategi,Mediocampista,24,ES,9.0,50%,Sano,1.5,26.0,108,4.2,0,0,0.0,1.0,3.0,0.0,6.0,0.0,23,6.4,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20390,Real Oviedo,Elche,1,Aarón,Aarón,Aarón Escandell,Portero,30,ES,24.0,95%,Sano,1.7,32.0,227,7.1,3,12,10.0,0.0,0.0,2.0,3.0,0.0,90,7.0,0,1,1,0,0,0,8,7,1,2,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20390,Real Oviedo,Elche,1,Costas,David Costas,David Costas,Defensa,31,ES,12.0,70%,Sano,1.0,20.0,100,5.0,0,3,0.0,1.0,0.0,0.0,2.0,0.0,90,6.7,0,0,0,0,0,0,6,3,4,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20390,Real Oviedo,Elche,1,Nacho Vidal,Nacho Vidal,Nacho Vidal,Defensa,31,ES,9.0,50%,Sano,1.5,23.0,88,3.8,1,8,8.0,0.0,0.0,0.0,4.0,0.0,90,6.3,0,0,0,0,0,0,7,14,0,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20390,Real Oviedo,Elche,1,Carmo,David Carmo,David Carmo,Defensa,26,AO,10.0,50%,Sano,-1.0,21.0,95,4.5,0,0,0.0,1.0,0.0,0.0,8.0,1.0,65,5.8,0,0,0,0,0,0,2,9,4,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20390,Real Oviedo,Elche,1,Alhassane,A. Rahim,Abdel Rahim,Defensa,24,NE,8.0,70%,Sano,1.0,23.0,63,2.7,2,0,2.0,0.0,0.0,0.0,2.0,0.0,58,6.0,0,0,0,0,0,1,1,11,0,0,0,0,0,0,0,0,0,0,-2,0
+2025/26,32,20390,Real Oviedo,Elche,1,Sibo,Sibo,Kwasi Sibo,Mediocampista,27,GH,9.0,70%,Sano,1.3,23.0,73,3.2,3,7,3.0,0.0,0.0,0.0,3.0,0.0,45,6.6,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20390,Real Oviedo,Elche,1,Hassan,Hassan,Haissem Hassan,Mediocampista,24,FR,9.0,60%,Sano,1.0,31.0,116,3.7,4,2,2.0,0.0,3.0,0.0,1.0,0.0,58,6.7,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,0,0,0,1
+2025/26,32,20390,Real Oviedo,Elche,1,Chaira,Ilyas,Ilyas Chaira,Delantero,25,MA,10.0,70%,Sano,1.7,30.0,139,4.6,13,10,2.0,5.0,2.0,0.0,2.0,1.0,90,7.7,1,0,1,3,0,1,3,18,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20390,Real Oviedo,Elche,1,Reina,A. Reina,Alberto Reina,Mediocampista,28,ES,10.0,70%,Sano,2.0,31.0,133,4.3,4,17,10.0,4.0,1.0,0.0,6.0,1.0,90,5.9,0,0,1,0,0,1,4,11,0,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20390,Real Oviedo,Elche,1,Fonseca,Fonseca,Nicolas Fonseca,Mediocampista,27,UY,6.0,80%,Sano,1.5,14.0,35,2.5,0,5,5.0,0.0,0.0,0.0,5.0,0.0,76,7.1,0,0,0,0,0,0,5,10,1,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20390,Real Oviedo,Elche,1,Viñas,F. Viñas,Federico Viñas,Delantero,27,UY,14.0,80%,Sano,2.5,28.0,151,5.4,4,17,7.0,9.0,1.0,0.0,5.0,3.0,90,6.9,0,0,1,0,0,0,3,19,2,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20390,Real Oviedo,Elche,1,Javi López,Javi Lopéz,Javi López,Defensa,24,ES,9.0,30%,Lesionado/Duda,1.9,20.0,73,3.7,5,7,5.0,0.0,1.0,0.0,3.0,0.0,25,6.7,0,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20390,Real Oviedo,Elche,1,Cazorla,S. Cazorla,Santi Cazorla,Mediocampista,41,ES,6.0,30%,Sano,1.0,22.0,60,2.7,4,0,3.0,0.0,1.0,0.0,1.0,1.0,32,7.1,0,0,2,0,0,1,1,8,1,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20390,Real Oviedo,Elche,1,Colombatto,Colobatto,Santiago Colombatto,Mediocampista,29,AR,9.0,40%,Sano,1.2,27.0,97,3.6,7,1,2.0,0.0,1.0,0.0,6.0,0.0,14,6.8,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20389,Real Madrid,Elche,1,Thiago,Thiago Pitarch,Thiago Fernández,Mediocampista,18,ES,4.0,50%,Sano,0.5,5.0,12,2.4,0,0,1.0,0.0,0.0,0.0,1.0,0.0,45,6.4,0,0,2,0,0,2,4,8,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20390,Real Oviedo,Elche,1,Thiago,Thiago Fernánd...,Thiago Fernández,Mediocampista,22,AR,7.0,50%,Sano,2.2,11.0,51,4.6,4,11,8.0,0.0,4.0,0.0,2.0,0.0,45,6.4,0,0,2,0,0,2,4,8,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20390,Real Oviedo,Elche,1,Borbas,T. Borbas,Thiago Borbas,Delantero,24,UY,3.0,20%,Sano,1.0,7.0,9,1.3,0,1,2.0,0.0,0.0,0.0,1.0,0.0,32,6.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20390,Elche,Real Oviedo,0,Dituro,M. Dituro,Matías Dituro,Portero,38,AR,19.0,70%,Sano,1.7,16.0,101,6.3,1,12,8.0,0.0,0.0,0.0,1.0,0.0,90,7.7,0,0,0,0,0,0,11,16,3,2,0,0,0,0,0,0,0,0,7,3
+2025/26,32,20390,Elche,Real Oviedo,0,Bigas,R.P. Bigas,Pedro Bigas,Defensa,35,ES,9.0,50%,Sano,0.0,23.0,94,4.1,1,0,1.0,0.0,2.0,0.0,5.0,1.0,90,8.0,1,0,0,1,0,0,2,7,7,0,0,0,0,0,0,0,0,0,13,3
+2025/26,32,20390,Elche,Real Oviedo,0,Pedrosa,Pedrosa,Adrià Pedrosa,Defensa,27,ES,6.0,30%,Sano,1.0,21.0,49,2.2,0,2,2.0,1.0,1.0,0.0,4.0,0.0,82,6.5,0,0,1,0,0,2,0,11,2,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20390,Elche,Real Oviedo,0,Affengruber,Affengruber,David Affengruber,Defensa,25,AT,10.0,70%,Sano,2.1,30.0,136,4.5,17,9,4.0,1.0,1.0,0.0,6.0,1.0,90,6.8,0,0,0,1,0,0,2,9,8,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20390,Elche,Real Oviedo,0,Fort,Héctor Fort,Hector Fort,Defensa,19,ES,7.0,30%,Sano,-1.0,9.0,36,4.0,0,0,0.0,1.0,2.0,0.0,0.0,0.0,62,6.5,0,0,0,0,0,0,1,7,1,0,0,0,0,0,0,0,0,0,7,2
+2025/26,32,20390,Elche,Real Oviedo,0,Sangaré,B. Sangare,Buba Sangare,Defensa,18,ES,5.0,50%,Sano,1.3,7.0,13,1.9,-1,5,5.0,0.0,0.0,0.0,2.0,0.0,82,6.7,0,0,0,0,0,0,1,10,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20390,Elche,Real Oviedo,0,Villar,G. Villar,Gonzalo Villar,Mediocampista,28,ES,4.0,50%,Sano,1.0,6.0,14,2.3,1,7,2.0,0.0,0.0,0.0,1.0,0.0,90,8.2,1,0,0,1,0,0,5,5,3,0,0,0,0,0,0,0,0,0,13,4
+2025/26,32,20390,Elche,Real Oviedo,0,Febas,Febas,Aleix Febas,Mediocampista,30,ES,13.0,70%,Sano,1.5,31.0,161,5.2,3,14,3.0,2.0,2.0,0.0,8.0,0.0,90,6.5,0,0,0,0,0,0,6,11,1,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20390,Elche,Real Oviedo,0,Aguado,M. Aguado,Marc Aguado,Mediocampista,26,ES,9.0,50%,Sano,1.0,29.0,113,3.9,0,0,4.0,1.0,1.0,0.0,2.0,0.0,69,7.0,0,1,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,10,3
+2025/26,32,20390,Elche,Real Oviedo,0,André Silva,André Silva,André Silva,Delantero,30,PT,11.0,70%,Sano,1.3,25.0,120,4.8,14,4,2.0,9.0,0.0,0.0,2.0,0.0,69,6.8,0,0,0,1,0,0,4,7,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20390,Elche,Real Oviedo,0,Alvaro R.,Álvaro,Álvaro Rodriguez,Delantero,21,UY,10.0,50%,Sano,1.0,28.0,123,4.4,1,2,2.0,5.0,4.0,0.0,1.0,0.0,90,6.6,0,1,1,0,0,0,4,26,0,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20390,Elche,Real Oviedo,0,Chust,V. Chust,Víctor Chust,Defensa,26,ES,8.0,50%,Sano,1.1,25.0,67,2.7,2,1,0.0,0.0,0.0,0.0,8.0,1.0,8,6.7,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20390,Elche,Real Oviedo,0,John C.,John C.,John Donald,Defensa,25,ES,5.0,10%,Sano,1.0,15.0,33,2.2,0,2,0.0,1.0,0.0,0.0,2.0,0.0,21,6.2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20390,Elche,Real Oviedo,0,Pétrot,Léo Pétrot,Léo Pétrot,Defensa,29,FR,8.0,60%,Sano,1.4,29.0,66,2.3,2,8,5.0,0.0,0.0,0.0,2.0,0.0,8,6.8,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20390,Elche,Real Oviedo,0,Tete Morente,T. Morente,Tete Morente,Delantero,29,ES,8.0,60%,Sano,1.0,7.0,36,5.1,7,4,4.0,1.0,1.0,0.0,1.0,0.0,28,6.8,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Osasuna,Sevilla,1,Herrera,Sergio Herrera,Sergio Herrera,Portero,32,ES,20.0,95%,Sano,1.3,32.0,204,6.4,5,6,6.0,0.0,0.0,0.0,3.0,0.0,90,6.1,0,0,0,0,0,0,13,11,2,1,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20388,Real Sociedad,Sevilla,1,Herrera,Herrera,Sergio Herrera,Mediocampista,28,VE,4.0,30%,Lesionado/Duda,-1.0,8.0,10,1.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,90,6.1,0,0,0,0,0,0,13,11,2,1,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20387,Osasuna,Sevilla,1,Galán,Javi Galán,Javi Galán,Defensa,31,ES,12.0,80%,Sano,1.4,15.0,98,4.9,6,5,1.0,0.0,1.0,0.0,2.0,0.0,89,6.6,0,0,0,0,0,1,3,17,1,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20387,Osasuna,Sevilla,1,Catena,Catena,Alejandro Catena,Defensa,31,ES,15.0,90%,Sano,0.8,29.0,157,5.4,0,5,0.0,2.0,2.0,0.0,10.0,1.0,90,8.2,1,0,0,1,0,0,1,11,10,0,0,0,0,0,0,0,0,0,14,4
+2025/26,32,20387,Osasuna,Sevilla,1,Boyomo,Boyomo,Enzo Boyomo,Defensa,24,CM,10.0,90%,Sano,1.2,24.0,102,4.3,5,0,0.0,1.0,1.0,0.0,5.0,0.0,90,6.6,0,0,0,0,0,0,5,3,3,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20387,Osasuna,Sevilla,1,Rosier,V. Rosier,Valentin Rosier,Defensa,29,FR,10.0,90%,Sano,1.1,25.0,113,4.5,5,5,7.0,1.0,1.0,0.0,6.0,1.0,90,7.0,0,0,0,0,0,0,5,15,3,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20387,Osasuna,Sevilla,1,Rubén G.,Rubén García,Rubén García,Mediocampista,32,ES,14.0,60%,Sano,1.3,29.0,153,5.3,3,7,4.0,2.0,5.0,0.0,5.0,0.0,71,6.6,0,0,0,0,0,0,3,12,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Osasuna,Sevilla,1,Oroz,Aimar,Aimar Oroz,Mediocampista,24,ES,10.0,80%,Sano,1.3,25.0,107,4.3,3,4,3.0,0.0,2.0,0.0,6.0,0.0,62,6.6,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20387,Osasuna,Sevilla,1,Moncayola,Moncayola,Jon Moncayola,Mediocampista,27,ES,10.0,70%,Sano,1.2,30.0,138,4.6,6,3,4.0,0.0,4.0,0.0,8.0,0.0,90,7.5,0,0,2,1,0,4,0,10,3,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20387,Osasuna,Sevilla,1,Iker Muñoz,Iker Muñoz,Iker Muñoz,Mediocampista,23,ES,7.0,50%,Sano,1.2,16.0,47,2.9,2,4,0.0,0.0,0.0,0.0,4.0,0.0,71,6.9,0,0,1,0,0,0,1,9,2,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20387,Osasuna,Sevilla,1,Budimir,Budimir,Ante Budimir,Delantero,34,HR,18.0,90%,Sano,1.5,31.0,189,6.1,2,9,9.0,16.0,0.0,0.0,2.0,0.0,90,6.2,0,0,0,1,0,0,0,10,2,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Osasuna,Sevilla,1,Víctor Muñoz,Víctor Muñoz,Victor Muñoz,Delantero,22,ES,14.0,90%,Sano,2.0,32.0,172,5.4,4,5,4.0,5.0,2.0,0.0,3.0,0.0,89,7.2,0,0,1,1,0,1,9,11,1,0,0,0,0,0,0,0,0,0,7,2
+2025/26,32,20387,Osasuna,Sevilla,1,Bretones,Abel Bretones,Abel Bretones,Defensa,25,ES,8.0,20%,Sano,1.0,23.0,67,2.9,0,0,1.0,1.0,0.0,0.0,5.0,1.0,11,6.6,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Osasuna,Sevilla,1,Moi Gómez,Moi Gómez,Moi Gómez,Mediocampista,31,ES,8.0,20%,Sano,-1.0,21.0,76,3.6,0,0,0.0,0.0,1.0,0.0,3.0,0.0,19,7.2,0,1,2,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,10,4
+2025/26,32,20387,Osasuna,Sevilla,1,Kike Barja,Kike Barja,Kike Barja,Delantero,29,ES,5.0,30%,Sano,1.2,22.0,54,2.5,2,3,2.0,1.0,2.0,0.0,3.0,0.0,11,6.5,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Osasuna,Sevilla,1,Raul Moro,Raúl Moro,Raúl Moro,Delantero,23,ES,7.0,40%,Sano,1.0,9.0,39,4.3,2,2,0.0,0.0,2.0,0.0,0.0,0.0,28,7.2,0,0,3,0,0,0,2,7,2,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20387,Osasuna,Sevilla,1,Raúl García,Raúl,Raúl García de Haro,Delantero,25,ES,7.0,10%,Sano,1.0,30.0,88,2.9,2,2,1.0,5.0,0.0,0.0,1.0,1.0,19,7.6,1,0,0,3,0,0,1,4,2,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20387,Sevilla,Osasuna,0,Vlachodimos,Vlachodimos,Odysseas Vlachodimos,Portero,31,GR,11.0,95%,Sano,1.1,28.0,131,4.7,2,3,6.0,0.0,0.0,1.0,2.0,0.0,90,7.4,0,0,0,0,0,0,9,17,2,5,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Sevilla,Osasuna,0,Carmona,Carmona,José Ángel Carmona,Defensa,24,ES,9.0,50%,Sano,1.0,29.0,86,3.0,0,0,1.0,1.0,3.0,0.0,10.0,0.0,90,6.1,0,0,1,0,0,1,10,17,2,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20387,Sevilla,Osasuna,0,Kike Salas,Kike Salas,Kike Salas,Defensa,24,ES,12.0,90%,Sano,1.2,20.0,98,4.9,1,7,2.0,1.0,0.0,0.0,1.0,0.0,90,6.1,0,0,0,0,0,0,3,10,7,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Sevilla,Osasuna,0,Suazo,Suazo,Gabriel Suazo,Defensa,28,CL,9.0,50%,Sano,1.0,23.0,75,3.3,0,1,2.0,0.0,1.0,0.0,6.0,0.0,90,6.4,0,0,1,0,0,0,2,8,4,0,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20387,Sevilla,Osasuna,0,Oso,Oso,Oso,Defensa,22,ES,8.0,50%,Sano,1.0,15.0,53,3.5,0,2,1.0,1.0,3.0,0.0,1.0,0.0,87,6.8,0,0,0,0,0,0,3,15,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Sevilla,Osasuna,0,Castrín,A. Castrín,Andres Castrin,Defensa,22,ES,8.0,70%,Sano,1.5,14.0,58,4.1,4,6,3.0,0.0,0.0,0.0,3.0,0.0,90,6.5,0,0,0,0,0,0,3,8,4,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20387,Sevilla,Osasuna,0,Sow,Sow,Djibril Sow,Mediocampista,29,CH,9.0,50%,Sano,1.2,28.0,116,4.1,0,2,2.0,5.0,1.0,0.0,4.0,0.0,71,6.5,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,9,2
+2025/26,32,20387,Sevilla,Osasuna,0,Agoume,Agoumé,Lucien Agoumé,Mediocampista,24,FR,9.0,70%,Sano,1.3,28.0,106,3.8,5,4,0.0,1.0,2.0,0.0,11.0,0.0,90,7.1,0,0,1,0,0,0,6,12,5,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20387,Sevilla,Osasuna,0,Maupay,Maupay,Neal Maupay,Delantero,29,FR,6.0,20%,Sano,-1.0,6.0,18,3.0,0,0,0.0,1.0,0.0,0.0,1.0,0.0,87,7.3,1,0,1,2,0,0,3,7,1,0,0,0,0,0,0,0,0,0,10,3
+2025/26,32,20383,Atlético,Osasuna,0,Vargas,Obed Vargas,Ruben Vargas,Mediocampista,20,MX,5.0,30%,Sano,1.3,6.0,15,2.5,2,1,2.0,0.0,0.0,0.0,1.0,0.0,76,6.7,0,0,0,0,0,0,2,25,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Sevilla,Osasuna,0,Vargas,Vargas,Ruben Vargas,Delantero,27,CH,15.0,80%,Sano,1.0,18.0,107,5.9,2,13,5.0,3.0,5.0,0.0,1.0,0.0,76,6.7,0,0,0,0,0,0,2,25,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Espanyol,Osasuna,0,Romero,C. Romero,Isaac Romero,Defensa,24,ES,10.0,90%,Sano,1.2,30.0,140,4.7,3,-1,5.0,5.0,2.0,0.0,4.0,0.0,87,6.3,0,0,0,0,0,0,3,14,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20386,Getafe,Osasuna,0,Romero,Zaid Romero,Isaac Romero,Defensa,26,AR,20.0,0%,Sano,1.2,11.0,77,7.0,0,4,11.0,0.0,0.0,0.0,5.0,1.0,87,6.3,0,0,0,0,0,0,3,14,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Sevilla,Osasuna,0,Romero,Isaac,Isaac Romero,Delantero,25,ES,8.0,50%,Sano,1.1,24.0,76,3.2,2,7,2.0,4.0,0.0,0.0,4.0,1.0,87,6.3,0,0,0,0,0,0,3,14,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20387,Sevilla,Osasuna,0,Gudelj,Gudelj,Nemanja Gudelj,Mediocampista,34,RS,10.0,60%,Sano,1.1,28.0,121,4.3,3,10,4.0,2.0,0.0,0.0,8.0,0.0,14,6.4,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20387,Sevilla,Osasuna,0,Juanlu,Juanlu,Juanlu Sánchez,Mediocampista,22,ES,9.0,50%,Sano,1.3,27.0,105,3.9,5,3,6.0,0.0,3.0,0.0,6.0,1.0,14,6.5,0,0,1,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20388,Rayo,Osasuna,0,Mendy,N. Mendy,Batista Mendy,Defensa,21,SN,12.0,80%,Sano,0.0,19.0,93,4.9,0,-1,0.0,2.0,0.0,0.0,7.0,2.0,19,6.1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20389,Real Madrid,Osasuna,0,Mendy,F. Mendy,Batista Mendy,Defensa,30,FR,4.0,50%,Sano,-1.0,3.0,8,2.7,0,2,0.0,0.0,0.0,0.0,0.0,0.0,19,6.1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20387,Sevilla,Osasuna,0,Mendy,Mendy,Batista Mendy,Mediocampista,26,FR,9.0,30%,Sano,1.0,25.0,84,3.4,0,2,4.0,1.0,0.0,0.0,6.0,0.0,19,6.1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20387,Sevilla,Osasuna,0,Peque,Peque,Peque Fernández,Delantero,23,ES,7.0,40%,Sano,1.0,23.0,66,2.9,2,1,0.0,2.0,1.0,0.0,8.0,0.0,14,6.6,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20387,Sevilla,Osasuna,0,Adams,Akor,Akor Adams,Delantero,26,NG,10.0,80%,Sano,1.0,27.0,120,4.4,1,9,2.0,8.0,3.0,0.0,2.0,0.0,14,6.6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Tenas,Arnau Tenas,Arnau Tenas,Portero,24,ES,5.0,30%,Sano,1.5,4.0,14,3.5,7,0,0.0,0.0,0.0,0.0,0.0,0.0,90,7.1,0,0,0,0,0,0,6,8,0,2,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20392,Villarreal,Celta Vigo,1,Pedraza,A. Pedraza,Alfonso Pedraza,Defensa,30,ES,9.0,70%,Sano,1.0,23.0,89,3.9,0,0,1.0,1.0,2.0,0.0,7.0,0.0,78,6.7,0,1,1,0,0,1,6,9,2,0,0,0,0,0,0,0,0,0,7,3
+2025/26,32,20392,Villarreal,Celta Vigo,1,Rafa Marín,Rafa Marín,Rafa Marín,Defensa,23,ES,15.0,50%,Sano,1.5,19.0,104,5.5,0,3,0.0,1.0,0.0,0.0,1.0,0.0,90,7.4,0,0,0,0,0,0,2,3,7,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20392,Villarreal,Celta Vigo,1,Veiga,Renato Veiga,Renato Veiga,Defensa,22,PT,9.0,60%,Sano,1.5,28.0,103,3.7,4,6,5.0,0.0,0.0,0.0,3.0,1.0,90,7.4,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Freeman,Freeman,Alexander Freeman,Defensa,21,US,3.0,50%,Sano,0.9,6.0,12,2.0,3,0,3.0,0.0,0.0,0.0,0.0,0.0,90,7.6,0,0,0,0,0,0,6,6,6,0,0,0,0,0,0,0,0,0,9,3
+2025/26,32,20392,Villarreal,Celta Vigo,1,Comesaña,Comesaña,Santi Comesaña,Mediocampista,29,ES,14.0,90%,Sano,1.0,29.0,154,5.3,0,4,6.0,3.0,5.0,0.0,5.0,1.0,90,6.8,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,P. Gueye,Gueye,Pape Gueye,Mediocampista,27,SN,17.0,50%,Sano,1.7,26.0,153,5.9,4,7,9.0,4.0,2.0,0.0,7.0,0.0,78,6.8,0,0,1,0,0,0,5,6,0,0,0,0,1,0,0,0,0,0,1,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Moleiro,A. Moleiro,Alberto Moleiro,Mediocampista,22,ES,18.0,70%,Sano,1.2,31.0,185,6.0,0,1,5.0,9.0,4.0,0.0,4.0,0.0,89,7.2,0,0,2,0,0,0,1,11,0,0,0,1,0,0,0,0,0,0,4,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Gerard,Gerard,Gerard Moreno,Delantero,34,ES,15.0,70%,Sano,2.1,17.0,115,6.8,0,6,2.0,8.0,0.0,0.0,0.0,0.0,90,7.6,1,0,0,1,0,0,3,8,0,0,0,0,0,0,0,0,0,0,10,3
+2025/26,32,20392,Villarreal,Celta Vigo,1,Pépé,Pepe,Nicolas Pépé,Delantero,30,CI,20.0,70%,Sano,1.5,31.0,199,6.4,13,3,5.0,6.0,4.0,0.0,3.0,0.0,78,7.9,1,0,2,1,0,0,9,10,0,0,0,0,0,0,0,0,0,0,12,4
+2025/26,32,20392,Villarreal,Celta Vigo,1,Mikautadze,Mikautadze,Georges Mikautadze,Delantero,25,GE,18.0,70%,Sano,1.0,27.0,163,6.0,2,3,2.0,9.0,5.0,0.0,1.0,0.0,85,6.6,0,0,0,1,0,0,1,16,0,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20392,Villarreal,Celta Vigo,1,S. Cardona,Cardona,Sergi Cardona,Defensa,26,ES,9.0,30%,Sano,1.7,26.0,107,4.1,5,12,2.0,1.0,3.0,0.0,4.0,0.0,12,6.7,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Parejo,Parejo,Dani Parejo,Mediocampista,37,ES,8.0,30%,Sano,1.3,26.0,73,2.8,3,1,0.0,0.0,0.0,0.0,2.0,0.0,12,6.7,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Thomas,Thomas Partey,Thomas Partey,Mediocampista,32,GH,6.0,30%,Sano,1.0,20.0,54,2.7,2,0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20392,Villarreal,Celta Vigo,1,Alfon,Alfon,Alfon González,Delantero,26,ES,6.0,40%,Sano,1.5,7.0,53,3.1,3,10,2.0,1.0,0.0,0.0,0.0,0.0,12,6.7,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Villarreal,Celta Vigo,1,Ayoze,Ayoze,Ayoze Pérez,Delantero,32,ES,7.0,30%,Sano,1.0,19.0,68,3.6,2,0,0.0,2.0,3.0,0.0,3.0,0.0,10,6.4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20392,Celta,Villarreal,0,Radu,Ionut Radu,Ionuț Radu,Portero,28,RO,20.0,95%,Sano,1.2,32.0,208,6.5,4,4,2.0,0.0,0.0,2.0,0.0,0.0,90,6.4,0,0,0,0,0,0,14,5,2,2,0,0,0,0,0,0,0,0,4,1
+2025/26,32,20392,Celta,Villarreal,0,M. Alonso,Marcos Alonso,Marcos Alonso,Defensa,35,ES,18.0,80%,Sano,1.0,27.0,163,6.0,6,5,0.0,1.0,0.0,0.0,4.0,0.0,76,6.9,0,0,1,0,0,0,5,9,5,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Celta,Villarreal,0,Carreira,Carreira,Sergio Carreira,Defensa,25,ES,9.0,50%,Sano,0.8,28.0,111,4.0,3,1,2.0,2.0,1.0,0.0,2.0,0.0,90,6.1,0,0,0,1,0,0,0,11,1,0,0,0,0,0,0,0,0,0,0,1
+2025/26,32,20392,Celta,Villarreal,0,Mingueza,O. Mingueza,Óscar Mingueza,Defensa,26,ES,9.0,70%,Sano,1.0,28.0,108,3.9,1,4,2.0,1.0,4.0,0.0,4.0,0.0,90,7.6,0,0,2,0,0,2,2,7,1,0,0,0,0,0,0,0,0,0,6,3
+2025/26,32,20392,Celta,Villarreal,0,Javi Rodríguez,Javi Rodriguez,Javi Rodríguez,Defensa,22,ES,9.0,50%,Sano,1.3,27.0,103,3.8,4,0,0.0,0.0,1.0,0.0,5.0,0.0,90,6.3,0,0,0,0,0,0,3,5,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Celta,Villarreal,0,Lago,Yoel Lago,Yoel Lago,Defensa,22,ES,4.0,50%,Sano,0.5,6.0,11,1.8,-1,0,2.0,0.0,0.0,0.0,3.0,0.0,90,6.6,0,0,0,0,0,0,6,1,3,0,0,0,1,0,0,0,0,0,1,1
+2025/26,32,20392,Celta,Villarreal,0,Moriba,Ilaix Moriba,Ilaix Moriba,Mediocampista,23,GN,9.0,50%,Sano,1.7,31.0,105,3.4,3,2,13.0,1.0,2.0,0.0,5.0,0.0,90,6.4,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20392,Celta,Villarreal,0,Sotelo,Hugo Sotelo,Hugo Sotelo,Mediocampista,22,ES,9.0,50%,Sano,1.0,18.0,80,4.4,1,0,2.0,0.0,2.0,0.0,3.0,0.0,76,6.8,0,0,1,0,0,2,1,10,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20392,Celta,Villarreal,0,Hugo Álvarez,Hugo Alvarez,Hugo Álvarez,Mediocampista,22,ES,8.0,30%,Sano,1.3,22.0,83,3.8,3,0,5.0,3.0,1.0,0.0,2.0,0.0,76,6.5,0,0,1,1,0,0,3,10,0,0,0,0,0,0,0,0,0,0,3,2
+2025/26,32,20392,Celta,Villarreal,0,Iglesias,B. Iglesias,Borja Iglesias,Delantero,33,ES,12.0,70%,Sano,1.0,29.0,144,5.0,1,2,1.0,11.0,2.0,0.0,6.0,0.0,83,7.6,1,0,0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,8,2
+2025/26,32,20386,Getafe,Villarreal,0,Iglesias,Juan Iglesias,Borja Iglesias,Defensa,27,ES,10.0,80%,Sano,1.2,31.0,137,4.4,7,3,5.0,1.0,2.0,0.0,4.0,0.0,83,7.6,1,0,0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,8,2
+2025/26,32,20392,Celta,Villarreal,0,Durán,Pablo Durán,Pablo Durán,Delantero,24,ES,8.0,30%,Sano,0.7,25.0,85,3.4,4,2,2.0,2.0,2.0,0.0,0.0,0.0,45,6.4,0,0,1,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,-1,0
+2025/26,32,20392,Celta,Villarreal,0,Á. Núñez,Álvaro Nuñez,Alvaro Núñez,Defensa,25,ES,13.0,50%,Sano,0.5,3.0,111,5.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,14,6.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Celta,Villarreal,0,Fer López,Fer López,Fer López,Mediocampista,21,ES,7.0,50%,Sano,1.6,11.0,39,3.5,5,-1,10.0,1.0,0.0,0.0,2.0,0.0,14,6.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20392,Celta,Villarreal,0,Aspas,Iago Aspas,Iago Aspas,Delantero,38,ES,8.0,40%,Sano,0.8,26.0,117,4.5,2,2,0.0,4.0,3.0,0.0,3.0,0.0,14,6.6,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20392,Celta,Villarreal,0,Jutglà,Ferran Jutglà,Ferran Jutglà,Delantero,27,ES,10.0,50%,Sano,1.3,24.0,112,4.7,3,2,2.0,7.0,2.0,0.0,4.0,0.0,45,6.0,0,0,1,0,0,0,4,15,0,0,0,0,0,0,0,0,0,0,1,1
+2025/26,32,20385,Espanyol,Levante UD,1,Dmitrovic,Dmitrovic,Marko Dmitrović,Portero,34,RS,16.0,95%,Sano,1.6,32.0,181,5.7,6,3,12.0,0.0,0.0,0.0,0.0,0.0,90,8.6,0,0,0,0,0,0,9,11,1,4,0,0,0,0,0,0,0,0,12,4
+2025/26,32,20385,Espanyol,Levante UD,1,Cabrera,Cabrera,Leandro Cabrera,Defensa,34,UY,10.0,90%,Sano,1.1,31.0,136,4.4,2,1,8.0,3.0,0.0,0.0,3.0,0.0,90,7.3,0,0,0,0,0,0,4,10,6,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20385,Espanyol,Levante UD,1,Calero,F. Calero,Fernando Calero,Defensa,30,ES,10.0,50%,Sano,1.2,23.0,101,4.4,7,-2,0.0,0.0,0.0,0.0,4.0,0.0,90,7.2,0,0,0,0,0,0,3,10,3,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20385,Espanyol,Levante UD,1,El Hilali,El Hilali,Omar El Hilali,Defensa,22,MA,8.0,80%,Sano,0.6,30.0,81,2.7,2,-1,6.0,0.0,2.0,0.0,7.0,0.0,90,7.0,0,0,1,0,0,2,3,12,3,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20385,Espanyol,Levante UD,1,Romero,C. Romero,Carlos Romero,Defensa,24,ES,10.0,90%,Sano,1.2,30.0,140,4.7,3,-1,5.0,5.0,2.0,0.0,4.0,0.0,90,7.3,0,0,0,0,0,0,3,11,1,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20386,Getafe,Levante UD,1,Romero,Zaid Romero,Carlos Romero,Defensa,26,AR,20.0,0%,Sano,1.2,11.0,77,7.0,0,4,11.0,0.0,0.0,0.0,5.0,1.0,90,7.3,0,0,0,0,0,0,3,11,1,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20387,Sevilla,Levante UD,1,Romero,Isaac,Carlos Romero,Delantero,25,ES,8.0,50%,Sano,1.1,24.0,76,3.2,2,7,2.0,4.0,0.0,0.0,4.0,1.0,90,7.3,0,0,0,0,0,0,3,11,1,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20385,Espanyol,Levante UD,1,Pere Milla,Pere Milla,Pere Milla,Delantero,33,ES,9.0,40%,Sano,0.5,28.0,115,4.1,1,0,0.0,6.0,0.0,0.0,6.0,1.0,69,6.5,0,0,0,0,0,0,3,15,0,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20385,Espanyol,Levante UD,1,Edu Expósito,Edu Expósito,Edu Expósito,Mediocampista,29,ES,16.0,70%,Sano,1.3,30.0,168,5.6,7,-1,6.0,1.0,6.0,0.0,7.0,0.0,90,7.7,0,0,3,0,0,1,6,14,4,0,0,0,0,0,0,0,0,0,9,3
+2025/26,32,20385,Espanyol,Levante UD,1,Urko,Urko,Urko González,Mediocampista,25,ES,9.0,80%,Sano,1.0,29.0,89,3.0,0,-1,4.0,0.0,1.0,0.0,5.0,0.0,85,6.9,0,0,0,0,0,0,2,5,3,0,0,0,0,0,0,0,0,0,7,2
+2025/26,32,20385,Espanyol,Levante UD,1,Terrats,R. Terrats,Ramón Terrats,Mediocampista,25,ES,7.0,50%,Sano,1.0,24.0,73,3.0,2,2,2.0,1.0,1.0,0.0,0.0,0.0,58,6.4,0,0,0,0,0,0,2,5,1,0,0,0,0,0,0,0,0,0,1,0
+2025/26,32,20385,Espanyol,Levante UD,1,Kike García,Kike García,Kike García,Delantero,36,ES,9.0,60%,Sano,0.6,31.0,113,3.6,0,1,2.0,6.0,1.0,0.0,3.0,0.0,85,6.4,0,0,0,2,0,0,1,8,0,0,0,0,0,0,0,0,0,0,6,2
+2025/26,32,20385,Espanyol,Levante UD,1,Ngongé,Ngonge,Cyril Ngonge,Delantero,25,BE,6.0,50%,Sano,1.0,8.0,29,3.6,2,-1,5.0,0.0,2.0,0.0,4.0,0.0,58,7.0,0,0,1,1,0,0,4,11,0,0,0,0,0,0,0,0,0,0,4,2
+2025/26,32,20385,Espanyol,Levante UD,1,Pickel,Pickel,Charles Pickel,Mediocampista,28,CD,5.0,40%,Sano,1.1,19.0,41,2.2,3,0,0.0,1.0,0.0,0.0,3.0,2.0,12,6.7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Espanyol,Levante UD,1,Roca,A. Roca,Antoniu Roca,Mediocampista,23,ES,3.0,10%,Sano,-1.0,8.0,10,1.3,0,0,0.0,0.0,0.0,0.0,1.0,0.0,21,6.8,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20391,Girona,Levante UD,1,Roca,Joel Roca,Antoniu Roca,Delantero,20,ES,8.0,40%,Sano,1.9,26.0,77,3.0,3,0,2.0,2.0,1.0,0.0,3.0,1.0,21,6.8,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Espanyol,Levante UD,1,Roberto,Roberto,Roberto Fernández,Delantero,23,ES,9.0,50%,Sano,1.0,32.0,128,4.0,4,0,2.0,6.0,2.0,0.0,3.0,0.0,32,6.4,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Espanyol,Levante UD,1,Dolan,Dolan,Tyrhys Dolan,Delantero,24,EN,9.0,70%,Sano,0.8,31.0,126,4.1,5,0,7.0,1.0,4.0,0.0,6.0,1.0,32,6.3,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Levante,Espanyol,0,Ryan,Ryan,Mathew Ryan,Portero,34,AU,20.0,95%,Sano,1.5,30.0,193,6.4,9,8,2.0,0.0,0.0,1.0,2.0,0.0,90,7.7,0,0,0,0,0,0,14,6,1,3,0,0,0,0,0,0,0,0,13,4
+2025/26,32,20385,Levante,Espanyol,0,Toljan,Jeremy Toljan,Jeremy Toljan,Defensa,31,DE,9.0,90%,Sano,1.5,31.0,110,3.5,8,11,2.0,1.0,3.0,0.0,7.0,0.0,90,6.3,0,0,0,0,0,0,0,13,1,0,0,0,0,0,0,0,0,0,6,1
+2025/26,32,20385,Levante,Espanyol,0,De la Fuente,Dela,Adrián de la Fuente,Defensa,27,ES,10.0,90%,Sano,1.4,28.0,118,4.2,9,9,2.0,2.0,1.0,0.0,5.0,0.0,90,7.3,0,0,0,0,0,1,1,20,7,0,0,0,0,0,0,0,0,0,8,3
+2025/26,32,20385,Levante,Espanyol,0,Manu Sánchez,Manu Sánchez,Manuel Sánchez,Defensa,25,ES,9.0,90%,Sano,1.7,28.0,95,3.4,7,13,0.0,1.0,2.0,0.0,8.0,0.0,90,6.9,0,0,0,0,0,1,3,7,3,0,0,0,0,0,0,0,0,0,7,2
+2025/26,32,20385,Levante,Espanyol,0,Víctor García,Víctor G.,Víctor García,Defensa,28,ES,7.0,70%,Sano,1.2,18.0,56,3.1,3,2,1.0,0.0,1.0,0.0,0.0,0.0,86,6.4,0,0,0,1,0,0,1,11,0,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20385,Levante,Espanyol,0,Moreno,Matías Moreno,Matias Moreno,Defensa,22,AR,13.0,80%,Sano,1.6,22.0,111,5.0,11,11,-1.0,0.0,0.0,0.0,6.0,0.0,90,6.9,0,0,0,0,0,0,3,12,8,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20385,Levante,Espanyol,0,Pablo Martínez,P. Martínez,Pablo Martínez,Mediocampista,28,ES,10.0,80%,Sano,1.4,21.0,97,4.6,6,5,1.0,1.0,2.0,0.0,2.0,0.0,72,6.4,0,0,0,0,0,0,4,12,2,0,0,0,0,0,0,0,0,0,2,0
+2025/26,32,20385,Levante,Espanyol,0,Olasagasti,Olasagasti,Jon Ander Olasagasti,Mediocampista,25,ES,8.0,70%,Sano,1.4,27.0,83,3.1,11,7,1.0,1.0,3.0,0.0,3.0,1.0,90,7.0,0,0,1,0,0,0,5,14,1,0,0,0,0,0,0,0,0,0,5,1
+2025/26,32,20385,Levante,Espanyol,0,Cortés,Paco Cortes,Paco Cortés,Delantero,18,ES,5.0,30%,Sano,-1.0,11.0,29,2.6,0,0,0.0,0.0,0.0,0.0,2.0,0.0,60,7.1,0,0,1,0,0,0,1,6,2,0,0,0,0,0,0,0,0,0,5,2
+2025/26,32,20385,Levante,Espanyol,0,Raghouber,Raghouber,Ugo Raghouber,Mediocampista,22,FR,6.0,50%,Sano,1.0,11.0,33,3.0,3,7,2.0,0.0,0.0,0.0,1.0,0.0,60,7.5,0,0,0,0,0,0,1,5,2,0,0,0,0,0,0,0,0,0,8,2
+2025/26,32,20385,Levante,Espanyol,0,Carlos Espí,C. Espí,Carlos Espí,Delantero,20,ES,8.0,90%,Sano,1.7,19.0,87,4.6,5,7,3.0,8.0,0.0,0.0,3.0,0.0,72,6.7,0,0,0,0,0,0,1,14,0,0,0,0,0,0,0,0,0,0,3,1
+2025/26,32,20385,Levante,Espanyol,0,Losada,Iker Losada,Iker Losada,Delantero,24,ES,7.0,30%,Sano,1.0,18.0,64,3.6,0,0,1.0,3.0,1.0,0.0,1.0,0.0,30,6.3,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Levante,Espanyol,0,C. Álvarez,C. Alvarez,Carlos Álvarez,Mediocampista,22,ES,9.0,70%,Sano,1.3,28.0,109,3.9,2,3,0.0,3.0,1.0,0.0,3.0,0.0,18,6.9,0,0,1,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Levante,Espanyol,0,Arriaga,Arriaga,Kervin Arriaga,Mediocampista,28,HN,9.0,50%,Sano,1.6,22.0,82,3.7,9,3,0.0,1.0,2.0,0.0,6.0,1.0,30,6.9,0,0,0,0,0,0,4,5,1,0,0,0,0,0,0,0,0,0,2,1
+2025/26,32,20385,Levante,Espanyol,0,Abed,Huseini,Tai Abed,Defensa,21,IL,1.0,0%,Sano,1.0,4.0,0,0.0,0,0,,0.0,0.0,0.0,0.0,0.0,11,6.4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2025/26,32,20385,Levante,Espanyol,0,Etta Eyong,Etta Eyong,Etta Eyong,Delantero,22,CM,10.0,10%,Sano,0.9,25.0,118,4.2,1,2,0.0,5.0,2.0,0.0,2.0,0.0,18,6.1,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0
