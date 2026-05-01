@@ -1,0 +1,13 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J34 ---
+
+⚠️ Baena (Atlético):
+   - Puntos (OCR leyó: 157 -> Scraping oficial: 123)
+
+⚠️ Kike García (Espanyol):
+   - Puntos (OCR leyó: 118 -> Scraping oficial: 119)
+
+⚠️ Ngongé (Espanyol):
+   - Puntos (OCR leyó: 34 -> Scraping oficial: 33)
+
+⚠️ Rivero (Valencia):
+   - Puntos (OCR leyó: 3 -> Scraping oficial: -3)

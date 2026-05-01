@@ -99,6 +99,6 @@ def ejecutar_extraccion_previa(temporada, jornada):
 
 if __name__ == "__main__":
     temporada = "2025/26"
-    jornada = 32
+    jornada = 34
     
     ejecutar_extraccion_previa(temporada, jornada)

@@ -120,3 +120,9 @@ a estadísticas de la mejor manera posible. Tengo que limpiar el dataset de los 
 [20/03/26]
 ================================================================================================================================================
 Haciendo el scraping y cruzado de pre jornada, no ha puesto a De Frutos y lo he tenido que añadir de forma manual.
+
+================================================================================================================================================
+[01/05/26]
+================================================================================================================================================
+Actualmente, no estoy profundizando en ningún aspecto del proyecto, hago el mantenimiento, es decir, Pre y Post Jornada y resuelvo
+los errores que aparecen en ese proceso, en terminar las clases volveré a profundizar en el proyecto.
