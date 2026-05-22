@@ -1,0 +1,10 @@
+--- REPORTE DE AUDITORÍA (OCR vs REGISTROS) | T25-26 - J38 ---
+
+⚠️ Kike García (Espanyol):
+   - Puntos (OCR leyó: 136 -> Scraping oficial: 137)
+
+⚠️ Ngongé (Espanyol):
+   - Puntos (OCR leyó: 34 -> Scraping oficial: 33)
+
+⚠️ Padilla (Athletic):
+   - Puntos (OCR leyó: 3 -> Scraping oficial: -3)
